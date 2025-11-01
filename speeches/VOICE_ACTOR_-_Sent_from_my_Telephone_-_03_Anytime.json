@@ -1,0 +1,277 @@
+{
+  "text": " It's only fashion I got your number But now I wonder Can you read my mind? Call me anytime Call me anytime",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.82,
+      "text": " It's only fashion",
+      "tokens": [
+        50364,
+        467,
+        311,
+        787,
+        6700,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3920974135398865,
+      "compression_ratio": 1.0714285714285714,
+      "no_speech_prob": 0.4087376296520233,
+      "words": [
+        {
+          "word": " It's",
+          "start": 0.0,
+          "end": 1.06,
+          "probability": 0.5104815997183323
+        },
+        {
+          "word": " only",
+          "start": 1.06,
+          "end": 1.48,
+          "probability": 0.5214220285415649
+        },
+        {
+          "word": " fashion",
+          "start": 1.48,
+          "end": 2.82,
+          "probability": 0.8096069693565369
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.0,
+      "end": 12.08,
+      "text": " I got your number",
+      "tokens": [
+        50764,
+        286,
+        658,
+        428,
+        1230,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3920974135398865,
+      "compression_ratio": 1.0714285714285714,
+      "no_speech_prob": 0.4087376296520233,
+      "words": [
+        {
+          "word": " I",
+          "start": 8.0,
+          "end": 8.86,
+          "probability": 0.4655137360095978
+        },
+        {
+          "word": " got",
+          "start": 8.86,
+          "end": 9.36,
+          "probability": 0.879205584526062
+        },
+        {
+          "word": " your",
+          "start": 9.36,
+          "end": 9.82,
+          "probability": 0.9939045310020447
+        },
+        {
+          "word": " number",
+          "start": 9.82,
+          "end": 12.08,
+          "probability": 0.9964236617088318
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.0,
+      "end": 16.94,
+      "text": " But now I wonder",
+      "tokens": [
+        51064,
+        583,
+        586,
+        286,
+        2441,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3920974135398865,
+      "compression_ratio": 1.0714285714285714,
+      "no_speech_prob": 0.4087376296520233,
+      "words": [
+        {
+          "word": " But",
+          "start": 13.74,
+          "end": 14.44,
+          "probability": 0.670329213142395
+        },
+        {
+          "word": " now",
+          "start": 14.44,
+          "end": 14.96,
+          "probability": 0.9923668503761292
+        },
+        {
+          "word": " I",
+          "start": 14.96,
+          "end": 15.34,
+          "probability": 0.9697166085243225
+        },
+        {
+          "word": " wonder",
+          "start": 15.34,
+          "end": 16.94,
+          "probability": 0.9902675747871399
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 20.0,
+      "end": 23.0,
+      "text": " Can you read my mind?",
+      "tokens": [
+        51364,
+        1664,
+        291,
+        1401,
+        452,
+        1575,
+        30,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3920974135398865,
+      "compression_ratio": 1.0714285714285714,
+      "no_speech_prob": 0.4087376296520233,
+      "words": [
+        {
+          "word": " Can",
+          "start": 19.68,
+          "end": 20.38,
+          "probability": 0.9186468124389648
+        },
+        {
+          "word": " you",
+          "start": 20.38,
+          "end": 20.8,
+          "probability": 0.9795814156532288
+        },
+        {
+          "word": " read",
+          "start": 20.8,
+          "end": 20.98,
+          "probability": 0.953292191028595
+        },
+        {
+          "word": " my",
+          "start": 20.98,
+          "end": 21.92,
+          "probability": 0.7715267539024353
+        },
+        {
+          "word": " mind?",
+          "start": 21.92,
+          "end": 23.0,
+          "probability": 0.9959298968315125
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 25.4,
+      "end": 27.5,
+      "text": " Call me anytime",
+      "tokens": [
+        51614,
+        7807,
+        385,
+        13038,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3920974135398865,
+      "compression_ratio": 1.0714285714285714,
+      "no_speech_prob": 0.4087376296520233,
+      "words": [
+        {
+          "word": " Call",
+          "start": 25.4,
+          "end": 25.94,
+          "probability": 0.9712806344032288
+        },
+        {
+          "word": " me",
+          "start": 25.94,
+          "end": 26.42,
+          "probability": 0.9966009855270386
+        },
+        {
+          "word": " anytime",
+          "start": 26.42,
+          "end": 27.5,
+          "probability": 0.9751346111297607
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 49.1,
+      "end": 50.5,
+      "text": " Call me anytime",
+      "tokens": [
+        50364,
+        7807,
+        385,
+        13038,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5212228948419745,
+      "compression_ratio": 1.24,
+      "no_speech_prob": 0.23157814145088196,
+      "words": [
+        {
+          "word": " Call",
+          "start": 49.1,
+          "end": 50.5,
+          "probability": 6.347997259581462e-05
+        },
+        {
+          "word": " me",
+          "start": 50.5,
+          "end": 50.5,
+          "probability": 0.2879703938961029
+        },
+        {
+          "word": " anytime",
+          "start": 50.5,
+          "end": 50.5,
+          "probability": 0.004848480690270662
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 3000,
+      "start": 50.5,
+      "end": 50.5,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.5212228948419745,
+      "compression_ratio": 1.24,
+      "no_speech_prob": 0.23157814145088196,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

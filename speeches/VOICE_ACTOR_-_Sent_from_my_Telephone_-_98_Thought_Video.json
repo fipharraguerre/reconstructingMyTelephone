@@ -1,0 +1,1390 @@
+{
+  "text": " How are you feeling today? I've got my recording voice on. But I'm taking a break because there's builders again outside. It's really annoying actually. I had something I wanted to say to record and send you. And I can't remember what it was. I don't know if it was a dream or a thought. You know, like a thought video. You know what I mean? Sometimes you can think in an image or sound or whatever. This was a video of me recording it. Because I could see myself recording as well. Fuck it, I don't remember what it was. I never remember my dreams anymore. I just remember so little it's not even worth talking about. Like I dreamt I'm talking to my sister last night. The end. Actually I remember I didn't really want to be talking to her. But the conversation went okay.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " How are you feeling today?",
+      "tokens": [
+        50364,
+        1012,
+        366,
+        291,
+        2633,
+        965,
+        30,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2695482352684284,
+      "compression_ratio": 1.3774834437086092,
+      "no_speech_prob": 0.2204323559999466,
+      "words": [
+        {
+          "word": " How",
+          "start": 0.0,
+          "end": 1.38,
+          "probability": 0.7053991556167603
+        },
+        {
+          "word": " are",
+          "start": 1.38,
+          "end": 1.62,
+          "probability": 0.9855982661247253
+        },
+        {
+          "word": " you",
+          "start": 1.62,
+          "end": 1.86,
+          "probability": 0.9981241822242737
+        },
+        {
+          "word": " feeling",
+          "start": 1.86,
+          "end": 2.22,
+          "probability": 0.9975194334983826
+        },
+        {
+          "word": " today?",
+          "start": 2.22,
+          "end": 3.0,
+          "probability": 0.9957497119903564
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.7,
+      "end": 8.0,
+      "text": " I've got my recording voice on.",
+      "tokens": [
+        50564,
+        286,
+        600,
+        658,
+        452,
+        6613,
+        3177,
+        322,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2695482352684284,
+      "compression_ratio": 1.3774834437086092,
+      "no_speech_prob": 0.2204323559999466,
+      "words": [
+        {
+          "word": " I've",
+          "start": 4.7,
+          "end": 5.1,
+          "probability": 0.9794447124004364
+        },
+        {
+          "word": " got",
+          "start": 5.1,
+          "end": 5.28,
+          "probability": 0.9971497654914856
+        },
+        {
+          "word": " my",
+          "start": 5.28,
+          "end": 5.74,
+          "probability": 0.9919658899307251
+        },
+        {
+          "word": " recording",
+          "start": 5.74,
+          "end": 6.38,
+          "probability": 0.9939174056053162
+        },
+        {
+          "word": " voice",
+          "start": 6.38,
+          "end": 6.92,
+          "probability": 0.9929187893867493
+        },
+        {
+          "word": " on.",
+          "start": 6.92,
+          "end": 8.0,
+          "probability": 0.9939858317375183
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.06,
+      "end": 15.16,
+      "text": " But I'm taking a break because there's builders again outside.",
+      "tokens": [
+        50764,
+        583,
+        286,
+        478,
+        1940,
+        257,
+        1821,
+        570,
+        456,
+        311,
+        36281,
+        797,
+        2380,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2695482352684284,
+      "compression_ratio": 1.3774834437086092,
+      "no_speech_prob": 0.2204323559999466,
+      "words": [
+        {
+          "word": " But",
+          "start": 9.06,
+          "end": 9.32,
+          "probability": 0.3291513919830322
+        },
+        {
+          "word": " I'm",
+          "start": 9.32,
+          "end": 9.42,
+          "probability": 0.9546746909618378
+        },
+        {
+          "word": " taking",
+          "start": 9.42,
+          "end": 9.8,
+          "probability": 0.9981129169464111
+        },
+        {
+          "word": " a",
+          "start": 9.8,
+          "end": 10.04,
+          "probability": 0.9918769598007202
+        },
+        {
+          "word": " break",
+          "start": 10.04,
+          "end": 10.24,
+          "probability": 0.9975072741508484
+        },
+        {
+          "word": " because",
+          "start": 10.24,
+          "end": 10.88,
+          "probability": 0.9159274697303772
+        },
+        {
+          "word": " there's",
+          "start": 10.88,
+          "end": 13.64,
+          "probability": 0.609844833612442
+        },
+        {
+          "word": " builders",
+          "start": 13.64,
+          "end": 14.02,
+          "probability": 0.9539585709571838
+        },
+        {
+          "word": " again",
+          "start": 14.02,
+          "end": 14.5,
+          "probability": 0.903358519077301
+        },
+        {
+          "word": " outside.",
+          "start": 14.5,
+          "end": 15.16,
+          "probability": 0.9654643535614014
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.52,
+      "end": 18.16,
+      "text": " It's really annoying actually.",
+      "tokens": [
+        51164,
+        467,
+        311,
+        534,
+        11304,
+        767,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2695482352684284,
+      "compression_ratio": 1.3774834437086092,
+      "no_speech_prob": 0.2204323559999466,
+      "words": [
+        {
+          "word": " It's",
+          "start": 16.52,
+          "end": 16.8,
+          "probability": 0.9482588171958923
+        },
+        {
+          "word": " really",
+          "start": 16.8,
+          "end": 17.1,
+          "probability": 0.9942640662193298
+        },
+        {
+          "word": " annoying",
+          "start": 17.1,
+          "end": 17.46,
+          "probability": 0.9625471234321594
+        },
+        {
+          "word": " actually.",
+          "start": 17.46,
+          "end": 18.16,
+          "probability": 0.7553731203079224
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.88,
+      "end": 27.26,
+      "text": " I had something I wanted to say to record and send you.",
+      "tokens": [
+        51314,
+        286,
+        632,
+        746,
+        286,
+        1415,
+        281,
+        584,
+        281,
+        2136,
+        293,
+        2845,
+        291,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2695482352684284,
+      "compression_ratio": 1.3774834437086092,
+      "no_speech_prob": 0.2204323559999466,
+      "words": [
+        {
+          "word": " I",
+          "start": 19.88,
+          "end": 20.02,
+          "probability": 0.9382747411727905
+        },
+        {
+          "word": " had",
+          "start": 20.02,
+          "end": 20.42,
+          "probability": 0.8562590479850769
+        },
+        {
+          "word": " something",
+          "start": 20.42,
+          "end": 21.4,
+          "probability": 0.6637481451034546
+        },
+        {
+          "word": " I",
+          "start": 21.4,
+          "end": 21.64,
+          "probability": 0.9091789722442627
+        },
+        {
+          "word": " wanted",
+          "start": 21.64,
+          "end": 21.98,
+          "probability": 0.9940199851989746
+        },
+        {
+          "word": " to",
+          "start": 21.98,
+          "end": 23.34,
+          "probability": 0.9967260360717773
+        },
+        {
+          "word": " say",
+          "start": 23.34,
+          "end": 23.94,
+          "probability": 0.9354220628738403
+        },
+        {
+          "word": " to",
+          "start": 23.94,
+          "end": 24.38,
+          "probability": 0.5102152824401855
+        },
+        {
+          "word": " record",
+          "start": 24.38,
+          "end": 25.1,
+          "probability": 0.9613471031188965
+        },
+        {
+          "word": " and",
+          "start": 25.1,
+          "end": 26.18,
+          "probability": 0.8612378239631653
+        },
+        {
+          "word": " send",
+          "start": 26.18,
+          "end": 26.58,
+          "probability": 0.9427298307418823
+        },
+        {
+          "word": " you.",
+          "start": 26.58,
+          "end": 27.26,
+          "probability": 0.9479471445083618
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2726,
+      "start": 27.26,
+      "end": 30.24,
+      "text": " And I can't remember what it was.",
+      "tokens": [
+        50364,
+        400,
+        286,
+        393,
+        380,
+        1604,
+        437,
+        309,
+        390,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20319420950753347,
+      "compression_ratio": 1.4836601307189543,
+      "no_speech_prob": 0.05083033815026283,
+      "words": [
+        {
+          "word": " And",
+          "start": 27.26,
+          "end": 28.14,
+          "probability": 0.45908984541893005
+        },
+        {
+          "word": " I",
+          "start": 28.14,
+          "end": 28.4,
+          "probability": 0.9419050216674805
+        },
+        {
+          "word": " can't",
+          "start": 28.4,
+          "end": 28.82,
+          "probability": 0.9704270660877228
+        },
+        {
+          "word": " remember",
+          "start": 28.82,
+          "end": 29.22,
+          "probability": 0.9580246806144714
+        },
+        {
+          "word": " what",
+          "start": 29.22,
+          "end": 29.6,
+          "probability": 0.9784929156303406
+        },
+        {
+          "word": " it",
+          "start": 29.6,
+          "end": 29.86,
+          "probability": 0.9836409687995911
+        },
+        {
+          "word": " was.",
+          "start": 29.86,
+          "end": 30.24,
+          "probability": 0.9951625466346741
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2726,
+      "start": 31.04,
+      "end": 37.260000000000005,
+      "text": " I don't know if it was a dream or a thought.",
+      "tokens": [
+        50514,
+        286,
+        500,
+        380,
+        458,
+        498,
+        309,
+        390,
+        257,
+        3055,
+        420,
+        257,
+        1194,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20319420950753347,
+      "compression_ratio": 1.4836601307189543,
+      "no_speech_prob": 0.05083033815026283,
+      "words": [
+        {
+          "word": " I",
+          "start": 31.04,
+          "end": 31.18,
+          "probability": 0.981611430644989
+        },
+        {
+          "word": " don't",
+          "start": 31.18,
+          "end": 33.7,
+          "probability": 0.7451106905937195
+        },
+        {
+          "word": " know",
+          "start": 33.7,
+          "end": 33.86,
+          "probability": 0.991127073764801
+        },
+        {
+          "word": " if",
+          "start": 33.86,
+          "end": 34.0,
+          "probability": 0.9827719330787659
+        },
+        {
+          "word": " it",
+          "start": 34.0,
+          "end": 34.18,
+          "probability": 0.9902141690254211
+        },
+        {
+          "word": " was",
+          "start": 34.18,
+          "end": 34.44,
+          "probability": 0.9963045120239258
+        },
+        {
+          "word": " a",
+          "start": 34.44,
+          "end": 34.66,
+          "probability": 0.994411289691925
+        },
+        {
+          "word": " dream",
+          "start": 34.66,
+          "end": 35.38,
+          "probability": 0.9983267188072205
+        },
+        {
+          "word": " or",
+          "start": 35.38,
+          "end": 37.1,
+          "probability": 0.6226570010185242
+        },
+        {
+          "word": " a",
+          "start": 37.1,
+          "end": 37.24,
+          "probability": 0.8180728554725647
+        },
+        {
+          "word": " thought.",
+          "start": 37.24,
+          "end": 37.58,
+          "probability": 0.9924841523170471
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2726,
+      "start": 38.98,
+      "end": 41.94,
+      "text": " You know, like a thought video.",
+      "tokens": [
+        50864,
+        509,
+        458,
+        11,
+        411,
+        257,
+        1194,
+        960,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20319420950753347,
+      "compression_ratio": 1.4836601307189543,
+      "no_speech_prob": 0.05083033815026283,
+      "words": [
+        {
+          "word": " You",
+          "start": 38.98,
+          "end": 39.14,
+          "probability": 0.3472207486629486
+        },
+        {
+          "word": " know,",
+          "start": 39.14,
+          "end": 39.32,
+          "probability": 0.9939255118370056
+        },
+        {
+          "word": " like",
+          "start": 40.56,
+          "end": 40.58,
+          "probability": 0.6680178046226501
+        },
+        {
+          "word": " a",
+          "start": 40.58,
+          "end": 40.96,
+          "probability": 0.8829923868179321
+        },
+        {
+          "word": " thought",
+          "start": 40.96,
+          "end": 41.24,
+          "probability": 0.8905928730964661
+        },
+        {
+          "word": " video.",
+          "start": 41.24,
+          "end": 41.94,
+          "probability": 0.9224313497543335
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2726,
+      "start": 42.84,
+      "end": 43.68,
+      "text": " You know what I mean?",
+      "tokens": [
+        51114,
+        509,
+        458,
+        437,
+        286,
+        914,
+        30,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20319420950753347,
+      "compression_ratio": 1.4836601307189543,
+      "no_speech_prob": 0.05083033815026283,
+      "words": [
+        {
+          "word": " You",
+          "start": 42.84,
+          "end": 42.84,
+          "probability": 0.615942656993866
+        },
+        {
+          "word": " know",
+          "start": 42.84,
+          "end": 43.08,
+          "probability": 0.9950922727584839
+        },
+        {
+          "word": " what",
+          "start": 43.08,
+          "end": 43.26,
+          "probability": 0.9671159386634827
+        },
+        {
+          "word": " I",
+          "start": 43.26,
+          "end": 43.36,
+          "probability": 0.9946528673171997
+        },
+        {
+          "word": " mean?",
+          "start": 43.36,
+          "end": 43.68,
+          "probability": 0.9988002777099609
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2726,
+      "start": 43.86,
+      "end": 49.7,
+      "text": " Sometimes you can think in an image or sound or whatever.",
+      "tokens": [
+        51164,
+        4803,
+        291,
+        393,
+        519,
+        294,
+        364,
+        3256,
+        420,
+        1626,
+        420,
+        2035,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20319420950753347,
+      "compression_ratio": 1.4836601307189543,
+      "no_speech_prob": 0.05083033815026283,
+      "words": [
+        {
+          "word": " Sometimes",
+          "start": 43.86,
+          "end": 44.28,
+          "probability": 0.977745532989502
+        },
+        {
+          "word": " you",
+          "start": 44.28,
+          "end": 44.5,
+          "probability": 0.9470270276069641
+        },
+        {
+          "word": " can",
+          "start": 44.5,
+          "end": 44.76,
+          "probability": 0.6233494281768799
+        },
+        {
+          "word": " think",
+          "start": 44.76,
+          "end": 45.12,
+          "probability": 0.9650331139564514
+        },
+        {
+          "word": " in",
+          "start": 45.12,
+          "end": 46.56,
+          "probability": 0.508395791053772
+        },
+        {
+          "word": " an",
+          "start": 46.56,
+          "end": 46.7,
+          "probability": 0.8893699049949646
+        },
+        {
+          "word": " image",
+          "start": 46.7,
+          "end": 47.34,
+          "probability": 0.9981458187103271
+        },
+        {
+          "word": " or",
+          "start": 47.34,
+          "end": 48.16,
+          "probability": 0.8539131283760071
+        },
+        {
+          "word": " sound",
+          "start": 48.16,
+          "end": 48.68,
+          "probability": 0.7154964804649353
+        },
+        {
+          "word": " or",
+          "start": 48.68,
+          "end": 49.24,
+          "probability": 0.7280870676040649
+        },
+        {
+          "word": " whatever.",
+          "start": 49.24,
+          "end": 49.7,
+          "probability": 0.9586769342422485
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2726,
+      "start": 49.96,
+      "end": 53.2,
+      "text": " This was a video of me recording it.",
+      "tokens": [
+        51464,
+        639,
+        390,
+        257,
+        960,
+        295,
+        385,
+        6613,
+        309,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20319420950753347,
+      "compression_ratio": 1.4836601307189543,
+      "no_speech_prob": 0.05083033815026283,
+      "words": [
+        {
+          "word": " This",
+          "start": 49.96,
+          "end": 50.26,
+          "probability": 0.9775879383087158
+        },
+        {
+          "word": " was",
+          "start": 50.26,
+          "end": 50.54,
+          "probability": 0.9934945702552795
+        },
+        {
+          "word": " a",
+          "start": 50.54,
+          "end": 50.68,
+          "probability": 0.9853910207748413
+        },
+        {
+          "word": " video",
+          "start": 50.68,
+          "end": 51.42,
+          "probability": 0.9989660978317261
+        },
+        {
+          "word": " of",
+          "start": 51.42,
+          "end": 51.7,
+          "probability": 0.7400849461555481
+        },
+        {
+          "word": " me",
+          "start": 51.7,
+          "end": 51.9,
+          "probability": 0.9943042397499084
+        },
+        {
+          "word": " recording",
+          "start": 51.9,
+          "end": 52.3,
+          "probability": 0.9974566102027893
+        },
+        {
+          "word": " it.",
+          "start": 52.3,
+          "end": 53.2,
+          "probability": 0.9971638321876526
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5726,
+      "start": 57.26,
+      "end": 60.48,
+      "text": " Because I could see myself recording as well.",
+      "tokens": [
+        50364,
+        1436,
+        286,
+        727,
+        536,
+        2059,
+        6613,
+        382,
+        731,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14599616186959402,
+      "compression_ratio": 1.4518072289156627,
+      "no_speech_prob": 0.01657925173640251,
+      "words": [
+        {
+          "word": " Because",
+          "start": 57.26,
+          "end": 57.44,
+          "probability": 0.20011402666568756
+        },
+        {
+          "word": " I",
+          "start": 57.44,
+          "end": 57.58,
+          "probability": 0.9518694281578064
+        },
+        {
+          "word": " could",
+          "start": 57.58,
+          "end": 57.9,
+          "probability": 0.8542776107788086
+        },
+        {
+          "word": " see",
+          "start": 57.9,
+          "end": 58.1,
+          "probability": 0.9900700449943542
+        },
+        {
+          "word": " myself",
+          "start": 58.1,
+          "end": 58.52,
+          "probability": 0.9898597598075867
+        },
+        {
+          "word": " recording",
+          "start": 58.52,
+          "end": 59.1,
+          "probability": 0.9834588766098022
+        },
+        {
+          "word": " as",
+          "start": 59.1,
+          "end": 59.48,
+          "probability": 0.9446001052856445
+        },
+        {
+          "word": " well.",
+          "start": 59.48,
+          "end": 60.48,
+          "probability": 0.9837716221809387
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5726,
+      "start": 60.9,
+      "end": 63.08,
+      "text": " Fuck it, I don't remember what it was.",
+      "tokens": [
+        50514,
+        10965,
+        309,
+        11,
+        286,
+        500,
+        380,
+        1604,
+        437,
+        309,
+        390,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14599616186959402,
+      "compression_ratio": 1.4518072289156627,
+      "no_speech_prob": 0.01657925173640251,
+      "words": [
+        {
+          "word": " Fuck",
+          "start": 60.9,
+          "end": 61.06,
+          "probability": 0.5960554480552673
+        },
+        {
+          "word": " it,",
+          "start": 61.06,
+          "end": 61.3,
+          "probability": 0.9042842984199524
+        },
+        {
+          "word": " I",
+          "start": 61.3,
+          "end": 61.5,
+          "probability": 0.992735743522644
+        },
+        {
+          "word": " don't",
+          "start": 61.5,
+          "end": 61.68,
+          "probability": 0.9948313534259796
+        },
+        {
+          "word": " remember",
+          "start": 61.68,
+          "end": 62.02,
+          "probability": 0.9235497713088989
+        },
+        {
+          "word": " what",
+          "start": 62.02,
+          "end": 62.22,
+          "probability": 0.9957037568092346
+        },
+        {
+          "word": " it",
+          "start": 62.22,
+          "end": 62.54,
+          "probability": 0.9925335645675659
+        },
+        {
+          "word": " was.",
+          "start": 62.54,
+          "end": 63.08,
+          "probability": 0.9984009861946106
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5726,
+      "start": 66.88,
+      "end": 69.16,
+      "text": " I never remember my dreams anymore.",
+      "tokens": [
+        50814,
+        286,
+        1128,
+        1604,
+        452,
+        7505,
+        3602,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14599616186959402,
+      "compression_ratio": 1.4518072289156627,
+      "no_speech_prob": 0.01657925173640251,
+      "words": [
+        {
+          "word": " I",
+          "start": 66.88,
+          "end": 67.12,
+          "probability": 0.8073155283927917
+        },
+        {
+          "word": " never",
+          "start": 67.12,
+          "end": 67.48,
+          "probability": 0.9574794769287109
+        },
+        {
+          "word": " remember",
+          "start": 67.48,
+          "end": 68.0,
+          "probability": 0.9924105405807495
+        },
+        {
+          "word": " my",
+          "start": 68.0,
+          "end": 68.34,
+          "probability": 0.993382453918457
+        },
+        {
+          "word": " dreams",
+          "start": 68.34,
+          "end": 68.62,
+          "probability": 0.9954577684402466
+        },
+        {
+          "word": " anymore.",
+          "start": 68.62,
+          "end": 69.16,
+          "probability": 0.9483103156089783
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5726,
+      "start": 69.26,
+      "end": 75.3,
+      "text": " I just remember so little it's not even worth talking about.",
+      "tokens": [
+        50964,
+        286,
+        445,
+        1604,
+        370,
+        707,
+        309,
+        311,
+        406,
+        754,
+        3163,
+        1417,
+        466,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14599616186959402,
+      "compression_ratio": 1.4518072289156627,
+      "no_speech_prob": 0.01657925173640251,
+      "words": [
+        {
+          "word": " I",
+          "start": 69.26,
+          "end": 69.42,
+          "probability": 0.43926170468330383
+        },
+        {
+          "word": " just",
+          "start": 69.42,
+          "end": 69.7,
+          "probability": 0.993653416633606
+        },
+        {
+          "word": " remember",
+          "start": 69.7,
+          "end": 70.54,
+          "probability": 0.9935864806175232
+        },
+        {
+          "word": " so",
+          "start": 70.54,
+          "end": 72.74,
+          "probability": 0.1365167647600174
+        },
+        {
+          "word": " little",
+          "start": 72.74,
+          "end": 73.16,
+          "probability": 0.9964777827262878
+        },
+        {
+          "word": " it's",
+          "start": 73.16,
+          "end": 73.6,
+          "probability": 0.6684561222791672
+        },
+        {
+          "word": " not",
+          "start": 73.6,
+          "end": 73.76,
+          "probability": 0.9930558800697327
+        },
+        {
+          "word": " even",
+          "start": 73.76,
+          "end": 74.04,
+          "probability": 0.9766324758529663
+        },
+        {
+          "word": " worth",
+          "start": 74.04,
+          "end": 74.34,
+          "probability": 0.9960642457008362
+        },
+        {
+          "word": " talking",
+          "start": 74.34,
+          "end": 74.78,
+          "probability": 0.9970159530639648
+        },
+        {
+          "word": " about.",
+          "start": 74.78,
+          "end": 75.3,
+          "probability": 0.9943663477897644
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5726,
+      "start": 76.2,
+      "end": 79.96,
+      "text": " Like I dreamt I'm talking to my sister last night.",
+      "tokens": [
+        51314,
+        1743,
+        286,
+        3055,
+        83,
+        286,
+        478,
+        1417,
+        281,
+        452,
+        4892,
+        1036,
+        1818,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14599616186959402,
+      "compression_ratio": 1.4518072289156627,
+      "no_speech_prob": 0.01657925173640251,
+      "words": [
+        {
+          "word": " Like",
+          "start": 76.2,
+          "end": 76.52,
+          "probability": 0.9676074385643005
+        },
+        {
+          "word": " I",
+          "start": 76.52,
+          "end": 76.76,
+          "probability": 0.9778335094451904
+        },
+        {
+          "word": " dreamt",
+          "start": 76.76,
+          "end": 77.16,
+          "probability": 0.9141992628574371
+        },
+        {
+          "word": " I'm",
+          "start": 77.16,
+          "end": 77.3,
+          "probability": 0.7778369784355164
+        },
+        {
+          "word": " talking",
+          "start": 77.3,
+          "end": 77.56,
+          "probability": 0.9977982044219971
+        },
+        {
+          "word": " to",
+          "start": 77.56,
+          "end": 77.8,
+          "probability": 0.9931372404098511
+        },
+        {
+          "word": " my",
+          "start": 77.8,
+          "end": 78.04,
+          "probability": 0.9980637431144714
+        },
+        {
+          "word": " sister",
+          "start": 78.04,
+          "end": 78.6,
+          "probability": 0.9934419393539429
+        },
+        {
+          "word": " last",
+          "start": 78.6,
+          "end": 79.16,
+          "probability": 0.9145958423614502
+        },
+        {
+          "word": " night.",
+          "start": 79.16,
+          "end": 79.96,
+          "probability": 0.9993448853492737
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5726,
+      "start": 81.8,
+      "end": 82.68,
+      "text": " The end.",
+      "tokens": [
+        51564,
+        440,
+        917,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14599616186959402,
+      "compression_ratio": 1.4518072289156627,
+      "no_speech_prob": 0.01657925173640251,
+      "words": [
+        {
+          "word": " The",
+          "start": 81.8,
+          "end": 81.94,
+          "probability": 0.9291185140609741
+        },
+        {
+          "word": " end.",
+          "start": 81.94,
+          "end": 82.68,
+          "probability": 0.9481058120727539
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8268,
+      "start": 84.38,
+      "end": 88.96,
+      "text": " Actually I remember I didn't really want to be talking to her.",
+      "tokens": [
+        50414,
+        5135,
+        286,
+        1604,
+        286,
+        994,
+        380,
+        534,
+        528,
+        281,
+        312,
+        1417,
+        281,
+        720,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14661288261413574,
+      "compression_ratio": 1.0930232558139534,
+      "no_speech_prob": 0.03609704598784447,
+      "words": [
+        {
+          "word": " Actually",
+          "start": 84.38,
+          "end": 85.14,
+          "probability": 0.5702303051948547
+        },
+        {
+          "word": " I",
+          "start": 85.14,
+          "end": 85.5,
+          "probability": 0.440691739320755
+        },
+        {
+          "word": " remember",
+          "start": 85.5,
+          "end": 85.82,
+          "probability": 0.9637248516082764
+        },
+        {
+          "word": " I",
+          "start": 85.82,
+          "end": 86.02,
+          "probability": 0.8183750510215759
+        },
+        {
+          "word": " didn't",
+          "start": 86.02,
+          "end": 86.44,
+          "probability": 0.9783599078655243
+        },
+        {
+          "word": " really",
+          "start": 86.44,
+          "end": 86.82,
+          "probability": 0.957389235496521
+        },
+        {
+          "word": " want",
+          "start": 86.82,
+          "end": 87.06,
+          "probability": 0.9852502942085266
+        },
+        {
+          "word": " to",
+          "start": 87.06,
+          "end": 87.26,
+          "probability": 0.9949992895126343
+        },
+        {
+          "word": " be",
+          "start": 87.26,
+          "end": 87.5,
+          "probability": 0.974741518497467
+        },
+        {
+          "word": " talking",
+          "start": 87.5,
+          "end": 87.88,
+          "probability": 0.9958725571632385
+        },
+        {
+          "word": " to",
+          "start": 87.88,
+          "end": 88.2,
+          "probability": 0.9308468103408813
+        },
+        {
+          "word": " her.",
+          "start": 88.2,
+          "end": 88.96,
+          "probability": 0.841213583946228
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8268,
+      "start": 89.48,
+      "end": 91.5,
+      "text": " But the conversation went okay.",
+      "tokens": [
+        50664,
+        583,
+        264,
+        3761,
+        1437,
+        1392,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14661288261413574,
+      "compression_ratio": 1.0930232558139534,
+      "no_speech_prob": 0.03609704598784447,
+      "words": [
+        {
+          "word": " But",
+          "start": 89.48,
+          "end": 89.78,
+          "probability": 0.9532269835472107
+        },
+        {
+          "word": " the",
+          "start": 89.78,
+          "end": 90.0,
+          "probability": 0.9910466074943542
+        },
+        {
+          "word": " conversation",
+          "start": 90.0,
+          "end": 90.54,
+          "probability": 0.9886265397071838
+        },
+        {
+          "word": " went",
+          "start": 90.54,
+          "end": 90.94,
+          "probability": 0.9948181509971619
+        },
+        {
+          "word": " okay.",
+          "start": 90.94,
+          "end": 91.5,
+          "probability": 0.5770330429077148
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

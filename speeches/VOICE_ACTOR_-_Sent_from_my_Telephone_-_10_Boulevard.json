@@ -1,0 +1,558 @@
+{
+  "text": " It's hard on the beloved It's hard on the beloved It's hard on the beloved Hit the switch, cut it out Cards within arms rich Unseen, unheard, feeling Seeing and hearing Breathing between the lines Box of sour grapes Life of a series of mistakes It's hard on the beloved It's hard on the beloved It's hard on the beloved",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 13.359999999999998,
+      "end": 21.36,
+      "text": " It's hard on the beloved It's hard on the beloved",
+      "tokens": [
+        50364,
+        467,
+        311,
+        1152,
+        322,
+        264,
+        14553,
+        467,
+        311,
+        1152,
+        322,
+        264,
+        14553,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6635167002677917,
+      "compression_ratio": 1.3611111111111112,
+      "no_speech_prob": 0.5408679842948914,
+      "words": [
+        {
+          "word": " It's",
+          "start": 13.359999999999998,
+          "end": 14.28,
+          "probability": 0.7422714829444885
+        },
+        {
+          "word": " hard",
+          "start": 14.28,
+          "end": 14.4,
+          "probability": 0.9152296781539917
+        },
+        {
+          "word": " on",
+          "start": 14.4,
+          "end": 14.92,
+          "probability": 0.9433335661888123
+        },
+        {
+          "word": " the",
+          "start": 14.92,
+          "end": 15.14,
+          "probability": 0.5888276100158691
+        },
+        {
+          "word": " beloved",
+          "start": 15.14,
+          "end": 16.02,
+          "probability": 0.2866854667663574
+        },
+        {
+          "word": " It's",
+          "start": 16.02,
+          "end": 19.0,
+          "probability": 0.800317645072937
+        },
+        {
+          "word": " hard",
+          "start": 19.0,
+          "end": 19.36,
+          "probability": 0.9989922642707825
+        },
+        {
+          "word": " on",
+          "start": 19.36,
+          "end": 19.76,
+          "probability": 0.999504566192627
+        },
+        {
+          "word": " the",
+          "start": 19.76,
+          "end": 20.1,
+          "probability": 0.9978253841400146
+        },
+        {
+          "word": " beloved",
+          "start": 20.1,
+          "end": 21.36,
+          "probability": 0.9975307583808899
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2136,
+      "start": 23.26,
+      "end": 37.36,
+      "text": " It's hard on the beloved Hit the switch, cut it out",
+      "tokens": [
+        50364,
+        467,
+        311,
+        1152,
+        322,
+        264,
+        14553,
+        9217,
+        264,
+        3679,
+        11,
+        1723,
+        309,
+        484,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2667096081901999,
+      "compression_ratio": 0.9444444444444444,
+      "no_speech_prob": 0.4480425715446472,
+      "words": [
+        {
+          "word": " It's",
+          "start": 23.26,
+          "end": 24.66,
+          "probability": 0.5204345136880875
+        },
+        {
+          "word": " hard",
+          "start": 24.66,
+          "end": 25.14,
+          "probability": 0.9377137422561646
+        },
+        {
+          "word": " on",
+          "start": 25.14,
+          "end": 25.64,
+          "probability": 0.9699680805206299
+        },
+        {
+          "word": " the",
+          "start": 25.64,
+          "end": 25.82,
+          "probability": 0.3426434099674225
+        },
+        {
+          "word": " beloved",
+          "start": 25.82,
+          "end": 28.1,
+          "probability": 0.008238458074629307
+        },
+        {
+          "word": " Hit",
+          "start": 28.1,
+          "end": 32.08,
+          "probability": 0.6822080612182617
+        },
+        {
+          "word": " the",
+          "start": 32.08,
+          "end": 32.7,
+          "probability": 0.9958006739616394
+        },
+        {
+          "word": " switch,",
+          "start": 32.7,
+          "end": 34.44,
+          "probability": 0.9928637146949768
+        },
+        {
+          "word": " cut",
+          "start": 35.44,
+          "end": 35.48,
+          "probability": 0.9453601837158203
+        },
+        {
+          "word": " it",
+          "start": 35.48,
+          "end": 36.38,
+          "probability": 0.998637855052948
+        },
+        {
+          "word": " out",
+          "start": 36.38,
+          "end": 37.36,
+          "probability": 0.7753377556800842
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3736,
+      "start": 37.36,
+      "end": 51.62,
+      "text": " Cards within arms rich Unseen, unheard, feeling",
+      "tokens": [
+        50364,
+        383,
+        2287,
+        1951,
+        5812,
+        4593,
+        1156,
+        22008,
+        11,
+        517,
+        42915,
+        11,
+        2633,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.291153595997737,
+      "compression_ratio": 1.146341463414634,
+      "no_speech_prob": 0.2910749912261963,
+      "words": [
+        {
+          "word": " Cards",
+          "start": 37.36,
+          "end": 39.5,
+          "probability": 0.45859244652092457
+        },
+        {
+          "word": " within",
+          "start": 39.5,
+          "end": 40.66,
+          "probability": 0.7231451272964478
+        },
+        {
+          "word": " arms",
+          "start": 40.66,
+          "end": 41.4,
+          "probability": 0.6900683641433716
+        },
+        {
+          "word": " rich",
+          "start": 41.4,
+          "end": 44.1,
+          "probability": 0.4800800085067749
+        },
+        {
+          "word": " Unseen,",
+          "start": 44.1,
+          "end": 47.54,
+          "probability": 0.780369907617569
+        },
+        {
+          "word": " unheard,",
+          "start": 48.16,
+          "end": 49.2,
+          "probability": 0.9878930151462555
+        },
+        {
+          "word": " feeling",
+          "start": 50.04,
+          "end": 51.62,
+          "probability": 0.9610978364944458
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3736,
+      "start": 51.62,
+      "end": 61.8,
+      "text": " Seeing and hearing Breathing between the lines",
+      "tokens": [
+        51064,
+        19703,
+        293,
+        4763,
+        20093,
+        571,
+        1296,
+        264,
+        3876,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.291153595997737,
+      "compression_ratio": 1.146341463414634,
+      "no_speech_prob": 0.2910749912261963,
+      "words": [
+        {
+          "word": " Seeing",
+          "start": 51.62,
+          "end": 53.0,
+          "probability": 0.7810794115066528
+        },
+        {
+          "word": " and",
+          "start": 53.0,
+          "end": 53.86,
+          "probability": 0.9466456770896912
+        },
+        {
+          "word": " hearing",
+          "start": 53.86,
+          "end": 55.08,
+          "probability": 0.9935006499290466
+        },
+        {
+          "word": " Breathing",
+          "start": 55.08,
+          "end": 57.58,
+          "probability": 0.6403430104255676
+        },
+        {
+          "word": " between",
+          "start": 57.58,
+          "end": 58.86,
+          "probability": 0.9039978384971619
+        },
+        {
+          "word": " the",
+          "start": 58.86,
+          "end": 59.72,
+          "probability": 0.9558238983154297
+        },
+        {
+          "word": " lines",
+          "start": 59.72,
+          "end": 61.8,
+          "probability": 0.9827829599380493
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 6180,
+      "start": 64.67999999999999,
+      "end": 76.5,
+      "text": " Box of sour grapes Life of a series of mistakes",
+      "tokens": [
+        50364,
+        15112,
+        295,
+        11006,
+        28032,
+        7720,
+        295,
+        257,
+        2638,
+        295,
+        8038,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2818557024002075,
+      "compression_ratio": 0.94,
+      "no_speech_prob": 0.026292571797966957,
+      "words": [
+        {
+          "word": " Box",
+          "start": 64.67999999999999,
+          "end": 66.08,
+          "probability": 0.49745768308639526
+        },
+        {
+          "word": " of",
+          "start": 66.08,
+          "end": 66.92,
+          "probability": 0.9414079785346985
+        },
+        {
+          "word": " sour",
+          "start": 66.92,
+          "end": 67.84,
+          "probability": 0.9686257243156433
+        },
+        {
+          "word": " grapes",
+          "start": 67.84,
+          "end": 69.56,
+          "probability": 0.9234402775764465
+        },
+        {
+          "word": " Life",
+          "start": 69.56,
+          "end": 71.04,
+          "probability": 0.819521963596344
+        },
+        {
+          "word": " of",
+          "start": 71.04,
+          "end": 71.54,
+          "probability": 0.585153341293335
+        },
+        {
+          "word": " a",
+          "start": 71.54,
+          "end": 71.86,
+          "probability": 0.8915588855743408
+        },
+        {
+          "word": " series",
+          "start": 71.86,
+          "end": 72.56,
+          "probability": 0.9912236928939819
+        },
+        {
+          "word": " of",
+          "start": 72.56,
+          "end": 73.42,
+          "probability": 0.9949053525924683
+        },
+        {
+          "word": " mistakes",
+          "start": 73.42,
+          "end": 76.5,
+          "probability": 0.946902871131897
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 7650,
+      "start": 84.32,
+      "end": 93.46,
+      "text": " It's hard on the beloved It's hard on the beloved",
+      "tokens": [
+        50364,
+        467,
+        311,
+        1152,
+        322,
+        264,
+        14553,
+        467,
+        311,
+        1152,
+        322,
+        264,
+        14553,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12078864872455597,
+      "compression_ratio": 1.3611111111111112,
+      "no_speech_prob": 0.16231529414653778,
+      "words": [
+        {
+          "word": " It's",
+          "start": 84.32,
+          "end": 85.36,
+          "probability": 0.7818383872509003
+        },
+        {
+          "word": " hard",
+          "start": 85.36,
+          "end": 85.5,
+          "probability": 0.9152304530143738
+        },
+        {
+          "word": " on",
+          "start": 85.5,
+          "end": 86.04,
+          "probability": 0.9491920471191406
+        },
+        {
+          "word": " the",
+          "start": 86.04,
+          "end": 86.34,
+          "probability": 0.6853592395782471
+        },
+        {
+          "word": " beloved",
+          "start": 86.34,
+          "end": 87.1,
+          "probability": 0.09806337207555771
+        },
+        {
+          "word": " It's",
+          "start": 87.1,
+          "end": 90.08,
+          "probability": 0.7200398594141006
+        },
+        {
+          "word": " hard",
+          "start": 90.08,
+          "end": 90.5,
+          "probability": 0.9985153079032898
+        },
+        {
+          "word": " on",
+          "start": 90.5,
+          "end": 91.0,
+          "probability": 0.999337375164032
+        },
+        {
+          "word": " the",
+          "start": 91.0,
+          "end": 91.28,
+          "probability": 0.998630940914154
+        },
+        {
+          "word": " beloved",
+          "start": 91.28,
+          "end": 93.46,
+          "probability": 0.9978951215744019
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 9346,
+      "start": 93.46,
+      "end": 97.26,
+      "text": " It's hard on the beloved",
+      "tokens": [
+        50364,
+        467,
+        311,
+        1152,
+        322,
+        264,
+        14553,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1624346441692776,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.8234377503395081,
+      "words": [
+        {
+          "word": " It's",
+          "start": 93.46,
+          "end": 95.56,
+          "probability": 0.7465672194957733
+        },
+        {
+          "word": " hard",
+          "start": 95.56,
+          "end": 95.7,
+          "probability": 0.7808308005332947
+        },
+        {
+          "word": " on",
+          "start": 95.7,
+          "end": 96.28,
+          "probability": 0.8751800656318665
+        },
+        {
+          "word": " the",
+          "start": 96.28,
+          "end": 96.3,
+          "probability": 0.12870557606220245
+        },
+        {
+          "word": " beloved",
+          "start": 96.3,
+          "end": 97.26,
+          "probability": 0.42569994926452637
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

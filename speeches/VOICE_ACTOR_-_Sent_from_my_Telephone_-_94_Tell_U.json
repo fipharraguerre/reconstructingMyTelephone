@@ -1,0 +1,816 @@
+{
+  "text": " There is something I want to tell you. I can't talk now. I can't talk here. Hello. This is him. There is something I want to tell you. I can't talk now. I can't talk here. Hello. Hello. Come on. I can't talk now. Tell me where to go. I'll come and meet you. Could we meet tomorrow? Keep it in mind. Okay. What time? Okay.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 40.84,
+      "end": 45.0,
+      "text": " There is something I want to tell you.",
+      "tokens": [
+        50364,
+        821,
+        307,
+        746,
+        286,
+        528,
+        281,
+        980,
+        291,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5574426651000977,
+      "compression_ratio": 0.9180327868852459,
+      "no_speech_prob": 0.19343562424182892,
+      "words": [
+        {
+          "word": " There",
+          "start": 40.84,
+          "end": 41.64,
+          "probability": 0.811108410358429
+        },
+        {
+          "word": " is",
+          "start": 41.64,
+          "end": 41.84,
+          "probability": 0.6211825013160706
+        },
+        {
+          "word": " something",
+          "start": 41.84,
+          "end": 42.18,
+          "probability": 0.9965600371360779
+        },
+        {
+          "word": " I",
+          "start": 42.18,
+          "end": 42.58,
+          "probability": 0.9421084523200989
+        },
+        {
+          "word": " want",
+          "start": 42.58,
+          "end": 42.86,
+          "probability": 0.9751821160316467
+        },
+        {
+          "word": " to",
+          "start": 42.86,
+          "end": 43.26,
+          "probability": 0.9983620047569275
+        },
+        {
+          "word": " tell",
+          "start": 43.26,
+          "end": 43.58,
+          "probability": 0.9994340538978577
+        },
+        {
+          "word": " you.",
+          "start": 43.58,
+          "end": 45.0,
+          "probability": 0.9976593255996704
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 46.68,
+      "end": 49.1,
+      "text": " I can't talk now.",
+      "tokens": [
+        51114,
+        286,
+        393,
+        380,
+        751,
+        586,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5574426651000977,
+      "compression_ratio": 0.9180327868852459,
+      "no_speech_prob": 0.19343562424182892,
+      "words": [
+        {
+          "word": " I",
+          "start": 46.68,
+          "end": 46.96,
+          "probability": 0.7469851970672607
+        },
+        {
+          "word": " can't",
+          "start": 46.96,
+          "end": 47.6,
+          "probability": 0.9813200235366821
+        },
+        {
+          "word": " talk",
+          "start": 47.6,
+          "end": 47.9,
+          "probability": 0.9988576173782349
+        },
+        {
+          "word": " now.",
+          "start": 47.9,
+          "end": 49.1,
+          "probability": 0.9953294992446899
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 4910,
+      "start": 50.24,
+      "end": 53.1,
+      "text": " I can't talk here.",
+      "tokens": [
+        50414,
+        286,
+        393,
+        380,
+        751,
+        510,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2639937246999433,
+      "compression_ratio": 1.013157894736842,
+      "no_speech_prob": 0.33653581142425537,
+      "words": [
+        {
+          "word": " I",
+          "start": 50.24,
+          "end": 51.08,
+          "probability": 0.6391420960426331
+        },
+        {
+          "word": " can't",
+          "start": 51.08,
+          "end": 51.62,
+          "probability": 0.9557409286499023
+        },
+        {
+          "word": " talk",
+          "start": 51.62,
+          "end": 51.94,
+          "probability": 0.9832793474197388
+        },
+        {
+          "word": " here.",
+          "start": 51.94,
+          "end": 53.1,
+          "probability": 0.9567339420318604
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4910,
+      "start": 67.3,
+      "end": 68.14,
+      "text": " Hello.",
+      "tokens": [
+        51264,
+        2425,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2639937246999433,
+      "compression_ratio": 1.013157894736842,
+      "no_speech_prob": 0.33653581142425537,
+      "words": [
+        {
+          "word": " Hello.",
+          "start": 67.3,
+          "end": 68.14,
+          "probability": 0.6467084884643555
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 4910,
+      "start": 70.38,
+      "end": 71.6,
+      "text": " This is him.",
+      "tokens": [
+        51414,
+        639,
+        307,
+        796,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2639937246999433,
+      "compression_ratio": 1.013157894736842,
+      "no_speech_prob": 0.33653581142425537,
+      "words": [
+        {
+          "word": " This",
+          "start": 70.38,
+          "end": 71.22,
+          "probability": 0.9003303050994873
+        },
+        {
+          "word": " is",
+          "start": 71.22,
+          "end": 71.42,
+          "probability": 0.9972665309906006
+        },
+        {
+          "word": " him.",
+          "start": 71.42,
+          "end": 71.6,
+          "probability": 0.9940176010131836
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4910,
+      "start": 72.12,
+      "end": 74.1,
+      "text": " There is something I want to tell you.",
+      "tokens": [
+        51514,
+        821,
+        307,
+        746,
+        286,
+        528,
+        281,
+        980,
+        291,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2639937246999433,
+      "compression_ratio": 1.013157894736842,
+      "no_speech_prob": 0.33653581142425537,
+      "words": [
+        {
+          "word": " There",
+          "start": 72.12,
+          "end": 72.38,
+          "probability": 0.9344671368598938
+        },
+        {
+          "word": " is",
+          "start": 72.38,
+          "end": 72.54,
+          "probability": 0.6541409492492676
+        },
+        {
+          "word": " something",
+          "start": 72.54,
+          "end": 72.74,
+          "probability": 0.9975786805152893
+        },
+        {
+          "word": " I",
+          "start": 72.74,
+          "end": 72.94,
+          "probability": 0.9556096196174622
+        },
+        {
+          "word": " want",
+          "start": 72.94,
+          "end": 73.2,
+          "probability": 0.9784433841705322
+        },
+        {
+          "word": " to",
+          "start": 73.2,
+          "end": 73.44,
+          "probability": 0.9982274174690247
+        },
+        {
+          "word": " tell",
+          "start": 73.44,
+          "end": 73.62,
+          "probability": 0.9976443648338318
+        },
+        {
+          "word": " you.",
+          "start": 73.62,
+          "end": 74.1,
+          "probability": 0.9988414645195007
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 7410,
+      "start": 76.48,
+      "end": 78.56,
+      "text": " I can't talk now.",
+      "tokens": [
+        50414,
+        286,
+        393,
+        380,
+        751,
+        586,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.388753182547433,
+      "compression_ratio": 1.4298245614035088,
+      "no_speech_prob": 0.07351846992969513,
+      "words": [
+        {
+          "word": " I",
+          "start": 76.48,
+          "end": 77.28,
+          "probability": 0.23622769117355347
+        },
+        {
+          "word": " can't",
+          "start": 77.28,
+          "end": 78.08,
+          "probability": 0.9063932299613953
+        },
+        {
+          "word": " talk",
+          "start": 78.08,
+          "end": 78.38,
+          "probability": 0.15387213230133057
+        },
+        {
+          "word": " now.",
+          "start": 78.38,
+          "end": 78.56,
+          "probability": 0.3561222553253174
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 7410,
+      "start": 78.66,
+      "end": 79.6,
+      "text": " I can't talk here.",
+      "tokens": [
+        50564,
+        286,
+        393,
+        380,
+        751,
+        510,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.388753182547433,
+      "compression_ratio": 1.4298245614035088,
+      "no_speech_prob": 0.07351846992969513,
+      "words": [
+        {
+          "word": " I",
+          "start": 78.66,
+          "end": 78.66,
+          "probability": 0.9754177331924438
+        },
+        {
+          "word": " can't",
+          "start": 78.66,
+          "end": 79.02,
+          "probability": 0.990739643573761
+        },
+        {
+          "word": " talk",
+          "start": 79.02,
+          "end": 79.18,
+          "probability": 0.9889622330665588
+        },
+        {
+          "word": " here.",
+          "start": 79.18,
+          "end": 79.6,
+          "probability": 0.9705665707588196
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 7410,
+      "start": 79.62,
+      "end": 80.0,
+      "text": " Hello.",
+      "tokens": [
+        50664,
+        2425,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.388753182547433,
+      "compression_ratio": 1.4298245614035088,
+      "no_speech_prob": 0.07351846992969513,
+      "words": [
+        {
+          "word": " Hello.",
+          "start": 79.62,
+          "end": 80.0,
+          "probability": 0.005208269227296114
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 7410,
+      "start": 80.64,
+      "end": 81.06,
+      "text": " Hello.",
+      "tokens": [
+        50764,
+        2425,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.388753182547433,
+      "compression_ratio": 1.4298245614035088,
+      "no_speech_prob": 0.07351846992969513,
+      "words": [
+        {
+          "word": " Hello.",
+          "start": 80.64,
+          "end": 81.06,
+          "probability": 0.8307896852493286
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 7410,
+      "start": 82.44,
+      "end": 82.96,
+      "text": " Come on.",
+      "tokens": [
+        50864,
+        2492,
+        322,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.388753182547433,
+      "compression_ratio": 1.4298245614035088,
+      "no_speech_prob": 0.07351846992969513,
+      "words": [
+        {
+          "word": " Come",
+          "start": 82.44,
+          "end": 82.96,
+          "probability": 0.05886244773864746
+        },
+        {
+          "word": " on.",
+          "start": 82.96,
+          "end": 82.96,
+          "probability": 0.31217217445373535
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 7410,
+      "start": 82.96,
+      "end": 84.64,
+      "text": " I can't talk now.",
+      "tokens": [
+        50964,
+        286,
+        393,
+        380,
+        751,
+        586,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.388753182547433,
+      "compression_ratio": 1.4298245614035088,
+      "no_speech_prob": 0.07351846992969513,
+      "words": [
+        {
+          "word": " I",
+          "start": 82.96,
+          "end": 83.72,
+          "probability": 0.1513717621564865
+        },
+        {
+          "word": " can't",
+          "start": 83.72,
+          "end": 83.72,
+          "probability": 0.5709352642297745
+        },
+        {
+          "word": " talk",
+          "start": 83.72,
+          "end": 83.74,
+          "probability": 0.12759889662265778
+        },
+        {
+          "word": " now.",
+          "start": 83.74,
+          "end": 84.64,
+          "probability": 0.12068374454975128
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7410,
+      "start": 85.8,
+      "end": 90.22,
+      "text": " Tell me where to go.",
+      "tokens": [
+        51064,
+        5115,
+        385,
+        689,
+        281,
+        352,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.388753182547433,
+      "compression_ratio": 1.4298245614035088,
+      "no_speech_prob": 0.07351846992969513,
+      "words": [
+        {
+          "word": " Tell",
+          "start": 85.8,
+          "end": 86.2,
+          "probability": 0.08718889951705933
+        },
+        {
+          "word": " me",
+          "start": 86.2,
+          "end": 89.36,
+          "probability": 0.9951710104942322
+        },
+        {
+          "word": " where",
+          "start": 89.36,
+          "end": 89.6,
+          "probability": 0.973750114440918
+        },
+        {
+          "word": " to",
+          "start": 89.6,
+          "end": 89.86,
+          "probability": 0.9902931451797485
+        },
+        {
+          "word": " go.",
+          "start": 89.86,
+          "end": 90.22,
+          "probability": 0.9902807474136353
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7410,
+      "start": 90.9,
+      "end": 91.86,
+      "text": " I'll come and meet you.",
+      "tokens": [
+        51164,
+        286,
+        603,
+        808,
+        293,
+        1677,
+        291,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.388753182547433,
+      "compression_ratio": 1.4298245614035088,
+      "no_speech_prob": 0.07351846992969513,
+      "words": [
+        {
+          "word": " I'll",
+          "start": 90.9,
+          "end": 91.0,
+          "probability": 0.819904237985611
+        },
+        {
+          "word": " come",
+          "start": 91.0,
+          "end": 91.12,
+          "probability": 0.965273916721344
+        },
+        {
+          "word": " and",
+          "start": 91.12,
+          "end": 91.26,
+          "probability": 0.9643293023109436
+        },
+        {
+          "word": " meet",
+          "start": 91.26,
+          "end": 91.4,
+          "probability": 0.9979002475738525
+        },
+        {
+          "word": " you.",
+          "start": 91.4,
+          "end": 91.86,
+          "probability": 0.9923352599143982
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 7410,
+      "start": 92.96,
+      "end": 94.52,
+      "text": " Could we meet tomorrow?",
+      "tokens": [
+        51264,
+        7497,
+        321,
+        1677,
+        4153,
+        30,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.388753182547433,
+      "compression_ratio": 1.4298245614035088,
+      "no_speech_prob": 0.07351846992969513,
+      "words": [
+        {
+          "word": " Could",
+          "start": 92.96,
+          "end": 93.18,
+          "probability": 0.6595005989074707
+        },
+        {
+          "word": " we",
+          "start": 93.18,
+          "end": 93.4,
+          "probability": 0.9964093565940857
+        },
+        {
+          "word": " meet",
+          "start": 93.4,
+          "end": 93.82,
+          "probability": 0.9985530972480774
+        },
+        {
+          "word": " tomorrow?",
+          "start": 93.82,
+          "end": 94.52,
+          "probability": 0.9978493452072144
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 7410,
+      "start": 96.72,
+      "end": 97.64,
+      "text": " Keep it in mind.",
+      "tokens": [
+        51464,
+        5527,
+        309,
+        294,
+        1575,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.388753182547433,
+      "compression_ratio": 1.4298245614035088,
+      "no_speech_prob": 0.07351846992969513,
+      "words": [
+        {
+          "word": " Keep",
+          "start": 96.72,
+          "end": 97.04,
+          "probability": 0.1947391778230667
+        },
+        {
+          "word": " it",
+          "start": 97.04,
+          "end": 97.24,
+          "probability": 0.3562628924846649
+        },
+        {
+          "word": " in",
+          "start": 97.24,
+          "end": 97.24,
+          "probability": 0.3011391758918762
+        },
+        {
+          "word": " mind.",
+          "start": 97.24,
+          "end": 97.64,
+          "probability": 0.5835977792739868
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 9764,
+      "start": 101.48,
+      "end": 102.48,
+      "text": " Okay.",
+      "tokens": [
+        50414,
+        1033,
+        13,
+        50514
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.41168318475995747,
+      "compression_ratio": 0.7857142857142857,
+      "no_speech_prob": 0.14053784310817719,
+      "words": [
+        {
+          "word": " Okay.",
+          "start": 101.48,
+          "end": 102.48,
+          "probability": 0.4829578697681427
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 9764,
+      "start": 102.6,
+      "end": 103.4,
+      "text": " What time?",
+      "tokens": [
+        50514,
+        708,
+        565,
+        30,
+        50614
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.41168318475995747,
+      "compression_ratio": 0.7857142857142857,
+      "no_speech_prob": 0.14053784310817719,
+      "words": [
+        {
+          "word": " What",
+          "start": 102.6,
+          "end": 103.1,
+          "probability": 0.32847845554351807
+        },
+        {
+          "word": " time?",
+          "start": 103.1,
+          "end": 103.4,
+          "probability": 0.25822025537490845
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 9764,
+      "start": 105.1,
+      "end": 105.42,
+      "text": " Okay.",
+      "tokens": [
+        50614,
+        1033,
+        13,
+        50714
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.41168318475995747,
+      "compression_ratio": 0.7857142857142857,
+      "no_speech_prob": 0.14053784310817719,
+      "words": [
+        {
+          "word": " Okay.",
+          "start": 105.1,
+          "end": 105.42,
+          "probability": 0.9570953845977783
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

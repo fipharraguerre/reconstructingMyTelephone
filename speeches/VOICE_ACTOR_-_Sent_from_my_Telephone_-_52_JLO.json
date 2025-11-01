@@ -1,0 +1,2719 @@
+{
+  "text": " I see a beautiful afternoon, A goal empty and far away… What laws, who Yes and no That requires Do Like the boy who goes instead with a sick soul. I am 68 years old, I am in a tale of terrorism example that can be chosen solchen I larger becoping beaches ofIsrael duplicate plots and other human processes are doing over I can only leave that because of a certain , several upon a given that is so great There is a chance of not achieving the goals of the stars The goals of Jennifer Lopez If you look closely at the goals of Jennifer Lopez because you can define her 100% in the category of... Agass Even though her star strength is not different in large quantities her values are very explicit She is a very strong woman with a lot of respect for her She is a very strong woman with a lot of respect for her and that makes you think that she is a very strong woman In this case, Jennifer is very strong even though she is a bit more aggressive Even though she is a bit more aggressive She is very attractive by the way she looks The truth is that the image of Jennifer Lopez is very similar How fast she can bring back her previous attraction to the past is very shocking And maybe the biggest desire of Jennifer and her desire to be beautiful and smart makes her even more attractive and sexy And that makes me think that she is very beautiful What I am saying is that and she is very attractive and she is very attractive",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 9.64,
+      "text": " I see a beautiful afternoon,",
+      "tokens": [
+        50364,
+        286,
+        536,
+        257,
+        2238,
+        6499,
+        11,
+        51055
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.326575831363075,
+      "compression_ratio": 0.8769230769230769,
+      "no_speech_prob": 0.5574843883514404,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 2.68,
+          "probability": 0.002413160400465131
+        },
+        {
+          "word": " see",
+          "start": 2.68,
+          "end": 6.86,
+          "probability": 0.004910980351269245
+        },
+        {
+          "word": " a",
+          "start": 6.86,
+          "end": 6.88,
+          "probability": 0.07919036597013474
+        },
+        {
+          "word": " beautiful",
+          "start": 6.88,
+          "end": 9.36,
+          "probability": 0.022363895550370216
+        },
+        {
+          "word": " afternoon,",
+          "start": 9.36,
+          "end": 9.64,
+          "probability": 9.33037226786837e-05
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 14.52,
+      "end": 21.42,
+      "text": " A goal empty and far away…",
+      "tokens": [
+        51055,
+        316,
+        3387,
+        6707,
+        293,
+        1400,
+        1314,
+        1260,
+        51256
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.326575831363075,
+      "compression_ratio": 0.8769230769230769,
+      "no_speech_prob": 0.5574843883514404,
+      "words": [
+        {
+          "word": " A",
+          "start": 14.52,
+          "end": 14.64,
+          "probability": 0.0020155378151685
+        },
+        {
+          "word": " goal",
+          "start": 14.64,
+          "end": 15.0,
+          "probability": 7.200239633675665e-05
+        },
+        {
+          "word": " empty",
+          "start": 15.0,
+          "end": 19.0,
+          "probability": 2.769309503491968e-05
+        },
+        {
+          "word": " and",
+          "start": 19.0,
+          "end": 19.0,
+          "probability": 0.08380331099033356
+        },
+        {
+          "word": " far",
+          "start": 19.0,
+          "end": 20.6,
+          "probability": 0.009033318608999252
+        },
+        {
+          "word": " away…",
+          "start": 20.6,
+          "end": 21.42,
+          "probability": 0.28143602795898914
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2142,
+      "start": 23.42,
+      "end": 34.96,
+      "text": " What laws, who Yes and no",
+      "tokens": [
+        50364,
+        708,
+        6064,
+        11,
+        567,
+        1079,
+        293,
+        572,
+        51219
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.6768341064453125,
+      "compression_ratio": 0.9130434782608695,
+      "no_speech_prob": 0.4364430010318756,
+      "words": [
+        {
+          "word": " What",
+          "start": 23.42,
+          "end": 24.82,
+          "probability": 0.0005253838025964797
+        },
+        {
+          "word": " laws,",
+          "start": 24.82,
+          "end": 25.94,
+          "probability": 2.9971192816447e-06
+        },
+        {
+          "word": " who",
+          "start": 29.7,
+          "end": 31.06,
+          "probability": 0.007665181066840887
+        },
+        {
+          "word": " Yes",
+          "start": 31.06,
+          "end": 32.74,
+          "probability": 3.1354011298390105e-05
+        },
+        {
+          "word": " and",
+          "start": 32.74,
+          "end": 32.74,
+          "probability": 0.007470832671970129
+        },
+        {
+          "word": " no",
+          "start": 32.74,
+          "end": 34.96,
+          "probability": 0.08642292022705078
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2142,
+      "start": 44.760000000000005,
+      "end": 47.56,
+      "text": " That requires",
+      "tokens": [
+        51221,
+        663,
+        7029,
+        51437
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.6768341064453125,
+      "compression_ratio": 0.9130434782608695,
+      "no_speech_prob": 0.4364430010318756,
+      "words": [
+        {
+          "word": " That",
+          "start": 44.760000000000005,
+          "end": 46.160000000000004,
+          "probability": 0.0027963293250650167
+        },
+        {
+          "word": " requires",
+          "start": 46.160000000000004,
+          "end": 47.56,
+          "probability": 6.603935617022216e-05
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2142,
+      "start": 47.56,
+      "end": 48.72,
+      "text": " Do",
+      "tokens": [
+        51489,
+        1144,
+        51589
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.6768341064453125,
+      "compression_ratio": 0.9130434782608695,
+      "no_speech_prob": 0.4364430010318756,
+      "words": [
+        {
+          "word": " Do",
+          "start": 47.56,
+          "end": 48.72,
+          "probability": 0.000721485645044595
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 7872,
+      "start": 78.72,
+      "end": 81.44,
+      "text": " Like the boy who goes instead with a sick soul.",
+      "tokens": [
+        50364,
+        1743,
+        264,
+        3237,
+        567,
+        1709,
+        2602,
+        365,
+        257,
+        4998,
+        5133,
+        13,
+        50573
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.674241600967035,
+      "compression_ratio": 1.4901960784313726,
+      "no_speech_prob": 0.2388848066329956,
+      "words": [
+        {
+          "word": " Like",
+          "start": 78.72,
+          "end": 79.24,
+          "probability": 0.007029211148619652
+        },
+        {
+          "word": " the",
+          "start": 79.24,
+          "end": 79.7,
+          "probability": 0.39125385880470276
+        },
+        {
+          "word": " boy",
+          "start": 79.7,
+          "end": 79.9,
+          "probability": 0.01605979911983013
+        },
+        {
+          "word": " who",
+          "start": 79.9,
+          "end": 80.18,
+          "probability": 0.4945547580718994
+        },
+        {
+          "word": " goes",
+          "start": 80.18,
+          "end": 80.42,
+          "probability": 0.003337929956614971
+        },
+        {
+          "word": " instead",
+          "start": 80.42,
+          "end": 80.76,
+          "probability": 0.0003718764637596905
+        },
+        {
+          "word": " with",
+          "start": 80.76,
+          "end": 80.76,
+          "probability": 0.005765097215771675
+        },
+        {
+          "word": " a",
+          "start": 80.76,
+          "end": 81.04,
+          "probability": 0.23637495934963226
+        },
+        {
+          "word": " sick",
+          "start": 81.04,
+          "end": 81.44,
+          "probability": 0.0006042724126018584
+        },
+        {
+          "word": " soul.",
+          "start": 81.44,
+          "end": 81.44,
+          "probability": 0.012163414619863033
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 7872,
+      "start": 82.52,
+      "end": 84.24,
+      "text": " I am 68 years old,",
+      "tokens": [
+        50587,
+        286,
+        669,
+        23317,
+        924,
+        1331,
+        11,
+        50705
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.674241600967035,
+      "compression_ratio": 1.4901960784313726,
+      "no_speech_prob": 0.2388848066329956,
+      "words": [
+        {
+          "word": " I",
+          "start": 82.52,
+          "end": 82.82,
+          "probability": 0.02927459590137005
+        },
+        {
+          "word": " am",
+          "start": 82.82,
+          "end": 82.82,
+          "probability": 0.02037918195128441
+        },
+        {
+          "word": " 68",
+          "start": 82.82,
+          "end": 83.54,
+          "probability": 0.11430990695953369
+        },
+        {
+          "word": " years",
+          "start": 83.54,
+          "end": 84.2,
+          "probability": 0.774875819683075
+        },
+        {
+          "word": " old,",
+          "start": 84.2,
+          "end": 84.24,
+          "probability": 0.6506800055503845
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 7872,
+      "start": 85.7,
+      "end": 93.26,
+      "text": " I am in a tale of terrorism example that can be chosen solchen I larger becoping beaches ofIsrael",
+      "tokens": [
+        50713,
+        286,
+        669,
+        294,
+        257,
+        17172,
+        295,
+        23917,
+        1365,
+        300,
+        393,
+        312,
+        8614,
+        46281,
+        286,
+        4833,
+        312,
+        13084,
+        278,
+        27560,
+        295,
+        6802,
+        5416,
+        51161
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.674241600967035,
+      "compression_ratio": 1.4901960784313726,
+      "no_speech_prob": 0.2388848066329956,
+      "words": [
+        {
+          "word": " I",
+          "start": 85.39,
+          "end": 85.84,
+          "probability": 0.10113286226987839
+        },
+        {
+          "word": " am",
+          "start": 85.84,
+          "end": 85.84,
+          "probability": 0.29477426409721375
+        },
+        {
+          "word": " in",
+          "start": 85.84,
+          "end": 85.84,
+          "probability": 0.024920333176851273
+        },
+        {
+          "word": " a",
+          "start": 85.84,
+          "end": 86.16,
+          "probability": 0.18887406587600708
+        },
+        {
+          "word": " tale",
+          "start": 86.16,
+          "end": 86.6,
+          "probability": 2.2849751985631883e-05
+        },
+        {
+          "word": " of",
+          "start": 86.6,
+          "end": 86.6,
+          "probability": 0.5488300919532776
+        },
+        {
+          "word": " terrorism",
+          "start": 86.6,
+          "end": 87.06,
+          "probability": 0.007791708689182997
+        },
+        {
+          "word": " example",
+          "start": 87.06,
+          "end": 87.44,
+          "probability": 1.1295472177152988e-05
+        },
+        {
+          "word": " that",
+          "start": 87.44,
+          "end": 87.92,
+          "probability": 0.09187879413366318
+        },
+        {
+          "word": " can",
+          "start": 87.92,
+          "end": 88.36,
+          "probability": 0.03000464104115963
+        },
+        {
+          "word": " be",
+          "start": 88.36,
+          "end": 88.42,
+          "probability": 0.6225652098655701
+        },
+        {
+          "word": " chosen",
+          "start": 88.42,
+          "end": 89.14,
+          "probability": 0.20585758984088898
+        },
+        {
+          "word": " solchen",
+          "start": 89.14,
+          "end": 89.98,
+          "probability": 1.5222289562188962e-07
+        },
+        {
+          "word": " I",
+          "start": 89.98,
+          "end": 89.98,
+          "probability": 0.0019740851130336523
+        },
+        {
+          "word": " larger",
+          "start": 89.98,
+          "end": 90.52,
+          "probability": 3.5927216686104657e-06
+        },
+        {
+          "word": " becoping",
+          "start": 90.52,
+          "end": 90.68,
+          "probability": 0.05611375094728525
+        },
+        {
+          "word": " beaches",
+          "start": 90.68,
+          "end": 90.68,
+          "probability": 1.325233552051941e-05
+        },
+        {
+          "word": " ofIsrael",
+          "start": 90.68,
+          "end": 93.26,
+          "probability": 0.30875673078359495
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 7872,
+      "start": 95.22,
+      "end": 97.8,
+      "text": " duplicate plots and other human processes are doing over",
+      "tokens": [
+        51177,
+        23976,
+        28609,
+        293,
+        661,
+        1952,
+        7555,
+        366,
+        884,
+        670,
+        51388
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.674241600967035,
+      "compression_ratio": 1.4901960784313726,
+      "no_speech_prob": 0.2388848066329956,
+      "words": [
+        {
+          "word": " duplicate",
+          "start": 95.22,
+          "end": 96.12,
+          "probability": 1.3783494523522677e-07
+        },
+        {
+          "word": " plots",
+          "start": 96.12,
+          "end": 96.12,
+          "probability": 4.1785675421124324e-05
+        },
+        {
+          "word": " and",
+          "start": 96.12,
+          "end": 96.12,
+          "probability": 0.10188744217157364
+        },
+        {
+          "word": " other",
+          "start": 96.12,
+          "end": 96.12,
+          "probability": 0.005723200738430023
+        },
+        {
+          "word": " human",
+          "start": 96.12,
+          "end": 96.16,
+          "probability": 0.0006139526376500726
+        },
+        {
+          "word": " processes",
+          "start": 96.16,
+          "end": 96.66,
+          "probability": 0.00030325609259307384
+        },
+        {
+          "word": " are",
+          "start": 96.66,
+          "end": 96.66,
+          "probability": 0.017989380285143852
+        },
+        {
+          "word": " doing",
+          "start": 96.66,
+          "end": 97.58,
+          "probability": 0.0010642295237630606
+        },
+        {
+          "word": " over",
+          "start": 97.58,
+          "end": 97.8,
+          "probability": 0.0016962852096185088
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 7872,
+      "start": 97.8,
+      "end": 101.32,
+      "text": " I can only leave that because of a certain ,",
+      "tokens": [
+        51406,
+        286,
+        393,
+        787,
+        1856,
+        300,
+        570,
+        295,
+        257,
+        1629,
+        3182,
+        51531
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.674241600967035,
+      "compression_ratio": 1.4901960784313726,
+      "no_speech_prob": 0.2388848066329956,
+      "words": [
+        {
+          "word": " I",
+          "start": 97.8,
+          "end": 98.6,
+          "probability": 0.013379697687923908
+        },
+        {
+          "word": " can",
+          "start": 98.6,
+          "end": 98.94,
+          "probability": 0.025420859456062317
+        },
+        {
+          "word": " only",
+          "start": 98.94,
+          "end": 99.22,
+          "probability": 0.05443408712744713
+        },
+        {
+          "word": " leave",
+          "start": 99.22,
+          "end": 99.32,
+          "probability": 0.0019456874579191208
+        },
+        {
+          "word": " that",
+          "start": 99.32,
+          "end": 99.42,
+          "probability": 0.03452755883336067
+        },
+        {
+          "word": " because",
+          "start": 99.42,
+          "end": 99.94,
+          "probability": 0.011075383983552456
+        },
+        {
+          "word": " of",
+          "start": 99.94,
+          "end": 101.12,
+          "probability": 0.14738675951957703
+        },
+        {
+          "word": " a",
+          "start": 101.12,
+          "end": 101.12,
+          "probability": 0.06399697065353394
+        },
+        {
+          "word": " certain",
+          "start": 101.12,
+          "end": 101.12,
+          "probability": 0.04068203642964363
+        },
+        {
+          "word": " ,",
+          "start": 101.12,
+          "end": 101.32,
+          "probability": 0.0004292115045245737
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 7872,
+      "start": 101.32,
+      "end": 102.66,
+      "text": " several upon a given",
+      "tokens": [
+        51563,
+        2940,
+        3564,
+        257,
+        2212,
+        51677
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.674241600967035,
+      "compression_ratio": 1.4901960784313726,
+      "no_speech_prob": 0.2388848066329956,
+      "words": [
+        {
+          "word": " several",
+          "start": 101.32,
+          "end": 101.4,
+          "probability": 0.0023853019811213017
+        },
+        {
+          "word": " upon",
+          "start": 101.4,
+          "end": 101.86,
+          "probability": 2.2699981855112128e-05
+        },
+        {
+          "word": " a",
+          "start": 101.86,
+          "end": 102.16,
+          "probability": 0.17056606709957123
+        },
+        {
+          "word": " given",
+          "start": 102.16,
+          "end": 102.66,
+          "probability": 0.02668130397796631
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 7872,
+      "start": 102.66,
+      "end": 106.0,
+      "text": " that is so great",
+      "tokens": [
+        51688,
+        300,
+        307,
+        370,
+        869,
+        51766
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.674241600967035,
+      "compression_ratio": 1.4901960784313726,
+      "no_speech_prob": 0.2388848066329956,
+      "words": [
+        {
+          "word": " that",
+          "start": 102.66,
+          "end": 103.06,
+          "probability": 0.0038253171369433403
+        },
+        {
+          "word": " is",
+          "start": 103.06,
+          "end": 104.82,
+          "probability": 0.23773187398910522
+        },
+        {
+          "word": " so",
+          "start": 104.82,
+          "end": 105.34,
+          "probability": 0.3622080385684967
+        },
+        {
+          "word": " great",
+          "start": 105.34,
+          "end": 106.0,
+          "probability": 0.21180835366249084
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 10600,
+      "start": 106.0,
+      "end": 110.14,
+      "text": " There is a chance of not achieving the goals of the stars",
+      "tokens": [
+        50364,
+        821,
+        307,
+        257,
+        2931,
+        295,
+        406,
+        19626,
+        264,
+        5493,
+        295,
+        264,
+        6105,
+        50564
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.850256601969401,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.453217089176178,
+      "words": [
+        {
+          "word": " There",
+          "start": 106.0,
+          "end": 106.74,
+          "probability": 0.014833335764706135
+        },
+        {
+          "word": " is",
+          "start": 106.74,
+          "end": 106.92,
+          "probability": 0.5569331645965576
+        },
+        {
+          "word": " a",
+          "start": 106.92,
+          "end": 107.02,
+          "probability": 0.46643465757369995
+        },
+        {
+          "word": " chance",
+          "start": 107.02,
+          "end": 107.34,
+          "probability": 0.3586406707763672
+        },
+        {
+          "word": " of",
+          "start": 107.34,
+          "end": 107.8,
+          "probability": 0.1714058369398117
+        },
+        {
+          "word": " not",
+          "start": 107.8,
+          "end": 107.8,
+          "probability": 0.5787957310676575
+        },
+        {
+          "word": " achieving",
+          "start": 107.8,
+          "end": 108.46,
+          "probability": 0.21935079991817474
+        },
+        {
+          "word": " the",
+          "start": 108.46,
+          "end": 108.84,
+          "probability": 0.4829173684120178
+        },
+        {
+          "word": " goals",
+          "start": 108.84,
+          "end": 108.96,
+          "probability": 0.13004249334335327
+        },
+        {
+          "word": " of",
+          "start": 108.96,
+          "end": 109.24,
+          "probability": 0.8528793454170227
+        },
+        {
+          "word": " the",
+          "start": 109.24,
+          "end": 110.12,
+          "probability": 0.22823819518089294
+        },
+        {
+          "word": " stars",
+          "start": 110.12,
+          "end": 110.14,
+          "probability": 0.02860770747065544
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 10600,
+      "start": 111.0,
+      "end": 113.0,
+      "text": " The goals of Jennifer Lopez",
+      "tokens": [
+        50614,
+        440,
+        5493,
+        295,
+        14351,
+        36077,
+        50714
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.850256601969401,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.453217089176178,
+      "words": [
+        {
+          "word": " The",
+          "start": 111.0,
+          "end": 111.72,
+          "probability": 0.013111453503370285
+        },
+        {
+          "word": " goals",
+          "start": 111.72,
+          "end": 112.1,
+          "probability": 0.3182470500469208
+        },
+        {
+          "word": " of",
+          "start": 112.1,
+          "end": 112.46,
+          "probability": 0.9690854549407959
+        },
+        {
+          "word": " Jennifer",
+          "start": 112.46,
+          "end": 112.9,
+          "probability": 0.7705968618392944
+        },
+        {
+          "word": " Lopez",
+          "start": 112.9,
+          "end": 113.35000000000001,
+          "probability": 0.8009957075119019
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 10600,
+      "start": 113.6,
+      "end": 117.18,
+      "text": " If you look closely at the goals of Jennifer Lopez",
+      "tokens": [
+        50764,
+        759,
+        291,
+        574,
+        8185,
+        412,
+        264,
+        5493,
+        295,
+        14351,
+        36077,
+        50914
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.850256601969401,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.453217089176178,
+      "words": [
+        {
+          "word": " If",
+          "start": 113.6,
+          "end": 114.58,
+          "probability": 0.18000221252441406
+        },
+        {
+          "word": " you",
+          "start": 114.58,
+          "end": 114.94,
+          "probability": 0.4976365268230438
+        },
+        {
+          "word": " look",
+          "start": 114.94,
+          "end": 115.4,
+          "probability": 0.19135798513889313
+        },
+        {
+          "word": " closely",
+          "start": 115.4,
+          "end": 115.5,
+          "probability": 0.41001614928245544
+        },
+        {
+          "word": " at",
+          "start": 115.5,
+          "end": 115.62,
+          "probability": 0.748274028301239
+        },
+        {
+          "word": " the",
+          "start": 115.62,
+          "end": 116.34,
+          "probability": 0.34402599930763245
+        },
+        {
+          "word": " goals",
+          "start": 116.34,
+          "end": 116.34,
+          "probability": 0.9474381804466248
+        },
+        {
+          "word": " of",
+          "start": 116.34,
+          "end": 116.34,
+          "probability": 0.9804361462593079
+        },
+        {
+          "word": " Jennifer",
+          "start": 116.34,
+          "end": 116.68,
+          "probability": 0.9794864654541016
+        },
+        {
+          "word": " Lopez",
+          "start": 116.68,
+          "end": 117.18,
+          "probability": 0.9264964461326599
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 10600,
+      "start": 117.18,
+      "end": 122.54,
+      "text": " because you can define her 100% in the category of...",
+      "tokens": [
+        50914,
+        570,
+        291,
+        393,
+        6964,
+        720,
+        2319,
+        4,
+        294,
+        264,
+        7719,
+        295,
+        485,
+        51114
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.850256601969401,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.453217089176178,
+      "words": [
+        {
+          "word": " because",
+          "start": 117.18,
+          "end": 117.62,
+          "probability": 0.07152152806520462
+        },
+        {
+          "word": " you",
+          "start": 117.62,
+          "end": 118.4,
+          "probability": 0.2822580635547638
+        },
+        {
+          "word": " can",
+          "start": 118.4,
+          "end": 119.06,
+          "probability": 0.5038987994194031
+        },
+        {
+          "word": " define",
+          "start": 119.06,
+          "end": 119.6,
+          "probability": 0.16680677235126495
+        },
+        {
+          "word": " her",
+          "start": 119.6,
+          "end": 119.98,
+          "probability": 0.6013773679733276
+        },
+        {
+          "word": " 100",
+          "start": 119.98,
+          "end": 120.4,
+          "probability": 0.5478603839874268
+        },
+        {
+          "word": "%",
+          "start": 120.4,
+          "end": 120.78,
+          "probability": 0.938040554523468
+        },
+        {
+          "word": " in",
+          "start": 120.78,
+          "end": 120.98,
+          "probability": 0.691655695438385
+        },
+        {
+          "word": " the",
+          "start": 120.98,
+          "end": 121.64,
+          "probability": 0.9404127597808838
+        },
+        {
+          "word": " category",
+          "start": 121.64,
+          "end": 122.3,
+          "probability": 0.7363208532333374
+        },
+        {
+          "word": " of...",
+          "start": 122.3,
+          "end": 122.54,
+          "probability": 0.15854905173182487
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 10600,
+      "start": 122.54,
+      "end": 123.02,
+      "text": " Agass",
+      "tokens": [
+        51164,
+        2725,
+        640,
+        51214
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.850256601969401,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.453217089176178,
+      "words": [
+        {
+          "word": " Agass",
+          "start": 122.54,
+          "end": 123.02,
+          "probability": 0.29395977035164833
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 10600,
+      "start": 124.0,
+      "end": 127.28,
+      "text": " Even though her star strength is not different",
+      "tokens": [
+        51264,
+        2754,
+        1673,
+        720,
+        3543,
+        3800,
+        307,
+        406,
+        819,
+        51364
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.850256601969401,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.453217089176178,
+      "words": [
+        {
+          "word": " Even",
+          "start": 123.75,
+          "end": 124.2,
+          "probability": 0.4061334431171417
+        },
+        {
+          "word": " though",
+          "start": 124.2,
+          "end": 124.54,
+          "probability": 0.9123966097831726
+        },
+        {
+          "word": " her",
+          "start": 124.54,
+          "end": 124.94,
+          "probability": 0.3771304786205292
+        },
+        {
+          "word": " star",
+          "start": 124.94,
+          "end": 125.54,
+          "probability": 0.24912169575691223
+        },
+        {
+          "word": " strength",
+          "start": 125.54,
+          "end": 125.58,
+          "probability": 0.2632540464401245
+        },
+        {
+          "word": " is",
+          "start": 125.58,
+          "end": 126.04,
+          "probability": 0.5632320642471313
+        },
+        {
+          "word": " not",
+          "start": 126.04,
+          "end": 126.28,
+          "probability": 0.3261142075061798
+        },
+        {
+          "word": " different",
+          "start": 126.28,
+          "end": 127.28,
+          "probability": 0.7482275366783142
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 10600,
+      "start": 127.28,
+      "end": 128.98,
+      "text": " in large quantities",
+      "tokens": [
+        51414,
+        294,
+        2416,
+        22927,
+        51464
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.850256601969401,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.453217089176178,
+      "words": [
+        {
+          "word": " in",
+          "start": 127.28,
+          "end": 127.74,
+          "probability": 0.39312684535980225
+        },
+        {
+          "word": " large",
+          "start": 127.74,
+          "end": 128.48,
+          "probability": 0.4267362952232361
+        },
+        {
+          "word": " quantities",
+          "start": 128.48,
+          "end": 128.98,
+          "probability": 0.7304021716117859
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 10600,
+      "start": 128.98,
+      "end": 131.0,
+      "text": " her values are very explicit",
+      "tokens": [
+        51514,
+        720,
+        4190,
+        366,
+        588,
+        13691,
+        51614
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.850256601969401,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.453217089176178,
+      "words": [
+        {
+          "word": " her",
+          "start": 128.98,
+          "end": 129.26,
+          "probability": 0.42569199204444885
+        },
+        {
+          "word": " values",
+          "start": 129.26,
+          "end": 129.82,
+          "probability": 0.03680676966905594
+        },
+        {
+          "word": " are",
+          "start": 129.82,
+          "end": 130.28,
+          "probability": 0.9045489430427551
+        },
+        {
+          "word": " very",
+          "start": 130.28,
+          "end": 130.5,
+          "probability": 0.5569155216217041
+        },
+        {
+          "word": " explicit",
+          "start": 130.5,
+          "end": 131.0,
+          "probability": 0.2746649384498596
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 13100,
+      "start": 131.0,
+      "end": 135.68,
+      "text": " She is a very strong woman",
+      "tokens": [
+        50364,
+        1240,
+        307,
+        257,
+        588,
+        2068,
+        3059,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9579140663146972,
+      "compression_ratio": 2.180451127819549,
+      "no_speech_prob": 0.11902691423892975,
+      "words": [
+        {
+          "word": " She",
+          "start": 131.0,
+          "end": 132.8,
+          "probability": 0.006389341317117214
+        },
+        {
+          "word": " is",
+          "start": 132.8,
+          "end": 134.28,
+          "probability": 0.07561924308538437
+        },
+        {
+          "word": " a",
+          "start": 134.28,
+          "end": 134.28,
+          "probability": 0.06186338886618614
+        },
+        {
+          "word": " very",
+          "start": 134.28,
+          "end": 134.56,
+          "probability": 0.05618733540177345
+        },
+        {
+          "word": " strong",
+          "start": 134.56,
+          "end": 135.68,
+          "probability": 0.039330288767814636
+        },
+        {
+          "word": " woman",
+          "start": 135.68,
+          "end": 135.68,
+          "probability": 0.10004545748233795
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 13100,
+      "start": 135.68,
+      "end": 136.0,
+      "text": " with a lot of respect for her",
+      "tokens": [
+        50514,
+        365,
+        257,
+        688,
+        295,
+        3104,
+        337,
+        720,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9579140663146972,
+      "compression_ratio": 2.180451127819549,
+      "no_speech_prob": 0.11902691423892975,
+      "words": [
+        {
+          "word": " with",
+          "start": 135.68,
+          "end": 135.68,
+          "probability": 0.03197624906897545
+        },
+        {
+          "word": " a",
+          "start": 135.68,
+          "end": 135.68,
+          "probability": 0.27910158038139343
+        },
+        {
+          "word": " lot",
+          "start": 135.68,
+          "end": 135.68,
+          "probability": 0.08931456506252289
+        },
+        {
+          "word": " of",
+          "start": 135.68,
+          "end": 135.68,
+          "probability": 0.9734935164451599
+        },
+        {
+          "word": " respect",
+          "start": 135.68,
+          "end": 135.68,
+          "probability": 0.005918951705098152
+        },
+        {
+          "word": " for",
+          "start": 135.68,
+          "end": 135.68,
+          "probability": 0.4364009499549866
+        },
+        {
+          "word": " her",
+          "start": 135.68,
+          "end": 136.0,
+          "probability": 0.3347143232822418
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 13100,
+      "start": 136.0,
+      "end": 138.98,
+      "text": " She is a very strong woman",
+      "tokens": [
+        50664,
+        1240,
+        307,
+        257,
+        588,
+        2068,
+        3059,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9579140663146972,
+      "compression_ratio": 2.180451127819549,
+      "no_speech_prob": 0.11902691423892975,
+      "words": [
+        {
+          "word": " She",
+          "start": 136.0,
+          "end": 136.66,
+          "probability": 0.001139526953920722
+        },
+        {
+          "word": " is",
+          "start": 136.66,
+          "end": 137.82,
+          "probability": 0.2813723385334015
+        },
+        {
+          "word": " a",
+          "start": 137.82,
+          "end": 138.0,
+          "probability": 0.25686681270599365
+        },
+        {
+          "word": " very",
+          "start": 138.0,
+          "end": 138.98,
+          "probability": 0.3185684382915497
+        },
+        {
+          "word": " strong",
+          "start": 138.98,
+          "end": 138.98,
+          "probability": 0.5383347868919373
+        },
+        {
+          "word": " woman",
+          "start": 138.98,
+          "end": 138.98,
+          "probability": 0.9618051648139954
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 13100,
+      "start": 138.98,
+      "end": 142.24,
+      "text": " with a lot of respect for her",
+      "tokens": [
+        50814,
+        365,
+        257,
+        688,
+        295,
+        3104,
+        337,
+        720,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9579140663146972,
+      "compression_ratio": 2.180451127819549,
+      "no_speech_prob": 0.11902691423892975,
+      "words": [
+        {
+          "word": " with",
+          "start": 138.98,
+          "end": 139.44,
+          "probability": 0.8849183917045593
+        },
+        {
+          "word": " a",
+          "start": 139.44,
+          "end": 139.48,
+          "probability": 0.9949997663497925
+        },
+        {
+          "word": " lot",
+          "start": 139.48,
+          "end": 141.58,
+          "probability": 0.99405837059021
+        },
+        {
+          "word": " of",
+          "start": 141.58,
+          "end": 141.58,
+          "probability": 0.9988560676574707
+        },
+        {
+          "word": " respect",
+          "start": 141.58,
+          "end": 141.58,
+          "probability": 0.9960970282554626
+        },
+        {
+          "word": " for",
+          "start": 141.58,
+          "end": 141.6,
+          "probability": 0.9973168969154358
+        },
+        {
+          "word": " her",
+          "start": 141.6,
+          "end": 142.24,
+          "probability": 0.9972067475318909
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 13100,
+      "start": 143.0,
+      "end": 147.06,
+      "text": " and that makes you think that she is a very strong woman",
+      "tokens": [
+        50964,
+        293,
+        300,
+        1669,
+        291,
+        519,
+        300,
+        750,
+        307,
+        257,
+        588,
+        2068,
+        3059,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9579140663146972,
+      "compression_ratio": 2.180451127819549,
+      "no_speech_prob": 0.11902691423892975,
+      "words": [
+        {
+          "word": " and",
+          "start": 142.69,
+          "end": 143.24,
+          "probability": 0.06837692111730576
+        },
+        {
+          "word": " that",
+          "start": 143.24,
+          "end": 143.36,
+          "probability": 0.04797600209712982
+        },
+        {
+          "word": " makes",
+          "start": 143.36,
+          "end": 143.48,
+          "probability": 0.09875613451004028
+        },
+        {
+          "word": " you",
+          "start": 143.48,
+          "end": 144.32,
+          "probability": 0.10875274240970612
+        },
+        {
+          "word": " think",
+          "start": 144.32,
+          "end": 144.32,
+          "probability": 0.6342770457267761
+        },
+        {
+          "word": " that",
+          "start": 144.32,
+          "end": 144.8,
+          "probability": 0.46832436323165894
+        },
+        {
+          "word": " she",
+          "start": 144.8,
+          "end": 145.82,
+          "probability": 0.5205249190330505
+        },
+        {
+          "word": " is",
+          "start": 145.82,
+          "end": 145.82,
+          "probability": 0.5344882011413574
+        },
+        {
+          "word": " a",
+          "start": 145.82,
+          "end": 145.82,
+          "probability": 0.2459741234779358
+        },
+        {
+          "word": " very",
+          "start": 145.82,
+          "end": 145.82,
+          "probability": 0.11930457502603531
+        },
+        {
+          "word": " strong",
+          "start": 145.82,
+          "end": 147.06,
+          "probability": 0.3817973732948303
+        },
+        {
+          "word": " woman",
+          "start": 147.06,
+          "end": 147.06,
+          "probability": 0.6204601526260376
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 13100,
+      "start": 148.0,
+      "end": 151.4,
+      "text": " In this case, Jennifer is very strong",
+      "tokens": [
+        51214,
+        682,
+        341,
+        1389,
+        11,
+        14351,
+        307,
+        588,
+        2068,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9579140663146972,
+      "compression_ratio": 2.180451127819549,
+      "no_speech_prob": 0.11902691423892975,
+      "words": [
+        {
+          "word": " In",
+          "start": 147.60999999999999,
+          "end": 148.16,
+          "probability": 0.07174304127693176
+        },
+        {
+          "word": " this",
+          "start": 148.16,
+          "end": 148.16,
+          "probability": 0.5258574485778809
+        },
+        {
+          "word": " case,",
+          "start": 148.16,
+          "end": 149.06,
+          "probability": 0.9235520958900452
+        },
+        {
+          "word": " Jennifer",
+          "start": 149.36,
+          "end": 149.78,
+          "probability": 0.9306133389472961
+        },
+        {
+          "word": " is",
+          "start": 149.78,
+          "end": 150.1,
+          "probability": 0.1856592297554016
+        },
+        {
+          "word": " very",
+          "start": 150.1,
+          "end": 150.62,
+          "probability": 0.10718566179275513
+        },
+        {
+          "word": " strong",
+          "start": 150.62,
+          "end": 151.4,
+          "probability": 0.04443637654185295
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 13100,
+      "start": 151.4,
+      "end": 153.04,
+      "text": " even though she is a bit more aggressive",
+      "tokens": [
+        51414,
+        754,
+        1673,
+        750,
+        307,
+        257,
+        857,
+        544,
+        10762,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9579140663146972,
+      "compression_ratio": 2.180451127819549,
+      "no_speech_prob": 0.11902691423892975,
+      "words": [
+        {
+          "word": " even",
+          "start": 151.4,
+          "end": 151.9,
+          "probability": 0.07711293548345566
+        },
+        {
+          "word": " though",
+          "start": 151.9,
+          "end": 151.9,
+          "probability": 0.28422999382019043
+        },
+        {
+          "word": " she",
+          "start": 151.9,
+          "end": 151.9,
+          "probability": 0.7221049070358276
+        },
+        {
+          "word": " is",
+          "start": 151.9,
+          "end": 151.9,
+          "probability": 0.31501439213752747
+        },
+        {
+          "word": " a",
+          "start": 151.9,
+          "end": 151.9,
+          "probability": 0.17826411128044128
+        },
+        {
+          "word": " bit",
+          "start": 151.9,
+          "end": 152.1,
+          "probability": 0.18962544202804565
+        },
+        {
+          "word": " more",
+          "start": 152.1,
+          "end": 153.04,
+          "probability": 0.036563094705343246
+        },
+        {
+          "word": " aggressive",
+          "start": 153.04,
+          "end": 153.04,
+          "probability": 0.06581700593233109
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 13100,
+      "start": 153.04,
+      "end": 156.56,
+      "text": " Even though she is a bit more aggressive",
+      "tokens": [
+        51564,
+        2754,
+        1673,
+        750,
+        307,
+        257,
+        857,
+        544,
+        10762,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9579140663146972,
+      "compression_ratio": 2.180451127819549,
+      "no_speech_prob": 0.11902691423892975,
+      "words": [
+        {
+          "word": " Even",
+          "start": 153.04,
+          "end": 153.72,
+          "probability": 0.2100711613893509
+        },
+        {
+          "word": " though",
+          "start": 153.72,
+          "end": 154.3,
+          "probability": 0.640632688999176
+        },
+        {
+          "word": " she",
+          "start": 154.3,
+          "end": 154.38,
+          "probability": 0.8656648397445679
+        },
+        {
+          "word": " is",
+          "start": 154.38,
+          "end": 155.78,
+          "probability": 0.6898306012153625
+        },
+        {
+          "word": " a",
+          "start": 155.78,
+          "end": 155.78,
+          "probability": 0.596794605255127
+        },
+        {
+          "word": " bit",
+          "start": 155.78,
+          "end": 155.98,
+          "probability": 0.9671487212181091
+        },
+        {
+          "word": " more",
+          "start": 155.98,
+          "end": 156.08,
+          "probability": 0.9903842210769653
+        },
+        {
+          "word": " aggressive",
+          "start": 156.08,
+          "end": 156.56,
+          "probability": 0.9868955016136169
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 15656,
+      "start": 156.56,
+      "end": 158.42,
+      "text": " She is very attractive by the way she looks",
+      "tokens": [
+        50364,
+        1240,
+        307,
+        588,
+        12609,
+        538,
+        264,
+        636,
+        750,
+        1542,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7438211832960991,
+      "compression_ratio": 1.6470588235294117,
+      "no_speech_prob": 0.28739580512046814,
+      "words": [
+        {
+          "word": " She",
+          "start": 156.56,
+          "end": 157.64,
+          "probability": 0.005066987127065659
+        },
+        {
+          "word": " is",
+          "start": 157.64,
+          "end": 157.64,
+          "probability": 0.1466769576072693
+        },
+        {
+          "word": " very",
+          "start": 157.64,
+          "end": 157.64,
+          "probability": 0.031697675585746765
+        },
+        {
+          "word": " attractive",
+          "start": 157.64,
+          "end": 157.64,
+          "probability": 0.42212387919425964
+        },
+        {
+          "word": " by",
+          "start": 157.64,
+          "end": 157.64,
+          "probability": 0.0014978350372985005
+        },
+        {
+          "word": " the",
+          "start": 157.64,
+          "end": 157.64,
+          "probability": 0.237267404794693
+        },
+        {
+          "word": " way",
+          "start": 157.64,
+          "end": 157.88,
+          "probability": 0.6224367618560791
+        },
+        {
+          "word": " she",
+          "start": 157.88,
+          "end": 158.08,
+          "probability": 0.36296164989471436
+        },
+        {
+          "word": " looks",
+          "start": 158.08,
+          "end": 158.42,
+          "probability": 0.1991269439458847
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 15656,
+      "start": 159.54,
+      "end": 164.96,
+      "text": " The truth is that the image of Jennifer Lopez is very similar",
+      "tokens": [
+        50514,
+        440,
+        3494,
+        307,
+        300,
+        264,
+        3256,
+        295,
+        14351,
+        36077,
+        307,
+        588,
+        2531,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7438211832960991,
+      "compression_ratio": 1.6470588235294117,
+      "no_speech_prob": 0.28739580512046814,
+      "words": [
+        {
+          "word": " The",
+          "start": 159.54,
+          "end": 160.48,
+          "probability": 0.025801561772823334
+        },
+        {
+          "word": " truth",
+          "start": 160.48,
+          "end": 161.28,
+          "probability": 0.12684574723243713
+        },
+        {
+          "word": " is",
+          "start": 161.28,
+          "end": 161.38,
+          "probability": 0.9054945111274719
+        },
+        {
+          "word": " that",
+          "start": 161.38,
+          "end": 161.76,
+          "probability": 0.5330840945243835
+        },
+        {
+          "word": " the",
+          "start": 161.76,
+          "end": 161.76,
+          "probability": 0.2505201995372772
+        },
+        {
+          "word": " image",
+          "start": 161.76,
+          "end": 162.14,
+          "probability": 0.13759149610996246
+        },
+        {
+          "word": " of",
+          "start": 162.14,
+          "end": 162.44,
+          "probability": 0.9306724667549133
+        },
+        {
+          "word": " Jennifer",
+          "start": 162.44,
+          "end": 162.8,
+          "probability": 0.9631699323654175
+        },
+        {
+          "word": " Lopez",
+          "start": 162.8,
+          "end": 163.52,
+          "probability": 0.7145894765853882
+        },
+        {
+          "word": " is",
+          "start": 163.52,
+          "end": 163.98,
+          "probability": 0.4332226514816284
+        },
+        {
+          "word": " very",
+          "start": 163.98,
+          "end": 164.42,
+          "probability": 0.15617479383945465
+        },
+        {
+          "word": " similar",
+          "start": 164.42,
+          "end": 164.96,
+          "probability": 0.12371191382408142
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 15656,
+      "start": 165.56,
+      "end": 168.94,
+      "text": " How fast she can bring back her previous attraction",
+      "tokens": [
+        50814,
+        1012,
+        2370,
+        750,
+        393,
+        1565,
+        646,
+        720,
+        3894,
+        17672,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7438211832960991,
+      "compression_ratio": 1.6470588235294117,
+      "no_speech_prob": 0.28739580512046814,
+      "words": [
+        {
+          "word": " How",
+          "start": 165.19,
+          "end": 165.66,
+          "probability": 0.08006777614355087
+        },
+        {
+          "word": " fast",
+          "start": 165.66,
+          "end": 166.18,
+          "probability": 0.601180374622345
+        },
+        {
+          "word": " she",
+          "start": 166.18,
+          "end": 166.86,
+          "probability": 0.12352669984102249
+        },
+        {
+          "word": " can",
+          "start": 166.86,
+          "end": 166.98,
+          "probability": 0.11132493615150452
+        },
+        {
+          "word": " bring",
+          "start": 166.98,
+          "end": 167.28,
+          "probability": 0.2304309904575348
+        },
+        {
+          "word": " back",
+          "start": 167.28,
+          "end": 167.66,
+          "probability": 0.8569468259811401
+        },
+        {
+          "word": " her",
+          "start": 167.66,
+          "end": 168.34,
+          "probability": 0.7763217091560364
+        },
+        {
+          "word": " previous",
+          "start": 168.34,
+          "end": 168.86,
+          "probability": 0.48139187693595886
+        },
+        {
+          "word": " attraction",
+          "start": 168.86,
+          "end": 168.94,
+          "probability": 0.4565805196762085
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 15656,
+      "start": 169.56,
+      "end": 172.78,
+      "text": " to the past is very shocking",
+      "tokens": [
+        51014,
+        281,
+        264,
+        1791,
+        307,
+        588,
+        18776,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7438211832960991,
+      "compression_ratio": 1.6470588235294117,
+      "no_speech_prob": 0.28739580512046814,
+      "words": [
+        {
+          "word": " to",
+          "start": 169.13,
+          "end": 169.6,
+          "probability": 0.3755857050418854
+        },
+        {
+          "word": " the",
+          "start": 169.6,
+          "end": 170.4,
+          "probability": 0.37670233845710754
+        },
+        {
+          "word": " past",
+          "start": 170.4,
+          "end": 170.4,
+          "probability": 0.08635712414979935
+        },
+        {
+          "word": " is",
+          "start": 170.4,
+          "end": 170.56,
+          "probability": 0.23325403034687042
+        },
+        {
+          "word": " very",
+          "start": 170.56,
+          "end": 171.56,
+          "probability": 0.43438807129859924
+        },
+        {
+          "word": " shocking",
+          "start": 171.56,
+          "end": 172.78,
+          "probability": 0.10918155312538147
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 15656,
+      "start": 173.56,
+      "end": 176.44,
+      "text": " And maybe the biggest desire of Jennifer",
+      "tokens": [
+        51214,
+        400,
+        1310,
+        264,
+        3880,
+        7516,
+        295,
+        14351,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7438211832960991,
+      "compression_ratio": 1.6470588235294117,
+      "no_speech_prob": 0.28739580512046814,
+      "words": [
+        {
+          "word": " And",
+          "start": 173.17,
+          "end": 173.64,
+          "probability": 0.4665280878543854
+        },
+        {
+          "word": " maybe",
+          "start": 173.64,
+          "end": 174.46,
+          "probability": 0.8296517729759216
+        },
+        {
+          "word": " the",
+          "start": 174.46,
+          "end": 174.82,
+          "probability": 0.29852890968322754
+        },
+        {
+          "word": " biggest",
+          "start": 174.82,
+          "end": 175.42,
+          "probability": 0.2515054941177368
+        },
+        {
+          "word": " desire",
+          "start": 175.42,
+          "end": 175.42,
+          "probability": 0.22734542191028595
+        },
+        {
+          "word": " of",
+          "start": 175.42,
+          "end": 175.78,
+          "probability": 0.8879210948944092
+        },
+        {
+          "word": " Jennifer",
+          "start": 175.78,
+          "end": 176.44,
+          "probability": 0.9409300684928894
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 15656,
+      "start": 176.44,
+      "end": 179.56,
+      "text": " and her desire to be beautiful and smart",
+      "tokens": [
+        51414,
+        293,
+        720,
+        7516,
+        281,
+        312,
+        2238,
+        293,
+        4069,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7438211832960991,
+      "compression_ratio": 1.6470588235294117,
+      "no_speech_prob": 0.28739580512046814,
+      "words": [
+        {
+          "word": " and",
+          "start": 176.44,
+          "end": 177.56,
+          "probability": 0.5718148350715637
+        },
+        {
+          "word": " her",
+          "start": 177.56,
+          "end": 177.72,
+          "probability": 0.7744777798652649
+        },
+        {
+          "word": " desire",
+          "start": 177.72,
+          "end": 178.2,
+          "probability": 0.7279666066169739
+        },
+        {
+          "word": " to",
+          "start": 178.2,
+          "end": 178.58,
+          "probability": 0.9776608943939209
+        },
+        {
+          "word": " be",
+          "start": 178.58,
+          "end": 178.78,
+          "probability": 0.969376802444458
+        },
+        {
+          "word": " beautiful",
+          "start": 178.78,
+          "end": 179.2,
+          "probability": 0.2415114939212799
+        },
+        {
+          "word": " and",
+          "start": 179.2,
+          "end": 179.46,
+          "probability": 0.9761081337928772
+        },
+        {
+          "word": " smart",
+          "start": 179.46,
+          "end": 179.93,
+          "probability": 0.2305774837732315
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 15656,
+      "start": 180.34,
+      "end": 185.96,
+      "text": " makes her even more attractive and sexy",
+      "tokens": [
+        51564,
+        1669,
+        720,
+        754,
+        544,
+        12609,
+        293,
+        13701,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7438211832960991,
+      "compression_ratio": 1.6470588235294117,
+      "no_speech_prob": 0.28739580512046814,
+      "words": [
+        {
+          "word": " makes",
+          "start": 180.34,
+          "end": 181.16,
+          "probability": 0.3124155104160309
+        },
+        {
+          "word": " her",
+          "start": 181.16,
+          "end": 181.6,
+          "probability": 0.891635537147522
+        },
+        {
+          "word": " even",
+          "start": 181.6,
+          "end": 182.0,
+          "probability": 0.25711163878440857
+        },
+        {
+          "word": " more",
+          "start": 182.0,
+          "end": 182.26,
+          "probability": 0.7194855213165283
+        },
+        {
+          "word": " attractive",
+          "start": 182.26,
+          "end": 183.0,
+          "probability": 0.6910474896430969
+        },
+        {
+          "word": " and",
+          "start": 183.0,
+          "end": 185.18,
+          "probability": 0.715592622756958
+        },
+        {
+          "word": " sexy",
+          "start": 185.18,
+          "end": 185.96,
+          "probability": 0.9687018990516663
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 18656,
+      "start": 203.23999999999998,
+      "end": 216.14,
+      "text": " And that makes me think that she is very beautiful",
+      "tokens": [
+        50364,
+        400,
+        300,
+        1669,
+        385,
+        519,
+        300,
+        750,
+        307,
+        588,
+        2238,
+        50464
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.9239057964748807,
+      "compression_ratio": 2.3684210526315788,
+      "no_speech_prob": 0.6248964667320251,
+      "words": [
+        {
+          "word": " And",
+          "start": 203.23999999999998,
+          "end": 204.2,
+          "probability": 0.0007711027283221483
+        },
+        {
+          "word": " that",
+          "start": 204.2,
+          "end": 205.16,
+          "probability": 0.09083737432956696
+        },
+        {
+          "word": " makes",
+          "start": 205.16,
+          "end": 213.04,
+          "probability": 0.004012713208794594
+        },
+        {
+          "word": " me",
+          "start": 213.04,
+          "end": 213.52,
+          "probability": 0.11583311855792999
+        },
+        {
+          "word": " think",
+          "start": 213.52,
+          "end": 216.0,
+          "probability": 0.03498663008213043
+        },
+        {
+          "word": " that",
+          "start": 216.0,
+          "end": 216.12,
+          "probability": 0.11214417219161987
+        },
+        {
+          "word": " she",
+          "start": 216.12,
+          "end": 216.12,
+          "probability": 0.015440602786839008
+        },
+        {
+          "word": " is",
+          "start": 216.12,
+          "end": 216.12,
+          "probability": 0.07130374759435654
+        },
+        {
+          "word": " very",
+          "start": 216.12,
+          "end": 216.14,
+          "probability": 0.006286744959652424
+        },
+        {
+          "word": " beautiful",
+          "start": 216.14,
+          "end": 216.14,
+          "probability": 0.0666375383734703
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 18656,
+      "start": 216.14,
+      "end": 216.14,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.4,
+      "avg_logprob": -0.9239057964748807,
+      "compression_ratio": 2.3684210526315788,
+      "no_speech_prob": 0.6248964667320251,
+      "words": []
+    },
+    {
+      "id": 37,
+      "seek": 18656,
+      "start": 216.14,
+      "end": 216.14,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.4,
+      "avg_logprob": -0.9239057964748807,
+      "compression_ratio": 2.3684210526315788,
+      "no_speech_prob": 0.6248964667320251,
+      "words": []
+    },
+    {
+      "id": 38,
+      "seek": 18656,
+      "start": 216.14,
+      "end": 216.16,
+      "text": " What I am saying is that",
+      "tokens": [
+        50814,
+        708,
+        286,
+        669,
+        1566,
+        307,
+        300,
+        50914
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.9239057964748807,
+      "compression_ratio": 2.3684210526315788,
+      "no_speech_prob": 0.6248964667320251,
+      "words": [
+        {
+          "word": " What",
+          "start": 216.14,
+          "end": 216.14,
+          "probability": 0.0030246113892644644
+        },
+        {
+          "word": " I",
+          "start": 216.14,
+          "end": 216.14,
+          "probability": 0.1099802628159523
+        },
+        {
+          "word": " am",
+          "start": 216.14,
+          "end": 216.14,
+          "probability": 0.09117292612791061
+        },
+        {
+          "word": " saying",
+          "start": 216.14,
+          "end": 216.16,
+          "probability": 0.10422879457473755
+        },
+        {
+          "word": " is",
+          "start": 216.16,
+          "end": 216.16,
+          "probability": 0.6729928255081177
+        },
+        {
+          "word": " that",
+          "start": 216.16,
+          "end": 216.16,
+          "probability": 0.6237998008728027
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 18656,
+      "start": 216.16,
+      "end": 216.16,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.4,
+      "avg_logprob": -0.9239057964748807,
+      "compression_ratio": 2.3684210526315788,
+      "no_speech_prob": 0.6248964667320251,
+      "words": []
+    },
+    {
+      "id": 40,
+      "seek": 18656,
+      "start": 216.16,
+      "end": 216.16,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.4,
+      "avg_logprob": -0.9239057964748807,
+      "compression_ratio": 2.3684210526315788,
+      "no_speech_prob": 0.6248964667320251,
+      "words": []
+    },
+    {
+      "id": 41,
+      "seek": 18656,
+      "start": 216.16,
+      "end": 216.16,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.4,
+      "avg_logprob": -0.9239057964748807,
+      "compression_ratio": 2.3684210526315788,
+      "no_speech_prob": 0.6248964667320251,
+      "words": []
+    },
+    {
+      "id": 42,
+      "seek": 18656,
+      "start": 216.16,
+      "end": 216.16,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.4,
+      "avg_logprob": -0.9239057964748807,
+      "compression_ratio": 2.3684210526315788,
+      "no_speech_prob": 0.6248964667320251,
+      "words": []
+    },
+    {
+      "id": 43,
+      "seek": 18656,
+      "start": 216.16,
+      "end": 216.26,
+      "text": " and she is very attractive",
+      "tokens": [
+        51564,
+        293,
+        750,
+        307,
+        588,
+        12609,
+        51664
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.9239057964748807,
+      "compression_ratio": 2.3684210526315788,
+      "no_speech_prob": 0.6248964667320251,
+      "words": [
+        {
+          "word": " and",
+          "start": 216.16,
+          "end": 216.16,
+          "probability": 0.5714471936225891
+        },
+        {
+          "word": " she",
+          "start": 216.16,
+          "end": 216.16,
+          "probability": 0.7052006721496582
+        },
+        {
+          "word": " is",
+          "start": 216.16,
+          "end": 216.16,
+          "probability": 0.833782970905304
+        },
+        {
+          "word": " very",
+          "start": 216.16,
+          "end": 216.16,
+          "probability": 0.894620418548584
+        },
+        {
+          "word": " attractive",
+          "start": 216.16,
+          "end": 216.26,
+          "probability": 0.9916893243789673
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 21626,
+      "start": 218.34,
+      "end": 219.74,
+      "text": " and she is very attractive",
+      "tokens": [
+        50364,
+        293,
+        750,
+        307,
+        588,
+        12609,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6451291441917419,
+      "compression_ratio": 0.7647058823529411,
+      "no_speech_prob": 0.9310226440429688,
+      "words": [
+        {
+          "word": " and",
+          "start": 218.34,
+          "end": 219.74,
+          "probability": 0.003237129421904683
+        },
+        {
+          "word": " she",
+          "start": 219.74,
+          "end": 219.74,
+          "probability": 0.0023182393051683903
+        },
+        {
+          "word": " is",
+          "start": 219.74,
+          "end": 219.74,
+          "probability": 0.05024062469601631
+        },
+        {
+          "word": " very",
+          "start": 219.74,
+          "end": 219.74,
+          "probability": 0.007533296477049589
+        },
+        {
+          "word": " attractive",
+          "start": 219.74,
+          "end": 219.74,
+          "probability": 0.0034022689796984196
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,1551 @@
+{
+  "text": " They jumped. I had a bad dream. I was wandering around at some party and I arrived in this open space. There is a long queue of men. I go to the front to see what the attraction is. There is a woman lying naked on her side with her back to the queue, like those muses posing in the nude for their male painters. I walk past this long queue of men waiting for their turn to have a go and using her body to pleasure themselves. I go to the front of the queue to see her, her long brown hair strapping beside her, one eye half open, squinting, intoxicating. She was nearly passed out. I don't know if she was aware of her oldness, nor do I know. I think she was, somehow. She was in pain, mentally. There were two old men. One was lying on the floor, one his back. The other was kneeling down beside him and they were discussing how they were going to perform this act. I walked off and was horrified. I don't think she wanted my help, although she was the only one who saw me.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 17.88,
+      "text": " They jumped. I had a bad dream. I was wandering around at some party and I arrived in this open space.",
+      "tokens": [
+        50364,
+        814,
+        13864,
+        13,
+        286,
+        632,
+        257,
+        1578,
+        3055,
+        13,
+        286,
+        390,
+        26396,
+        926,
+        412,
+        512,
+        3595,
+        293,
+        286,
+        6678,
+        294,
+        341,
+        1269,
+        1901,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32936491285051617,
+      "compression_ratio": 1.146067415730337,
+      "no_speech_prob": 0.34259751439094543,
+      "words": [
+        {
+          "word": " They",
+          "start": 0.0,
+          "end": 1.58,
+          "probability": 0.06540007889270782
+        },
+        {
+          "word": " jumped.",
+          "start": 1.58,
+          "end": 2.54,
+          "probability": 0.6655378341674805
+        },
+        {
+          "word": " I",
+          "start": 3.94,
+          "end": 4.22,
+          "probability": 0.923815906047821
+        },
+        {
+          "word": " had",
+          "start": 4.22,
+          "end": 4.52,
+          "probability": 0.9927371144294739
+        },
+        {
+          "word": " a",
+          "start": 4.52,
+          "end": 4.78,
+          "probability": 0.9898900985717773
+        },
+        {
+          "word": " bad",
+          "start": 4.78,
+          "end": 5.08,
+          "probability": 0.9986802935600281
+        },
+        {
+          "word": " dream.",
+          "start": 5.08,
+          "end": 5.74,
+          "probability": 0.9981158971786499
+        },
+        {
+          "word": " I",
+          "start": 7.3,
+          "end": 7.68,
+          "probability": 0.964432418346405
+        },
+        {
+          "word": " was",
+          "start": 7.68,
+          "end": 8.04,
+          "probability": 0.9943162798881531
+        },
+        {
+          "word": " wandering",
+          "start": 8.04,
+          "end": 8.62,
+          "probability": 0.9361292123794556
+        },
+        {
+          "word": " around",
+          "start": 8.62,
+          "end": 9.46,
+          "probability": 0.9807727336883545
+        },
+        {
+          "word": " at",
+          "start": 9.46,
+          "end": 10.28,
+          "probability": 0.875069260597229
+        },
+        {
+          "word": " some",
+          "start": 10.28,
+          "end": 10.84,
+          "probability": 0.581789493560791
+        },
+        {
+          "word": " party",
+          "start": 10.84,
+          "end": 12.22,
+          "probability": 0.9394510984420776
+        },
+        {
+          "word": " and",
+          "start": 12.22,
+          "end": 14.5,
+          "probability": 0.3759426176548004
+        },
+        {
+          "word": " I",
+          "start": 14.5,
+          "end": 15.24,
+          "probability": 0.8903450965881348
+        },
+        {
+          "word": " arrived",
+          "start": 15.24,
+          "end": 15.68,
+          "probability": 0.9904994368553162
+        },
+        {
+          "word": " in",
+          "start": 15.68,
+          "end": 16.08,
+          "probability": 0.874941349029541
+        },
+        {
+          "word": " this",
+          "start": 16.08,
+          "end": 16.44,
+          "probability": 0.9260975122451782
+        },
+        {
+          "word": " open",
+          "start": 16.44,
+          "end": 17.06,
+          "probability": 0.9678844213485718
+        },
+        {
+          "word": " space.",
+          "start": 17.06,
+          "end": 17.88,
+          "probability": 0.9966312050819397
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 1788,
+      "start": 18.88,
+      "end": 27.9,
+      "text": " There is a long queue of men. I go to the front to see what the attraction is.",
+      "tokens": [
+        50414,
+        821,
+        307,
+        257,
+        938,
+        18639,
+        295,
+        1706,
+        13,
+        286,
+        352,
+        281,
+        264,
+        1868,
+        281,
+        536,
+        437,
+        264,
+        17672,
+        307,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16646109494295988,
+      "compression_ratio": 1.475177304964539,
+      "no_speech_prob": 0.8180898427963257,
+      "words": [
+        {
+          "word": " There",
+          "start": 18.88,
+          "end": 19.38,
+          "probability": 0.3680177330970764
+        },
+        {
+          "word": " is",
+          "start": 19.38,
+          "end": 19.74,
+          "probability": 0.7073018550872803
+        },
+        {
+          "word": " a",
+          "start": 19.74,
+          "end": 19.92,
+          "probability": 0.9451656341552734
+        },
+        {
+          "word": " long",
+          "start": 19.92,
+          "end": 20.34,
+          "probability": 0.934259831905365
+        },
+        {
+          "word": " queue",
+          "start": 20.34,
+          "end": 20.86,
+          "probability": 0.9843983054161072
+        },
+        {
+          "word": " of",
+          "start": 20.86,
+          "end": 21.1,
+          "probability": 0.7521613836288452
+        },
+        {
+          "word": " men.",
+          "start": 21.1,
+          "end": 22.1,
+          "probability": 0.9690155982971191
+        },
+        {
+          "word": " I",
+          "start": 23.26,
+          "end": 24.02,
+          "probability": 0.9322836399078369
+        },
+        {
+          "word": " go",
+          "start": 24.02,
+          "end": 24.34,
+          "probability": 0.8175460696220398
+        },
+        {
+          "word": " to",
+          "start": 24.34,
+          "end": 24.72,
+          "probability": 0.9800615906715393
+        },
+        {
+          "word": " the",
+          "start": 24.72,
+          "end": 24.86,
+          "probability": 0.9387469291687012
+        },
+        {
+          "word": " front",
+          "start": 24.86,
+          "end": 25.36,
+          "probability": 0.3387202024459839
+        },
+        {
+          "word": " to",
+          "start": 25.36,
+          "end": 25.8,
+          "probability": 0.8732239007949829
+        },
+        {
+          "word": " see",
+          "start": 25.8,
+          "end": 26.12,
+          "probability": 0.996954083442688
+        },
+        {
+          "word": " what",
+          "start": 26.12,
+          "end": 26.48,
+          "probability": 0.9835596084594727
+        },
+        {
+          "word": " the",
+          "start": 26.48,
+          "end": 26.82,
+          "probability": 0.9939587116241455
+        },
+        {
+          "word": " attraction",
+          "start": 26.82,
+          "end": 27.36,
+          "probability": 0.9926263689994812
+        },
+        {
+          "word": " is.",
+          "start": 27.36,
+          "end": 27.9,
+          "probability": 0.9937445521354675
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 1788,
+      "start": 29.22,
+      "end": 42.92,
+      "text": " There is a woman lying naked on her side with her back to the queue, like those muses posing in the nude for their male painters.",
+      "tokens": [
+        50914,
+        821,
+        307,
+        257,
+        3059,
+        8493,
+        15791,
+        322,
+        720,
+        1252,
+        365,
+        720,
+        646,
+        281,
+        264,
+        18639,
+        11,
+        411,
+        729,
+        1038,
+        279,
+        40378,
+        294,
+        264,
+        36505,
+        337,
+        641,
+        7133,
+        48643,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16646109494295988,
+      "compression_ratio": 1.475177304964539,
+      "no_speech_prob": 0.8180898427963257,
+      "words": [
+        {
+          "word": " There",
+          "start": 29.22,
+          "end": 29.42,
+          "probability": 0.983220100402832
+        },
+        {
+          "word": " is",
+          "start": 29.42,
+          "end": 29.58,
+          "probability": 0.7494683861732483
+        },
+        {
+          "word": " a",
+          "start": 29.58,
+          "end": 29.76,
+          "probability": 0.9794207811355591
+        },
+        {
+          "word": " woman",
+          "start": 29.76,
+          "end": 30.14,
+          "probability": 0.7362051010131836
+        },
+        {
+          "word": " lying",
+          "start": 30.14,
+          "end": 30.64,
+          "probability": 0.914141833782196
+        },
+        {
+          "word": " naked",
+          "start": 30.64,
+          "end": 31.22,
+          "probability": 0.9981972575187683
+        },
+        {
+          "word": " on",
+          "start": 31.22,
+          "end": 31.5,
+          "probability": 0.9881888628005981
+        },
+        {
+          "word": " her",
+          "start": 31.5,
+          "end": 31.88,
+          "probability": 0.9872570633888245
+        },
+        {
+          "word": " side",
+          "start": 31.88,
+          "end": 33.12,
+          "probability": 0.9986036419868469
+        },
+        {
+          "word": " with",
+          "start": 33.12,
+          "end": 34.26,
+          "probability": 0.5333786606788635
+        },
+        {
+          "word": " her",
+          "start": 34.26,
+          "end": 34.56,
+          "probability": 0.99674391746521
+        },
+        {
+          "word": " back",
+          "start": 34.56,
+          "end": 34.94,
+          "probability": 0.985897421836853
+        },
+        {
+          "word": " to",
+          "start": 34.94,
+          "end": 35.28,
+          "probability": 0.9957169890403748
+        },
+        {
+          "word": " the",
+          "start": 35.28,
+          "end": 35.58,
+          "probability": 0.9978650212287903
+        },
+        {
+          "word": " queue,",
+          "start": 35.58,
+          "end": 35.92,
+          "probability": 0.9917200803756714
+        },
+        {
+          "word": " like",
+          "start": 36.98,
+          "end": 37.18,
+          "probability": 0.9787319898605347
+        },
+        {
+          "word": " those",
+          "start": 37.18,
+          "end": 37.62,
+          "probability": 0.9582026600837708
+        },
+        {
+          "word": " muses",
+          "start": 37.62,
+          "end": 38.34,
+          "probability": 0.9437588751316071
+        },
+        {
+          "word": " posing",
+          "start": 38.34,
+          "end": 38.86,
+          "probability": 0.9415411353111267
+        },
+        {
+          "word": " in",
+          "start": 38.86,
+          "end": 39.22,
+          "probability": 0.98780757188797
+        },
+        {
+          "word": " the",
+          "start": 39.22,
+          "end": 39.46,
+          "probability": 0.9300656318664551
+        },
+        {
+          "word": " nude",
+          "start": 39.46,
+          "end": 39.84,
+          "probability": 0.9754799008369446
+        },
+        {
+          "word": " for",
+          "start": 39.84,
+          "end": 40.22,
+          "probability": 0.9851657748222351
+        },
+        {
+          "word": " their",
+          "start": 40.22,
+          "end": 41.36,
+          "probability": 0.9877803325653076
+        },
+        {
+          "word": " male",
+          "start": 41.36,
+          "end": 41.96,
+          "probability": 0.5523577928543091
+        },
+        {
+          "word": " painters.",
+          "start": 41.96,
+          "end": 42.92,
+          "probability": 0.4048674702644348
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4292,
+      "start": 45.38,
+      "end": 61.14,
+      "text": " I walk past this long queue of men waiting for their turn to have a go and using her body to pleasure themselves.",
+      "tokens": [
+        50364,
+        286,
+        1792,
+        1791,
+        341,
+        938,
+        18639,
+        295,
+        1706,
+        3806,
+        337,
+        641,
+        1261,
+        281,
+        362,
+        257,
+        352,
+        293,
+        1228,
+        720,
+        1772,
+        281,
+        6834,
+        2969,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16002661841256277,
+      "compression_ratio": 1.2150537634408602,
+      "no_speech_prob": 0.25743138790130615,
+      "words": [
+        {
+          "word": " I",
+          "start": 45.38,
+          "end": 46.32,
+          "probability": 0.8272391557693481
+        },
+        {
+          "word": " walk",
+          "start": 46.32,
+          "end": 46.68,
+          "probability": 0.4978832006454468
+        },
+        {
+          "word": " past",
+          "start": 46.68,
+          "end": 47.26,
+          "probability": 0.851133406162262
+        },
+        {
+          "word": " this",
+          "start": 47.26,
+          "end": 47.7,
+          "probability": 0.9639156460762024
+        },
+        {
+          "word": " long",
+          "start": 47.7,
+          "end": 48.14,
+          "probability": 0.9734358787536621
+        },
+        {
+          "word": " queue",
+          "start": 48.14,
+          "end": 48.46,
+          "probability": 0.9951796531677246
+        },
+        {
+          "word": " of",
+          "start": 48.46,
+          "end": 48.86,
+          "probability": 0.9915090799331665
+        },
+        {
+          "word": " men",
+          "start": 48.86,
+          "end": 49.3,
+          "probability": 0.988619327545166
+        },
+        {
+          "word": " waiting",
+          "start": 49.3,
+          "end": 49.82,
+          "probability": 0.8314650058746338
+        },
+        {
+          "word": " for",
+          "start": 49.82,
+          "end": 50.26,
+          "probability": 0.9900047183036804
+        },
+        {
+          "word": " their",
+          "start": 50.26,
+          "end": 50.68,
+          "probability": 0.9917036294937134
+        },
+        {
+          "word": " turn",
+          "start": 50.68,
+          "end": 51.08,
+          "probability": 0.8240688443183899
+        },
+        {
+          "word": " to",
+          "start": 51.08,
+          "end": 51.98,
+          "probability": 0.931688666343689
+        },
+        {
+          "word": " have",
+          "start": 51.98,
+          "end": 53.08,
+          "probability": 0.9279110431671143
+        },
+        {
+          "word": " a",
+          "start": 53.08,
+          "end": 53.44,
+          "probability": 0.9868436455726624
+        },
+        {
+          "word": " go",
+          "start": 53.44,
+          "end": 53.94,
+          "probability": 0.9942339062690735
+        },
+        {
+          "word": " and",
+          "start": 53.94,
+          "end": 55.5,
+          "probability": 0.3072647750377655
+        },
+        {
+          "word": " using",
+          "start": 55.5,
+          "end": 55.88,
+          "probability": 0.9082237482070923
+        },
+        {
+          "word": " her",
+          "start": 55.88,
+          "end": 56.28,
+          "probability": 0.8818919062614441
+        },
+        {
+          "word": " body",
+          "start": 56.28,
+          "end": 57.08,
+          "probability": 0.9986452460289001
+        },
+        {
+          "word": " to",
+          "start": 57.08,
+          "end": 59.34,
+          "probability": 0.9610723853111267
+        },
+        {
+          "word": " pleasure",
+          "start": 59.34,
+          "end": 59.94,
+          "probability": 0.8682034611701965
+        },
+        {
+          "word": " themselves.",
+          "start": 59.94,
+          "end": 61.14,
+          "probability": 0.9938744902610779
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 6114,
+      "start": 62.24,
+      "end": 80.54,
+      "text": " I go to the front of the queue to see her, her long brown hair strapping beside her, one eye half open, squinting, intoxicating.",
+      "tokens": [
+        50364,
+        286,
+        352,
+        281,
+        264,
+        1868,
+        295,
+        264,
+        18639,
+        281,
+        536,
+        720,
+        11,
+        720,
+        938,
+        6292,
+        2578,
+        2148,
+        3759,
+        15726,
+        720,
+        11,
+        472,
+        3313,
+        1922,
+        1269,
+        11,
+        2339,
+        686,
+        278,
+        11,
+        40809,
+        30541,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14906798182307063,
+      "compression_ratio": 1.28,
+      "no_speech_prob": 0.6805405616760254,
+      "words": [
+        {
+          "word": " I",
+          "start": 62.24,
+          "end": 63.32,
+          "probability": 0.4616146385669708
+        },
+        {
+          "word": " go",
+          "start": 63.32,
+          "end": 63.8,
+          "probability": 0.12911327183246613
+        },
+        {
+          "word": " to",
+          "start": 63.8,
+          "end": 64.24,
+          "probability": 0.9261566996574402
+        },
+        {
+          "word": " the",
+          "start": 64.24,
+          "end": 64.76,
+          "probability": 0.8867002129554749
+        },
+        {
+          "word": " front",
+          "start": 64.76,
+          "end": 65.1,
+          "probability": 0.9485599398612976
+        },
+        {
+          "word": " of",
+          "start": 65.1,
+          "end": 65.48,
+          "probability": 0.9837808609008789
+        },
+        {
+          "word": " the",
+          "start": 65.48,
+          "end": 65.7,
+          "probability": 0.9854539632797241
+        },
+        {
+          "word": " queue",
+          "start": 65.7,
+          "end": 66.06,
+          "probability": 0.7330885529518127
+        },
+        {
+          "word": " to",
+          "start": 66.06,
+          "end": 66.36,
+          "probability": 0.8846956491470337
+        },
+        {
+          "word": " see",
+          "start": 66.36,
+          "end": 66.8,
+          "probability": 0.9891365766525269
+        },
+        {
+          "word": " her,",
+          "start": 66.8,
+          "end": 68.38,
+          "probability": 0.9887717366218567
+        },
+        {
+          "word": " her",
+          "start": 68.42,
+          "end": 68.8,
+          "probability": 0.8851301670074463
+        },
+        {
+          "word": " long",
+          "start": 68.8,
+          "end": 69.34,
+          "probability": 0.9555856585502625
+        },
+        {
+          "word": " brown",
+          "start": 69.34,
+          "end": 69.94,
+          "probability": 0.9473165273666382
+        },
+        {
+          "word": " hair",
+          "start": 69.94,
+          "end": 70.62,
+          "probability": 0.9817575812339783
+        },
+        {
+          "word": " strapping",
+          "start": 70.62,
+          "end": 71.48,
+          "probability": 0.7006295323371887
+        },
+        {
+          "word": " beside",
+          "start": 71.48,
+          "end": 72.12,
+          "probability": 0.9778439998626709
+        },
+        {
+          "word": " her,",
+          "start": 72.12,
+          "end": 73.24,
+          "probability": 0.9870378971099854
+        },
+        {
+          "word": " one",
+          "start": 73.48,
+          "end": 73.74,
+          "probability": 0.9672278761863708
+        },
+        {
+          "word": " eye",
+          "start": 73.74,
+          "end": 74.44,
+          "probability": 0.9935489296913147
+        },
+        {
+          "word": " half",
+          "start": 74.44,
+          "end": 74.74,
+          "probability": 0.9887528419494629
+        },
+        {
+          "word": " open,",
+          "start": 74.74,
+          "end": 76.04,
+          "probability": 0.7830736637115479
+        },
+        {
+          "word": " squinting,",
+          "start": 77.24,
+          "end": 78.68,
+          "probability": 0.9858031272888184
+        },
+        {
+          "word": " intoxicating.",
+          "start": 79.24,
+          "end": 80.54,
+          "probability": 0.8510692715644836
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 8054,
+      "start": 80.54,
+      "end": 97.12,
+      "text": " She was nearly passed out. I don't know if she was aware of her oldness, nor do I know. I think she was, somehow. She was in pain, mentally.",
+      "tokens": [
+        50364,
+        1240,
+        390,
+        6217,
+        4678,
+        484,
+        13,
+        286,
+        500,
+        380,
+        458,
+        498,
+        750,
+        390,
+        3650,
+        295,
+        720,
+        1331,
+        1287,
+        11,
+        6051,
+        360,
+        286,
+        458,
+        13,
+        286,
+        519,
+        750,
+        390,
+        11,
+        6063,
+        13,
+        1240,
+        390,
+        294,
+        1822,
+        11,
+        17072,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2543958028157552,
+      "compression_ratio": 1.308411214953271,
+      "no_speech_prob": 0.5881130695343018,
+      "words": [
+        {
+          "word": " She",
+          "start": 80.54,
+          "end": 82.08,
+          "probability": 0.39932259917259216
+        },
+        {
+          "word": " was",
+          "start": 82.08,
+          "end": 82.6,
+          "probability": 0.9792007207870483
+        },
+        {
+          "word": " nearly",
+          "start": 82.6,
+          "end": 83.18,
+          "probability": 0.8807297945022583
+        },
+        {
+          "word": " passed",
+          "start": 83.18,
+          "end": 83.96,
+          "probability": 0.9826457500457764
+        },
+        {
+          "word": " out.",
+          "start": 83.96,
+          "end": 84.7,
+          "probability": 0.9967545866966248
+        },
+        {
+          "word": " I",
+          "start": 85.6,
+          "end": 85.72,
+          "probability": 0.9782512187957764
+        },
+        {
+          "word": " don't",
+          "start": 85.72,
+          "end": 85.94,
+          "probability": 0.974709540605545
+        },
+        {
+          "word": " know",
+          "start": 85.94,
+          "end": 86.14,
+          "probability": 0.9942246079444885
+        },
+        {
+          "word": " if",
+          "start": 86.14,
+          "end": 86.3,
+          "probability": 0.9879953265190125
+        },
+        {
+          "word": " she",
+          "start": 86.3,
+          "end": 86.54,
+          "probability": 0.9950881600379944
+        },
+        {
+          "word": " was",
+          "start": 86.54,
+          "end": 86.94,
+          "probability": 0.9915105700492859
+        },
+        {
+          "word": " aware",
+          "start": 86.94,
+          "end": 87.28,
+          "probability": 0.9776092767715454
+        },
+        {
+          "word": " of",
+          "start": 87.28,
+          "end": 87.56,
+          "probability": 0.9867962598800659
+        },
+        {
+          "word": " her",
+          "start": 87.56,
+          "end": 87.82,
+          "probability": 0.9878188371658325
+        },
+        {
+          "word": " oldness,",
+          "start": 87.82,
+          "end": 88.54,
+          "probability": 0.7080515921115875
+        },
+        {
+          "word": " nor",
+          "start": 88.88,
+          "end": 89.08,
+          "probability": 0.3844563066959381
+        },
+        {
+          "word": " do",
+          "start": 89.08,
+          "end": 89.38,
+          "probability": 0.08232768625020981
+        },
+        {
+          "word": " I",
+          "start": 89.38,
+          "end": 89.86,
+          "probability": 0.9042291641235352
+        },
+        {
+          "word": " know.",
+          "start": 89.86,
+          "end": 89.86,
+          "probability": 0.24213159084320068
+        },
+        {
+          "word": " I",
+          "start": 90.78,
+          "end": 91.14,
+          "probability": 0.9593582153320312
+        },
+        {
+          "word": " think",
+          "start": 91.14,
+          "end": 91.4,
+          "probability": 0.9962913990020752
+        },
+        {
+          "word": " she",
+          "start": 91.4,
+          "end": 91.86,
+          "probability": 0.9913492202758789
+        },
+        {
+          "word": " was,",
+          "start": 91.86,
+          "end": 92.26,
+          "probability": 0.99366694688797
+        },
+        {
+          "word": " somehow.",
+          "start": 92.42,
+          "end": 93.12,
+          "probability": 0.9467917680740356
+        },
+        {
+          "word": " She",
+          "start": 94.24,
+          "end": 94.58,
+          "probability": 0.9896620512008667
+        },
+        {
+          "word": " was",
+          "start": 94.58,
+          "end": 94.94,
+          "probability": 0.9976575374603271
+        },
+        {
+          "word": " in",
+          "start": 94.94,
+          "end": 95.36,
+          "probability": 0.996536135673523
+        },
+        {
+          "word": " pain,",
+          "start": 95.36,
+          "end": 96.04,
+          "probability": 0.9895752668380737
+        },
+        {
+          "word": " mentally.",
+          "start": 96.52,
+          "end": 97.12,
+          "probability": 0.9983556866645813
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 9712,
+      "start": 98.78,
+      "end": 121.0,
+      "text": " There were two old men. One was lying on the floor, one his back. The other was kneeling down beside him and they were discussing how they were going to perform this act.",
+      "tokens": [
+        50364,
+        821,
+        645,
+        732,
+        1331,
+        1706,
+        13,
+        1485,
+        390,
+        8493,
+        322,
+        264,
+        4123,
+        11,
+        472,
+        702,
+        646,
+        13,
+        440,
+        661,
+        390,
+        32704,
+        11031,
+        760,
+        15726,
+        796,
+        293,
+        436,
+        645,
+        10850,
+        577,
+        436,
+        645,
+        516,
+        281,
+        2042,
+        341,
+        605,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12960925556364514,
+      "compression_ratio": 1.3821138211382114,
+      "no_speech_prob": 0.7864240407943726,
+      "words": [
+        {
+          "word": " There",
+          "start": 98.78,
+          "end": 100.02,
+          "probability": 0.5958412885665894
+        },
+        {
+          "word": " were",
+          "start": 100.02,
+          "end": 100.64,
+          "probability": 0.9675533175468445
+        },
+        {
+          "word": " two",
+          "start": 100.64,
+          "end": 101.34,
+          "probability": 0.9503375887870789
+        },
+        {
+          "word": " old",
+          "start": 101.34,
+          "end": 101.92,
+          "probability": 0.9382909536361694
+        },
+        {
+          "word": " men.",
+          "start": 101.92,
+          "end": 102.7,
+          "probability": 0.9824204444885254
+        },
+        {
+          "word": " One",
+          "start": 103.52,
+          "end": 103.86,
+          "probability": 0.9701022505760193
+        },
+        {
+          "word": " was",
+          "start": 103.86,
+          "end": 104.36,
+          "probability": 0.9570818543434143
+        },
+        {
+          "word": " lying",
+          "start": 104.36,
+          "end": 104.7,
+          "probability": 0.9888914823532104
+        },
+        {
+          "word": " on",
+          "start": 104.7,
+          "end": 105.16,
+          "probability": 0.9939946532249451
+        },
+        {
+          "word": " the",
+          "start": 105.16,
+          "end": 105.2,
+          "probability": 0.9720406532287598
+        },
+        {
+          "word": " floor,",
+          "start": 105.2,
+          "end": 106.0,
+          "probability": 0.9984287619590759
+        },
+        {
+          "word": " one",
+          "start": 106.74,
+          "end": 107.08,
+          "probability": 0.6787465214729309
+        },
+        {
+          "word": " his",
+          "start": 107.08,
+          "end": 107.4,
+          "probability": 0.29184097051620483
+        },
+        {
+          "word": " back.",
+          "start": 107.4,
+          "end": 108.02,
+          "probability": 0.7939887642860413
+        },
+        {
+          "word": " The",
+          "start": 109.68,
+          "end": 109.98,
+          "probability": 0.9781859517097473
+        },
+        {
+          "word": " other",
+          "start": 109.98,
+          "end": 110.22,
+          "probability": 0.9969127178192139
+        },
+        {
+          "word": " was",
+          "start": 110.22,
+          "end": 110.62,
+          "probability": 0.9098153114318848
+        },
+        {
+          "word": " kneeling",
+          "start": 110.62,
+          "end": 111.04,
+          "probability": 0.9948412477970123
+        },
+        {
+          "word": " down",
+          "start": 111.04,
+          "end": 111.64,
+          "probability": 0.9941872358322144
+        },
+        {
+          "word": " beside",
+          "start": 111.64,
+          "end": 112.28,
+          "probability": 0.9849216341972351
+        },
+        {
+          "word": " him",
+          "start": 112.28,
+          "end": 113.32,
+          "probability": 0.9925525188446045
+        },
+        {
+          "word": " and",
+          "start": 113.32,
+          "end": 113.94,
+          "probability": 0.43730419874191284
+        },
+        {
+          "word": " they",
+          "start": 113.94,
+          "end": 114.28,
+          "probability": 0.9430206418037415
+        },
+        {
+          "word": " were",
+          "start": 114.28,
+          "end": 115.24,
+          "probability": 0.9900557994842529
+        },
+        {
+          "word": " discussing",
+          "start": 115.24,
+          "end": 116.32,
+          "probability": 0.9736980199813843
+        },
+        {
+          "word": " how",
+          "start": 116.32,
+          "end": 116.98,
+          "probability": 0.9836475253105164
+        },
+        {
+          "word": " they",
+          "start": 116.98,
+          "end": 117.22,
+          "probability": 0.9879144430160522
+        },
+        {
+          "word": " were",
+          "start": 117.22,
+          "end": 117.44,
+          "probability": 0.9602802991867065
+        },
+        {
+          "word": " going",
+          "start": 117.44,
+          "end": 117.74,
+          "probability": 0.992180585861206
+        },
+        {
+          "word": " to",
+          "start": 117.74,
+          "end": 119.06,
+          "probability": 0.9963486194610596
+        },
+        {
+          "word": " perform",
+          "start": 119.06,
+          "end": 119.8,
+          "probability": 0.9778345823287964
+        },
+        {
+          "word": " this",
+          "start": 119.8,
+          "end": 120.36,
+          "probability": 0.7895403504371643
+        },
+        {
+          "word": " act.",
+          "start": 120.36,
+          "end": 121.0,
+          "probability": 0.9950631260871887
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 12100,
+      "start": 122.18,
+      "end": 138.14,
+      "text": " I walked off and was horrified. I don't think she wanted my help, although she was the only one who saw me.",
+      "tokens": [
+        50414,
+        286,
+        7628,
+        766,
+        293,
+        390,
+        17582,
+        2587,
+        13,
+        286,
+        500,
+        380,
+        519,
+        750,
+        1415,
+        452,
+        854,
+        11,
+        4878,
+        750,
+        390,
+        264,
+        787,
+        472,
+        567,
+        1866,
+        385,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1327009359995524,
+      "compression_ratio": 1.1630434782608696,
+      "no_speech_prob": 0.3328346312046051,
+      "words": [
+        {
+          "word": " I",
+          "start": 122.18,
+          "end": 123.14,
+          "probability": 0.9316199421882629
+        },
+        {
+          "word": " walked",
+          "start": 123.14,
+          "end": 123.66,
+          "probability": 0.9849843978881836
+        },
+        {
+          "word": " off",
+          "start": 123.66,
+          "end": 124.32,
+          "probability": 0.9904668927192688
+        },
+        {
+          "word": " and",
+          "start": 124.32,
+          "end": 124.56,
+          "probability": 0.46254420280456543
+        },
+        {
+          "word": " was",
+          "start": 124.56,
+          "end": 124.82,
+          "probability": 0.9853999018669128
+        },
+        {
+          "word": " horrified.",
+          "start": 124.82,
+          "end": 126.16,
+          "probability": 0.9868555665016174
+        },
+        {
+          "word": " I",
+          "start": 127.18,
+          "end": 127.64,
+          "probability": 0.9927023649215698
+        },
+        {
+          "word": " don't",
+          "start": 127.64,
+          "end": 128.04,
+          "probability": 0.9843861758708954
+        },
+        {
+          "word": " think",
+          "start": 128.04,
+          "end": 128.32,
+          "probability": 0.9982234835624695
+        },
+        {
+          "word": " she",
+          "start": 128.32,
+          "end": 128.7,
+          "probability": 0.9947761297225952
+        },
+        {
+          "word": " wanted",
+          "start": 128.7,
+          "end": 129.42,
+          "probability": 0.9846414923667908
+        },
+        {
+          "word": " my",
+          "start": 129.42,
+          "end": 129.9,
+          "probability": 0.9985215067863464
+        },
+        {
+          "word": " help,",
+          "start": 129.9,
+          "end": 130.94,
+          "probability": 0.9997654557228088
+        },
+        {
+          "word": " although",
+          "start": 132.24,
+          "end": 133.06,
+          "probability": 0.9124782681465149
+        },
+        {
+          "word": " she",
+          "start": 133.06,
+          "end": 135.06,
+          "probability": 0.459462434053421
+        },
+        {
+          "word": " was",
+          "start": 135.06,
+          "end": 135.48,
+          "probability": 0.9970707893371582
+        },
+        {
+          "word": " the",
+          "start": 135.48,
+          "end": 135.76,
+          "probability": 0.997715950012207
+        },
+        {
+          "word": " only",
+          "start": 135.76,
+          "end": 136.24,
+          "probability": 0.9943590760231018
+        },
+        {
+          "word": " one",
+          "start": 136.24,
+          "end": 136.62,
+          "probability": 0.9852691292762756
+        },
+        {
+          "word": " who",
+          "start": 136.62,
+          "end": 137.02,
+          "probability": 0.9919245839118958
+        },
+        {
+          "word": " saw",
+          "start": 137.02,
+          "end": 137.28,
+          "probability": 0.9977263808250427
+        },
+        {
+          "word": " me.",
+          "start": 137.28,
+          "end": 138.14,
+          "probability": 0.9994643330574036
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

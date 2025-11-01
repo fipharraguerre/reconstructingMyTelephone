@@ -1,0 +1,614 @@
+{
+  "text": " I dreamt that I was making love to Mike, the rapper producer. I'm not sure it was him. It looked like him. There was nothing else. I was listening to his music a lot yesterday and I looked him up. I had no indecent thoughts about him, but it was so satisfying. There was nothing else. I'm not sure it was him. It looked like him. It looked like him.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 6.9399999999999995,
+      "end": 22.14,
+      "text": " I dreamt that I was making love to Mike, the rapper producer.",
+      "tokens": [
+        50364,
+        286,
+        3055,
+        83,
+        300,
+        286,
+        390,
+        1455,
+        959,
+        281,
+        6602,
+        11,
+        264,
+        26457,
+        12314,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48696578176398025,
+      "compression_ratio": 0.9104477611940298,
+      "no_speech_prob": 0.3754534423351288,
+      "words": [
+        {
+          "word": " I",
+          "start": 6.9399999999999995,
+          "end": 8.34,
+          "probability": 0.5383941531181335
+        },
+        {
+          "word": " dreamt",
+          "start": 8.34,
+          "end": 9.74,
+          "probability": 0.9110110700130463
+        },
+        {
+          "word": " that",
+          "start": 9.74,
+          "end": 10.76,
+          "probability": 0.75774085521698
+        },
+        {
+          "word": " I",
+          "start": 10.76,
+          "end": 11.16,
+          "probability": 0.978654682636261
+        },
+        {
+          "word": " was",
+          "start": 11.16,
+          "end": 11.74,
+          "probability": 0.9961631298065186
+        },
+        {
+          "word": " making",
+          "start": 11.74,
+          "end": 12.88,
+          "probability": 0.9936704635620117
+        },
+        {
+          "word": " love",
+          "start": 12.88,
+          "end": 14.78,
+          "probability": 0.9597211480140686
+        },
+        {
+          "word": " to",
+          "start": 14.78,
+          "end": 16.36,
+          "probability": 0.9851897358894348
+        },
+        {
+          "word": " Mike,",
+          "start": 16.36,
+          "end": 17.86,
+          "probability": 0.9385533928871155
+        },
+        {
+          "word": " the",
+          "start": 19.7,
+          "end": 20.1,
+          "probability": 0.9226648807525635
+        },
+        {
+          "word": " rapper",
+          "start": 20.1,
+          "end": 20.76,
+          "probability": 0.38519757986068726
+        },
+        {
+          "word": " producer.",
+          "start": 20.76,
+          "end": 22.14,
+          "probability": 0.3505841791629791
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2214,
+      "start": 25.5,
+      "end": 37.08,
+      "text": " I'm not sure it was him. It looked like him. There was nothing else.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        406,
+        988,
+        309,
+        390,
+        796,
+        13,
+        467,
+        2956,
+        411,
+        796,
+        13,
+        821,
+        390,
+        1825,
+        1646,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2210454507307573,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.3633376359939575,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 25.5,
+          "end": 26.66,
+          "probability": 0.5205763578414917
+        },
+        {
+          "word": " not",
+          "start": 26.66,
+          "end": 27.04,
+          "probability": 0.8851918578147888
+        },
+        {
+          "word": " sure",
+          "start": 27.04,
+          "end": 27.34,
+          "probability": 0.9906865954399109
+        },
+        {
+          "word": " it",
+          "start": 27.34,
+          "end": 27.6,
+          "probability": 0.9033955931663513
+        },
+        {
+          "word": " was",
+          "start": 27.6,
+          "end": 27.92,
+          "probability": 0.9953525066375732
+        },
+        {
+          "word": " him.",
+          "start": 27.92,
+          "end": 28.82,
+          "probability": 0.9740321040153503
+        },
+        {
+          "word": " It",
+          "start": 30.28,
+          "end": 30.7,
+          "probability": 0.8430414199829102
+        },
+        {
+          "word": " looked",
+          "start": 30.7,
+          "end": 31.08,
+          "probability": 0.9824042916297913
+        },
+        {
+          "word": " like",
+          "start": 31.08,
+          "end": 31.66,
+          "probability": 0.9983440637588501
+        },
+        {
+          "word": " him.",
+          "start": 31.66,
+          "end": 32.56,
+          "probability": 0.9921338558197021
+        },
+        {
+          "word": " There",
+          "start": 34.34,
+          "end": 35.36,
+          "probability": 0.9683965444564819
+        },
+        {
+          "word": " was",
+          "start": 35.36,
+          "end": 35.78,
+          "probability": 0.9942218661308289
+        },
+        {
+          "word": " nothing",
+          "start": 35.78,
+          "end": 36.2,
+          "probability": 0.9977444410324097
+        },
+        {
+          "word": " else.",
+          "start": 36.2,
+          "end": 37.08,
+          "probability": 0.9955653548240662
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3708,
+      "start": 39.7,
+      "end": 47.08,
+      "text": " I was listening to his music a lot yesterday and I looked him up.",
+      "tokens": [
+        50364,
+        286,
+        390,
+        4764,
+        281,
+        702,
+        1318,
+        257,
+        688,
+        5186,
+        293,
+        286,
+        2956,
+        796,
+        493,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17141941974037572,
+      "compression_ratio": 0.9558823529411765,
+      "no_speech_prob": 0.27716633677482605,
+      "words": [
+        {
+          "word": " I",
+          "start": 39.7,
+          "end": 40.74,
+          "probability": 0.7243257164955139
+        },
+        {
+          "word": " was",
+          "start": 40.74,
+          "end": 41.54,
+          "probability": 0.9098993539810181
+        },
+        {
+          "word": " listening",
+          "start": 41.54,
+          "end": 42.24,
+          "probability": 0.9887030124664307
+        },
+        {
+          "word": " to",
+          "start": 42.24,
+          "end": 42.66,
+          "probability": 0.9946931004524231
+        },
+        {
+          "word": " his",
+          "start": 42.66,
+          "end": 42.98,
+          "probability": 0.8430742025375366
+        },
+        {
+          "word": " music",
+          "start": 42.98,
+          "end": 43.46,
+          "probability": 0.8991312980651855
+        },
+        {
+          "word": " a",
+          "start": 43.46,
+          "end": 43.58,
+          "probability": 0.9468963742256165
+        },
+        {
+          "word": " lot",
+          "start": 43.58,
+          "end": 43.82,
+          "probability": 0.9983404874801636
+        },
+        {
+          "word": " yesterday",
+          "start": 43.82,
+          "end": 44.6,
+          "probability": 0.9897645711898804
+        },
+        {
+          "word": " and",
+          "start": 44.6,
+          "end": 45.82,
+          "probability": 0.7053909301757812
+        },
+        {
+          "word": " I",
+          "start": 45.82,
+          "end": 46.34,
+          "probability": 0.9183355569839478
+        },
+        {
+          "word": " looked",
+          "start": 46.34,
+          "end": 46.66,
+          "probability": 0.9431755542755127
+        },
+        {
+          "word": " him",
+          "start": 46.66,
+          "end": 47.02,
+          "probability": 0.9762511849403381
+        },
+        {
+          "word": " up.",
+          "start": 47.02,
+          "end": 47.540000000000006,
+          "probability": 0.9859731197357178
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4754,
+      "start": 47.54,
+      "end": 66.54,
+      "text": " I had no indecent thoughts about him, but it was so satisfying.",
+      "tokens": [
+        50364,
+        286,
+        632,
+        572,
+        24162,
+        2207,
+        4598,
+        466,
+        796,
+        11,
+        457,
+        309,
+        390,
+        370,
+        18348,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22146071885761462,
+      "compression_ratio": 0.9545454545454546,
+      "no_speech_prob": 0.753235936164856,
+      "words": [
+        {
+          "word": " I",
+          "start": 47.54,
+          "end": 49.24,
+          "probability": 0.41045039892196655
+        },
+        {
+          "word": " had",
+          "start": 49.24,
+          "end": 49.86,
+          "probability": 0.9182879328727722
+        },
+        {
+          "word": " no",
+          "start": 49.86,
+          "end": 50.44,
+          "probability": 0.8677995800971985
+        },
+        {
+          "word": " indecent",
+          "start": 50.44,
+          "end": 51.32,
+          "probability": 0.8754612803459167
+        },
+        {
+          "word": " thoughts",
+          "start": 51.32,
+          "end": 52.68,
+          "probability": 0.9642542600631714
+        },
+        {
+          "word": " about",
+          "start": 52.68,
+          "end": 55.88,
+          "probability": 0.8893311619758606
+        },
+        {
+          "word": " him,",
+          "start": 55.88,
+          "end": 56.76,
+          "probability": 0.5941410660743713
+        },
+        {
+          "word": " but",
+          "start": 57.84,
+          "end": 59.4,
+          "probability": 0.9680505394935608
+        },
+        {
+          "word": " it",
+          "start": 59.4,
+          "end": 61.24,
+          "probability": 0.9288883805274963
+        },
+        {
+          "word": " was",
+          "start": 61.24,
+          "end": 62.12,
+          "probability": 0.9983174800872803
+        },
+        {
+          "word": " so",
+          "start": 62.12,
+          "end": 64.52,
+          "probability": 0.987180769443512
+        },
+        {
+          "word": " satisfying.",
+          "start": 64.52,
+          "end": 66.54,
+          "probability": 0.969698429107666
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 6654,
+      "start": 72.96,
+      "end": 77.5,
+      "text": " There was nothing else.",
+      "tokens": [
+        50364,
+        821,
+        390,
+        1825,
+        1646,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32073676586151123,
+      "compression_ratio": 0.7419354838709677,
+      "no_speech_prob": 0.7232179045677185,
+      "words": [
+        {
+          "word": " There",
+          "start": 72.96,
+          "end": 74.36,
+          "probability": 0.728640615940094
+        },
+        {
+          "word": " was",
+          "start": 74.36,
+          "end": 75.76,
+          "probability": 0.9635465145111084
+        },
+        {
+          "word": " nothing",
+          "start": 75.76,
+          "end": 76.82,
+          "probability": 0.8278951048851013
+        },
+        {
+          "word": " else.",
+          "start": 76.82,
+          "end": 77.5,
+          "probability": 0.12074627727270126
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 9654,
+      "start": 97.47999999999999,
+      "end": 98.68,
+      "text": " I'm not sure it was him. It looked like him. It looked like him.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        406,
+        988,
+        309,
+        390,
+        796,
+        13,
+        467,
+        2956,
+        411,
+        796,
+        13,
+        467,
+        2956,
+        411,
+        796,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4988791147867839,
+      "compression_ratio": 1.3061224489795917,
+      "no_speech_prob": 0.984541654586792,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 97.47999999999999,
+          "end": 97.67999999999999,
+          "probability": 0.12254406593274325
+        },
+        {
+          "word": " not",
+          "start": 97.67999999999999,
+          "end": 97.88,
+          "probability": 0.043015655130147934
+        },
+        {
+          "word": " sure",
+          "start": 97.88,
+          "end": 98.04,
+          "probability": 0.2235495150089264
+        },
+        {
+          "word": " it",
+          "start": 98.04,
+          "end": 98.06,
+          "probability": 0.01667281612753868
+        },
+        {
+          "word": " was",
+          "start": 98.06,
+          "end": 98.08,
+          "probability": 0.08093085885047913
+        },
+        {
+          "word": " him.",
+          "start": 98.08,
+          "end": 98.08,
+          "probability": 0.00197567418217659
+        },
+        {
+          "word": " It",
+          "start": 98.08,
+          "end": 98.08,
+          "probability": 0.0779498815536499
+        },
+        {
+          "word": " looked",
+          "start": 98.08,
+          "end": 98.62,
+          "probability": 0.02048073336482048
+        },
+        {
+          "word": " like",
+          "start": 98.62,
+          "end": 98.66,
+          "probability": 0.8387389183044434
+        },
+        {
+          "word": " him.",
+          "start": 98.66,
+          "end": 98.66,
+          "probability": 0.12407656759023666
+        },
+        {
+          "word": " It",
+          "start": 98.66,
+          "end": 98.66,
+          "probability": 0.13559596240520477
+        },
+        {
+          "word": " looked",
+          "start": 98.66,
+          "end": 98.66,
+          "probability": 0.27746322751045227
+        },
+        {
+          "word": " like",
+          "start": 98.66,
+          "end": 98.66,
+          "probability": 0.9004046320915222
+        },
+        {
+          "word": " him.",
+          "start": 98.66,
+          "end": 98.68,
+          "probability": 0.49478355050086975
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

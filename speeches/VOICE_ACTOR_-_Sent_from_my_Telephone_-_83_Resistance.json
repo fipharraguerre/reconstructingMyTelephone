@@ -1,0 +1,879 @@
+{
+  "text": " We are traveling in space right now. I did not speak, let our void fill the screen Tracing wild lines kept me doing fine But you blame me with your mind No fight, no flight, no fear, blinded by fear Trying not to disappear Keep those empty gestures in the self-contained box I'll stick to me later You are not my savior, cut me like a razor Dropped down from your head The vomit drop dismissed us I can go a distance, I'm building a resistance I'm building a resistance",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 26.800000000000004,
+      "end": 29.98,
+      "text": " We are traveling in space right now.",
+      "tokens": [
+        50364,
+        492,
+        366,
+        9712,
+        294,
+        1901,
+        558,
+        586,
+        13,
+        51217
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.770650863647461,
+      "compression_ratio": 0.8181818181818182,
+      "no_speech_prob": 0.24206219613552094,
+      "words": [
+        {
+          "word": " We",
+          "start": 26.800000000000004,
+          "end": 28.200000000000003,
+          "probability": 0.0007414247957058251
+        },
+        {
+          "word": " are",
+          "start": 28.200000000000003,
+          "end": 29.6,
+          "probability": 0.18264572322368622
+        },
+        {
+          "word": " traveling",
+          "start": 29.6,
+          "end": 29.6,
+          "probability": 0.0013345371698960662
+        },
+        {
+          "word": " in",
+          "start": 29.6,
+          "end": 29.78,
+          "probability": 0.14171521365642548
+        },
+        {
+          "word": " space",
+          "start": 29.78,
+          "end": 29.78,
+          "probability": 0.13132639229297638
+        },
+        {
+          "word": " right",
+          "start": 29.78,
+          "end": 29.78,
+          "probability": 0.0066875373013317585
+        },
+        {
+          "word": " now.",
+          "start": 29.78,
+          "end": 29.98,
+          "probability": 0.9597921371459961
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2998,
+      "start": 29.98,
+      "end": 34.980000000000004,
+      "text": " I did not speak, let our void fill the screen",
+      "tokens": [
+        50364,
+        286,
+        630,
+        406,
+        1710,
+        11,
+        718,
+        527,
+        22009,
+        2836,
+        264,
+        2568,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35000980601591225,
+      "compression_ratio": 1.1855670103092784,
+      "no_speech_prob": 0.6251599192619324,
+      "words": [
+        {
+          "word": " I",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.2055891901254654
+        },
+        {
+          "word": " did",
+          "start": 29.98,
+          "end": 30.34,
+          "probability": 0.5186317563056946
+        },
+        {
+          "word": " not",
+          "start": 30.34,
+          "end": 31.0,
+          "probability": 0.9945701956748962
+        },
+        {
+          "word": " speak,",
+          "start": 31.0,
+          "end": 31.74,
+          "probability": 0.983859121799469
+        },
+        {
+          "word": " let",
+          "start": 31.98,
+          "end": 32.32,
+          "probability": 0.7783311009407043
+        },
+        {
+          "word": " our",
+          "start": 32.32,
+          "end": 32.7,
+          "probability": 0.323638916015625
+        },
+        {
+          "word": " void",
+          "start": 32.7,
+          "end": 33.06,
+          "probability": 0.865505576133728
+        },
+        {
+          "word": " fill",
+          "start": 33.06,
+          "end": 33.86,
+          "probability": 0.9792496562004089
+        },
+        {
+          "word": " the",
+          "start": 33.86,
+          "end": 34.36,
+          "probability": 0.8995377421379089
+        },
+        {
+          "word": " screen",
+          "start": 34.36,
+          "end": 34.980000000000004,
+          "probability": 0.976283073425293
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2998,
+      "start": 41.480000000000004,
+      "end": 46.72,
+      "text": " Tracing wild lines kept me doing fine",
+      "tokens": [
+        50964,
+        1765,
+        5615,
+        4868,
+        3876,
+        4305,
+        385,
+        884,
+        2489,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35000980601591225,
+      "compression_ratio": 1.1855670103092784,
+      "no_speech_prob": 0.6251599192619324,
+      "words": [
+        {
+          "word": " Tracing",
+          "start": 41.480000000000004,
+          "end": 42.46,
+          "probability": 0.6292508095502853
+        },
+        {
+          "word": " wild",
+          "start": 42.46,
+          "end": 43.16,
+          "probability": 0.6423182487487793
+        },
+        {
+          "word": " lines",
+          "start": 43.16,
+          "end": 44.36,
+          "probability": 0.7504569888114929
+        },
+        {
+          "word": " kept",
+          "start": 44.36,
+          "end": 44.92,
+          "probability": 0.8087908625602722
+        },
+        {
+          "word": " me",
+          "start": 44.92,
+          "end": 45.46,
+          "probability": 0.9966405630111694
+        },
+        {
+          "word": " doing",
+          "start": 45.46,
+          "end": 45.92,
+          "probability": 0.9796444177627563
+        },
+        {
+          "word": " fine",
+          "start": 45.92,
+          "end": 46.72,
+          "probability": 0.9988368153572083
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2998,
+      "start": 46.72,
+      "end": 49.980000000000004,
+      "text": " But you blame me with your mind",
+      "tokens": [
+        51214,
+        583,
+        291,
+        10127,
+        385,
+        365,
+        428,
+        1575,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35000980601591225,
+      "compression_ratio": 1.1855670103092784,
+      "no_speech_prob": 0.6251599192619324,
+      "words": [
+        {
+          "word": " But",
+          "start": 46.72,
+          "end": 47.18,
+          "probability": 0.32532545924186707
+        },
+        {
+          "word": " you",
+          "start": 47.18,
+          "end": 47.62,
+          "probability": 0.9854456186294556
+        },
+        {
+          "word": " blame",
+          "start": 47.62,
+          "end": 47.88,
+          "probability": 0.5490536689758301
+        },
+        {
+          "word": " me",
+          "start": 47.88,
+          "end": 48.24,
+          "probability": 0.9030196070671082
+        },
+        {
+          "word": " with",
+          "start": 48.24,
+          "end": 48.64,
+          "probability": 0.9946882724761963
+        },
+        {
+          "word": " your",
+          "start": 48.64,
+          "end": 49.12,
+          "probability": 0.9952887296676636
+        },
+        {
+          "word": " mind",
+          "start": 49.12,
+          "end": 49.980000000000004,
+          "probability": 0.9965125918388367
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 4998,
+      "start": 54.1,
+      "end": 59.98,
+      "text": " No fight, no flight, no fear, blinded by fear",
+      "tokens": [
+        50364,
+        883,
+        2092,
+        11,
+        572,
+        7018,
+        11,
+        572,
+        4240,
+        11,
+        6865,
+        292,
+        538,
+        4240,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3838511308034261,
+      "compression_ratio": 1.198019801980198,
+      "no_speech_prob": 0.024290142580866814,
+      "words": [
+        {
+          "word": " No",
+          "start": 54.1,
+          "end": 55.38,
+          "probability": 0.7519771456718445
+        },
+        {
+          "word": " fight,",
+          "start": 55.38,
+          "end": 55.72,
+          "probability": 0.8484184741973877
+        },
+        {
+          "word": " no",
+          "start": 55.84,
+          "end": 56.08,
+          "probability": 0.9701583385467529
+        },
+        {
+          "word": " flight,",
+          "start": 56.08,
+          "end": 56.72,
+          "probability": 0.9788088202476501
+        },
+        {
+          "word": " no",
+          "start": 57.02,
+          "end": 57.5,
+          "probability": 0.9468754529953003
+        },
+        {
+          "word": " fear,",
+          "start": 57.5,
+          "end": 58.2,
+          "probability": 0.9966122508049011
+        },
+        {
+          "word": " blinded",
+          "start": 58.54,
+          "end": 59.2,
+          "probability": 0.7781713306903839
+        },
+        {
+          "word": " by",
+          "start": 59.2,
+          "end": 59.52,
+          "probability": 0.4525436460971832
+        },
+        {
+          "word": " fear",
+          "start": 59.52,
+          "end": 60.160000000000004,
+          "probability": 0.11797615885734558
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4998,
+      "start": 60.62,
+      "end": 63.98,
+      "text": " Trying not to disappear",
+      "tokens": [
+        50864,
+        20180,
+        406,
+        281,
+        11596,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3838511308034261,
+      "compression_ratio": 1.198019801980198,
+      "no_speech_prob": 0.024290142580866814,
+      "words": [
+        {
+          "word": " Trying",
+          "start": 60.62,
+          "end": 61.8,
+          "probability": 0.31420615315437317
+        },
+        {
+          "word": " not",
+          "start": 61.8,
+          "end": 62.32,
+          "probability": 0.7347840070724487
+        },
+        {
+          "word": " to",
+          "start": 62.32,
+          "end": 62.96,
+          "probability": 0.9957810640335083
+        },
+        {
+          "word": " disappear",
+          "start": 62.96,
+          "end": 63.98,
+          "probability": 0.9872013330459595
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4998,
+      "start": 68.58,
+      "end": 75.38,
+      "text": " Keep those empty gestures in the self-contained box",
+      "tokens": [
+        51314,
+        5527,
+        729,
+        6707,
+        28475,
+        294,
+        264,
+        2698,
+        12,
+        9000,
+        3563,
+        2424,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3838511308034261,
+      "compression_ratio": 1.198019801980198,
+      "no_speech_prob": 0.024290142580866814,
+      "words": [
+        {
+          "word": " Keep",
+          "start": 68.58,
+          "end": 69.86,
+          "probability": 0.8673980236053467
+        },
+        {
+          "word": " those",
+          "start": 69.86,
+          "end": 70.3,
+          "probability": 0.9802700281143188
+        },
+        {
+          "word": " empty",
+          "start": 70.3,
+          "end": 70.96,
+          "probability": 0.9975558519363403
+        },
+        {
+          "word": " gestures",
+          "start": 70.96,
+          "end": 72.24,
+          "probability": 0.9550256133079529
+        },
+        {
+          "word": " in",
+          "start": 72.24,
+          "end": 72.96,
+          "probability": 0.4786945581436157
+        },
+        {
+          "word": " the",
+          "start": 72.96,
+          "end": 73.14,
+          "probability": 0.2551754415035248
+        },
+        {
+          "word": " self",
+          "start": 73.14,
+          "end": 73.52,
+          "probability": 0.83999103307724
+        },
+        {
+          "word": "-contained",
+          "start": 73.52,
+          "end": 74.42,
+          "probability": 0.9453273018201193
+        },
+        {
+          "word": " box",
+          "start": 74.42,
+          "end": 75.38,
+          "probability": 0.6216816902160645
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 7538,
+      "start": 75.38,
+      "end": 77.98,
+      "text": " I'll stick to me later",
+      "tokens": [
+        50364,
+        286,
+        603,
+        2897,
+        281,
+        385,
+        1780,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43729460866827713,
+      "compression_ratio": 1.174757281553398,
+      "no_speech_prob": 0.06641136854887009,
+      "words": [
+        {
+          "word": " I'll",
+          "start": 75.38,
+          "end": 75.38,
+          "probability": 0.03805001452565193
+        },
+        {
+          "word": " stick",
+          "start": 75.38,
+          "end": 75.54,
+          "probability": 0.037522684782743454
+        },
+        {
+          "word": " to",
+          "start": 75.54,
+          "end": 76.12,
+          "probability": 0.975117564201355
+        },
+        {
+          "word": " me",
+          "start": 76.12,
+          "end": 76.68,
+          "probability": 0.6079611778259277
+        },
+        {
+          "word": " later",
+          "start": 76.68,
+          "end": 77.98,
+          "probability": 0.9714522957801819
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 7538,
+      "start": 82.14,
+      "end": 88.6,
+      "text": " You are not my savior, cut me like a razor",
+      "tokens": [
+        50714,
+        509,
+        366,
+        406,
+        452,
+        41327,
+        11,
+        1723,
+        385,
+        411,
+        257,
+        30478,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43729460866827713,
+      "compression_ratio": 1.174757281553398,
+      "no_speech_prob": 0.06641136854887009,
+      "words": [
+        {
+          "word": " You",
+          "start": 82.14,
+          "end": 83.3,
+          "probability": 0.6737720966339111
+        },
+        {
+          "word": " are",
+          "start": 83.3,
+          "end": 83.78,
+          "probability": 0.8662989139556885
+        },
+        {
+          "word": " not",
+          "start": 83.78,
+          "end": 84.1,
+          "probability": 0.9961835741996765
+        },
+        {
+          "word": " my",
+          "start": 84.1,
+          "end": 84.64,
+          "probability": 0.996492326259613
+        },
+        {
+          "word": " savior,",
+          "start": 84.64,
+          "end": 85.62,
+          "probability": 0.7451436519622803
+        },
+        {
+          "word": " cut",
+          "start": 86.18,
+          "end": 86.22,
+          "probability": 0.8472031354904175
+        },
+        {
+          "word": " me",
+          "start": 86.22,
+          "end": 86.7,
+          "probability": 0.9987775683403015
+        },
+        {
+          "word": " like",
+          "start": 86.7,
+          "end": 87.3,
+          "probability": 0.9892921447753906
+        },
+        {
+          "word": " a",
+          "start": 87.3,
+          "end": 87.64,
+          "probability": 0.9734798073768616
+        },
+        {
+          "word": " razor",
+          "start": 87.64,
+          "end": 88.6,
+          "probability": 0.9956608414649963
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 7538,
+      "start": 88.6,
+      "end": 92.38,
+      "text": " Dropped down from your head",
+      "tokens": [
+        51014,
+        35305,
+        3320,
+        760,
+        490,
+        428,
+        1378,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43729460866827713,
+      "compression_ratio": 1.174757281553398,
+      "no_speech_prob": 0.06641136854887009,
+      "words": [
+        {
+          "word": " Dropped",
+          "start": 88.6,
+          "end": 89.4,
+          "probability": 0.6200599446892738
+        },
+        {
+          "word": " down",
+          "start": 89.4,
+          "end": 89.88,
+          "probability": 0.3322923183441162
+        },
+        {
+          "word": " from",
+          "start": 89.88,
+          "end": 90.46,
+          "probability": 0.9890305399894714
+        },
+        {
+          "word": " your",
+          "start": 90.46,
+          "end": 91.18,
+          "probability": 0.3114287257194519
+        },
+        {
+          "word": " head",
+          "start": 91.18,
+          "end": 92.38,
+          "probability": 0.4278893768787384
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 7538,
+      "start": 98.38,
+      "end": 101.22,
+      "text": " The vomit drop dismissed us",
+      "tokens": [
+        51514,
+        440,
+        42374,
+        3270,
+        29970,
+        505,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43729460866827713,
+      "compression_ratio": 1.174757281553398,
+      "no_speech_prob": 0.06641136854887009,
+      "words": [
+        {
+          "word": " The",
+          "start": 98.10000000000001,
+          "end": 98.68,
+          "probability": 0.7160296440124512
+        },
+        {
+          "word": " vomit",
+          "start": 98.68,
+          "end": 99.2,
+          "probability": 0.16781659424304962
+        },
+        {
+          "word": " drop",
+          "start": 99.2,
+          "end": 99.56,
+          "probability": 0.6479668021202087
+        },
+        {
+          "word": " dismissed",
+          "start": 99.56,
+          "end": 100.54,
+          "probability": 0.700946569442749
+        },
+        {
+          "word": " us",
+          "start": 100.54,
+          "end": 101.22,
+          "probability": 0.887279748916626
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 10122,
+      "start": 101.22,
+      "end": 106.4,
+      "text": " I can go a distance, I'm building a resistance",
+      "tokens": [
+        50364,
+        286,
+        393,
+        352,
+        257,
+        4560,
+        11,
+        286,
+        478,
+        2390,
+        257,
+        7335,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12621048518589564,
+      "compression_ratio": 0.9787234042553191,
+      "no_speech_prob": 0.03641199693083763,
+      "words": [
+        {
+          "word": " I",
+          "start": 101.22,
+          "end": 101.56,
+          "probability": 0.7514348030090332
+        },
+        {
+          "word": " can",
+          "start": 101.56,
+          "end": 102.0,
+          "probability": 0.9918368458747864
+        },
+        {
+          "word": " go",
+          "start": 102.0,
+          "end": 102.44,
+          "probability": 0.9498084187507629
+        },
+        {
+          "word": " a",
+          "start": 102.44,
+          "end": 102.72,
+          "probability": 0.8349524140357971
+        },
+        {
+          "word": " distance,",
+          "start": 102.72,
+          "end": 103.74,
+          "probability": 0.987304151058197
+        },
+        {
+          "word": " I'm",
+          "start": 104.14,
+          "end": 104.38,
+          "probability": 0.9537615478038788
+        },
+        {
+          "word": " building",
+          "start": 104.38,
+          "end": 104.86,
+          "probability": 0.9928464293479919
+        },
+        {
+          "word": " a",
+          "start": 104.86,
+          "end": 105.52,
+          "probability": 0.9771909713745117
+        },
+        {
+          "word": " resistance",
+          "start": 105.52,
+          "end": 106.4,
+          "probability": 0.9102869033813477
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 13122,
+      "start": 159.14,
+      "end": 160.54,
+      "text": " I'm building a resistance",
+      "tokens": [
+        50364,
+        286,
+        478,
+        2390,
+        257,
+        7335,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8531285524368286,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.9041846990585327,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 159.14,
+          "end": 160.54,
+          "probability": 0.10468109650537372
+        },
+        {
+          "word": " building",
+          "start": 160.54,
+          "end": 160.54,
+          "probability": 0.0003628229897003621
+        },
+        {
+          "word": " a",
+          "start": 160.54,
+          "end": 160.54,
+          "probability": 0.3063073456287384
+        },
+        {
+          "word": " resistance",
+          "start": 160.54,
+          "end": 160.54,
+          "probability": 7.505772373406217e-05
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

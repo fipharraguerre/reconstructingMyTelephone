@@ -1,0 +1,701 @@
+{
+  "text": " Love. I know, I wanted to. Love. Don't be, it's fine, really. Love. Keep it, I'm not taking it back. Love. Oh, that's nice. Love. It's nothing. Love. It's a spare one, okay? Love. I have no use for it, I'm telling you. So get rid of it, throw it away. I don't care.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 1.6599999999999975,
+      "end": 2.38,
+      "text": " Love.",
+      "tokens": [
+        50364,
+        5956,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26948295790573645,
+      "compression_ratio": 1.1826923076923077,
+      "no_speech_prob": 0.30936917662620544,
+      "words": [
+        {
+          "word": " Love.",
+          "start": 1.6599999999999975,
+          "end": 2.38,
+          "probability": 0.42119520902633667
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.06,
+      "end": 8.72,
+      "text": " I know, I wanted to.",
+      "tokens": [
+        50714,
+        286,
+        458,
+        11,
+        286,
+        1415,
+        281,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26948295790573645,
+      "compression_ratio": 1.1826923076923077,
+      "no_speech_prob": 0.30936917662620544,
+      "words": [
+        {
+          "word": " I",
+          "start": 7.06,
+          "end": 7.16,
+          "probability": 0.8906541466712952
+        },
+        {
+          "word": " know,",
+          "start": 7.16,
+          "end": 7.62,
+          "probability": 0.9918678402900696
+        },
+        {
+          "word": " I",
+          "start": 7.78,
+          "end": 7.96,
+          "probability": 0.9526929259300232
+        },
+        {
+          "word": " wanted",
+          "start": 7.96,
+          "end": 8.44,
+          "probability": 0.7482960224151611
+        },
+        {
+          "word": " to.",
+          "start": 8.44,
+          "end": 8.72,
+          "probability": 0.9853041768074036
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.0,
+      "end": 9.7,
+      "text": " Love.",
+      "tokens": [
+        50814,
+        5956,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26948295790573645,
+      "compression_ratio": 1.1826923076923077,
+      "no_speech_prob": 0.30936917662620544,
+      "words": [
+        {
+          "word": " Love.",
+          "start": 9.0,
+          "end": 9.7,
+          "probability": 0.9446908235549927
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.28,
+      "end": 15.72,
+      "text": " Don't be, it's fine, really.",
+      "tokens": [
+        51014,
+        1468,
+        380,
+        312,
+        11,
+        309,
+        311,
+        2489,
+        11,
+        534,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26948295790573645,
+      "compression_ratio": 1.1826923076923077,
+      "no_speech_prob": 0.30936917662620544,
+      "words": [
+        {
+          "word": " Don't",
+          "start": 13.28,
+          "end": 13.92,
+          "probability": 0.9886963665485382
+        },
+        {
+          "word": " be,",
+          "start": 13.92,
+          "end": 14.08,
+          "probability": 0.9570939540863037
+        },
+        {
+          "word": " it's",
+          "start": 14.44,
+          "end": 14.9,
+          "probability": 0.9682513475418091
+        },
+        {
+          "word": " fine,",
+          "start": 14.9,
+          "end": 15.22,
+          "probability": 0.9952558875083923
+        },
+        {
+          "word": " really.",
+          "start": 15.42,
+          "end": 15.72,
+          "probability": 0.9950392842292786
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.24,
+      "end": 16.96,
+      "text": " Love.",
+      "tokens": [
+        51164,
+        5956,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26948295790573645,
+      "compression_ratio": 1.1826923076923077,
+      "no_speech_prob": 0.30936917662620544,
+      "words": [
+        {
+          "word": " Love.",
+          "start": 16.24,
+          "end": 16.96,
+          "probability": 0.991442859172821
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.58,
+      "end": 21.98,
+      "text": " Keep it, I'm not taking it back.",
+      "tokens": [
+        51314,
+        5527,
+        309,
+        11,
+        286,
+        478,
+        406,
+        1940,
+        309,
+        646,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26948295790573645,
+      "compression_ratio": 1.1826923076923077,
+      "no_speech_prob": 0.30936917662620544,
+      "words": [
+        {
+          "word": " Keep",
+          "start": 19.58,
+          "end": 20.0,
+          "probability": 0.9855688214302063
+        },
+        {
+          "word": " it,",
+          "start": 20.0,
+          "end": 20.4,
+          "probability": 0.9973704814910889
+        },
+        {
+          "word": " I'm",
+          "start": 20.42,
+          "end": 20.7,
+          "probability": 0.9768050611019135
+        },
+        {
+          "word": " not",
+          "start": 20.7,
+          "end": 20.9,
+          "probability": 0.999116837978363
+        },
+        {
+          "word": " taking",
+          "start": 20.9,
+          "end": 21.26,
+          "probability": 0.9983072280883789
+        },
+        {
+          "word": " it",
+          "start": 21.26,
+          "end": 21.62,
+          "probability": 0.9959598183631897
+        },
+        {
+          "word": " back.",
+          "start": 21.62,
+          "end": 21.98,
+          "probability": 0.9995433688163757
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 22.96,
+      "end": 23.68,
+      "text": " Love.",
+      "tokens": [
+        51514,
+        5956,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26948295790573645,
+      "compression_ratio": 1.1826923076923077,
+      "no_speech_prob": 0.30936917662620544,
+      "words": [
+        {
+          "word": " Love.",
+          "start": 22.96,
+          "end": 23.68,
+          "probability": 0.9897782206535339
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 23.76,
+      "end": 25.02,
+      "text": " Oh, that's nice.",
+      "tokens": [
+        51564,
+        876,
+        11,
+        300,
+        311,
+        1481,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26948295790573645,
+      "compression_ratio": 1.1826923076923077,
+      "no_speech_prob": 0.30936917662620544,
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 23.76,
+          "end": 24.04,
+          "probability": 0.9771416783332825
+        },
+        {
+          "word": " that's",
+          "start": 24.04,
+          "end": 24.58,
+          "probability": 0.9935499131679535
+        },
+        {
+          "word": " nice.",
+          "start": 24.58,
+          "end": 25.02,
+          "probability": 0.9989246726036072
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 3000,
+      "start": 30.36,
+      "end": 31.04,
+      "text": " Love.",
+      "tokens": [
+        50364,
+        5956,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08303429234412409,
+      "compression_ratio": 1.236842105263158,
+      "no_speech_prob": 0.0007988277939148247,
+      "words": [
+        {
+          "word": " Love.",
+          "start": 30.36,
+          "end": 31.04,
+          "probability": 0.6047662496566772
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 3000,
+      "start": 31.18,
+      "end": 32.62,
+      "text": " It's nothing.",
+      "tokens": [
+        50414,
+        467,
+        311,
+        1825,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08303429234412409,
+      "compression_ratio": 1.236842105263158,
+      "no_speech_prob": 0.0007988277939148247,
+      "words": [
+        {
+          "word": " It's",
+          "start": 31.18,
+          "end": 31.78,
+          "probability": 0.9115932583808899
+        },
+        {
+          "word": " nothing.",
+          "start": 31.78,
+          "end": 32.62,
+          "probability": 0.8957390785217285
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 3000,
+      "start": 37.54,
+      "end": 38.22,
+      "text": " Love.",
+      "tokens": [
+        50714,
+        5956,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08303429234412409,
+      "compression_ratio": 1.236842105263158,
+      "no_speech_prob": 0.0007988277939148247,
+      "words": [
+        {
+          "word": " Love.",
+          "start": 37.54,
+          "end": 38.22,
+          "probability": 0.977119505405426
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 3000,
+      "start": 38.54,
+      "end": 40.34,
+      "text": " It's a spare one, okay?",
+      "tokens": [
+        50764,
+        467,
+        311,
+        257,
+        13798,
+        472,
+        11,
+        1392,
+        30,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08303429234412409,
+      "compression_ratio": 1.236842105263158,
+      "no_speech_prob": 0.0007988277939148247,
+      "words": [
+        {
+          "word": " It's",
+          "start": 38.54,
+          "end": 39.0,
+          "probability": 0.9556812345981598
+        },
+        {
+          "word": " a",
+          "start": 39.0,
+          "end": 39.12,
+          "probability": 0.9928582906723022
+        },
+        {
+          "word": " spare",
+          "start": 39.12,
+          "end": 39.34,
+          "probability": 0.9886547327041626
+        },
+        {
+          "word": " one,",
+          "start": 39.34,
+          "end": 39.66,
+          "probability": 0.9958407282829285
+        },
+        {
+          "word": " okay?",
+          "start": 39.8,
+          "end": 40.34,
+          "probability": 0.6834051609039307
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 3000,
+      "start": 45.06,
+      "end": 45.74,
+      "text": " Love.",
+      "tokens": [
+        51114,
+        5956,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08303429234412409,
+      "compression_ratio": 1.236842105263158,
+      "no_speech_prob": 0.0007988277939148247,
+      "words": [
+        {
+          "word": " Love.",
+          "start": 45.06,
+          "end": 45.74,
+          "probability": 0.9712513089179993
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 3000,
+      "start": 45.86,
+      "end": 49.02,
+      "text": " I have no use for it, I'm telling you.",
+      "tokens": [
+        51164,
+        286,
+        362,
+        572,
+        764,
+        337,
+        309,
+        11,
+        286,
+        478,
+        3585,
+        291,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08303429234412409,
+      "compression_ratio": 1.236842105263158,
+      "no_speech_prob": 0.0007988277939148247,
+      "words": [
+        {
+          "word": " I",
+          "start": 45.86,
+          "end": 46.22,
+          "probability": 0.9960736036300659
+        },
+        {
+          "word": " have",
+          "start": 46.22,
+          "end": 46.44,
+          "probability": 0.989772617816925
+        },
+        {
+          "word": " no",
+          "start": 46.44,
+          "end": 46.82,
+          "probability": 0.9982796907424927
+        },
+        {
+          "word": " use",
+          "start": 46.82,
+          "end": 47.1,
+          "probability": 0.9964860677719116
+        },
+        {
+          "word": " for",
+          "start": 47.1,
+          "end": 47.4,
+          "probability": 0.9977134466171265
+        },
+        {
+          "word": " it,",
+          "start": 47.4,
+          "end": 47.6,
+          "probability": 0.9974864721298218
+        },
+        {
+          "word": " I'm",
+          "start": 47.72,
+          "end": 47.88,
+          "probability": 0.9833101034164429
+        },
+        {
+          "word": " telling",
+          "start": 47.88,
+          "end": 48.2,
+          "probability": 0.9919231534004211
+        },
+        {
+          "word": " you.",
+          "start": 48.2,
+          "end": 49.02,
+          "probability": 0.9988095760345459
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 3000,
+      "start": 50.84,
+      "end": 53.64,
+      "text": " So get rid of it, throw it away.",
+      "tokens": [
+        51414,
+        407,
+        483,
+        3973,
+        295,
+        309,
+        11,
+        3507,
+        309,
+        1314,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08303429234412409,
+      "compression_ratio": 1.236842105263158,
+      "no_speech_prob": 0.0007988277939148247,
+      "words": [
+        {
+          "word": " So",
+          "start": 50.84,
+          "end": 51.28,
+          "probability": 0.9922568798065186
+        },
+        {
+          "word": " get",
+          "start": 51.28,
+          "end": 51.62,
+          "probability": 0.7805243134498596
+        },
+        {
+          "word": " rid",
+          "start": 51.62,
+          "end": 51.98,
+          "probability": 0.9984865188598633
+        },
+        {
+          "word": " of",
+          "start": 51.98,
+          "end": 52.22,
+          "probability": 0.9960464835166931
+        },
+        {
+          "word": " it,",
+          "start": 52.22,
+          "end": 52.54,
+          "probability": 0.99673992395401
+        },
+        {
+          "word": " throw",
+          "start": 52.56,
+          "end": 52.86,
+          "probability": 0.9725309014320374
+        },
+        {
+          "word": " it",
+          "start": 52.86,
+          "end": 53.2,
+          "probability": 0.9979032278060913
+        },
+        {
+          "word": " away.",
+          "start": 53.2,
+          "end": 53.64,
+          "probability": 0.9993158578872681
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 3000,
+      "start": 54.38,
+      "end": 55.62,
+      "text": " I don't care.",
+      "tokens": [
+        51564,
+        286,
+        500,
+        380,
+        1127,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08303429234412409,
+      "compression_ratio": 1.236842105263158,
+      "no_speech_prob": 0.0007988277939148247,
+      "words": [
+        {
+          "word": " I",
+          "start": 54.38,
+          "end": 54.9,
+          "probability": 0.996550440788269
+        },
+        {
+          "word": " don't",
+          "start": 54.9,
+          "end": 55.18,
+          "probability": 0.9980977177619934
+        },
+        {
+          "word": " care.",
+          "start": 55.18,
+          "end": 55.62,
+          "probability": 0.999718964099884
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 6000,
+      "start": 60.0,
+      "end": 60.0,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.4796161651611328,
+      "compression_ratio": 0.38461538461538464,
+      "no_speech_prob": 0.9147970080375671,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

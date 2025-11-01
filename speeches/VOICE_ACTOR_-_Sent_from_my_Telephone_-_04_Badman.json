@@ -1,0 +1,495 @@
+{
+  "text": " There wasn't a thing that you could do I put my foot down, stung my ground I say listen, if you, you are in I say listen, I'm not real, it's a dream There wasn't a thing that you could do I say listen, I'm not real, it's a dream There wasn't a thing that you could do",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 34.28,
+      "end": 53.0,
+      "text": " There wasn't a thing that you could do I put my foot down, stung my ground",
+      "tokens": [
+        50364,
+        821,
+        2067,
+        380,
+        257,
+        551,
+        300,
+        291,
+        727,
+        360,
+        286,
+        829,
+        452,
+        2671,
+        760,
+        11,
+        342,
+        1063,
+        452,
+        2727,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5342491398686948,
+      "compression_ratio": 0.9736842105263158,
+      "no_speech_prob": 0.6202269792556763,
+      "words": [
+        {
+          "word": " There",
+          "start": 34.28,
+          "end": 35.68,
+          "probability": 0.04437962919473648
+        },
+        {
+          "word": " wasn't",
+          "start": 35.68,
+          "end": 36.5,
+          "probability": 0.9669728875160217
+        },
+        {
+          "word": " a",
+          "start": 36.5,
+          "end": 37.02,
+          "probability": 0.9573782682418823
+        },
+        {
+          "word": " thing",
+          "start": 37.02,
+          "end": 37.7,
+          "probability": 0.9935951828956604
+        },
+        {
+          "word": " that",
+          "start": 37.7,
+          "end": 38.36,
+          "probability": 0.918903648853302
+        },
+        {
+          "word": " you",
+          "start": 38.36,
+          "end": 38.86,
+          "probability": 0.9886377453804016
+        },
+        {
+          "word": " could",
+          "start": 38.86,
+          "end": 39.62,
+          "probability": 0.9939723610877991
+        },
+        {
+          "word": " do",
+          "start": 39.62,
+          "end": 44.2,
+          "probability": 0.9983761310577393
+        },
+        {
+          "word": " I",
+          "start": 44.2,
+          "end": 47.2,
+          "probability": 0.7260007858276367
+        },
+        {
+          "word": " put",
+          "start": 47.2,
+          "end": 47.74,
+          "probability": 0.9701825976371765
+        },
+        {
+          "word": " my",
+          "start": 47.74,
+          "end": 48.54,
+          "probability": 0.9956250786781311
+        },
+        {
+          "word": " foot",
+          "start": 48.54,
+          "end": 48.98,
+          "probability": 0.9695367217063904
+        },
+        {
+          "word": " down,",
+          "start": 48.98,
+          "end": 51.0,
+          "probability": 0.9982965588569641
+        },
+        {
+          "word": " stung",
+          "start": 51.7,
+          "end": 52.08,
+          "probability": 0.32299669831991196
+        },
+        {
+          "word": " my",
+          "start": 52.08,
+          "end": 52.88,
+          "probability": 0.945803701877594
+        },
+        {
+          "word": " ground",
+          "start": 52.88,
+          "end": 53.580000000000005,
+          "probability": 0.19706371426582336
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 5358,
+      "start": 56.38,
+      "end": 65.5,
+      "text": " I say listen, if you, you are in",
+      "tokens": [
+        50364,
+        286,
+        584,
+        2140,
+        11,
+        498,
+        291,
+        11,
+        291,
+        366,
+        294,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5056900637490409,
+      "compression_ratio": 0.8648648648648649,
+      "no_speech_prob": 0.23107147216796875,
+      "words": [
+        {
+          "word": " I",
+          "start": 56.38,
+          "end": 57.78,
+          "probability": 0.24828942120075226
+        },
+        {
+          "word": " say",
+          "start": 57.78,
+          "end": 58.54,
+          "probability": 0.7667384147644043
+        },
+        {
+          "word": " listen,",
+          "start": 58.54,
+          "end": 59.74,
+          "probability": 0.7737529277801514
+        },
+        {
+          "word": " if",
+          "start": 61.12,
+          "end": 61.76,
+          "probability": 0.7021003365516663
+        },
+        {
+          "word": " you,",
+          "start": 61.76,
+          "end": 63.28,
+          "probability": 0.9904733300209045
+        },
+        {
+          "word": " you",
+          "start": 63.32,
+          "end": 64.06,
+          "probability": 0.9764173030853271
+        },
+        {
+          "word": " are",
+          "start": 64.06,
+          "end": 64.64,
+          "probability": 0.4597199857234955
+        },
+        {
+          "word": " in",
+          "start": 64.64,
+          "end": 65.5,
+          "probability": 0.2328920066356659
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 6550,
+      "start": 65.5,
+      "end": 84.0,
+      "text": " I say listen, I'm not real, it's a dream There wasn't a thing that you could do",
+      "tokens": [
+        50364,
+        286,
+        584,
+        2140,
+        11,
+        286,
+        478,
+        406,
+        957,
+        11,
+        309,
+        311,
+        257,
+        3055,
+        821,
+        2067,
+        380,
+        257,
+        551,
+        300,
+        291,
+        727,
+        360,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22726646423339844,
+      "compression_ratio": 1.025974025974026,
+      "no_speech_prob": 0.41649237275123596,
+      "words": [
+        {
+          "word": " I",
+          "start": 65.5,
+          "end": 68.08,
+          "probability": 0.0436079315841198
+        },
+        {
+          "word": " say",
+          "start": 68.08,
+          "end": 68.28,
+          "probability": 0.04579439014196396
+        },
+        {
+          "word": " listen,",
+          "start": 68.28,
+          "end": 70.0,
+          "probability": 0.21389392018318176
+        },
+        {
+          "word": " I'm",
+          "start": 71.6,
+          "end": 72.64,
+          "probability": 0.9260749518871307
+        },
+        {
+          "word": " not",
+          "start": 72.64,
+          "end": 73.02,
+          "probability": 0.9884787201881409
+        },
+        {
+          "word": " real,",
+          "start": 73.02,
+          "end": 73.98,
+          "probability": 0.35174083709716797
+        },
+        {
+          "word": " it's",
+          "start": 75.1,
+          "end": 75.4,
+          "probability": 0.9235688149929047
+        },
+        {
+          "word": " a",
+          "start": 75.4,
+          "end": 75.56,
+          "probability": 0.992318868637085
+        },
+        {
+          "word": " dream",
+          "start": 75.56,
+          "end": 76.82,
+          "probability": 0.9975892305374146
+        },
+        {
+          "word": " There",
+          "start": 76.82,
+          "end": 78.96,
+          "probability": 0.4776470363140106
+        },
+        {
+          "word": " wasn't",
+          "start": 78.96,
+          "end": 79.82,
+          "probability": 0.8693872690200806
+        },
+        {
+          "word": " a",
+          "start": 79.82,
+          "end": 80.12,
+          "probability": 0.7058658599853516
+        },
+        {
+          "word": " thing",
+          "start": 80.12,
+          "end": 80.72,
+          "probability": 0.9955750703811646
+        },
+        {
+          "word": " that",
+          "start": 80.72,
+          "end": 81.3,
+          "probability": 0.9666088819503784
+        },
+        {
+          "word": " you",
+          "start": 81.3,
+          "end": 81.9,
+          "probability": 0.9693040251731873
+        },
+        {
+          "word": " could",
+          "start": 81.9,
+          "end": 82.78,
+          "probability": 0.9966577291488647
+        },
+        {
+          "word": " do",
+          "start": 82.78,
+          "end": 84.0,
+          "probability": 0.9992485642433167
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 9550,
+      "start": 97.03999999999999,
+      "end": 98.44,
+      "text": " I say listen, I'm not real, it's a dream There wasn't a thing that you could do",
+      "tokens": [
+        50364,
+        286,
+        584,
+        2140,
+        11,
+        286,
+        478,
+        406,
+        957,
+        11,
+        309,
+        311,
+        257,
+        3055,
+        821,
+        2067,
+        380,
+        257,
+        551,
+        300,
+        291,
+        727,
+        360,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30422540664672854,
+      "compression_ratio": 1.025974025974026,
+      "no_speech_prob": 0.9745922684669495,
+      "words": [
+        {
+          "word": " I",
+          "start": 97.03999999999999,
+          "end": 98.44,
+          "probability": 0.006190067622810602
+        },
+        {
+          "word": " say",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.0003152781864628196
+        },
+        {
+          "word": " listen,",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.00036431223270483315
+        },
+        {
+          "word": " I'm",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.11133001372218132
+        },
+        {
+          "word": " not",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.15913274884223938
+        },
+        {
+          "word": " real,",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.0012705528642982244
+        },
+        {
+          "word": " it's",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.4262007409706712
+        },
+        {
+          "word": " a",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.059426821768283844
+        },
+        {
+          "word": " dream",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.08043403178453445
+        },
+        {
+          "word": " There",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 8.582587906857952e-05
+        },
+        {
+          "word": " wasn't",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.4997142098727636
+        },
+        {
+          "word": " a",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.3320847451686859
+        },
+        {
+          "word": " thing",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.057423096150159836
+        },
+        {
+          "word": " that",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.2183525264263153
+        },
+        {
+          "word": " you",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.04359773173928261
+        },
+        {
+          "word": " could",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.5798940658569336
+        },
+        {
+          "word": " do",
+          "start": 98.44,
+          "end": 98.44,
+          "probability": 0.2666133642196655
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

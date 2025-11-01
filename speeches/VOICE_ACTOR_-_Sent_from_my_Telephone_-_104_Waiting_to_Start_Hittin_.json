@@ -1,0 +1,2831 @@
+{
+  "text": " I've been in this game for years, it made me an animal, it's rules to this shit, I wrote me a manual, a step by step booklet for you to get your game on track, let your mind be pushed back. Rule number uno, never let no one know how much dough you hold cause you know that cheddar breed gels, see especially if that man fucked up, get your ass stuck up. Number two, never let him know your next move, don't you know bad boys move in silence and violence, take it from your highness, I don't squeeze mad clips of these cats, I'm just a little bit of a bitch for these bricks and chips. Number three, never trust nobody, your mum will set us ass up, properly gassed up, hoodie to Moscow, shit for that fastback, she'll be laying on bushes to buy that asshole. Number four, you know you heard this before, never get high on your own supply. Number five, never sell no crack where you rest at, I don't care if they will run you stone or bones. Number six, that goddamn credit, daddy, do you think a crackhead would pay you back, shit forget it. Seven, this rule is so underrated, keep your family and business completely separated, money and blood don't mix like two dicks, no bitch, find yourself in serious shit. Number eight, never keep no weight on you, them cats that squeeze your guns can hold jobs too. Number nine should be number one to me, if you ain't getting bagged, take fuck from the police, if they think you snitching, they ain't trying to listen, they'll be sitting in your kitchen waiting to start hitting you. Number ten, this drill word called consignment, strictly for life, man, not for freshmen, if you ain't got the clientele, say hello, cause they're gonna want their money, rain, sleet, hail, snow. Fuck. Fuck. Fuck.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 16.479999999999997,
+      "end": 22.44,
+      "text": " I've been in this game for years, it made me an animal, it's rules to this shit, I",
+      "tokens": [
+        50364,
+        286,
+        600,
+        668,
+        294,
+        341,
+        1216,
+        337,
+        924,
+        11,
+        309,
+        1027,
+        385,
+        364,
+        5496,
+        11,
+        309,
+        311,
+        4474,
+        281,
+        341,
+        4611,
+        11,
+        286,
+        51477
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37306770324707034,
+      "compression_ratio": 1.423728813559322,
+      "no_speech_prob": 0.45511943101882935,
+      "words": [
+        {
+          "word": " I've",
+          "start": 16.479999999999997,
+          "end": 17.04,
+          "probability": 0.6314082145690918
+        },
+        {
+          "word": " been",
+          "start": 17.04,
+          "end": 17.26,
+          "probability": 0.9728096723556519
+        },
+        {
+          "word": " in",
+          "start": 17.26,
+          "end": 17.44,
+          "probability": 0.6367905139923096
+        },
+        {
+          "word": " this",
+          "start": 17.44,
+          "end": 17.78,
+          "probability": 0.9909364581108093
+        },
+        {
+          "word": " game",
+          "start": 17.78,
+          "end": 17.98,
+          "probability": 0.9953351616859436
+        },
+        {
+          "word": " for",
+          "start": 17.98,
+          "end": 18.36,
+          "probability": 0.9932558536529541
+        },
+        {
+          "word": " years,",
+          "start": 18.36,
+          "end": 18.8,
+          "probability": 0.9959944486618042
+        },
+        {
+          "word": " it",
+          "start": 18.88,
+          "end": 19.14,
+          "probability": 0.8170415163040161
+        },
+        {
+          "word": " made",
+          "start": 19.14,
+          "end": 19.38,
+          "probability": 0.9759121537208557
+        },
+        {
+          "word": " me",
+          "start": 19.38,
+          "end": 19.66,
+          "probability": 0.995826005935669
+        },
+        {
+          "word": " an",
+          "start": 19.66,
+          "end": 20.0,
+          "probability": 0.9925214648246765
+        },
+        {
+          "word": " animal,",
+          "start": 20.0,
+          "end": 20.4,
+          "probability": 0.9945132732391357
+        },
+        {
+          "word": " it's",
+          "start": 20.8,
+          "end": 21.08,
+          "probability": 0.76783886551857
+        },
+        {
+          "word": " rules",
+          "start": 21.08,
+          "end": 21.28,
+          "probability": 0.3579130172729492
+        },
+        {
+          "word": " to",
+          "start": 21.28,
+          "end": 21.5,
+          "probability": 0.8373757004737854
+        },
+        {
+          "word": " this",
+          "start": 21.5,
+          "end": 21.82,
+          "probability": 0.9527684450149536
+        },
+        {
+          "word": " shit,",
+          "start": 21.82,
+          "end": 22.1,
+          "probability": 0.9418765902519226
+        },
+        {
+          "word": " I",
+          "start": 22.1,
+          "end": 22.44,
+          "probability": 0.8455275893211365
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 22.44,
+      "end": 29.56,
+      "text": " wrote me a manual, a step by step booklet for you to get your game on track, let your",
+      "tokens": [
+        51477,
+        4114,
+        385,
+        257,
+        9688,
+        11,
+        257,
+        1823,
+        538,
+        1823,
+        48469,
+        337,
+        291,
+        281,
+        483,
+        428,
+        1216,
+        322,
+        2837,
+        11,
+        718,
+        428,
+        51832
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37306770324707034,
+      "compression_ratio": 1.423728813559322,
+      "no_speech_prob": 0.45511943101882935,
+      "words": [
+        {
+          "word": " wrote",
+          "start": 22.44,
+          "end": 22.64,
+          "probability": 0.9960681200027466
+        },
+        {
+          "word": " me",
+          "start": 22.64,
+          "end": 23.04,
+          "probability": 0.9596068859100342
+        },
+        {
+          "word": " a",
+          "start": 23.04,
+          "end": 23.26,
+          "probability": 0.9923143982887268
+        },
+        {
+          "word": " manual,",
+          "start": 23.26,
+          "end": 23.68,
+          "probability": 0.9941509366035461
+        },
+        {
+          "word": " a",
+          "start": 24.58,
+          "end": 24.78,
+          "probability": 0.9229910373687744
+        },
+        {
+          "word": " step",
+          "start": 24.78,
+          "end": 25.16,
+          "probability": 0.9824672341346741
+        },
+        {
+          "word": " by",
+          "start": 25.16,
+          "end": 25.44,
+          "probability": 0.45928582549095154
+        },
+        {
+          "word": " step",
+          "start": 25.44,
+          "end": 25.86,
+          "probability": 0.9980091452598572
+        },
+        {
+          "word": " booklet",
+          "start": 25.86,
+          "end": 26.54,
+          "probability": 0.8402866721153259
+        },
+        {
+          "word": " for",
+          "start": 26.54,
+          "end": 26.78,
+          "probability": 0.8520103693008423
+        },
+        {
+          "word": " you",
+          "start": 26.78,
+          "end": 27.02,
+          "probability": 0.9967167973518372
+        },
+        {
+          "word": " to",
+          "start": 27.02,
+          "end": 27.3,
+          "probability": 0.9941734671592712
+        },
+        {
+          "word": " get",
+          "start": 27.3,
+          "end": 27.56,
+          "probability": 0.9969651103019714
+        },
+        {
+          "word": " your",
+          "start": 27.56,
+          "end": 27.96,
+          "probability": 0.8993271589279175
+        },
+        {
+          "word": " game",
+          "start": 27.96,
+          "end": 28.22,
+          "probability": 0.988224983215332
+        },
+        {
+          "word": " on",
+          "start": 28.22,
+          "end": 28.64,
+          "probability": 0.9458272457122803
+        },
+        {
+          "word": " track,",
+          "start": 28.64,
+          "end": 28.96,
+          "probability": 0.9906007051467896
+        },
+        {
+          "word": " let",
+          "start": 29.16,
+          "end": 29.24,
+          "probability": 0.6594815254211426
+        },
+        {
+          "word": " your",
+          "start": 29.24,
+          "end": 29.56,
+          "probability": 0.9784285426139832
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2956,
+      "start": 29.56,
+      "end": 30.56,
+      "text": " mind be pushed back.",
+      "tokens": [
+        50364,
+        1575,
+        312,
+        9152,
+        646,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4412660297594572,
+      "compression_ratio": 1.5921052631578947,
+      "no_speech_prob": 0.9345002770423889,
+      "words": [
+        {
+          "word": " mind",
+          "start": 29.56,
+          "end": 29.56,
+          "probability": 2.2157109924592078e-05
+        },
+        {
+          "word": " be",
+          "start": 29.56,
+          "end": 29.7,
+          "probability": 0.0012063613394275308
+        },
+        {
+          "word": " pushed",
+          "start": 29.7,
+          "end": 30.1,
+          "probability": 0.29403868317604065
+        },
+        {
+          "word": " back.",
+          "start": 30.1,
+          "end": 30.56,
+          "probability": 0.996476948261261
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2956,
+      "start": 32.42,
+      "end": 38.7,
+      "text": " Rule number uno, never let no one know how much dough you hold cause you know that cheddar",
+      "tokens": [
+        50414,
+        27533,
+        1230,
+        8526,
+        11,
+        1128,
+        718,
+        572,
+        472,
+        458,
+        577,
+        709,
+        7984,
+        291,
+        1797,
+        3082,
+        291,
+        458,
+        300,
+        47435,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4412660297594572,
+      "compression_ratio": 1.5921052631578947,
+      "no_speech_prob": 0.9345002770423889,
+      "words": [
+        {
+          "word": " Rule",
+          "start": 32.42,
+          "end": 32.54,
+          "probability": 0.8501676321029663
+        },
+        {
+          "word": " number",
+          "start": 32.54,
+          "end": 32.98,
+          "probability": 0.5415658354759216
+        },
+        {
+          "word": " uno,",
+          "start": 32.98,
+          "end": 33.38,
+          "probability": 0.6739951372146606
+        },
+        {
+          "word": " never",
+          "start": 33.66,
+          "end": 33.86,
+          "probability": 0.9188604950904846
+        },
+        {
+          "word": " let",
+          "start": 33.86,
+          "end": 34.32,
+          "probability": 0.9944533705711365
+        },
+        {
+          "word": " no",
+          "start": 34.32,
+          "end": 34.54,
+          "probability": 0.961024820804596
+        },
+        {
+          "word": " one",
+          "start": 34.54,
+          "end": 34.76,
+          "probability": 0.8646717071533203
+        },
+        {
+          "word": " know",
+          "start": 34.76,
+          "end": 35.06,
+          "probability": 0.9957210421562195
+        },
+        {
+          "word": " how",
+          "start": 35.06,
+          "end": 35.32,
+          "probability": 0.8665216565132141
+        },
+        {
+          "word": " much",
+          "start": 35.32,
+          "end": 35.74,
+          "probability": 0.9931260347366333
+        },
+        {
+          "word": " dough",
+          "start": 35.74,
+          "end": 35.94,
+          "probability": 0.9074714779853821
+        },
+        {
+          "word": " you",
+          "start": 35.94,
+          "end": 36.24,
+          "probability": 0.9855785369873047
+        },
+        {
+          "word": " hold",
+          "start": 36.24,
+          "end": 36.48,
+          "probability": 0.9926769733428955
+        },
+        {
+          "word": " cause",
+          "start": 36.48,
+          "end": 36.88,
+          "probability": 0.5452471971511841
+        },
+        {
+          "word": " you",
+          "start": 36.88,
+          "end": 37.16,
+          "probability": 0.9526345133781433
+        },
+        {
+          "word": " know",
+          "start": 37.16,
+          "end": 37.96,
+          "probability": 0.9961011409759521
+        },
+        {
+          "word": " that",
+          "start": 37.96,
+          "end": 38.4,
+          "probability": 0.42727866768836975
+        },
+        {
+          "word": " cheddar",
+          "start": 38.4,
+          "end": 38.7,
+          "probability": 0.4034707546234131
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2956,
+      "start": 38.7,
+      "end": 44.34,
+      "text": " breed gels, see especially if that man fucked up, get your ass stuck up.",
+      "tokens": [
+        50814,
+        18971,
+        39196,
+        11,
+        536,
+        2318,
+        498,
+        300,
+        587,
+        22518,
+        493,
+        11,
+        483,
+        428,
+        1256,
+        5541,
+        493,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4412660297594572,
+      "compression_ratio": 1.5921052631578947,
+      "no_speech_prob": 0.9345002770423889,
+      "words": [
+        {
+          "word": " breed",
+          "start": 38.7,
+          "end": 39.18,
+          "probability": 0.38167819380760193
+        },
+        {
+          "word": " gels,",
+          "start": 39.18,
+          "end": 39.54,
+          "probability": 0.541692852973938
+        },
+        {
+          "word": " see",
+          "start": 39.96,
+          "end": 39.98,
+          "probability": 0.6029999256134033
+        },
+        {
+          "word": " especially",
+          "start": 39.98,
+          "end": 40.8,
+          "probability": 0.6365388631820679
+        },
+        {
+          "word": " if",
+          "start": 40.8,
+          "end": 41.16,
+          "probability": 0.9768983125686646
+        },
+        {
+          "word": " that",
+          "start": 41.16,
+          "end": 41.48,
+          "probability": 0.9884971380233765
+        },
+        {
+          "word": " man",
+          "start": 41.48,
+          "end": 41.84,
+          "probability": 0.9773509502410889
+        },
+        {
+          "word": " fucked",
+          "start": 41.84,
+          "end": 42.2,
+          "probability": 0.9067361950874329
+        },
+        {
+          "word": " up,",
+          "start": 42.2,
+          "end": 42.56,
+          "probability": 0.992152750492096
+        },
+        {
+          "word": " get",
+          "start": 42.76,
+          "end": 42.86,
+          "probability": 0.9877897500991821
+        },
+        {
+          "word": " your",
+          "start": 42.86,
+          "end": 43.12,
+          "probability": 0.9446458220481873
+        },
+        {
+          "word": " ass",
+          "start": 43.12,
+          "end": 43.42,
+          "probability": 0.986382007598877
+        },
+        {
+          "word": " stuck",
+          "start": 43.42,
+          "end": 43.7,
+          "probability": 0.22542984783649445
+        },
+        {
+          "word": " up.",
+          "start": 43.7,
+          "end": 44.34,
+          "probability": 0.8658025860786438
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2956,
+      "start": 45.84,
+      "end": 52.94,
+      "text": " Number two, never let him know your next move, don't you know bad boys move in silence and",
+      "tokens": [
+        51164,
+        5118,
+        732,
+        11,
+        1128,
+        718,
+        796,
+        458,
+        428,
+        958,
+        1286,
+        11,
+        500,
+        380,
+        291,
+        458,
+        1578,
+        6347,
+        1286,
+        294,
+        12239,
+        293,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4412660297594572,
+      "compression_ratio": 1.5921052631578947,
+      "no_speech_prob": 0.9345002770423889,
+      "words": [
+        {
+          "word": " Number",
+          "start": 45.84,
+          "end": 46.3,
+          "probability": 0.9657388925552368
+        },
+        {
+          "word": " two,",
+          "start": 46.3,
+          "end": 46.7,
+          "probability": 0.9591392874717712
+        },
+        {
+          "word": " never",
+          "start": 46.72,
+          "end": 47.04,
+          "probability": 0.9737898111343384
+        },
+        {
+          "word": " let",
+          "start": 47.04,
+          "end": 47.34,
+          "probability": 0.9944069385528564
+        },
+        {
+          "word": " him",
+          "start": 47.34,
+          "end": 47.68,
+          "probability": 0.33576154708862305
+        },
+        {
+          "word": " know",
+          "start": 47.68,
+          "end": 47.84,
+          "probability": 0.9986231327056885
+        },
+        {
+          "word": " your",
+          "start": 47.84,
+          "end": 48.12,
+          "probability": 0.8814322352409363
+        },
+        {
+          "word": " next",
+          "start": 48.12,
+          "end": 48.7,
+          "probability": 0.9985406398773193
+        },
+        {
+          "word": " move,",
+          "start": 48.7,
+          "end": 49.2,
+          "probability": 0.9976396560668945
+        },
+        {
+          "word": " don't",
+          "start": 49.44,
+          "end": 49.72,
+          "probability": 0.9517406821250916
+        },
+        {
+          "word": " you",
+          "start": 49.72,
+          "end": 49.98,
+          "probability": 0.916531503200531
+        },
+        {
+          "word": " know",
+          "start": 49.98,
+          "end": 50.22,
+          "probability": 0.9966233968734741
+        },
+        {
+          "word": " bad",
+          "start": 50.22,
+          "end": 50.66,
+          "probability": 0.9277108311653137
+        },
+        {
+          "word": " boys",
+          "start": 50.66,
+          "end": 51.16,
+          "probability": 0.9860365986824036
+        },
+        {
+          "word": " move",
+          "start": 51.16,
+          "end": 51.58,
+          "probability": 0.9594933986663818
+        },
+        {
+          "word": " in",
+          "start": 51.58,
+          "end": 51.88,
+          "probability": 0.9951424598693848
+        },
+        {
+          "word": " silence",
+          "start": 51.88,
+          "end": 52.52,
+          "probability": 0.9838401675224304
+        },
+        {
+          "word": " and",
+          "start": 52.52,
+          "end": 52.94,
+          "probability": 0.9627812504768372
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2956,
+      "start": 52.94,
+      "end": 59.54,
+      "text": " violence, take it from your highness, I don't squeeze mad clips of these cats, I'm just",
+      "tokens": [
+        51514,
+        6270,
+        11,
+        747,
+        309,
+        490,
+        428,
+        49235,
+        11,
+        286,
+        500,
+        380,
+        13578,
+        5244,
+        13117,
+        295,
+        613,
+        11111,
+        11,
+        286,
+        478,
+        445,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4412660297594572,
+      "compression_ratio": 1.5921052631578947,
+      "no_speech_prob": 0.9345002770423889,
+      "words": [
+        {
+          "word": " violence,",
+          "start": 52.94,
+          "end": 53.6,
+          "probability": 0.9957011342048645
+        },
+        {
+          "word": " take",
+          "start": 54.38,
+          "end": 54.6,
+          "probability": 0.9839602112770081
+        },
+        {
+          "word": " it",
+          "start": 54.6,
+          "end": 54.84,
+          "probability": 0.9931281805038452
+        },
+        {
+          "word": " from",
+          "start": 54.84,
+          "end": 55.12,
+          "probability": 0.9964693784713745
+        },
+        {
+          "word": " your",
+          "start": 55.12,
+          "end": 55.42,
+          "probability": 0.9565325975418091
+        },
+        {
+          "word": " highness,",
+          "start": 55.42,
+          "end": 56.04,
+          "probability": 0.7930934429168701
+        },
+        {
+          "word": " I",
+          "start": 56.28,
+          "end": 56.58,
+          "probability": 0.8657960891723633
+        },
+        {
+          "word": " don't",
+          "start": 56.58,
+          "end": 56.92,
+          "probability": 0.9926786720752716
+        },
+        {
+          "word": " squeeze",
+          "start": 56.92,
+          "end": 57.56,
+          "probability": 0.9807469248771667
+        },
+        {
+          "word": " mad",
+          "start": 57.56,
+          "end": 57.96,
+          "probability": 0.989309549331665
+        },
+        {
+          "word": " clips",
+          "start": 57.96,
+          "end": 58.54,
+          "probability": 0.9347881078720093
+        },
+        {
+          "word": " of",
+          "start": 58.54,
+          "end": 58.84,
+          "probability": 0.7246651649475098
+        },
+        {
+          "word": " these",
+          "start": 58.84,
+          "end": 59.2,
+          "probability": 0.9922574758529663
+        },
+        {
+          "word": " cats,",
+          "start": 59.2,
+          "end": 59.54,
+          "probability": 0.9530648589134216
+        },
+        {
+          "word": " I'm",
+          "start": 59.54,
+          "end": 59.54,
+          "probability": 0.1639399528503418
+        },
+        {
+          "word": " just",
+          "start": 59.54,
+          "end": 59.54,
+          "probability": 0.09641409665346146
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5954,
+      "start": 59.54,
+      "end": 62.12,
+      "text": " a little bit of a bitch for these bricks and chips.",
+      "tokens": [
+        50364,
+        257,
+        707,
+        857,
+        295,
+        257,
+        11960,
+        337,
+        613,
+        25497,
+        293,
+        11583,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36414497281298225,
+      "compression_ratio": 1.558974358974359,
+      "no_speech_prob": 0.9336370825767517,
+      "words": [
+        {
+          "word": " a",
+          "start": 59.54,
+          "end": 59.54,
+          "probability": 0.0041242074221372604
+        },
+        {
+          "word": " little",
+          "start": 59.54,
+          "end": 59.54,
+          "probability": 0.022815659642219543
+        },
+        {
+          "word": " bit",
+          "start": 59.54,
+          "end": 59.62,
+          "probability": 0.1727699488401413
+        },
+        {
+          "word": " of",
+          "start": 59.62,
+          "end": 59.62,
+          "probability": 0.24184328317642212
+        },
+        {
+          "word": " a",
+          "start": 59.62,
+          "end": 59.62,
+          "probability": 0.11393141746520996
+        },
+        {
+          "word": " bitch",
+          "start": 59.62,
+          "end": 59.66,
+          "probability": 0.001964906230568886
+        },
+        {
+          "word": " for",
+          "start": 59.66,
+          "end": 59.78,
+          "probability": 0.051680099219083786
+        },
+        {
+          "word": " these",
+          "start": 59.78,
+          "end": 60.3,
+          "probability": 0.42863377928733826
+        },
+        {
+          "word": " bricks",
+          "start": 60.3,
+          "end": 60.62,
+          "probability": 0.5680391192436218
+        },
+        {
+          "word": " and",
+          "start": 60.62,
+          "end": 60.94,
+          "probability": 0.930009126663208
+        },
+        {
+          "word": " chips.",
+          "start": 60.94,
+          "end": 62.12,
+          "probability": 0.9165831208229065
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5954,
+      "start": 63.08,
+      "end": 70.66,
+      "text": " Number three, never trust nobody, your mum will set us ass up, properly gassed up, hoodie",
+      "tokens": [
+        50514,
+        5118,
+        1045,
+        11,
+        1128,
+        3361,
+        5079,
+        11,
+        428,
+        14697,
+        486,
+        992,
+        505,
+        1256,
+        493,
+        11,
+        6108,
+        290,
+        46447,
+        493,
+        11,
+        41191,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36414497281298225,
+      "compression_ratio": 1.558974358974359,
+      "no_speech_prob": 0.9336370825767517,
+      "words": [
+        {
+          "word": " Number",
+          "start": 63.08,
+          "end": 63.5,
+          "probability": 0.6774140000343323
+        },
+        {
+          "word": " three,",
+          "start": 63.5,
+          "end": 64.1,
+          "probability": 0.5056187510490417
+        },
+        {
+          "word": " never",
+          "start": 64.16,
+          "end": 64.56,
+          "probability": 0.9562363028526306
+        },
+        {
+          "word": " trust",
+          "start": 64.56,
+          "end": 65.14,
+          "probability": 0.9946573376655579
+        },
+        {
+          "word": " nobody,",
+          "start": 65.14,
+          "end": 65.78,
+          "probability": 0.9600547552108765
+        },
+        {
+          "word": " your",
+          "start": 66.0,
+          "end": 66.22,
+          "probability": 0.9071519374847412
+        },
+        {
+          "word": " mum",
+          "start": 66.22,
+          "end": 66.48,
+          "probability": 0.40073010325431824
+        },
+        {
+          "word": " will",
+          "start": 66.48,
+          "end": 66.78,
+          "probability": 0.9316003918647766
+        },
+        {
+          "word": " set",
+          "start": 66.78,
+          "end": 67.02,
+          "probability": 0.9830785393714905
+        },
+        {
+          "word": " us",
+          "start": 67.02,
+          "end": 67.38,
+          "probability": 0.9390791654586792
+        },
+        {
+          "word": " ass",
+          "start": 67.38,
+          "end": 67.66,
+          "probability": 0.5123590230941772
+        },
+        {
+          "word": " up,",
+          "start": 67.66,
+          "end": 67.86,
+          "probability": 0.8968679904937744
+        },
+        {
+          "word": " properly",
+          "start": 67.96,
+          "end": 68.64,
+          "probability": 0.8355422616004944
+        },
+        {
+          "word": " gassed",
+          "start": 68.64,
+          "end": 69.3,
+          "probability": 0.8300470411777496
+        },
+        {
+          "word": " up,",
+          "start": 69.3,
+          "end": 70.1,
+          "probability": 0.9695098996162415
+        },
+        {
+          "word": " hoodie",
+          "start": 70.38,
+          "end": 70.66,
+          "probability": 0.7503482699394226
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5954,
+      "start": 70.66,
+      "end": 77.14,
+      "text": " to Moscow, shit for that fastback, she'll be laying on bushes to buy that asshole.",
+      "tokens": [
+        50914,
+        281,
+        18298,
+        11,
+        4611,
+        337,
+        300,
+        2370,
+        3207,
+        11,
+        750,
+        603,
+        312,
+        14903,
+        322,
+        34303,
+        281,
+        2256,
+        300,
+        28599,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36414497281298225,
+      "compression_ratio": 1.558974358974359,
+      "no_speech_prob": 0.9336370825767517,
+      "words": [
+        {
+          "word": " to",
+          "start": 70.66,
+          "end": 71.1,
+          "probability": 0.9816426038742065
+        },
+        {
+          "word": " Moscow,",
+          "start": 71.1,
+          "end": 71.56,
+          "probability": 0.6657598614692688
+        },
+        {
+          "word": " shit",
+          "start": 72.18,
+          "end": 72.4,
+          "probability": 0.9655771851539612
+        },
+        {
+          "word": " for",
+          "start": 72.4,
+          "end": 72.66,
+          "probability": 0.9808283448219299
+        },
+        {
+          "word": " that",
+          "start": 72.66,
+          "end": 72.98,
+          "probability": 0.9906608462333679
+        },
+        {
+          "word": " fastback,",
+          "start": 72.98,
+          "end": 73.8,
+          "probability": 0.8150381445884705
+        },
+        {
+          "word": " she'll",
+          "start": 74.1,
+          "end": 74.42,
+          "probability": 0.8690451383590698
+        },
+        {
+          "word": " be",
+          "start": 74.42,
+          "end": 74.66,
+          "probability": 0.7995105981826782
+        },
+        {
+          "word": " laying",
+          "start": 74.66,
+          "end": 74.94,
+          "probability": 0.9757226705551147
+        },
+        {
+          "word": " on",
+          "start": 74.94,
+          "end": 75.28,
+          "probability": 0.6883854866027832
+        },
+        {
+          "word": " bushes",
+          "start": 75.28,
+          "end": 75.78,
+          "probability": 0.31564560532569885
+        },
+        {
+          "word": " to",
+          "start": 75.78,
+          "end": 76.12,
+          "probability": 0.7336822152137756
+        },
+        {
+          "word": " buy",
+          "start": 76.12,
+          "end": 76.32,
+          "probability": 0.38634130358695984
+        },
+        {
+          "word": " that",
+          "start": 76.32,
+          "end": 76.64,
+          "probability": 0.921034574508667
+        },
+        {
+          "word": " asshole.",
+          "start": 76.64,
+          "end": 77.14,
+          "probability": 0.47700387239456177
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5954,
+      "start": 78.4,
+      "end": 83.76,
+      "text": " Number four, you know you heard this before, never get high on your own supply.",
+      "tokens": [
+        51264,
+        5118,
+        1451,
+        11,
+        291,
+        458,
+        291,
+        2198,
+        341,
+        949,
+        11,
+        1128,
+        483,
+        1090,
+        322,
+        428,
+        1065,
+        5847,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36414497281298225,
+      "compression_ratio": 1.558974358974359,
+      "no_speech_prob": 0.9336370825767517,
+      "words": [
+        {
+          "word": " Number",
+          "start": 78.4,
+          "end": 78.8,
+          "probability": 0.9798431992530823
+        },
+        {
+          "word": " four,",
+          "start": 78.8,
+          "end": 79.22,
+          "probability": 0.9868958592414856
+        },
+        {
+          "word": " you",
+          "start": 79.26,
+          "end": 79.38,
+          "probability": 0.9895508885383606
+        },
+        {
+          "word": " know",
+          "start": 79.38,
+          "end": 79.64,
+          "probability": 0.9776470065116882
+        },
+        {
+          "word": " you",
+          "start": 79.64,
+          "end": 79.86,
+          "probability": 0.9744991064071655
+        },
+        {
+          "word": " heard",
+          "start": 79.86,
+          "end": 80.1,
+          "probability": 0.7538928389549255
+        },
+        {
+          "word": " this",
+          "start": 80.1,
+          "end": 80.48,
+          "probability": 0.9954853057861328
+        },
+        {
+          "word": " before,",
+          "start": 80.48,
+          "end": 81.04,
+          "probability": 0.9977895021438599
+        },
+        {
+          "word": " never",
+          "start": 81.2,
+          "end": 81.54,
+          "probability": 0.9801937341690063
+        },
+        {
+          "word": " get",
+          "start": 81.54,
+          "end": 82.0,
+          "probability": 0.9897035956382751
+        },
+        {
+          "word": " high",
+          "start": 82.0,
+          "end": 82.4,
+          "probability": 0.9955606460571289
+        },
+        {
+          "word": " on",
+          "start": 82.4,
+          "end": 82.62,
+          "probability": 0.9946702122688293
+        },
+        {
+          "word": " your",
+          "start": 82.62,
+          "end": 82.9,
+          "probability": 0.9948412775993347
+        },
+        {
+          "word": " own",
+          "start": 82.9,
+          "end": 83.2,
+          "probability": 0.9981535077095032
+        },
+        {
+          "word": " supply.",
+          "start": 83.2,
+          "end": 83.76,
+          "probability": 0.9976711869239807
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 8376,
+      "start": 84.47999999999999,
+      "end": 90.62,
+      "text": " Number five, never sell no crack where you rest at, I don't care if they will run you",
+      "tokens": [
+        50414,
+        5118,
+        1732,
+        11,
+        1128,
+        3607,
+        572,
+        6226,
+        689,
+        291,
+        1472,
+        412,
+        11,
+        286,
+        500,
+        380,
+        1127,
+        498,
+        436,
+        486,
+        1190,
+        291,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2520936330159505,
+      "compression_ratio": 1.4820512820512821,
+      "no_speech_prob": 0.8667392730712891,
+      "words": [
+        {
+          "word": " Number",
+          "start": 84.47999999999999,
+          "end": 85.16,
+          "probability": 0.5646666884422302
+        },
+        {
+          "word": " five,",
+          "start": 85.16,
+          "end": 85.58,
+          "probability": 0.46605536341667175
+        },
+        {
+          "word": " never",
+          "start": 85.66,
+          "end": 86.06,
+          "probability": 0.8962416648864746
+        },
+        {
+          "word": " sell",
+          "start": 86.06,
+          "end": 86.4,
+          "probability": 0.9928184747695923
+        },
+        {
+          "word": " no",
+          "start": 86.4,
+          "end": 86.74,
+          "probability": 0.37423330545425415
+        },
+        {
+          "word": " crack",
+          "start": 86.74,
+          "end": 87.02,
+          "probability": 0.9917623996734619
+        },
+        {
+          "word": " where",
+          "start": 87.02,
+          "end": 87.26,
+          "probability": 0.7374417185783386
+        },
+        {
+          "word": " you",
+          "start": 87.26,
+          "end": 87.52,
+          "probability": 0.959747314453125
+        },
+        {
+          "word": " rest",
+          "start": 87.52,
+          "end": 87.88,
+          "probability": 0.9456107020378113
+        },
+        {
+          "word": " at,",
+          "start": 87.88,
+          "end": 88.14,
+          "probability": 0.987316370010376
+        },
+        {
+          "word": " I",
+          "start": 88.16,
+          "end": 88.44,
+          "probability": 0.9140805602073669
+        },
+        {
+          "word": " don't",
+          "start": 88.44,
+          "end": 88.76,
+          "probability": 0.9830479025840759
+        },
+        {
+          "word": " care",
+          "start": 88.76,
+          "end": 89.1,
+          "probability": 0.9970622658729553
+        },
+        {
+          "word": " if",
+          "start": 89.1,
+          "end": 89.34,
+          "probability": 0.9807789325714111
+        },
+        {
+          "word": " they",
+          "start": 89.34,
+          "end": 89.66,
+          "probability": 0.9553451538085938
+        },
+        {
+          "word": " will",
+          "start": 89.66,
+          "end": 89.82,
+          "probability": 0.26141420006752014
+        },
+        {
+          "word": " run",
+          "start": 89.82,
+          "end": 90.26,
+          "probability": 0.15708547830581665
+        },
+        {
+          "word": " you",
+          "start": 90.26,
+          "end": 90.62,
+          "probability": 0.08366338163614273
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 8376,
+      "start": 90.62,
+      "end": 92.08,
+      "text": " stone or bones.",
+      "tokens": [
+        50714,
+        7581,
+        420,
+        10491,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2520936330159505,
+      "compression_ratio": 1.4820512820512821,
+      "no_speech_prob": 0.8667392730712891,
+      "words": [
+        {
+          "word": " stone",
+          "start": 90.62,
+          "end": 91.02,
+          "probability": 0.11324521154165268
+        },
+        {
+          "word": " or",
+          "start": 91.02,
+          "end": 91.52,
+          "probability": 0.11015923321247101
+        },
+        {
+          "word": " bones.",
+          "start": 91.52,
+          "end": 92.08,
+          "probability": 0.7561153173446655
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 8376,
+      "start": 93.08,
+      "end": 98.8,
+      "text": " Number six, that goddamn credit, daddy, do you think a crackhead would pay you back,",
+      "tokens": [
+        50814,
+        5118,
+        2309,
+        11,
+        300,
+        32951,
+        5397,
+        11,
+        16785,
+        11,
+        360,
+        291,
+        519,
+        257,
+        6226,
+        1934,
+        576,
+        1689,
+        291,
+        646,
+        11,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2520936330159505,
+      "compression_ratio": 1.4820512820512821,
+      "no_speech_prob": 0.8667392730712891,
+      "words": [
+        {
+          "word": " Number",
+          "start": 93.08,
+          "end": 93.46,
+          "probability": 0.988018274307251
+        },
+        {
+          "word": " six,",
+          "start": 93.46,
+          "end": 94.04,
+          "probability": 0.9641596078872681
+        },
+        {
+          "word": " that",
+          "start": 94.18,
+          "end": 94.48,
+          "probability": 0.9537121653556824
+        },
+        {
+          "word": " goddamn",
+          "start": 94.48,
+          "end": 94.94,
+          "probability": 0.31423988938331604
+        },
+        {
+          "word": " credit,",
+          "start": 94.94,
+          "end": 95.66,
+          "probability": 0.9656230807304382
+        },
+        {
+          "word": " daddy,",
+          "start": 95.76,
+          "end": 96.06,
+          "probability": 0.3538047671318054
+        },
+        {
+          "word": " do",
+          "start": 96.32,
+          "end": 96.56,
+          "probability": 0.9436043500900269
+        },
+        {
+          "word": " you",
+          "start": 96.56,
+          "end": 96.6,
+          "probability": 0.9929002523422241
+        },
+        {
+          "word": " think",
+          "start": 96.6,
+          "end": 96.88,
+          "probability": 0.9973189234733582
+        },
+        {
+          "word": " a",
+          "start": 96.88,
+          "end": 97.2,
+          "probability": 0.9743121266365051
+        },
+        {
+          "word": " crackhead",
+          "start": 97.2,
+          "end": 97.68,
+          "probability": 0.9297453463077545
+        },
+        {
+          "word": " would",
+          "start": 97.68,
+          "end": 97.94,
+          "probability": 0.38165929913520813
+        },
+        {
+          "word": " pay",
+          "start": 97.94,
+          "end": 98.12,
+          "probability": 0.9885401129722595
+        },
+        {
+          "word": " you",
+          "start": 98.12,
+          "end": 98.36,
+          "probability": 0.355232834815979
+        },
+        {
+          "word": " back,",
+          "start": 98.36,
+          "end": 98.8,
+          "probability": 0.9988711476325989
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 8376,
+      "start": 98.94,
+      "end": 100.44,
+      "text": " shit forget it.",
+      "tokens": [
+        51114,
+        4611,
+        2870,
+        309,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2520936330159505,
+      "compression_ratio": 1.4820512820512821,
+      "no_speech_prob": 0.8667392730712891,
+      "words": [
+        {
+          "word": " shit",
+          "start": 98.94,
+          "end": 99.18,
+          "probability": 0.9482441544532776
+        },
+        {
+          "word": " forget",
+          "start": 99.18,
+          "end": 99.66,
+          "probability": 0.3737460970878601
+        },
+        {
+          "word": " it.",
+          "start": 99.66,
+          "end": 100.44,
+          "probability": 0.9963546991348267
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 8376,
+      "start": 101.44,
+      "end": 107.8,
+      "text": " Seven, this rule is so underrated, keep your family and business completely separated,",
+      "tokens": [
+        51214,
+        14868,
+        11,
+        341,
+        4978,
+        307,
+        370,
+        833,
+        5468,
+        11,
+        1066,
+        428,
+        1605,
+        293,
+        1606,
+        2584,
+        12005,
+        11,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2520936330159505,
+      "compression_ratio": 1.4820512820512821,
+      "no_speech_prob": 0.8667392730712891,
+      "words": [
+        {
+          "word": " Seven,",
+          "start": 101.44,
+          "end": 101.8,
+          "probability": 0.7304652333259583
+        },
+        {
+          "word": " this",
+          "start": 102.02,
+          "end": 102.32,
+          "probability": 0.9645411968231201
+        },
+        {
+          "word": " rule",
+          "start": 102.32,
+          "end": 102.56,
+          "probability": 0.8896355032920837
+        },
+        {
+          "word": " is",
+          "start": 102.56,
+          "end": 102.9,
+          "probability": 0.9483853578567505
+        },
+        {
+          "word": " so",
+          "start": 102.9,
+          "end": 103.26,
+          "probability": 0.9928553700447083
+        },
+        {
+          "word": " underrated,",
+          "start": 103.26,
+          "end": 104.06,
+          "probability": 0.9710244238376617
+        },
+        {
+          "word": " keep",
+          "start": 104.26,
+          "end": 104.48,
+          "probability": 0.9789061546325684
+        },
+        {
+          "word": " your",
+          "start": 104.48,
+          "end": 104.82,
+          "probability": 0.9846375584602356
+        },
+        {
+          "word": " family",
+          "start": 104.82,
+          "end": 105.24,
+          "probability": 0.9984365105628967
+        },
+        {
+          "word": " and",
+          "start": 105.24,
+          "end": 105.56,
+          "probability": 0.9832859635353088
+        },
+        {
+          "word": " business",
+          "start": 105.56,
+          "end": 106.08,
+          "probability": 0.9931550025939941
+        },
+        {
+          "word": " completely",
+          "start": 106.08,
+          "end": 106.78,
+          "probability": 0.9834781289100647
+        },
+        {
+          "word": " separated,",
+          "start": 106.78,
+          "end": 107.8,
+          "probability": 0.9908537864685059
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 10780,
+      "start": 108.61999999999999,
+      "end": 116.8,
+      "text": " money and blood don't mix like two dicks, no bitch, find yourself in serious shit.",
+      "tokens": [
+        50414,
+        1460,
+        293,
+        3390,
+        500,
+        380,
+        2890,
+        411,
+        732,
+        274,
+        7663,
+        11,
+        572,
+        11960,
+        11,
+        915,
+        1803,
+        294,
+        3156,
+        4611,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1894635558128357,
+      "compression_ratio": 1.6192660550458715,
+      "no_speech_prob": 0.4325994849205017,
+      "words": [
+        {
+          "word": " money",
+          "start": 108.61999999999999,
+          "end": 109.3,
+          "probability": 0.0009792863857001066
+        },
+        {
+          "word": " and",
+          "start": 109.3,
+          "end": 109.68,
+          "probability": 0.917181670665741
+        },
+        {
+          "word": " blood",
+          "start": 109.68,
+          "end": 110.2,
+          "probability": 0.9572724103927612
+        },
+        {
+          "word": " don't",
+          "start": 110.2,
+          "end": 110.58,
+          "probability": 0.9126157760620117
+        },
+        {
+          "word": " mix",
+          "start": 110.58,
+          "end": 111.04,
+          "probability": 0.9838464260101318
+        },
+        {
+          "word": " like",
+          "start": 111.04,
+          "end": 111.38,
+          "probability": 0.9301952719688416
+        },
+        {
+          "word": " two",
+          "start": 111.38,
+          "end": 111.74,
+          "probability": 0.9637826681137085
+        },
+        {
+          "word": " dicks,",
+          "start": 111.74,
+          "end": 112.34,
+          "probability": 0.968881756067276
+        },
+        {
+          "word": " no",
+          "start": 112.58,
+          "end": 112.72,
+          "probability": 0.5058649182319641
+        },
+        {
+          "word": " bitch,",
+          "start": 112.72,
+          "end": 113.58,
+          "probability": 0.8160136342048645
+        },
+        {
+          "word": " find",
+          "start": 114.04,
+          "end": 114.42,
+          "probability": 0.7642422318458557
+        },
+        {
+          "word": " yourself",
+          "start": 114.42,
+          "end": 115.2,
+          "probability": 0.9846531748771667
+        },
+        {
+          "word": " in",
+          "start": 115.2,
+          "end": 115.72,
+          "probability": 0.9915532469749451
+        },
+        {
+          "word": " serious",
+          "start": 115.72,
+          "end": 116.22,
+          "probability": 0.9800121188163757
+        },
+        {
+          "word": " shit.",
+          "start": 116.22,
+          "end": 116.8,
+          "probability": 0.8933077454566956
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 10780,
+      "start": 117.58,
+      "end": 123.88,
+      "text": " Number eight, never keep no weight on you, them cats that squeeze your guns can hold",
+      "tokens": [
+        50814,
+        5118,
+        3180,
+        11,
+        1128,
+        1066,
+        572,
+        3364,
+        322,
+        291,
+        11,
+        552,
+        11111,
+        300,
+        13578,
+        428,
+        10153,
+        393,
+        1797,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1894635558128357,
+      "compression_ratio": 1.6192660550458715,
+      "no_speech_prob": 0.4325994849205017,
+      "words": [
+        {
+          "word": " Number",
+          "start": 117.58,
+          "end": 118.06,
+          "probability": 0.5581075549125671
+        },
+        {
+          "word": " eight,",
+          "start": 118.06,
+          "end": 118.58,
+          "probability": 0.4471791684627533
+        },
+        {
+          "word": " never",
+          "start": 118.94,
+          "end": 118.96,
+          "probability": 0.9607932567596436
+        },
+        {
+          "word": " keep",
+          "start": 118.96,
+          "end": 119.36,
+          "probability": 0.9889311194419861
+        },
+        {
+          "word": " no",
+          "start": 119.36,
+          "end": 119.7,
+          "probability": 0.9414461255073547
+        },
+        {
+          "word": " weight",
+          "start": 119.7,
+          "end": 120.08,
+          "probability": 0.9963750243186951
+        },
+        {
+          "word": " on",
+          "start": 120.08,
+          "end": 120.4,
+          "probability": 0.9950156807899475
+        },
+        {
+          "word": " you,",
+          "start": 120.4,
+          "end": 120.88,
+          "probability": 0.9900060296058655
+        },
+        {
+          "word": " them",
+          "start": 121.18,
+          "end": 121.34,
+          "probability": 0.825534462928772
+        },
+        {
+          "word": " cats",
+          "start": 121.34,
+          "end": 121.8,
+          "probability": 0.9756643772125244
+        },
+        {
+          "word": " that",
+          "start": 121.8,
+          "end": 122.18,
+          "probability": 0.9788370132446289
+        },
+        {
+          "word": " squeeze",
+          "start": 122.18,
+          "end": 122.52,
+          "probability": 0.9835091233253479
+        },
+        {
+          "word": " your",
+          "start": 122.52,
+          "end": 122.88,
+          "probability": 0.9820382595062256
+        },
+        {
+          "word": " guns",
+          "start": 122.88,
+          "end": 123.2,
+          "probability": 0.4080846309661865
+        },
+        {
+          "word": " can",
+          "start": 123.2,
+          "end": 123.52,
+          "probability": 0.9848092198371887
+        },
+        {
+          "word": " hold",
+          "start": 123.52,
+          "end": 123.88,
+          "probability": 0.9257650375366211
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 10780,
+      "start": 123.88,
+      "end": 125.24,
+      "text": " jobs too.",
+      "tokens": [
+        51164,
+        4782,
+        886,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1894635558128357,
+      "compression_ratio": 1.6192660550458715,
+      "no_speech_prob": 0.4325994849205017,
+      "words": [
+        {
+          "word": " jobs",
+          "start": 123.88,
+          "end": 124.48,
+          "probability": 0.9749386310577393
+        },
+        {
+          "word": " too.",
+          "start": 124.48,
+          "end": 125.24,
+          "probability": 0.8905537128448486
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 10780,
+      "start": 126.2,
+      "end": 131.94,
+      "text": " Number nine should be number one to me, if you ain't getting bagged, take fuck from the",
+      "tokens": [
+        51264,
+        5118,
+        4949,
+        820,
+        312,
+        1230,
+        472,
+        281,
+        385,
+        11,
+        498,
+        291,
+        7862,
+        380,
+        1242,
+        3411,
+        3004,
+        11,
+        747,
+        3275,
+        490,
+        264,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1894635558128357,
+      "compression_ratio": 1.6192660550458715,
+      "no_speech_prob": 0.4325994849205017,
+      "words": [
+        {
+          "word": " Number",
+          "start": 126.2,
+          "end": 126.5,
+          "probability": 0.9690566658973694
+        },
+        {
+          "word": " nine",
+          "start": 126.5,
+          "end": 126.96,
+          "probability": 0.9775094985961914
+        },
+        {
+          "word": " should",
+          "start": 126.96,
+          "end": 127.26,
+          "probability": 0.8989466428756714
+        },
+        {
+          "word": " be",
+          "start": 127.26,
+          "end": 127.6,
+          "probability": 0.9883556365966797
+        },
+        {
+          "word": " number",
+          "start": 127.6,
+          "end": 128.06,
+          "probability": 0.9684751033782959
+        },
+        {
+          "word": " one",
+          "start": 128.06,
+          "end": 128.36,
+          "probability": 0.995630145072937
+        },
+        {
+          "word": " to",
+          "start": 128.36,
+          "end": 128.66,
+          "probability": 0.9795359969139099
+        },
+        {
+          "word": " me,",
+          "start": 128.66,
+          "end": 128.92,
+          "probability": 0.9984197616577148
+        },
+        {
+          "word": " if",
+          "start": 129.02,
+          "end": 129.26,
+          "probability": 0.9691174626350403
+        },
+        {
+          "word": " you",
+          "start": 129.26,
+          "end": 129.5,
+          "probability": 0.9644367098808289
+        },
+        {
+          "word": " ain't",
+          "start": 129.5,
+          "end": 129.72,
+          "probability": 0.9759373962879181
+        },
+        {
+          "word": " getting",
+          "start": 129.72,
+          "end": 130.1,
+          "probability": 0.6144325733184814
+        },
+        {
+          "word": " bagged,",
+          "start": 130.1,
+          "end": 130.78,
+          "probability": 0.603544145822525
+        },
+        {
+          "word": " take",
+          "start": 130.86,
+          "end": 131.08,
+          "probability": 0.3588302731513977
+        },
+        {
+          "word": " fuck",
+          "start": 131.08,
+          "end": 131.46,
+          "probability": 0.25763139128685
+        },
+        {
+          "word": " from",
+          "start": 131.46,
+          "end": 131.74,
+          "probability": 0.4900636672973633
+        },
+        {
+          "word": " the",
+          "start": 131.74,
+          "end": 131.94,
+          "probability": 0.3814699053764343
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 10780,
+      "start": 131.94,
+      "end": 137.78,
+      "text": " police, if they think you snitching, they ain't trying to listen, they'll be sitting in",
+      "tokens": [
+        51564,
+        3804,
+        11,
+        498,
+        436,
+        519,
+        291,
+        2406,
+        1549,
+        278,
+        11,
+        436,
+        7862,
+        380,
+        1382,
+        281,
+        2140,
+        11,
+        436,
+        603,
+        312,
+        3798,
+        294,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1894635558128357,
+      "compression_ratio": 1.6192660550458715,
+      "no_speech_prob": 0.4325994849205017,
+      "words": [
+        {
+          "word": " police,",
+          "start": 131.94,
+          "end": 132.44,
+          "probability": 0.972725510597229
+        },
+        {
+          "word": " if",
+          "start": 133.58,
+          "end": 133.7,
+          "probability": 0.907864511013031
+        },
+        {
+          "word": " they",
+          "start": 133.7,
+          "end": 134.02,
+          "probability": 0.6404942274093628
+        },
+        {
+          "word": " think",
+          "start": 134.02,
+          "end": 134.38,
+          "probability": 0.8917644619941711
+        },
+        {
+          "word": " you",
+          "start": 134.38,
+          "end": 134.72,
+          "probability": 0.9557904005050659
+        },
+        {
+          "word": " snitching,",
+          "start": 134.72,
+          "end": 135.42,
+          "probability": 0.8676297068595886
+        },
+        {
+          "word": " they",
+          "start": 135.58,
+          "end": 135.74,
+          "probability": 0.2526105046272278
+        },
+        {
+          "word": " ain't",
+          "start": 135.74,
+          "end": 135.88,
+          "probability": 0.990313857793808
+        },
+        {
+          "word": " trying",
+          "start": 135.88,
+          "end": 136.16,
+          "probability": 0.72890305519104
+        },
+        {
+          "word": " to",
+          "start": 136.16,
+          "end": 136.34,
+          "probability": 0.9348865747451782
+        },
+        {
+          "word": " listen,",
+          "start": 136.34,
+          "end": 136.72,
+          "probability": 0.9934977293014526
+        },
+        {
+          "word": " they'll",
+          "start": 136.9,
+          "end": 137.16,
+          "probability": 0.9739648997783661
+        },
+        {
+          "word": " be",
+          "start": 137.16,
+          "end": 137.4,
+          "probability": 0.9974418878555298
+        },
+        {
+          "word": " sitting",
+          "start": 137.4,
+          "end": 137.66,
+          "probability": 0.9841087460517883
+        },
+        {
+          "word": " in",
+          "start": 137.66,
+          "end": 137.78,
+          "probability": 0.9318868517875671
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 13778,
+      "start": 137.78,
+      "end": 141.78,
+      "text": " your kitchen waiting to start hitting you.",
+      "tokens": [
+        50364,
+        428,
+        6525,
+        3806,
+        281,
+        722,
+        8850,
+        291,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3624906539916992,
+      "compression_ratio": 1.4437869822485208,
+      "no_speech_prob": 0.373166561126709,
+      "words": [
+        {
+          "word": " your",
+          "start": 137.78,
+          "end": 138.04,
+          "probability": 0.06860198080539703
+        },
+        {
+          "word": " kitchen",
+          "start": 138.04,
+          "end": 138.98,
+          "probability": 0.9768713116645813
+        },
+        {
+          "word": " waiting",
+          "start": 138.98,
+          "end": 140.08,
+          "probability": 0.7273500561714172
+        },
+        {
+          "word": " to",
+          "start": 140.08,
+          "end": 140.62,
+          "probability": 0.9511375427246094
+        },
+        {
+          "word": " start",
+          "start": 140.62,
+          "end": 141.04,
+          "probability": 0.9246220588684082
+        },
+        {
+          "word": " hitting",
+          "start": 141.04,
+          "end": 141.48,
+          "probability": 0.6872200965881348
+        },
+        {
+          "word": " you.",
+          "start": 141.48,
+          "end": 141.82,
+          "probability": 0.04284219443798065
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 13778,
+      "start": 143.36,
+      "end": 149.18,
+      "text": " Number ten, this drill word called consignment, strictly for life, man, not for freshmen,",
+      "tokens": [
+        50564,
+        5118,
+        2064,
+        11,
+        341,
+        11392,
+        1349,
+        1219,
+        1014,
+        41134,
+        11,
+        20792,
+        337,
+        993,
+        11,
+        587,
+        11,
+        406,
+        337,
+        43694,
+        11,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3624906539916992,
+      "compression_ratio": 1.4437869822485208,
+      "no_speech_prob": 0.373166561126709,
+      "words": [
+        {
+          "word": " Number",
+          "start": 143.36,
+          "end": 143.36,
+          "probability": 0.3687591552734375
+        },
+        {
+          "word": " ten,",
+          "start": 143.36,
+          "end": 143.92,
+          "probability": 0.27352896332740784
+        },
+        {
+          "word": " this",
+          "start": 143.98,
+          "end": 144.2,
+          "probability": 0.14348481595516205
+        },
+        {
+          "word": " drill",
+          "start": 144.2,
+          "end": 144.48,
+          "probability": 0.07799149304628372
+        },
+        {
+          "word": " word",
+          "start": 144.48,
+          "end": 144.78,
+          "probability": 0.19683648645877838
+        },
+        {
+          "word": " called",
+          "start": 144.78,
+          "end": 145.14,
+          "probability": 0.9431984424591064
+        },
+        {
+          "word": " consignment,",
+          "start": 145.14,
+          "end": 146.26,
+          "probability": 0.8192690312862396
+        },
+        {
+          "word": " strictly",
+          "start": 146.36,
+          "end": 146.84,
+          "probability": 0.9595679044723511
+        },
+        {
+          "word": " for",
+          "start": 146.84,
+          "end": 147.3,
+          "probability": 0.9970805048942566
+        },
+        {
+          "word": " life,",
+          "start": 147.3,
+          "end": 147.62,
+          "probability": 0.6993134021759033
+        },
+        {
+          "word": " man,",
+          "start": 147.8,
+          "end": 147.98,
+          "probability": 0.7529510259628296
+        },
+        {
+          "word": " not",
+          "start": 148.18,
+          "end": 148.38,
+          "probability": 0.9869850277900696
+        },
+        {
+          "word": " for",
+          "start": 148.38,
+          "end": 148.68,
+          "probability": 0.9621598720550537
+        },
+        {
+          "word": " freshmen,",
+          "start": 148.68,
+          "end": 149.18,
+          "probability": 0.6475498676300049
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 13778,
+      "start": 150.32,
+      "end": 158.48,
+      "text": " if you ain't got the clientele, say hello, cause they're gonna want their money, rain,",
+      "tokens": [
+        50964,
+        498,
+        291,
+        7862,
+        380,
+        658,
+        264,
+        6423,
+        16884,
+        11,
+        584,
+        7751,
+        11,
+        3082,
+        436,
+        434,
+        799,
+        528,
+        641,
+        1460,
+        11,
+        4830,
+        11,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3624906539916992,
+      "compression_ratio": 1.4437869822485208,
+      "no_speech_prob": 0.373166561126709,
+      "words": [
+        {
+          "word": " if",
+          "start": 150.32,
+          "end": 150.68,
+          "probability": 0.8861127495765686
+        },
+        {
+          "word": " you",
+          "start": 150.68,
+          "end": 150.98,
+          "probability": 0.9862960577011108
+        },
+        {
+          "word": " ain't",
+          "start": 150.98,
+          "end": 151.18,
+          "probability": 0.7436002939939499
+        },
+        {
+          "word": " got",
+          "start": 151.18,
+          "end": 151.38,
+          "probability": 0.9681747555732727
+        },
+        {
+          "word": " the",
+          "start": 151.38,
+          "end": 151.7,
+          "probability": 0.7183293700218201
+        },
+        {
+          "word": " clientele,",
+          "start": 151.7,
+          "end": 152.42,
+          "probability": 0.9755473136901855
+        },
+        {
+          "word": " say",
+          "start": 152.76,
+          "end": 152.9,
+          "probability": 0.9867397546768188
+        },
+        {
+          "word": " hello,",
+          "start": 152.9,
+          "end": 153.46,
+          "probability": 0.5430665016174316
+        },
+        {
+          "word": " cause",
+          "start": 155.96,
+          "end": 156.24,
+          "probability": 0.2751973271369934
+        },
+        {
+          "word": " they're",
+          "start": 156.24,
+          "end": 156.74,
+          "probability": 0.6518514156341553
+        },
+        {
+          "word": " gonna",
+          "start": 156.74,
+          "end": 156.92,
+          "probability": 0.613060712814331
+        },
+        {
+          "word": " want",
+          "start": 156.92,
+          "end": 157.18,
+          "probability": 0.1926923543214798
+        },
+        {
+          "word": " their",
+          "start": 157.18,
+          "end": 157.44,
+          "probability": 0.5724137425422668
+        },
+        {
+          "word": " money,",
+          "start": 157.44,
+          "end": 157.94,
+          "probability": 0.9913921356201172
+        },
+        {
+          "word": " rain,",
+          "start": 158.18,
+          "end": 158.48,
+          "probability": 0.7791405320167542
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 13778,
+      "start": 158.84,
+      "end": 161.02,
+      "text": " sleet, hail, snow.",
+      "tokens": [
+        51364,
+        2426,
+        302,
+        11,
+        38157,
+        11,
+        5756,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3624906539916992,
+      "compression_ratio": 1.4437869822485208,
+      "no_speech_prob": 0.373166561126709,
+      "words": [
+        {
+          "word": " sleet,",
+          "start": 158.84,
+          "end": 159.22,
+          "probability": 0.9556180834770203
+        },
+        {
+          "word": " hail,",
+          "start": 159.4,
+          "end": 159.72,
+          "probability": 0.22041819989681244
+        },
+        {
+          "word": " snow.",
+          "start": 160.94,
+          "end": 161.02,
+          "probability": 0.9934478402137756
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 13778,
+      "start": 164.06,
+      "end": 164.74,
+      "text": " Fuck.",
+      "tokens": [
+        51664,
+        10965,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3624906539916992,
+      "compression_ratio": 1.4437869822485208,
+      "no_speech_prob": 0.373166561126709,
+      "words": [
+        {
+          "word": " Fuck.",
+          "start": 164.06,
+          "end": 164.74,
+          "probability": 0.14301472902297974
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 16778,
+      "start": 177.1,
+      "end": 178.5,
+      "text": " Fuck.",
+      "tokens": [
+        50364,
+        10965,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.630046033859253,
+      "compression_ratio": 0.38461538461538464,
+      "no_speech_prob": 0.9403738975524902,
+      "words": [
+        {
+          "word": " Fuck.",
+          "start": 177.1,
+          "end": 178.5,
+          "probability": 5.7069042668445036e-05
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 19778,
+      "start": 201.68,
+      "end": 203.08,
+      "text": " Fuck.",
+      "tokens": [
+        50364,
+        10965,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4250697135925293,
+      "compression_ratio": 0.38461538461538464,
+      "no_speech_prob": 0.9763315916061401,
+      "words": [
+        {
+          "word": " Fuck.",
+          "start": 201.68,
+          "end": 203.08,
+          "probability": 8.328505646204576e-05
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

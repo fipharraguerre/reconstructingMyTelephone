@@ -1,0 +1,457 @@
+{
+  "text": " Put it in your bag, bring it to the cloud. Don't squash it, keep it clean. Greatest spring call to a lucky. Put it in your bag, bring it to the cloud. Greatest spring call to a lucky. Put it in your bag, bring it to the cloud.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.62,
+      "text": " Put it in your bag, bring it to the cloud.",
+      "tokens": [
+        50364,
+        4935,
+        309,
+        294,
+        428,
+        3411,
+        11,
+        1565,
+        309,
+        281,
+        264,
+        4588,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5715106242411846,
+      "compression_ratio": 1.1263157894736842,
+      "no_speech_prob": 0.6521635055541992,
+      "words": [
+        {
+          "word": " Put",
+          "start": 0.0,
+          "end": 1.44,
+          "probability": 0.4845995306968689
+        },
+        {
+          "word": " it",
+          "start": 1.44,
+          "end": 1.56,
+          "probability": 0.9038497805595398
+        },
+        {
+          "word": " in",
+          "start": 1.56,
+          "end": 1.74,
+          "probability": 0.8244766592979431
+        },
+        {
+          "word": " your",
+          "start": 1.74,
+          "end": 2.08,
+          "probability": 0.9740955829620361
+        },
+        {
+          "word": " bag,",
+          "start": 2.08,
+          "end": 2.56,
+          "probability": 0.9338276386260986
+        },
+        {
+          "word": " bring",
+          "start": 4.2,
+          "end": 4.4,
+          "probability": 0.853937566280365
+        },
+        {
+          "word": " it",
+          "start": 4.4,
+          "end": 4.56,
+          "probability": 0.9934642910957336
+        },
+        {
+          "word": " to",
+          "start": 4.56,
+          "end": 4.64,
+          "probability": 0.992695689201355
+        },
+        {
+          "word": " the",
+          "start": 4.64,
+          "end": 4.9,
+          "probability": 0.98235023021698
+        },
+        {
+          "word": " cloud.",
+          "start": 4.9,
+          "end": 5.62,
+          "probability": 0.5959015488624573
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.76,
+      "end": 12.14,
+      "text": " Don't squash it, keep it clean.",
+      "tokens": [
+        50714,
+        1468,
+        380,
+        30725,
+        309,
+        11,
+        1066,
+        309,
+        2541,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5715106242411846,
+      "compression_ratio": 1.1263157894736842,
+      "no_speech_prob": 0.6521635055541992,
+      "words": [
+        {
+          "word": " Don't",
+          "start": 7.76,
+          "end": 8.2,
+          "probability": 0.6555535197257996
+        },
+        {
+          "word": " squash",
+          "start": 8.2,
+          "end": 8.6,
+          "probability": 0.9549722671508789
+        },
+        {
+          "word": " it,",
+          "start": 8.6,
+          "end": 9.4,
+          "probability": 0.8632996678352356
+        },
+        {
+          "word": " keep",
+          "start": 10.9,
+          "end": 11.5,
+          "probability": 0.9453814625740051
+        },
+        {
+          "word": " it",
+          "start": 11.5,
+          "end": 11.8,
+          "probability": 0.9679422974586487
+        },
+        {
+          "word": " clean.",
+          "start": 11.8,
+          "end": 12.14,
+          "probability": 0.2945561110973358
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 15.720000000000002,
+      "end": 20.5,
+      "text": " Greatest spring call to a lucky.",
+      "tokens": [
+        50964,
+        3769,
+        377,
+        5587,
+        818,
+        281,
+        257,
+        6356,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5715106242411846,
+      "compression_ratio": 1.1263157894736842,
+      "no_speech_prob": 0.6521635055541992,
+      "words": [
+        {
+          "word": " Greatest",
+          "start": 15.720000000000002,
+          "end": 16.88,
+          "probability": 0.5211477130651474
+        },
+        {
+          "word": " spring",
+          "start": 16.88,
+          "end": 17.32,
+          "probability": 0.6439988017082214
+        },
+        {
+          "word": " call",
+          "start": 17.32,
+          "end": 18.38,
+          "probability": 0.17520099878311157
+        },
+        {
+          "word": " to",
+          "start": 18.38,
+          "end": 19.3,
+          "probability": 0.7282659411430359
+        },
+        {
+          "word": " a",
+          "start": 19.3,
+          "end": 19.88,
+          "probability": 0.37771159410476685
+        },
+        {
+          "word": " lucky.",
+          "start": 19.88,
+          "end": 20.5,
+          "probability": 0.19894565641880035
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2050,
+      "start": 23.42,
+      "end": 30.18,
+      "text": " Put it in your bag, bring it to the cloud.",
+      "tokens": [
+        50414,
+        4935,
+        309,
+        294,
+        428,
+        3411,
+        11,
+        1565,
+        309,
+        281,
+        264,
+        4588,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25984846115112303,
+      "compression_ratio": 1.0135135135135136,
+      "no_speech_prob": 0.8481232523918152,
+      "words": [
+        {
+          "word": " Put",
+          "start": 23.42,
+          "end": 24.62,
+          "probability": 0.027290545403957367
+        },
+        {
+          "word": " it",
+          "start": 24.62,
+          "end": 24.92,
+          "probability": 0.6410708427429199
+        },
+        {
+          "word": " in",
+          "start": 24.92,
+          "end": 24.98,
+          "probability": 0.32561609148979187
+        },
+        {
+          "word": " your",
+          "start": 24.98,
+          "end": 25.22,
+          "probability": 0.09951747208833694
+        },
+        {
+          "word": " bag,",
+          "start": 25.22,
+          "end": 25.9,
+          "probability": 0.5085232853889465
+        },
+        {
+          "word": " bring",
+          "start": 27.32,
+          "end": 27.76,
+          "probability": 0.005800620652735233
+        },
+        {
+          "word": " it",
+          "start": 27.76,
+          "end": 27.96,
+          "probability": 0.9277254939079285
+        },
+        {
+          "word": " to",
+          "start": 27.96,
+          "end": 28.5,
+          "probability": 0.5605707764625549
+        },
+        {
+          "word": " the",
+          "start": 28.5,
+          "end": 28.88,
+          "probability": 0.9275859594345093
+        },
+        {
+          "word": " cloud.",
+          "start": 28.88,
+          "end": 30.18,
+          "probability": 0.04932871460914612
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2050,
+      "start": 31.96,
+      "end": 37.04,
+      "text": " Greatest spring call to a lucky.",
+      "tokens": [
+        50664,
+        3769,
+        377,
+        5587,
+        818,
+        281,
+        257,
+        6356,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25984846115112303,
+      "compression_ratio": 1.0135135135135136,
+      "no_speech_prob": 0.8481232523918152,
+      "words": [
+        {
+          "word": " Greatest",
+          "start": 31.96,
+          "end": 33.08,
+          "probability": 0.004417602496687323
+        },
+        {
+          "word": " spring",
+          "start": 33.08,
+          "end": 33.6,
+          "probability": 0.2009904682636261
+        },
+        {
+          "word": " call",
+          "start": 33.6,
+          "end": 34.2,
+          "probability": 0.026356860995292664
+        },
+        {
+          "word": " to",
+          "start": 34.2,
+          "end": 35.88,
+          "probability": 0.781562328338623
+        },
+        {
+          "word": " a",
+          "start": 35.88,
+          "end": 36.04,
+          "probability": 0.007930217310786247
+        },
+        {
+          "word": " lucky.",
+          "start": 36.04,
+          "end": 37.04,
+          "probability": 0.007570608984678984
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 5050,
+      "start": 50.5,
+      "end": 50.56,
+      "text": " Put it in your bag, bring it to the cloud.",
+      "tokens": [
+        50364,
+        4935,
+        309,
+        294,
+        428,
+        3411,
+        11,
+        1565,
+        309,
+        281,
+        264,
+        4588,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3459898630777995,
+      "compression_ratio": 0.9130434782608695,
+      "no_speech_prob": 0.9652740359306335,
+      "words": [
+        {
+          "word": " Put",
+          "start": 50.5,
+          "end": 50.5,
+          "probability": 0.00013261992717161775
+        },
+        {
+          "word": " it",
+          "start": 50.5,
+          "end": 50.5,
+          "probability": 0.13998202979564667
+        },
+        {
+          "word": " in",
+          "start": 50.5,
+          "end": 50.52,
+          "probability": 0.43573805689811707
+        },
+        {
+          "word": " your",
+          "start": 50.52,
+          "end": 50.52,
+          "probability": 0.19542543590068817
+        },
+        {
+          "word": " bag,",
+          "start": 50.52,
+          "end": 50.52,
+          "probability": 0.022777413949370384
+        },
+        {
+          "word": " bring",
+          "start": 50.52,
+          "end": 50.52,
+          "probability": 0.00132752803619951
+        },
+        {
+          "word": " it",
+          "start": 50.52,
+          "end": 50.54,
+          "probability": 0.7100502252578735
+        },
+        {
+          "word": " to",
+          "start": 50.54,
+          "end": 50.56,
+          "probability": 0.24884580075740814
+        },
+        {
+          "word": " the",
+          "start": 50.56,
+          "end": 50.56,
+          "probability": 0.24895508587360382
+        },
+        {
+          "word": " cloud.",
+          "start": 50.56,
+          "end": 50.56,
+          "probability": 6.296378705883399e-05
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

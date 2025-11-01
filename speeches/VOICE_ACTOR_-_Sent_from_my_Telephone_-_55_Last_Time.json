@@ -1,0 +1,480 @@
+{
+  "text": " Had enough this time I was thinking this time Feeling this time This is the last time Dreaming with eyes open Inspired caution God's dreaming of ghosts Dreaming of ghosts God, closer than most Closer than most Closer than most",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 30.18,
+      "end": 35.3,
+      "text": " Had enough this time",
+      "tokens": [
+        50364,
+        12298,
+        1547,
+        341,
+        565,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27503103476304275,
+      "compression_ratio": 1.3709677419354838,
+      "no_speech_prob": 0.5400345921516418,
+      "words": [
+        {
+          "word": " Had",
+          "start": 30.18,
+          "end": 31.58,
+          "probability": 0.4761369824409485
+        },
+        {
+          "word": " enough",
+          "start": 31.58,
+          "end": 32.96,
+          "probability": 0.9850216507911682
+        },
+        {
+          "word": " this",
+          "start": 32.96,
+          "end": 33.68,
+          "probability": 0.959918200969696
+        },
+        {
+          "word": " time",
+          "start": 33.68,
+          "end": 35.3,
+          "probability": 0.9994459748268127
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 41.0,
+      "end": 44.0,
+      "text": " I was thinking this time",
+      "tokens": [
+        50914,
+        286,
+        390,
+        1953,
+        341,
+        565,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27503103476304275,
+      "compression_ratio": 1.3709677419354838,
+      "no_speech_prob": 0.5400345921516418,
+      "words": [
+        {
+          "word": " I",
+          "start": 40.839999999999996,
+          "end": 41.54,
+          "probability": 0.773396909236908
+        },
+        {
+          "word": " was",
+          "start": 41.54,
+          "end": 42.1,
+          "probability": 0.994239330291748
+        },
+        {
+          "word": " thinking",
+          "start": 42.1,
+          "end": 42.82,
+          "probability": 0.9944455623626709
+        },
+        {
+          "word": " this",
+          "start": 42.82,
+          "end": 43.56,
+          "probability": 0.9923194050788879
+        },
+        {
+          "word": " time",
+          "start": 43.56,
+          "end": 44.260000000000005,
+          "probability": 0.9993859529495239
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 45.54,
+      "end": 49.28,
+      "text": " Feeling this time",
+      "tokens": [
+        51164,
+        29945,
+        341,
+        565,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27503103476304275,
+      "compression_ratio": 1.3709677419354838,
+      "no_speech_prob": 0.5400345921516418,
+      "words": [
+        {
+          "word": " Feeling",
+          "start": 45.54,
+          "end": 46.94,
+          "probability": 0.8784364461898804
+        },
+        {
+          "word": " this",
+          "start": 46.94,
+          "end": 47.84,
+          "probability": 0.9966478943824768
+        },
+        {
+          "word": " time",
+          "start": 47.84,
+          "end": 49.28,
+          "probability": 0.9948300719261169
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 51.0,
+      "end": 54.0,
+      "text": " This is the last time",
+      "tokens": [
+        51414,
+        639,
+        307,
+        264,
+        1036,
+        565,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27503103476304275,
+      "compression_ratio": 1.3709677419354838,
+      "no_speech_prob": 0.5400345921516418,
+      "words": [
+        {
+          "word": " This",
+          "start": 50.959999999999994,
+          "end": 51.66,
+          "probability": 0.9697746634483337
+        },
+        {
+          "word": " is",
+          "start": 51.66,
+          "end": 52.44,
+          "probability": 0.9961200952529907
+        },
+        {
+          "word": " the",
+          "start": 52.44,
+          "end": 52.78,
+          "probability": 0.9942086935043335
+        },
+        {
+          "word": " last",
+          "start": 52.78,
+          "end": 53.32,
+          "probability": 0.9978577494621277
+        },
+        {
+          "word": " time",
+          "start": 53.32,
+          "end": 54.02,
+          "probability": 0.9995880722999573
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 6000,
+      "start": 60.0,
+      "end": 64.32,
+      "text": " Dreaming with eyes open",
+      "tokens": [
+        50364,
+        12105,
+        278,
+        365,
+        2575,
+        1269,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2530850648880005,
+      "compression_ratio": 1.3977272727272727,
+      "no_speech_prob": 0.13231493532657623,
+      "words": [
+        {
+          "word": " Dreaming",
+          "start": 60.0,
+          "end": 61.34,
+          "probability": 0.7490875422954559
+        },
+        {
+          "word": " with",
+          "start": 61.34,
+          "end": 61.74,
+          "probability": 0.9437842965126038
+        },
+        {
+          "word": " eyes",
+          "start": 61.74,
+          "end": 62.16,
+          "probability": 0.9633297324180603
+        },
+        {
+          "word": " open",
+          "start": 62.16,
+          "end": 64.32,
+          "probability": 0.9341336488723755
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 6000,
+      "start": 69.53999999999999,
+      "end": 72.34,
+      "text": " Inspired caution",
+      "tokens": [
+        50664,
+        32671,
+        1824,
+        23585,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2530850648880005,
+      "compression_ratio": 1.3977272727272727,
+      "no_speech_prob": 0.13231493532657623,
+      "words": [
+        {
+          "word": " Inspired",
+          "start": 69.53999999999999,
+          "end": 70.94,
+          "probability": 0.8243648707866669
+        },
+        {
+          "word": " caution",
+          "start": 70.94,
+          "end": 72.34,
+          "probability": 0.7004781365394592
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 6000,
+      "start": 75.38,
+      "end": 78.5,
+      "text": " God's dreaming of ghosts",
+      "tokens": [
+        51114,
+        1265,
+        311,
+        21475,
+        295,
+        21744,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2530850648880005,
+      "compression_ratio": 1.3977272727272727,
+      "no_speech_prob": 0.13231493532657623,
+      "words": [
+        {
+          "word": " God's",
+          "start": 75.38,
+          "end": 76.78,
+          "probability": 0.5124934911727905
+        },
+        {
+          "word": " dreaming",
+          "start": 76.78,
+          "end": 77.14,
+          "probability": 0.8486404418945312
+        },
+        {
+          "word": " of",
+          "start": 77.14,
+          "end": 77.66,
+          "probability": 0.2513929605484009
+        },
+        {
+          "word": " ghosts",
+          "start": 77.66,
+          "end": 78.5,
+          "probability": 0.7655275464057922
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6000,
+      "start": 78.5,
+      "end": 81.0,
+      "text": " Dreaming of ghosts",
+      "tokens": [
+        51264,
+        12105,
+        278,
+        295,
+        21744,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2530850648880005,
+      "compression_ratio": 1.3977272727272727,
+      "no_speech_prob": 0.13231493532657623,
+      "words": [
+        {
+          "word": " Dreaming",
+          "start": 78.5,
+          "end": 79.28,
+          "probability": 0.6687236428260803
+        },
+        {
+          "word": " of",
+          "start": 79.28,
+          "end": 79.86,
+          "probability": 0.9863450527191162
+        },
+        {
+          "word": " ghosts",
+          "start": 79.86,
+          "end": 81.0,
+          "probability": 0.9752364158630371
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6000,
+      "start": 83.34,
+      "end": 86.0,
+      "text": " God, closer than most",
+      "tokens": [
+        51514,
+        1265,
+        11,
+        4966,
+        813,
+        881,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2530850648880005,
+      "compression_ratio": 1.3977272727272727,
+      "no_speech_prob": 0.13231493532657623,
+      "words": [
+        {
+          "word": " God,",
+          "start": 83.34,
+          "end": 84.68,
+          "probability": 0.39608705043792725
+        },
+        {
+          "word": " closer",
+          "start": 84.94,
+          "end": 85.4,
+          "probability": 0.9684587717056274
+        },
+        {
+          "word": " than",
+          "start": 85.4,
+          "end": 85.98,
+          "probability": 0.9959975481033325
+        },
+        {
+          "word": " most",
+          "start": 85.98,
+          "end": 86.68,
+          "probability": 0.9171380996704102
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 6000,
+      "start": 86.74,
+      "end": 88.8,
+      "text": " Closer than most",
+      "tokens": [
+        51664,
+        2033,
+        22150,
+        813,
+        881,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2530850648880005,
+      "compression_ratio": 1.3977272727272727,
+      "no_speech_prob": 0.13231493532657623,
+      "words": [
+        {
+          "word": " Closer",
+          "start": 86.74,
+          "end": 87.46,
+          "probability": 0.9213880300521851
+        },
+        {
+          "word": " than",
+          "start": 87.46,
+          "end": 88.12,
+          "probability": 0.9950324296951294
+        },
+        {
+          "word": " most",
+          "start": 88.12,
+          "end": 88.8,
+          "probability": 0.9987115859985352
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 8880,
+      "start": 88.8,
+      "end": 90.3,
+      "text": " Closer than most",
+      "tokens": [
+        50364,
+        2033,
+        22150,
+        813,
+        881,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14419833251408168,
+      "compression_ratio": 0.6666666666666666,
+      "no_speech_prob": 0.09084291756153107,
+      "words": [
+        {
+          "word": " Closer",
+          "start": 88.8,
+          "end": 89.38,
+          "probability": 0.2650444866740145
+        },
+        {
+          "word": " than",
+          "start": 89.38,
+          "end": 89.76,
+          "probability": 0.09473305195569992
+        },
+        {
+          "word": " most",
+          "start": 89.76,
+          "end": 90.3,
+          "probability": 0.003415177809074521
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

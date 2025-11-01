@@ -1,0 +1,477 @@
+{
+  "text": " Please, baby, one more chance Please, baby, one more chance Please, baby, one more chance Please, baby, one more chance Please, baby, one more chance Please, baby, one more chance Please, baby, one more chance Please, baby, one more chance Thanks for watching!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 32.74,
+      "end": 37.0,
+      "text": " Please, baby, one more chance",
+      "tokens": [
+        50364,
+        2555,
+        11,
+        3186,
+        11,
+        472,
+        544,
+        2931,
+        50714
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.5608545500656654,
+      "compression_ratio": 2.1707317073170733,
+      "no_speech_prob": 0.8987002968788147,
+      "words": [
+        {
+          "word": " Please,",
+          "start": 32.74,
+          "end": 34.14,
+          "probability": 0.059935275465250015
+        },
+        {
+          "word": " baby,",
+          "start": 35.18,
+          "end": 35.18,
+          "probability": 0.1812019944190979
+        },
+        {
+          "word": " one",
+          "start": 35.6,
+          "end": 36.36,
+          "probability": 0.5174962878227234
+        },
+        {
+          "word": " more",
+          "start": 36.36,
+          "end": 36.92,
+          "probability": 0.9613088369369507
+        },
+        {
+          "word": " chance",
+          "start": 36.92,
+          "end": 37.620000000000005,
+          "probability": 0.8044666051864624
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 39.84,
+      "end": 46.16,
+      "text": " Please, baby, one more chance",
+      "tokens": [
+        50714,
+        2555,
+        11,
+        3186,
+        11,
+        472,
+        544,
+        2931,
+        51064
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.5608545500656654,
+      "compression_ratio": 2.1707317073170733,
+      "no_speech_prob": 0.8987002968788147,
+      "words": [
+        {
+          "word": " Please,",
+          "start": 39.84,
+          "end": 41.24,
+          "probability": 0.4658493995666504
+        },
+        {
+          "word": " baby,",
+          "start": 41.76,
+          "end": 42.66,
+          "probability": 0.9954675436019897
+        },
+        {
+          "word": " one",
+          "start": 43.14,
+          "end": 43.58,
+          "probability": 0.9969364404678345
+        },
+        {
+          "word": " more",
+          "start": 43.58,
+          "end": 44.46,
+          "probability": 0.9985892176628113
+        },
+        {
+          "word": " chance",
+          "start": 44.46,
+          "end": 46.16,
+          "probability": 0.9984490871429443
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 46.16,
+      "end": 51.0,
+      "text": " Please, baby, one more chance",
+      "tokens": [
+        51064,
+        2555,
+        11,
+        3186,
+        11,
+        472,
+        544,
+        2931,
+        51414
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.5608545500656654,
+      "compression_ratio": 2.1707317073170733,
+      "no_speech_prob": 0.8987002968788147,
+      "words": [
+        {
+          "word": " Please,",
+          "start": 46.16,
+          "end": 48.12,
+          "probability": 0.8404849767684937
+        },
+        {
+          "word": " baby,",
+          "start": 48.24,
+          "end": 48.92,
+          "probability": 0.9962079524993896
+        },
+        {
+          "word": " one",
+          "start": 49.26,
+          "end": 49.76,
+          "probability": 0.9990002512931824
+        },
+        {
+          "word": " more",
+          "start": 49.76,
+          "end": 50.4,
+          "probability": 0.9992749094963074
+        },
+        {
+          "word": " chance",
+          "start": 50.4,
+          "end": 51.1,
+          "probability": 0.999015212059021
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 5110,
+      "start": 58.46,
+      "end": 63.28,
+      "text": " Please, baby, one more chance",
+      "tokens": [
+        50364,
+        2555,
+        11,
+        3186,
+        11,
+        472,
+        544,
+        2931,
+        50714
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.20352144899039432,
+      "compression_ratio": 2.1707317073170733,
+      "no_speech_prob": 0.17828615009784698,
+      "words": [
+        {
+          "word": " Please,",
+          "start": 58.46,
+          "end": 59.86,
+          "probability": 0.004520760383456945
+        },
+        {
+          "word": " baby,",
+          "start": 60.12,
+          "end": 60.74,
+          "probability": 0.09006916731595993
+        },
+        {
+          "word": " one",
+          "start": 60.74,
+          "end": 61.84,
+          "probability": 0.0007382110925391316
+        },
+        {
+          "word": " more",
+          "start": 61.84,
+          "end": 61.84,
+          "probability": 0.5441139936447144
+        },
+        {
+          "word": " chance",
+          "start": 61.84,
+          "end": 63.28,
+          "probability": 0.16618631780147552
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 5110,
+      "start": 65.3,
+      "end": 72.74,
+      "text": " Please, baby, one more chance",
+      "tokens": [
+        50714,
+        2555,
+        11,
+        3186,
+        11,
+        472,
+        544,
+        2931,
+        51064
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.20352144899039432,
+      "compression_ratio": 2.1707317073170733,
+      "no_speech_prob": 0.17828615009784698,
+      "words": [
+        {
+          "word": " Please,",
+          "start": 65.3,
+          "end": 66.7,
+          "probability": 0.4026193618774414
+        },
+        {
+          "word": " baby,",
+          "start": 67.02,
+          "end": 67.6,
+          "probability": 0.9912561178207397
+        },
+        {
+          "word": " one",
+          "start": 67.6,
+          "end": 68.1,
+          "probability": 0.8961672782897949
+        },
+        {
+          "word": " more",
+          "start": 68.1,
+          "end": 68.84,
+          "probability": 0.9937292337417603
+        },
+        {
+          "word": " chance",
+          "start": 68.84,
+          "end": 72.74,
+          "probability": 0.9875834584236145
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 5110,
+      "start": 72.74,
+      "end": 79.44,
+      "text": " Please, baby, one more chance",
+      "tokens": [
+        51064,
+        2555,
+        11,
+        3186,
+        11,
+        472,
+        544,
+        2931,
+        51414
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.20352144899039432,
+      "compression_ratio": 2.1707317073170733,
+      "no_speech_prob": 0.17828615009784698,
+      "words": [
+        {
+          "word": " Please,",
+          "start": 72.74,
+          "end": 73.52,
+          "probability": 0.9024398326873779
+        },
+        {
+          "word": " baby,",
+          "start": 73.9,
+          "end": 74.38,
+          "probability": 0.9983457326889038
+        },
+        {
+          "word": " one",
+          "start": 74.6,
+          "end": 75.58,
+          "probability": 0.9773197174072266
+        },
+        {
+          "word": " more",
+          "start": 75.58,
+          "end": 75.58,
+          "probability": 0.9945284724235535
+        },
+        {
+          "word": " chance",
+          "start": 75.58,
+          "end": 79.44,
+          "probability": 0.9828895926475525
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 7944,
+      "start": 88.94,
+      "end": 91.84,
+      "text": " Please, baby, one more chance",
+      "tokens": [
+        50364,
+        2555,
+        11,
+        3186,
+        11,
+        472,
+        544,
+        2931,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2693211655867727,
+      "compression_ratio": 1.4390243902439024,
+      "no_speech_prob": 0.3431156575679779,
+      "words": [
+        {
+          "word": " Please,",
+          "start": 88.94,
+          "end": 90.02,
+          "probability": 0.00033677107421681285
+        },
+        {
+          "word": " baby,",
+          "start": 90.56,
+          "end": 90.56,
+          "probability": 0.0005013526533730328
+        },
+        {
+          "word": " one",
+          "start": 90.86,
+          "end": 91.56,
+          "probability": 0.0007397712906822562
+        },
+        {
+          "word": " more",
+          "start": 91.56,
+          "end": 91.84,
+          "probability": 0.3099227547645569
+        },
+        {
+          "word": " chance",
+          "start": 91.84,
+          "end": 91.84,
+          "probability": 0.02951315976679325
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 7944,
+      "start": 91.84,
+      "end": 95.92,
+      "text": " Please, baby, one more chance",
+      "tokens": [
+        50714,
+        2555,
+        11,
+        3186,
+        11,
+        472,
+        544,
+        2931,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2693211655867727,
+      "compression_ratio": 1.4390243902439024,
+      "no_speech_prob": 0.3431156575679779,
+      "words": [
+        {
+          "word": " Please,",
+          "start": 91.84,
+          "end": 91.84,
+          "probability": 0.0025266562588512897
+        },
+        {
+          "word": " baby,",
+          "start": 91.84,
+          "end": 91.84,
+          "probability": 0.6579219102859497
+        },
+        {
+          "word": " one",
+          "start": 94.92,
+          "end": 95.06,
+          "probability": 0.779285728931427
+        },
+        {
+          "word": " more",
+          "start": 95.06,
+          "end": 95.64,
+          "probability": 0.9543331861495972
+        },
+        {
+          "word": " chance",
+          "start": 95.64,
+          "end": 95.92,
+          "probability": 0.9323915839195251
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 10944,
+      "start": 110.6,
+      "end": 113.42,
+      "text": " Thanks for watching!",
+      "tokens": [
+        50414,
+        2561,
+        337,
+        1976,
+        0,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7127115385872977,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.8850749135017395,
+      "words": [
+        {
+          "word": " Thanks",
+          "start": 110.6,
+          "end": 112.0,
+          "probability": 0.01117364689707756
+        },
+        {
+          "word": " for",
+          "start": 112.0,
+          "end": 113.4,
+          "probability": 0.854878306388855
+        },
+        {
+          "word": " watching!",
+          "start": 113.4,
+          "end": 113.42,
+          "probability": 0.9375989437103271
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

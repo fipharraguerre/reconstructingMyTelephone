@@ -1,0 +1,358 @@
+{
+  "text": " Side by side, not hand in hand Don't expect you understand Try to pretend Find compassion, find dispassion Don't know your world, try to imagine Too good to be tested It wasn't me you projected You projected",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 9.139999999999999,
+      "end": 23.84,
+      "text": " Side by side, not hand in hand Don't expect you understand",
+      "tokens": [
+        50364,
+        19026,
+        538,
+        1252,
+        11,
+        406,
+        1011,
+        294,
+        1011,
+        1468,
+        380,
+        2066,
+        291,
+        1223,
+        51556
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.442135305965648,
+      "compression_ratio": 0.9830508474576272,
+      "no_speech_prob": 0.24683932960033417,
+      "words": [
+        {
+          "word": " Side",
+          "start": 9.139999999999999,
+          "end": 10.54,
+          "probability": 0.8503393530845642
+        },
+        {
+          "word": " by",
+          "start": 10.54,
+          "end": 11.0,
+          "probability": 0.9366336464881897
+        },
+        {
+          "word": " side,",
+          "start": 11.0,
+          "end": 12.26,
+          "probability": 0.9835664629936218
+        },
+        {
+          "word": " not",
+          "start": 12.46,
+          "end": 12.76,
+          "probability": 0.9569668769836426
+        },
+        {
+          "word": " hand",
+          "start": 12.76,
+          "end": 13.22,
+          "probability": 0.9885236620903015
+        },
+        {
+          "word": " in",
+          "start": 13.22,
+          "end": 13.6,
+          "probability": 0.9179793000221252
+        },
+        {
+          "word": " hand",
+          "start": 13.6,
+          "end": 16.92,
+          "probability": 0.9994462132453918
+        },
+        {
+          "word": " Don't",
+          "start": 16.92,
+          "end": 21.04,
+          "probability": 0.9421059489250183
+        },
+        {
+          "word": " expect",
+          "start": 21.04,
+          "end": 21.76,
+          "probability": 0.9982737302780151
+        },
+        {
+          "word": " you",
+          "start": 21.76,
+          "end": 22.68,
+          "probability": 0.8560572862625122
+        },
+        {
+          "word": " understand",
+          "start": 22.68,
+          "end": 23.84,
+          "probability": 0.8722851276397705
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2384,
+      "start": 25.92,
+      "end": 39.519999999999996,
+      "text": " Try to pretend Find compassion, find dispassion",
+      "tokens": [
+        50364,
+        6526,
+        281,
+        11865,
+        11809,
+        12601,
+        11,
+        915,
+        4920,
+        640,
+        313,
+        51148
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37454930941263836,
+      "compression_ratio": 1.0625,
+      "no_speech_prob": 0.5365380048751831,
+      "words": [
+        {
+          "word": " Try",
+          "start": 25.92,
+          "end": 27.32,
+          "probability": 0.28954505920410156
+        },
+        {
+          "word": " to",
+          "start": 27.32,
+          "end": 28.5,
+          "probability": 0.9844670295715332
+        },
+        {
+          "word": " pretend",
+          "start": 28.5,
+          "end": 30.76,
+          "probability": 0.9816153645515442
+        },
+        {
+          "word": " Find",
+          "start": 30.76,
+          "end": 33.56,
+          "probability": 0.643062949180603
+        },
+        {
+          "word": " compassion,",
+          "start": 33.56,
+          "end": 35.52,
+          "probability": 0.993835985660553
+        },
+        {
+          "word": " find",
+          "start": 35.52,
+          "end": 38.76,
+          "probability": 0.5814845561981201
+        },
+        {
+          "word": " dispassion",
+          "start": 38.76,
+          "end": 39.519999999999996,
+          "probability": 0.9239130814870199
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2384,
+      "start": 41.940000000000005,
+      "end": 48.14,
+      "text": " Don't know your world, try to imagine",
+      "tokens": [
+        51148,
+        1468,
+        380,
+        458,
+        428,
+        1002,
+        11,
+        853,
+        281,
+        3811,
+        51566
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37454930941263836,
+      "compression_ratio": 1.0625,
+      "no_speech_prob": 0.5365380048751831,
+      "words": [
+        {
+          "word": " Don't",
+          "start": 41.940000000000005,
+          "end": 43.34,
+          "probability": 0.899376630783081
+        },
+        {
+          "word": " know",
+          "start": 43.34,
+          "end": 43.66,
+          "probability": 0.9803029298782349
+        },
+        {
+          "word": " your",
+          "start": 43.66,
+          "end": 44.22,
+          "probability": 0.9935705661773682
+        },
+        {
+          "word": " world,",
+          "start": 44.22,
+          "end": 45.7,
+          "probability": 0.9198312163352966
+        },
+        {
+          "word": " try",
+          "start": 46.04,
+          "end": 46.42,
+          "probability": 0.9814323782920837
+        },
+        {
+          "word": " to",
+          "start": 46.42,
+          "end": 47.32,
+          "probability": 0.9984322190284729
+        },
+        {
+          "word": " imagine",
+          "start": 47.32,
+          "end": 48.14,
+          "probability": 0.9960493445396423
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 5384,
+      "start": 57.5,
+      "end": 69.44,
+      "text": " Too good to be tested It wasn't me you projected",
+      "tokens": [
+        50364,
+        11395,
+        665,
+        281,
+        312,
+        8246,
+        467,
+        2067,
+        380,
+        385,
+        291,
+        26231,
+        51412
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45390602747599285,
+      "compression_ratio": 0.8727272727272727,
+      "no_speech_prob": 0.030415741726756096,
+      "words": [
+        {
+          "word": " Too",
+          "start": 57.5,
+          "end": 58.84,
+          "probability": 0.7326851487159729
+        },
+        {
+          "word": " good",
+          "start": 58.84,
+          "end": 59.06,
+          "probability": 0.9933167695999146
+        },
+        {
+          "word": " to",
+          "start": 59.06,
+          "end": 59.64,
+          "probability": 0.9970801472663879
+        },
+        {
+          "word": " be",
+          "start": 59.64,
+          "end": 60.08,
+          "probability": 0.9987107515335083
+        },
+        {
+          "word": " tested",
+          "start": 60.08,
+          "end": 61.6,
+          "probability": 0.9862986207008362
+        },
+        {
+          "word": " It",
+          "start": 61.6,
+          "end": 66.0,
+          "probability": 0.8426573872566223
+        },
+        {
+          "word": " wasn't",
+          "start": 66.0,
+          "end": 66.66,
+          "probability": 0.9956460297107697
+        },
+        {
+          "word": " me",
+          "start": 66.66,
+          "end": 67.22,
+          "probability": 0.998072624206543
+        },
+        {
+          "word": " you",
+          "start": 67.22,
+          "end": 67.9,
+          "probability": 0.787456750869751
+        },
+        {
+          "word": " projected",
+          "start": 67.9,
+          "end": 69.44,
+          "probability": 0.998563826084137
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 6944,
+      "start": 73.96,
+      "end": 76.76,
+      "text": " You projected",
+      "tokens": [
+        50364,
+        509,
+        26231,
+        50916
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.403837013244629,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.3843204379081726,
+      "words": [
+        {
+          "word": " You",
+          "start": 73.96,
+          "end": 75.36,
+          "probability": 0.5411140322685242
+        },
+        {
+          "word": " projected",
+          "start": 75.36,
+          "end": 76.76,
+          "probability": 0.7312862277030945
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

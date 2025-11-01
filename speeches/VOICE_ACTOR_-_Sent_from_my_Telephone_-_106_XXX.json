@@ -1,0 +1,1220 @@
+{
+  "text": " No ex. For a person you know you will not get an ex back from. Or if you are annoyed with someone or a guy you don't really know. Ex. Standard for any friend or a girl you don't really know. XX. A girl you like. XXX+. Flirting or playing a game with someone or going overboard. Some people really do take notice of the amount of exes they are getting. If you send XX to a girl you may get XXX back. But if you drop back down to an ex after you almost certainly will not get XXX back again. People get offended if you provide no exes unless you are renowned for being a no ex. Unfortunately this practice is dying as most people send multiple shorter messages rather than a lot less frequent texts. Meaning that sign-offs are less necessary. Thanks for watching!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 10.160000000000004,
+      "end": 20.54,
+      "text": " No ex. For a person you know you will not get an ex back from. Or if you are annoyed",
+      "tokens": [
+        50364,
+        883,
+        454,
+        13,
+        1171,
+        257,
+        954,
+        291,
+        458,
+        291,
+        486,
+        406,
+        483,
+        364,
+        454,
+        646,
+        490,
+        13,
+        1610,
+        498,
+        291,
+        366,
+        25921,
+        51392
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38698530197143555,
+      "compression_ratio": 1.0632911392405062,
+      "no_speech_prob": 0.26523199677467346,
+      "words": [
+        {
+          "word": " No",
+          "start": 10.160000000000004,
+          "end": 10.920000000000002,
+          "probability": 0.6932910084724426
+        },
+        {
+          "word": " ex.",
+          "start": 10.920000000000002,
+          "end": 11.68,
+          "probability": 0.2912370264530182
+        },
+        {
+          "word": " For",
+          "start": 12.78,
+          "end": 13.12,
+          "probability": 0.9648119807243347
+        },
+        {
+          "word": " a",
+          "start": 13.12,
+          "end": 13.42,
+          "probability": 0.9927496910095215
+        },
+        {
+          "word": " person",
+          "start": 13.42,
+          "end": 14.06,
+          "probability": 0.9950852990150452
+        },
+        {
+          "word": " you",
+          "start": 14.06,
+          "end": 14.54,
+          "probability": 0.8056724071502686
+        },
+        {
+          "word": " know",
+          "start": 14.54,
+          "end": 14.76,
+          "probability": 0.9837086796760559
+        },
+        {
+          "word": " you",
+          "start": 14.76,
+          "end": 14.9,
+          "probability": 0.9770728349685669
+        },
+        {
+          "word": " will",
+          "start": 14.9,
+          "end": 15.32,
+          "probability": 0.9624585509300232
+        },
+        {
+          "word": " not",
+          "start": 15.32,
+          "end": 15.62,
+          "probability": 0.9941784143447876
+        },
+        {
+          "word": " get",
+          "start": 15.62,
+          "end": 16.16,
+          "probability": 0.995147168636322
+        },
+        {
+          "word": " an",
+          "start": 16.16,
+          "end": 16.5,
+          "probability": 0.9788327217102051
+        },
+        {
+          "word": " ex",
+          "start": 16.5,
+          "end": 16.94,
+          "probability": 0.991188645362854
+        },
+        {
+          "word": " back",
+          "start": 16.94,
+          "end": 17.4,
+          "probability": 0.969089150428772
+        },
+        {
+          "word": " from.",
+          "start": 17.4,
+          "end": 17.74,
+          "probability": 0.964992344379425
+        },
+        {
+          "word": " Or",
+          "start": 19.16,
+          "end": 19.58,
+          "probability": 0.9230514168739319
+        },
+        {
+          "word": " if",
+          "start": 19.58,
+          "end": 19.82,
+          "probability": 0.9651622176170349
+        },
+        {
+          "word": " you",
+          "start": 19.82,
+          "end": 20.14,
+          "probability": 0.9690536260604858
+        },
+        {
+          "word": " are",
+          "start": 20.14,
+          "end": 20.2,
+          "probability": 0.5031148791313171
+        },
+        {
+          "word": " annoyed",
+          "start": 20.2,
+          "end": 20.54,
+          "probability": 0.9732227921485901
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2054,
+      "start": 20.54,
+      "end": 32.86,
+      "text": " with someone or a guy you don't really know. Ex. Standard for any friend or a girl you don't really know.",
+      "tokens": [
+        50364,
+        365,
+        1580,
+        420,
+        257,
+        2146,
+        291,
+        500,
+        380,
+        534,
+        458,
+        13,
+        2111,
+        13,
+        21298,
+        337,
+        604,
+        1277,
+        420,
+        257,
+        2013,
+        291,
+        500,
+        380,
+        534,
+        458,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38468303680419924,
+      "compression_ratio": 1.2962962962962963,
+      "no_speech_prob": 0.8969907164573669,
+      "words": [
+        {
+          "word": " with",
+          "start": 20.54,
+          "end": 20.84,
+          "probability": 0.24216413497924805
+        },
+        {
+          "word": " someone",
+          "start": 20.84,
+          "end": 21.94,
+          "probability": 0.9114797711372375
+        },
+        {
+          "word": " or",
+          "start": 21.94,
+          "end": 22.96,
+          "probability": 0.4755255877971649
+        },
+        {
+          "word": " a",
+          "start": 22.96,
+          "end": 23.22,
+          "probability": 0.9171780943870544
+        },
+        {
+          "word": " guy",
+          "start": 23.22,
+          "end": 23.46,
+          "probability": 0.9902526140213013
+        },
+        {
+          "word": " you",
+          "start": 23.46,
+          "end": 23.52,
+          "probability": 0.9815285205841064
+        },
+        {
+          "word": " don't",
+          "start": 23.52,
+          "end": 23.88,
+          "probability": 0.9464505612850189
+        },
+        {
+          "word": " really",
+          "start": 23.88,
+          "end": 24.28,
+          "probability": 0.9743443727493286
+        },
+        {
+          "word": " know.",
+          "start": 24.28,
+          "end": 25.92,
+          "probability": 0.9961417317390442
+        },
+        {
+          "word": " Ex.",
+          "start": 26.54,
+          "end": 26.98,
+          "probability": 0.07547301799058914
+        },
+        {
+          "word": " Standard",
+          "start": 27.48,
+          "end": 27.96,
+          "probability": 0.5796741843223572
+        },
+        {
+          "word": " for",
+          "start": 27.96,
+          "end": 28.6,
+          "probability": 0.9686902761459351
+        },
+        {
+          "word": " any",
+          "start": 28.6,
+          "end": 29.1,
+          "probability": 0.9768534898757935
+        },
+        {
+          "word": " friend",
+          "start": 29.1,
+          "end": 29.76,
+          "probability": 0.9572139978408813
+        },
+        {
+          "word": " or",
+          "start": 29.76,
+          "end": 30.68,
+          "probability": 0.811898410320282
+        },
+        {
+          "word": " a",
+          "start": 30.68,
+          "end": 30.9,
+          "probability": 0.9511692523956299
+        },
+        {
+          "word": " girl",
+          "start": 30.9,
+          "end": 31.12,
+          "probability": 0.9318149089813232
+        },
+        {
+          "word": " you",
+          "start": 31.12,
+          "end": 31.26,
+          "probability": 0.9948732256889343
+        },
+        {
+          "word": " don't",
+          "start": 31.26,
+          "end": 31.8,
+          "probability": 0.992536723613739
+        },
+        {
+          "word": " really",
+          "start": 31.8,
+          "end": 32.2,
+          "probability": 0.9838598966598511
+        },
+        {
+          "word": " know.",
+          "start": 32.2,
+          "end": 32.86,
+          "probability": 0.9983595013618469
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3286,
+      "start": 32.86,
+      "end": 46.7,
+      "text": " XX. A girl you like. XXX+. Flirting or playing a game with someone or going overboard.",
+      "tokens": [
+        50364,
+        27050,
+        13,
+        316,
+        2013,
+        291,
+        411,
+        13,
+        27050,
+        55,
+        45585,
+        3235,
+        36575,
+        420,
+        2433,
+        257,
+        1216,
+        365,
+        1580,
+        420,
+        516,
+        49480,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.33580989104050857,
+      "compression_ratio": 1.048780487804878,
+      "no_speech_prob": 0.710223376750946,
+      "words": [
+        {
+          "word": " XX.",
+          "start": 32.86,
+          "end": 34.66,
+          "probability": 0.13407383859157562
+        },
+        {
+          "word": " A",
+          "start": 35.36,
+          "end": 35.62,
+          "probability": 0.7271153926849365
+        },
+        {
+          "word": " girl",
+          "start": 35.62,
+          "end": 35.9,
+          "probability": 0.9384327530860901
+        },
+        {
+          "word": " you",
+          "start": 35.9,
+          "end": 36.2,
+          "probability": 0.9810436367988586
+        },
+        {
+          "word": " like.",
+          "start": 36.2,
+          "end": 37.3,
+          "probability": 0.9892894625663757
+        },
+        {
+          "word": " XXX+.",
+          "start": 39.04,
+          "end": 40.44,
+          "probability": 0.7228405475616455
+        },
+        {
+          "word": " Flirting",
+          "start": 40.44,
+          "end": 41.94,
+          "probability": 0.6672297567129135
+        },
+        {
+          "word": " or",
+          "start": 41.94,
+          "end": 42.78,
+          "probability": 0.5573346018791199
+        },
+        {
+          "word": " playing",
+          "start": 42.78,
+          "end": 43.16,
+          "probability": 0.986140251159668
+        },
+        {
+          "word": " a",
+          "start": 43.16,
+          "end": 43.44,
+          "probability": 0.9813703894615173
+        },
+        {
+          "word": " game",
+          "start": 43.44,
+          "end": 43.82,
+          "probability": 0.9987469911575317
+        },
+        {
+          "word": " with",
+          "start": 43.82,
+          "end": 44.12,
+          "probability": 0.926194965839386
+        },
+        {
+          "word": " someone",
+          "start": 44.12,
+          "end": 44.58,
+          "probability": 0.9951962828636169
+        },
+        {
+          "word": " or",
+          "start": 44.58,
+          "end": 45.3,
+          "probability": 0.5320912599563599
+        },
+        {
+          "word": " going",
+          "start": 45.3,
+          "end": 45.8,
+          "probability": 0.9842479825019836
+        },
+        {
+          "word": " overboard.",
+          "start": 45.8,
+          "end": 46.7,
+          "probability": 0.9320885539054871
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4670,
+      "start": 48.540000000000006,
+      "end": 63.38,
+      "text": " Some people really do take notice of the amount of exes they are getting. If you send XX to a girl you may get XXX back.",
+      "tokens": [
+        50364,
+        2188,
+        561,
+        534,
+        360,
+        747,
+        3449,
+        295,
+        264,
+        2372,
+        295,
+        454,
+        279,
+        436,
+        366,
+        1242,
+        13,
+        759,
+        291,
+        2845,
+        27050,
+        281,
+        257,
+        2013,
+        291,
+        815,
+        483,
+        27050,
+        55,
+        646,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1945352975059958,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.7828199863433838,
+      "words": [
+        {
+          "word": " Some",
+          "start": 48.540000000000006,
+          "end": 49.52,
+          "probability": 0.5959590673446655
+        },
+        {
+          "word": " people",
+          "start": 49.52,
+          "end": 50.02,
+          "probability": 0.9873028993606567
+        },
+        {
+          "word": " really",
+          "start": 50.02,
+          "end": 50.54,
+          "probability": 0.9311410784721375
+        },
+        {
+          "word": " do",
+          "start": 50.54,
+          "end": 50.92,
+          "probability": 0.9926244616508484
+        },
+        {
+          "word": " take",
+          "start": 50.92,
+          "end": 51.34,
+          "probability": 0.9770227670669556
+        },
+        {
+          "word": " notice",
+          "start": 51.34,
+          "end": 51.98,
+          "probability": 0.9542196393013
+        },
+        {
+          "word": " of",
+          "start": 51.98,
+          "end": 52.26,
+          "probability": 0.955509603023529
+        },
+        {
+          "word": " the",
+          "start": 52.26,
+          "end": 52.54,
+          "probability": 0.9869675040245056
+        },
+        {
+          "word": " amount",
+          "start": 52.54,
+          "end": 53.06,
+          "probability": 0.954014778137207
+        },
+        {
+          "word": " of",
+          "start": 53.06,
+          "end": 53.54,
+          "probability": 0.9936584830284119
+        },
+        {
+          "word": " exes",
+          "start": 53.54,
+          "end": 54.14,
+          "probability": 0.4294160343706608
+        },
+        {
+          "word": " they",
+          "start": 54.14,
+          "end": 54.54,
+          "probability": 0.9646156430244446
+        },
+        {
+          "word": " are",
+          "start": 54.54,
+          "end": 54.64,
+          "probability": 0.27989470958709717
+        },
+        {
+          "word": " getting.",
+          "start": 54.64,
+          "end": 55.08,
+          "probability": 0.995715320110321
+        },
+        {
+          "word": " If",
+          "start": 57.0,
+          "end": 57.3,
+          "probability": 0.9647143483161926
+        },
+        {
+          "word": " you",
+          "start": 57.3,
+          "end": 57.6,
+          "probability": 0.9972744584083557
+        },
+        {
+          "word": " send",
+          "start": 57.6,
+          "end": 57.94,
+          "probability": 0.9883145093917847
+        },
+        {
+          "word": " XX",
+          "start": 57.94,
+          "end": 58.62,
+          "probability": 0.5095376968383789
+        },
+        {
+          "word": " to",
+          "start": 58.62,
+          "end": 59.14,
+          "probability": 0.8937292695045471
+        },
+        {
+          "word": " a",
+          "start": 59.14,
+          "end": 59.34,
+          "probability": 0.9589734673500061
+        },
+        {
+          "word": " girl",
+          "start": 59.34,
+          "end": 59.86,
+          "probability": 0.9862185120582581
+        },
+        {
+          "word": " you",
+          "start": 59.86,
+          "end": 60.44,
+          "probability": 0.23243281245231628
+        },
+        {
+          "word": " may",
+          "start": 60.44,
+          "end": 60.8,
+          "probability": 0.9653629064559937
+        },
+        {
+          "word": " get",
+          "start": 60.8,
+          "end": 61.26,
+          "probability": 0.9973978996276855
+        },
+        {
+          "word": " XXX",
+          "start": 61.26,
+          "end": 62.84,
+          "probability": 0.9431624114513397
+        },
+        {
+          "word": " back.",
+          "start": 62.84,
+          "end": 63.38,
+          "probability": 0.9631670713424683
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 6338,
+      "start": 63.38,
+      "end": 75.1,
+      "text": " But if you drop back down to an ex after you almost certainly will not get XXX back again.",
+      "tokens": [
+        50364,
+        583,
+        498,
+        291,
+        3270,
+        646,
+        760,
+        281,
+        364,
+        454,
+        934,
+        291,
+        1920,
+        3297,
+        486,
+        406,
+        483,
+        27050,
+        55,
+        646,
+        797,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17026707400446353,
+      "compression_ratio": 1.3968253968253967,
+      "no_speech_prob": 0.8743087649345398,
+      "words": [
+        {
+          "word": " But",
+          "start": 63.38,
+          "end": 64.2,
+          "probability": 0.16250726580619812
+        },
+        {
+          "word": " if",
+          "start": 64.2,
+          "end": 64.62,
+          "probability": 0.9593984484672546
+        },
+        {
+          "word": " you",
+          "start": 64.62,
+          "end": 64.9,
+          "probability": 0.99324631690979
+        },
+        {
+          "word": " drop",
+          "start": 64.9,
+          "end": 65.26,
+          "probability": 0.8510797619819641
+        },
+        {
+          "word": " back",
+          "start": 65.26,
+          "end": 66.0,
+          "probability": 0.9767316579818726
+        },
+        {
+          "word": " down",
+          "start": 66.0,
+          "end": 66.46,
+          "probability": 0.8704108595848083
+        },
+        {
+          "word": " to",
+          "start": 66.46,
+          "end": 66.9,
+          "probability": 0.9864072203636169
+        },
+        {
+          "word": " an",
+          "start": 66.9,
+          "end": 67.16,
+          "probability": 0.025518352165818214
+        },
+        {
+          "word": " ex",
+          "start": 67.16,
+          "end": 67.48,
+          "probability": 0.2626156210899353
+        },
+        {
+          "word": " after",
+          "start": 67.48,
+          "end": 68.06,
+          "probability": 0.4797215163707733
+        },
+        {
+          "word": " you",
+          "start": 68.06,
+          "end": 69.14,
+          "probability": 0.2792455852031708
+        },
+        {
+          "word": " almost",
+          "start": 69.14,
+          "end": 69.66,
+          "probability": 0.16922524571418762
+        },
+        {
+          "word": " certainly",
+          "start": 69.66,
+          "end": 70.28,
+          "probability": 0.9763596653938293
+        },
+        {
+          "word": " will",
+          "start": 70.28,
+          "end": 70.88,
+          "probability": 0.7669562697410583
+        },
+        {
+          "word": " not",
+          "start": 70.88,
+          "end": 71.24,
+          "probability": 0.9868201613426208
+        },
+        {
+          "word": " get",
+          "start": 71.24,
+          "end": 72.08,
+          "probability": 0.9930791258811951
+        },
+        {
+          "word": " XXX",
+          "start": 72.08,
+          "end": 73.76,
+          "probability": 0.5535609573125839
+        },
+        {
+          "word": " back",
+          "start": 73.76,
+          "end": 74.38,
+          "probability": 0.9436692595481873
+        },
+        {
+          "word": " again.",
+          "start": 74.38,
+          "end": 75.1,
+          "probability": 0.9952925443649292
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 6338,
+      "start": 76.84,
+      "end": 85.76,
+      "text": " People get offended if you provide no exes unless you are renowned for being a no ex.",
+      "tokens": [
+        50964,
+        3432,
+        483,
+        26776,
+        498,
+        291,
+        2893,
+        572,
+        454,
+        279,
+        5969,
+        291,
+        366,
+        34065,
+        337,
+        885,
+        257,
+        572,
+        454,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17026707400446353,
+      "compression_ratio": 1.3968253968253967,
+      "no_speech_prob": 0.8743087649345398,
+      "words": [
+        {
+          "word": " People",
+          "start": 76.84,
+          "end": 77.32,
+          "probability": 0.9650618433952332
+        },
+        {
+          "word": " get",
+          "start": 77.32,
+          "end": 77.86,
+          "probability": 0.966663122177124
+        },
+        {
+          "word": " offended",
+          "start": 77.86,
+          "end": 78.48,
+          "probability": 0.9982511401176453
+        },
+        {
+          "word": " if",
+          "start": 78.48,
+          "end": 78.82,
+          "probability": 0.986889123916626
+        },
+        {
+          "word": " you",
+          "start": 78.82,
+          "end": 79.22,
+          "probability": 0.9963802695274353
+        },
+        {
+          "word": " provide",
+          "start": 79.22,
+          "end": 79.64,
+          "probability": 0.9850383400917053
+        },
+        {
+          "word": " no",
+          "start": 79.64,
+          "end": 80.2,
+          "probability": 0.9773045778274536
+        },
+        {
+          "word": " exes",
+          "start": 80.2,
+          "end": 81.14,
+          "probability": 0.4943339601159096
+        },
+        {
+          "word": " unless",
+          "start": 81.14,
+          "end": 82.28,
+          "probability": 0.6344508528709412
+        },
+        {
+          "word": " you",
+          "start": 82.28,
+          "end": 82.72,
+          "probability": 0.9921992421150208
+        },
+        {
+          "word": " are",
+          "start": 82.72,
+          "end": 82.96,
+          "probability": 0.9066731333732605
+        },
+        {
+          "word": " renowned",
+          "start": 82.96,
+          "end": 83.6,
+          "probability": 0.973331868648529
+        },
+        {
+          "word": " for",
+          "start": 83.6,
+          "end": 84.2,
+          "probability": 0.9935599565505981
+        },
+        {
+          "word": " being",
+          "start": 84.2,
+          "end": 84.68,
+          "probability": 0.990520715713501
+        },
+        {
+          "word": " a",
+          "start": 84.68,
+          "end": 84.9,
+          "probability": 0.7603172063827515
+        },
+        {
+          "word": " no",
+          "start": 84.9,
+          "end": 85.22,
+          "probability": 0.8989018797874451
+        },
+        {
+          "word": " ex.",
+          "start": 85.22,
+          "end": 85.76,
+          "probability": 0.48811694979667664
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 8576,
+      "start": 87.39999999999999,
+      "end": 103.06,
+      "text": " Unfortunately this practice is dying as most people send multiple shorter messages rather than a lot less frequent texts.",
+      "tokens": [
+        50364,
+        8590,
+        341,
+        3124,
+        307,
+        8639,
+        382,
+        881,
+        561,
+        2845,
+        3866,
+        11639,
+        7897,
+        2831,
+        813,
+        257,
+        688,
+        1570,
+        18004,
+        15765,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31006425969740925,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.9392516016960144,
+      "words": [
+        {
+          "word": " Unfortunately",
+          "start": 87.39999999999999,
+          "end": 88.8,
+          "probability": 0.5845137238502502
+        },
+        {
+          "word": " this",
+          "start": 88.8,
+          "end": 89.92,
+          "probability": 0.4039735496044159
+        },
+        {
+          "word": " practice",
+          "start": 89.92,
+          "end": 90.64,
+          "probability": 0.9463170766830444
+        },
+        {
+          "word": " is",
+          "start": 90.64,
+          "end": 91.22,
+          "probability": 0.9849063754081726
+        },
+        {
+          "word": " dying",
+          "start": 91.22,
+          "end": 91.74,
+          "probability": 0.9880462884902954
+        },
+        {
+          "word": " as",
+          "start": 91.74,
+          "end": 92.88,
+          "probability": 0.6889076828956604
+        },
+        {
+          "word": " most",
+          "start": 92.88,
+          "end": 93.26,
+          "probability": 0.9885424375534058
+        },
+        {
+          "word": " people",
+          "start": 93.26,
+          "end": 93.92,
+          "probability": 0.9714037775993347
+        },
+        {
+          "word": " send",
+          "start": 93.92,
+          "end": 94.8,
+          "probability": 0.9773538112640381
+        },
+        {
+          "word": " multiple",
+          "start": 94.8,
+          "end": 96.0,
+          "probability": 0.9868320226669312
+        },
+        {
+          "word": " shorter",
+          "start": 96.0,
+          "end": 96.66,
+          "probability": 0.32499900460243225
+        },
+        {
+          "word": " messages",
+          "start": 96.66,
+          "end": 97.66,
+          "probability": 0.9966656565666199
+        },
+        {
+          "word": " rather",
+          "start": 97.66,
+          "end": 98.66,
+          "probability": 0.6242901682853699
+        },
+        {
+          "word": " than",
+          "start": 98.66,
+          "end": 99.7,
+          "probability": 0.9866373538970947
+        },
+        {
+          "word": " a",
+          "start": 99.7,
+          "end": 99.86,
+          "probability": 0.18396206200122833
+        },
+        {
+          "word": " lot",
+          "start": 99.86,
+          "end": 100.3,
+          "probability": 0.5651499032974243
+        },
+        {
+          "word": " less",
+          "start": 100.3,
+          "end": 101.1,
+          "probability": 0.9724239110946655
+        },
+        {
+          "word": " frequent",
+          "start": 101.1,
+          "end": 101.72,
+          "probability": 0.9783968329429626
+        },
+        {
+          "word": " texts.",
+          "start": 101.72,
+          "end": 103.06,
+          "probability": 0.9502286314964294
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 8576,
+      "start": 103.06,
+      "end": 109.44,
+      "text": " Meaning that sign-offs are less necessary.",
+      "tokens": [
+        51214,
+        19948,
+        300,
+        1465,
+        12,
+        19231,
+        366,
+        1570,
+        4818,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31006425969740925,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.9392516016960144,
+      "words": [
+        {
+          "word": " Meaning",
+          "start": 103.06,
+          "end": 104.44,
+          "probability": 0.832455575466156
+        },
+        {
+          "word": " that",
+          "start": 104.44,
+          "end": 105.8,
+          "probability": 0.9514124989509583
+        },
+        {
+          "word": " sign",
+          "start": 105.8,
+          "end": 106.22,
+          "probability": 0.7721031308174133
+        },
+        {
+          "word": "-offs",
+          "start": 106.22,
+          "end": 106.74,
+          "probability": 0.7708396315574646
+        },
+        {
+          "word": " are",
+          "start": 106.74,
+          "end": 107.42,
+          "probability": 0.9926578402519226
+        },
+        {
+          "word": " less",
+          "start": 107.42,
+          "end": 108.28,
+          "probability": 0.9426248669624329
+        },
+        {
+          "word": " necessary.",
+          "start": 108.28,
+          "end": 109.44,
+          "probability": 0.9830581545829773
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 11576,
+      "start": 118.66,
+      "end": 118.82,
+      "text": " Thanks for watching!",
+      "tokens": [
+        50364,
+        2561,
+        337,
+        1976,
+        0,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8026796068464007,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.9897541403770447,
+      "words": [
+        {
+          "word": " Thanks",
+          "start": 118.66,
+          "end": 118.74,
+          "probability": 0.009938032366335392
+        },
+        {
+          "word": " for",
+          "start": 118.74,
+          "end": 118.8,
+          "probability": 0.7949634194374084
+        },
+        {
+          "word": " watching!",
+          "start": 118.8,
+          "end": 118.82,
+          "probability": 0.9313101172447205
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

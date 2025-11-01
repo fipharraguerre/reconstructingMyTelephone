@@ -1,0 +1,698 @@
+{
+  "text": " It could be a theme song for a caretaker. Cleaning during a calm. The building is empty. The lights are off. It's dusk. He walks around listening to the clarity of the hallways. Keys jingling in his pocket. As he moves in and out of different utility rooms. They clang together along the pipes. In his altered circadian rhythm. He prepares this property for another day of tomorrow's interactions.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 24.02,
+      "end": 29.98,
+      "text": " It could be a theme song for a caretaker.",
+      "tokens": [
+        50364,
+        467,
+        727,
+        312,
+        257,
+        6314,
+        2153,
+        337,
+        257,
+        1127,
+        83,
+        4003,
+        13,
+        51860
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6963457743326823,
+      "compression_ratio": 0.8541666666666666,
+      "no_speech_prob": 0.11333606392145157,
+      "words": [
+        {
+          "word": " It",
+          "start": 24.02,
+          "end": 24.98,
+          "probability": 0.24914273619651794
+        },
+        {
+          "word": " could",
+          "start": 24.98,
+          "end": 25.46,
+          "probability": 0.984302282333374
+        },
+        {
+          "word": " be",
+          "start": 25.46,
+          "end": 25.86,
+          "probability": 0.9867199063301086
+        },
+        {
+          "word": " a",
+          "start": 25.86,
+          "end": 26.08,
+          "probability": 0.7769405245780945
+        },
+        {
+          "word": " theme",
+          "start": 26.08,
+          "end": 26.46,
+          "probability": 0.9864891171455383
+        },
+        {
+          "word": " song",
+          "start": 26.46,
+          "end": 27.7,
+          "probability": 0.9915761351585388
+        },
+        {
+          "word": " for",
+          "start": 27.7,
+          "end": 28.84,
+          "probability": 0.5705650448799133
+        },
+        {
+          "word": " a",
+          "start": 28.84,
+          "end": 29.06,
+          "probability": 0.40579697489738464
+        },
+        {
+          "word": " caretaker.",
+          "start": 29.06,
+          "end": 29.98,
+          "probability": 0.9372708201408386
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 31.58,
+      "end": 34.84,
+      "text": " Cleaning during a calm.",
+      "tokens": [
+        50364,
+        8834,
+        8415,
+        1830,
+        257,
+        7151,
+        13,
+        50560
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3418661247600209,
+      "compression_ratio": 1.2272727272727273,
+      "no_speech_prob": 0.6434003710746765,
+      "words": [
+        {
+          "word": " Cleaning",
+          "start": 31.58,
+          "end": 32.9,
+          "probability": 0.8578130006790161
+        },
+        {
+          "word": " during",
+          "start": 32.9,
+          "end": 33.56,
+          "probability": 0.8824155926704407
+        },
+        {
+          "word": " a",
+          "start": 33.56,
+          "end": 33.98,
+          "probability": 0.9295632243156433
+        },
+        {
+          "word": " calm.",
+          "start": 33.98,
+          "end": 34.84,
+          "probability": 0.9197824597358704
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 38.86,
+      "end": 40.28,
+      "text": " The building is empty.",
+      "tokens": [
+        50560,
+        440,
+        2390,
+        307,
+        6707,
+        13,
+        50878
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3418661247600209,
+      "compression_ratio": 1.2272727272727273,
+      "no_speech_prob": 0.6434003710746765,
+      "words": [
+        {
+          "word": " The",
+          "start": 38.86,
+          "end": 38.98,
+          "probability": 0.9748255610466003
+        },
+        {
+          "word": " building",
+          "start": 38.98,
+          "end": 39.44,
+          "probability": 0.9949415326118469
+        },
+        {
+          "word": " is",
+          "start": 39.44,
+          "end": 39.84,
+          "probability": 0.9971417784690857
+        },
+        {
+          "word": " empty.",
+          "start": 39.84,
+          "end": 40.5,
+          "probability": 0.9988006353378296
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 42.6,
+      "end": 44.42,
+      "text": " The lights are off.",
+      "tokens": [
+        50878,
+        440,
+        5811,
+        366,
+        766,
+        13,
+        51046
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3418661247600209,
+      "compression_ratio": 1.2272727272727273,
+      "no_speech_prob": 0.6434003710746765,
+      "words": [
+        {
+          "word": " The",
+          "start": 42.6,
+          "end": 42.72,
+          "probability": 0.9528079628944397
+        },
+        {
+          "word": " lights",
+          "start": 42.72,
+          "end": 43.18,
+          "probability": 0.9962425231933594
+        },
+        {
+          "word": " are",
+          "start": 43.18,
+          "end": 43.68,
+          "probability": 0.9969207048416138
+        },
+        {
+          "word": " off.",
+          "start": 43.68,
+          "end": 44.42,
+          "probability": 0.9936420321464539
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 45.32,
+      "end": 45.92,
+      "text": " It's dusk.",
+      "tokens": [
+        51046,
+        467,
+        311,
+        14284,
+        74,
+        13,
+        51160
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3418661247600209,
+      "compression_ratio": 1.2272727272727273,
+      "no_speech_prob": 0.6434003710746765,
+      "words": [
+        {
+          "word": " It's",
+          "start": 45.32,
+          "end": 45.9,
+          "probability": 0.9636765122413635
+        },
+        {
+          "word": " dusk.",
+          "start": 45.9,
+          "end": 46.56,
+          "probability": 0.9948942065238953
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 50.86,
+      "end": 57.28,
+      "text": " He walks around listening to the clarity of the hallways.",
+      "tokens": [
+        51160,
+        634,
+        12896,
+        926,
+        4764,
+        281,
+        264,
+        16992,
+        295,
+        264,
+        6500,
+        942,
+        13,
+        51728
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3418661247600209,
+      "compression_ratio": 1.2272727272727273,
+      "no_speech_prob": 0.6434003710746765,
+      "words": [
+        {
+          "word": " He",
+          "start": 50.86,
+          "end": 51.2,
+          "probability": 0.9718705415725708
+        },
+        {
+          "word": " walks",
+          "start": 51.2,
+          "end": 51.74,
+          "probability": 0.9983659386634827
+        },
+        {
+          "word": " around",
+          "start": 51.74,
+          "end": 52.74,
+          "probability": 0.9934958219528198
+        },
+        {
+          "word": " listening",
+          "start": 52.74,
+          "end": 54.38,
+          "probability": 0.34711000323295593
+        },
+        {
+          "word": " to",
+          "start": 54.38,
+          "end": 55.0,
+          "probability": 0.9961876273155212
+        },
+        {
+          "word": " the",
+          "start": 55.0,
+          "end": 55.44,
+          "probability": 0.9982788562774658
+        },
+        {
+          "word": " clarity",
+          "start": 55.44,
+          "end": 56.16,
+          "probability": 0.9972136616706848
+        },
+        {
+          "word": " of",
+          "start": 56.16,
+          "end": 56.68,
+          "probability": 0.9962818026542664
+        },
+        {
+          "word": " the",
+          "start": 56.68,
+          "end": 57.0,
+          "probability": 0.9981439113616943
+        },
+        {
+          "word": " hallways.",
+          "start": 57.0,
+          "end": 57.66,
+          "probability": 0.9833233058452606
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 6000,
+      "start": 61.440000000000005,
+      "end": 65.1,
+      "text": " Keys jingling in his pocket.",
+      "tokens": [
+        50414,
+        43733,
+        361,
+        278,
+        1688,
+        294,
+        702,
+        8963,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41086376414579506,
+      "compression_ratio": 1.16,
+      "no_speech_prob": 0.04992164298892021,
+      "words": [
+        {
+          "word": " Keys",
+          "start": 61.440000000000005,
+          "end": 62.56,
+          "probability": 0.7460775971412659
+        },
+        {
+          "word": " jingling",
+          "start": 62.56,
+          "end": 63.48,
+          "probability": 0.9776239991188049
+        },
+        {
+          "word": " in",
+          "start": 63.48,
+          "end": 63.78,
+          "probability": 0.9963467717170715
+        },
+        {
+          "word": " his",
+          "start": 63.78,
+          "end": 64.04,
+          "probability": 0.9538073539733887
+        },
+        {
+          "word": " pocket.",
+          "start": 64.04,
+          "end": 65.1,
+          "probability": 0.7653801441192627
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6000,
+      "start": 67.74,
+      "end": 72.76,
+      "text": " As he moves in and out of different utility rooms.",
+      "tokens": [
+        50714,
+        1018,
+        415,
+        6067,
+        294,
+        293,
+        484,
+        295,
+        819,
+        14877,
+        9396,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41086376414579506,
+      "compression_ratio": 1.16,
+      "no_speech_prob": 0.04992164298892021,
+      "words": [
+        {
+          "word": " As",
+          "start": 67.74,
+          "end": 67.92,
+          "probability": 0.9616611003875732
+        },
+        {
+          "word": " he",
+          "start": 67.92,
+          "end": 68.28,
+          "probability": 0.9898011088371277
+        },
+        {
+          "word": " moves",
+          "start": 68.28,
+          "end": 68.72,
+          "probability": 0.9914318323135376
+        },
+        {
+          "word": " in",
+          "start": 68.72,
+          "end": 69.22,
+          "probability": 0.9903662204742432
+        },
+        {
+          "word": " and",
+          "start": 69.22,
+          "end": 69.52,
+          "probability": 0.9954769015312195
+        },
+        {
+          "word": " out",
+          "start": 69.52,
+          "end": 69.78,
+          "probability": 0.9917859435081482
+        },
+        {
+          "word": " of",
+          "start": 69.78,
+          "end": 70.06,
+          "probability": 0.9922171831130981
+        },
+        {
+          "word": " different",
+          "start": 70.06,
+          "end": 70.68,
+          "probability": 0.9655206203460693
+        },
+        {
+          "word": " utility",
+          "start": 70.68,
+          "end": 71.46,
+          "probability": 0.9945672750473022
+        },
+        {
+          "word": " rooms.",
+          "start": 71.46,
+          "end": 72.76,
+          "probability": 0.9971792697906494
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6000,
+      "start": 76.3,
+      "end": 81.12,
+      "text": " They clang together along the pipes.",
+      "tokens": [
+        51164,
+        814,
+        596,
+        656,
+        1214,
+        2051,
+        264,
+        21882,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41086376414579506,
+      "compression_ratio": 1.16,
+      "no_speech_prob": 0.04992164298892021,
+      "words": [
+        {
+          "word": " They",
+          "start": 76.3,
+          "end": 76.68,
+          "probability": 0.9688267707824707
+        },
+        {
+          "word": " clang",
+          "start": 76.68,
+          "end": 77.08,
+          "probability": 0.6348216533660889
+        },
+        {
+          "word": " together",
+          "start": 77.08,
+          "end": 78.34,
+          "probability": 0.9981948733329773
+        },
+        {
+          "word": " along",
+          "start": 78.34,
+          "end": 79.98,
+          "probability": 0.6008158922195435
+        },
+        {
+          "word": " the",
+          "start": 79.98,
+          "end": 80.42,
+          "probability": 0.9923509955406189
+        },
+        {
+          "word": " pipes.",
+          "start": 80.42,
+          "end": 81.12,
+          "probability": 0.998354434967041
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 9000,
+      "start": 90.0,
+      "end": 93.9,
+      "text": " In his altered circadian rhythm.",
+      "tokens": [
+        50364,
+        682,
+        702,
+        28783,
+        3510,
+        42985,
+        11801,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3017080028851827,
+      "compression_ratio": 1.1590909090909092,
+      "no_speech_prob": 0.024912703782320023,
+      "words": [
+        {
+          "word": " In",
+          "start": 90.0,
+          "end": 91.04,
+          "probability": 0.21855244040489197
+        },
+        {
+          "word": " his",
+          "start": 91.04,
+          "end": 91.26,
+          "probability": 0.9101305603981018
+        },
+        {
+          "word": " altered",
+          "start": 91.26,
+          "end": 91.88,
+          "probability": 0.9393641948699951
+        },
+        {
+          "word": " circadian",
+          "start": 91.88,
+          "end": 92.84,
+          "probability": 0.9284557700157166
+        },
+        {
+          "word": " rhythm.",
+          "start": 92.84,
+          "end": 93.9,
+          "probability": 0.9837613701820374
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 9000,
+      "start": 96.9,
+      "end": 103.38,
+      "text": " He prepares this property for another day of tomorrow's interactions.",
+      "tokens": [
+        50664,
+        634,
+        39418,
+        341,
+        4707,
+        337,
+        1071,
+        786,
+        295,
+        4153,
+        311,
+        13280,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3017080028851827,
+      "compression_ratio": 1.1590909090909092,
+      "no_speech_prob": 0.024912703782320023,
+      "words": [
+        {
+          "word": " He",
+          "start": 96.9,
+          "end": 97.2,
+          "probability": 0.9553857445716858
+        },
+        {
+          "word": " prepares",
+          "start": 97.2,
+          "end": 97.8,
+          "probability": 0.991898775100708
+        },
+        {
+          "word": " this",
+          "start": 97.8,
+          "end": 98.44,
+          "probability": 0.9771692156791687
+        },
+        {
+          "word": " property",
+          "start": 98.44,
+          "end": 99.02,
+          "probability": 0.982884407043457
+        },
+        {
+          "word": " for",
+          "start": 99.02,
+          "end": 99.66,
+          "probability": 0.9746018052101135
+        },
+        {
+          "word": " another",
+          "start": 99.66,
+          "end": 100.08,
+          "probability": 0.9915598034858704
+        },
+        {
+          "word": " day",
+          "start": 100.08,
+          "end": 100.76,
+          "probability": 0.9952242374420166
+        },
+        {
+          "word": " of",
+          "start": 100.76,
+          "end": 101.2,
+          "probability": 0.9898238778114319
+        },
+        {
+          "word": " tomorrow's",
+          "start": 101.2,
+          "end": 102.52,
+          "probability": 0.9181498885154724
+        },
+        {
+          "word": " interactions.",
+          "start": 102.52,
+          "end": 103.38,
+          "probability": 0.9798254370689392
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

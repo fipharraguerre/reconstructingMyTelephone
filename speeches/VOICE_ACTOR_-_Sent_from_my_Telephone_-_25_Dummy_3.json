@@ -1,0 +1,585 @@
+{
+  "text": " destroyed Dark snake at the idea You told me what to do I dreamt of what they knew What they knew My friends were right What they knew What to do What to do What to do What to do What to do",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 30.759999999999998,
+      "end": 32.16,
+      "text": " destroyed",
+      "tokens": [
+        50364,
+        8937,
+        50477
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.045530046735491,
+      "compression_ratio": 0.8490566037735849,
+      "no_speech_prob": 0.13129031658172607,
+      "words": [
+        {
+          "word": " destroyed",
+          "start": 30.759999999999998,
+          "end": 32.16,
+          "probability": 4.129824446863495e-05
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 37.36,
+      "end": 38.76,
+      "text": " Dark",
+      "tokens": [
+        50605,
+        9563,
+        50779
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.045530046735491,
+      "compression_ratio": 0.8490566037735849,
+      "no_speech_prob": 0.13129031658172607,
+      "words": [
+        {
+          "word": " Dark",
+          "start": 37.36,
+          "end": 38.76,
+          "probability": 2.9163968065404333e-05
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 38.76,
+      "end": 38.76,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -5.045530046735491,
+      "compression_ratio": 0.8490566037735849,
+      "no_speech_prob": 0.13129031658172607,
+      "words": []
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 38.76,
+      "end": 38.76,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -5.045530046735491,
+      "compression_ratio": 0.8490566037735849,
+      "no_speech_prob": 0.13129031658172607,
+      "words": []
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 43.7,
+      "end": 45.1,
+      "text": " snake",
+      "tokens": [
+        51379,
+        12650,
+        51515
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.045530046735491,
+      "compression_ratio": 0.8490566037735849,
+      "no_speech_prob": 0.13129031658172607,
+      "words": [
+        {
+          "word": " snake",
+          "start": 43.7,
+          "end": 45.1,
+          "probability": 3.742181434063241e-05
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 45.1,
+      "end": 53.86,
+      "text": " at the idea",
+      "tokens": [
+        51681,
+        412,
+        264,
+        1558,
+        51860
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.045530046735491,
+      "compression_ratio": 0.8490566037735849,
+      "no_speech_prob": 0.13129031658172607,
+      "words": [
+        {
+          "word": " at",
+          "start": 45.1,
+          "end": 46.52,
+          "probability": 0.0009460418368689716
+        },
+        {
+          "word": " the",
+          "start": 46.52,
+          "end": 53.84,
+          "probability": 0.20157097280025482
+        },
+        {
+          "word": " idea",
+          "start": 53.84,
+          "end": 53.86,
+          "probability": 0.0001778517762431875
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 6000,
+      "start": 60.92,
+      "end": 66.06,
+      "text": " You told me what to do",
+      "tokens": [
+        50364,
+        509,
+        1907,
+        385,
+        437,
+        281,
+        360,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43736791610717773,
+      "compression_ratio": 1.178082191780822,
+      "no_speech_prob": 0.3511165976524353,
+      "words": [
+        {
+          "word": " You",
+          "start": 60.92,
+          "end": 62.32,
+          "probability": 0.1253964900970459
+        },
+        {
+          "word": " told",
+          "start": 62.32,
+          "end": 62.92,
+          "probability": 0.9023944139480591
+        },
+        {
+          "word": " me",
+          "start": 62.92,
+          "end": 63.68,
+          "probability": 0.9913888573646545
+        },
+        {
+          "word": " what",
+          "start": 63.68,
+          "end": 64.18,
+          "probability": 0.9104918241500854
+        },
+        {
+          "word": " to",
+          "start": 64.18,
+          "end": 66.06,
+          "probability": 0.9889488220214844
+        },
+        {
+          "word": " do",
+          "start": 66.06,
+          "end": 66.06,
+          "probability": 0.9884782433509827
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6000,
+      "start": 66.06,
+      "end": 72.0,
+      "text": " I dreamt of what they knew",
+      "tokens": [
+        50614,
+        286,
+        3055,
+        83,
+        295,
+        437,
+        436,
+        2586,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43736791610717773,
+      "compression_ratio": 1.178082191780822,
+      "no_speech_prob": 0.3511165976524353,
+      "words": [
+        {
+          "word": " I",
+          "start": 66.06,
+          "end": 67.74,
+          "probability": 0.7259293794631958
+        },
+        {
+          "word": " dreamt",
+          "start": 67.74,
+          "end": 68.8,
+          "probability": 0.6792556047439575
+        },
+        {
+          "word": " of",
+          "start": 68.8,
+          "end": 69.26,
+          "probability": 0.7704381942749023
+        },
+        {
+          "word": " what",
+          "start": 69.26,
+          "end": 70.22,
+          "probability": 0.47425606846809387
+        },
+        {
+          "word": " they",
+          "start": 70.22,
+          "end": 71.12,
+          "probability": 0.2584701180458069
+        },
+        {
+          "word": " knew",
+          "start": 71.12,
+          "end": 72.0,
+          "probability": 0.5969085097312927
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6000,
+      "start": 74.19999999999999,
+      "end": 77.0,
+      "text": " What they knew",
+      "tokens": [
+        50964,
+        708,
+        436,
+        2586,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43736791610717773,
+      "compression_ratio": 1.178082191780822,
+      "no_speech_prob": 0.3511165976524353,
+      "words": [
+        {
+          "word": " What",
+          "start": 74.19999999999999,
+          "end": 75.6,
+          "probability": 0.760050892829895
+        },
+        {
+          "word": " they",
+          "start": 75.6,
+          "end": 76.44,
+          "probability": 0.8686903119087219
+        },
+        {
+          "word": " knew",
+          "start": 76.44,
+          "end": 77.14,
+          "probability": 0.9940952062606812
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 6000,
+      "start": 83.3,
+      "end": 88.06,
+      "text": " My friends were right",
+      "tokens": [
+        51514,
+        1222,
+        1855,
+        645,
+        558,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43736791610717773,
+      "compression_ratio": 1.178082191780822,
+      "no_speech_prob": 0.3511165976524353,
+      "words": [
+        {
+          "word": " My",
+          "start": 83.3,
+          "end": 84.7,
+          "probability": 0.6413617730140686
+        },
+        {
+          "word": " friends",
+          "start": 84.7,
+          "end": 85.7,
+          "probability": 0.916863203048706
+        },
+        {
+          "word": " were",
+          "start": 85.7,
+          "end": 86.66,
+          "probability": 0.350647896528244
+        },
+        {
+          "word": " right",
+          "start": 86.66,
+          "end": 88.06,
+          "probability": 0.6675420999526978
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 8806,
+      "start": 88.06,
+      "end": 92.7,
+      "text": " What they knew",
+      "tokens": [
+        50364,
+        708,
+        436,
+        2586,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42418164014816284,
+      "compression_ratio": 1.1612903225806452,
+      "no_speech_prob": 0.007764160633087158,
+      "words": [
+        {
+          "word": " What",
+          "start": 88.06,
+          "end": 90.24,
+          "probability": 0.03255762159824371
+        },
+        {
+          "word": " they",
+          "start": 90.24,
+          "end": 91.24,
+          "probability": 0.001343737356364727
+        },
+        {
+          "word": " knew",
+          "start": 91.24,
+          "end": 92.7,
+          "probability": 0.001224837964400649
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 8806,
+      "start": 96.19999999999999,
+      "end": 99.9,
+      "text": " What to do",
+      "tokens": [
+        50764,
+        708,
+        281,
+        360,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42418164014816284,
+      "compression_ratio": 1.1612903225806452,
+      "no_speech_prob": 0.007764160633087158,
+      "words": [
+        {
+          "word": " What",
+          "start": 96.19999999999999,
+          "end": 97.6,
+          "probability": 0.21071678400039673
+        },
+        {
+          "word": " to",
+          "start": 97.6,
+          "end": 98.34,
+          "probability": 0.014876696281135082
+        },
+        {
+          "word": " do",
+          "start": 98.34,
+          "end": 99.9,
+          "probability": 0.8957299590110779
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 8806,
+      "start": 101.06,
+      "end": 105.08,
+      "text": " What to do",
+      "tokens": [
+        51014,
+        708,
+        281,
+        360,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42418164014816284,
+      "compression_ratio": 1.1612903225806452,
+      "no_speech_prob": 0.007764160633087158,
+      "words": [
+        {
+          "word": " What",
+          "start": 101.06,
+          "end": 102.64,
+          "probability": 0.8733639121055603
+        },
+        {
+          "word": " to",
+          "start": 102.64,
+          "end": 103.28,
+          "probability": 0.9625222086906433
+        },
+        {
+          "word": " do",
+          "start": 103.28,
+          "end": 105.08,
+          "probability": 0.9988654851913452
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 11806,
+      "start": 122.35999999999999,
+      "end": 125.16,
+      "text": " What to do",
+      "tokens": [
+        50414,
+        708,
+        281,
+        360,
+        50664
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.6745551427205404,
+      "compression_ratio": 1.9545454545454546,
+      "no_speech_prob": 0.5344892144203186,
+      "words": [
+        {
+          "word": " What",
+          "start": 122.35999999999999,
+          "end": 123.75999999999999,
+          "probability": 0.0016047420212998986
+        },
+        {
+          "word": " to",
+          "start": 123.75999999999999,
+          "end": 125.16,
+          "probability": 0.010349166579544544
+        },
+        {
+          "word": " do",
+          "start": 125.16,
+          "end": 125.16,
+          "probability": 0.49578753113746643
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 11806,
+      "start": 125.16,
+      "end": 125.16,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.4,
+      "avg_logprob": -0.6745551427205404,
+      "compression_ratio": 1.9545454545454546,
+      "no_speech_prob": 0.5344892144203186,
+      "words": []
+    },
+    {
+      "id": 15,
+      "seek": 11806,
+      "start": 125.16,
+      "end": 126.66,
+      "text": " What to do",
+      "tokens": [
+        51114,
+        708,
+        281,
+        360,
+        51364
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.6745551427205404,
+      "compression_ratio": 1.9545454545454546,
+      "no_speech_prob": 0.5344892144203186,
+      "words": [
+        {
+          "word": " What",
+          "start": 125.16,
+          "end": 125.24,
+          "probability": 0.5518369078636169
+        },
+        {
+          "word": " to",
+          "start": 125.24,
+          "end": 126.66,
+          "probability": 0.9637681245803833
+        },
+        {
+          "word": " do",
+          "start": 126.66,
+          "end": 126.66,
+          "probability": 0.9930062294006348
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 11806,
+      "start": 134.35999999999999,
+      "end": 137.16,
+      "text": " What to do",
+      "tokens": [
+        51414,
+        708,
+        281,
+        360,
+        51664
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.6745551427205404,
+      "compression_ratio": 1.9545454545454546,
+      "no_speech_prob": 0.5344892144203186,
+      "words": [
+        {
+          "word": " What",
+          "start": 134.35999999999999,
+          "end": 135.76,
+          "probability": 0.8608645796775818
+        },
+        {
+          "word": " to",
+          "start": 135.76,
+          "end": 137.16,
+          "probability": 0.9775032997131348
+        },
+        {
+          "word": " do",
+          "start": 137.16,
+          "end": 137.16,
+          "probability": 0.9949251413345337
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

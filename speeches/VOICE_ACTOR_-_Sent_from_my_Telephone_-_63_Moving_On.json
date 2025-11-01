@@ -1,0 +1,202 @@
+{
+  "text": " It's the change of the world When I know it is mine The change of the world When I know it is mine",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 32.42,
+      "end": 40.82,
+      "text": " It's the change of the world When I know it is mine",
+      "tokens": [
+        50364,
+        467,
+        311,
+        264,
+        1319,
+        295,
+        264,
+        1002,
+        1133,
+        286,
+        458,
+        309,
+        307,
+        3892,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5266192555427551,
+      "compression_ratio": 0.9272727272727272,
+      "no_speech_prob": 0.736378014087677,
+      "words": [
+        {
+          "word": " It's",
+          "start": 32.42,
+          "end": 33.4,
+          "probability": 0.7466422021389008
+        },
+        {
+          "word": " the",
+          "start": 33.4,
+          "end": 33.64,
+          "probability": 0.8833656311035156
+        },
+        {
+          "word": " change",
+          "start": 33.64,
+          "end": 34.08,
+          "probability": 0.7559738755226135
+        },
+        {
+          "word": " of",
+          "start": 34.08,
+          "end": 34.58,
+          "probability": 0.9886637330055237
+        },
+        {
+          "word": " the",
+          "start": 34.58,
+          "end": 35.0,
+          "probability": 0.5836219191551208
+        },
+        {
+          "word": " world",
+          "start": 35.0,
+          "end": 37.0,
+          "probability": 0.7132059335708618
+        },
+        {
+          "word": " When",
+          "start": 37.0,
+          "end": 38.1,
+          "probability": 0.525871217250824
+        },
+        {
+          "word": " I",
+          "start": 38.1,
+          "end": 38.58,
+          "probability": 0.978114128112793
+        },
+        {
+          "word": " know",
+          "start": 38.58,
+          "end": 39.0,
+          "probability": 0.9595434665679932
+        },
+        {
+          "word": " it",
+          "start": 39.0,
+          "end": 39.66,
+          "probability": 0.9051056504249573
+        },
+        {
+          "word": " is",
+          "start": 39.66,
+          "end": 40.12,
+          "probability": 0.8085897564888
+        },
+        {
+          "word": " mine",
+          "start": 40.12,
+          "end": 40.82,
+          "probability": 0.2912416458129883
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 6000,
+      "start": 60.0,
+      "end": 79.98,
+      "text": " The change of the world When I know it is mine",
+      "tokens": [
+        50364,
+        440,
+        1319,
+        295,
+        264,
+        1002,
+        1133,
+        286,
+        458,
+        309,
+        307,
+        3892,
+        51314
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.6242466654096331,
+      "compression_ratio": 0.8846153846153846,
+      "no_speech_prob": 0.6620579361915588,
+      "words": [
+        {
+          "word": " The",
+          "start": 60.0,
+          "end": 60.58,
+          "probability": 0.0029512085020542145
+        },
+        {
+          "word": " change",
+          "start": 60.58,
+          "end": 60.9,
+          "probability": 0.00024277615011669695
+        },
+        {
+          "word": " of",
+          "start": 60.9,
+          "end": 76.24,
+          "probability": 0.12517428398132324
+        },
+        {
+          "word": " the",
+          "start": 76.24,
+          "end": 76.3,
+          "probability": 0.11968526244163513
+        },
+        {
+          "word": " world",
+          "start": 76.3,
+          "end": 76.32,
+          "probability": 0.11667194217443466
+        },
+        {
+          "word": " When",
+          "start": 76.32,
+          "end": 76.94,
+          "probability": 0.000334407901391387
+        },
+        {
+          "word": " I",
+          "start": 76.94,
+          "end": 79.98,
+          "probability": 0.1151118129491806
+        },
+        {
+          "word": " know",
+          "start": 79.98,
+          "end": 79.98,
+          "probability": 0.003492355579510331
+        },
+        {
+          "word": " it",
+          "start": 79.98,
+          "end": 79.98,
+          "probability": 0.07074140757322311
+        },
+        {
+          "word": " is",
+          "start": 79.98,
+          "end": 79.98,
+          "probability": 0.044466257095336914
+        },
+        {
+          "word": " mine",
+          "start": 79.98,
+          "end": 79.98,
+          "probability": 0.021453408524394035
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,1943 @@
+{
+  "text": " You are not thinking. You don't think of anything. You are thinking alone. You are not thinking alone. You feel uninhibited. Your thoughts are free. Even as I say that, I insinuate myself into your heart. You have thoughts in the back of your mind. Even as I say that, I insinuate myself into the thoughts in the back of your mind. You are thinking alone. You are hearing. Your thoughts are following in the tracks of my thoughts. Your thoughts are not following in the tracks of my thoughts. You are not thinking. Your thoughts are not free. You feel inhibited. You are sharing no experience. You are not sharing. You are not following suit. You are experiencing no intrigues here. You are experiencing nothing. You are not imagining anything. You don't have to imagine anything. You need no prerequisites. You don't need to know that this is a stage. You need no expectations. You need not lean back expectantly. You don't need to know that this is only playing. I make up no stories. You are not following events. You are not playing alone. You are being played with here.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 14.060000000000002,
+      "end": 16.84,
+      "text": " You are not thinking.",
+      "tokens": [
+        50364,
+        509,
+        366,
+        406,
+        1953,
+        13,
+        51324
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.5795306015014648,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.45557811856269836,
+      "words": [
+        {
+          "word": " You",
+          "start": 14.060000000000002,
+          "end": 15.16,
+          "probability": 0.4806818664073944
+        },
+        {
+          "word": " are",
+          "start": 15.16,
+          "end": 15.66,
+          "probability": 0.653965950012207
+        },
+        {
+          "word": " not",
+          "start": 15.66,
+          "end": 16.2,
+          "probability": 0.9834654331207275
+        },
+        {
+          "word": " thinking.",
+          "start": 16.2,
+          "end": 16.84,
+          "probability": 0.984602689743042
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 18.94,
+      "end": 21.32,
+      "text": " You don't think of anything.",
+      "tokens": [
+        51324,
+        509,
+        500,
+        380,
+        519,
+        295,
+        1340,
+        13,
+        51474
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.5795306015014648,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.45557811856269836,
+      "words": [
+        {
+          "word": " You",
+          "start": 18.94,
+          "end": 19.32,
+          "probability": 0.9901069402694702
+        },
+        {
+          "word": " don't",
+          "start": 19.32,
+          "end": 19.88,
+          "probability": 0.9821053445339203
+        },
+        {
+          "word": " think",
+          "start": 19.88,
+          "end": 20.4,
+          "probability": 0.9965576529502869
+        },
+        {
+          "word": " of",
+          "start": 20.4,
+          "end": 20.84,
+          "probability": 0.7597630620002747
+        },
+        {
+          "word": " anything.",
+          "start": 20.84,
+          "end": 21.32,
+          "probability": 0.9947302341461182
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 22.94,
+      "end": 25.02,
+      "text": " You are thinking alone.",
+      "tokens": [
+        51474,
+        509,
+        366,
+        1953,
+        3312,
+        13,
+        51724
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.5795306015014648,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.45557811856269836,
+      "words": [
+        {
+          "word": " You",
+          "start": 22.94,
+          "end": 23.3,
+          "probability": 0.9906676411628723
+        },
+        {
+          "word": " are",
+          "start": 23.3,
+          "end": 23.6,
+          "probability": 0.7220550179481506
+        },
+        {
+          "word": " thinking",
+          "start": 23.6,
+          "end": 24.4,
+          "probability": 0.9934146404266357
+        },
+        {
+          "word": " alone.",
+          "start": 24.4,
+          "end": 25.02,
+          "probability": 0.9871038794517517
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2502,
+      "start": 25.02,
+      "end": 29.26,
+      "text": " You are not thinking alone.",
+      "tokens": [
+        50364,
+        509,
+        366,
+        406,
+        1953,
+        3312,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.220782961164202,
+      "compression_ratio": 1.2169811320754718,
+      "no_speech_prob": 0.09953294694423676,
+      "words": [
+        {
+          "word": " You",
+          "start": 25.02,
+          "end": 27.02,
+          "probability": 0.7243043780326843
+        },
+        {
+          "word": " are",
+          "start": 27.02,
+          "end": 27.36,
+          "probability": 0.2732989490032196
+        },
+        {
+          "word": " not",
+          "start": 27.36,
+          "end": 27.62,
+          "probability": 0.9788588285446167
+        },
+        {
+          "word": " thinking",
+          "start": 27.62,
+          "end": 28.3,
+          "probability": 0.9592916369438171
+        },
+        {
+          "word": " alone.",
+          "start": 28.3,
+          "end": 29.26,
+          "probability": 0.9826961755752563
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2502,
+      "start": 31.34,
+      "end": 33.98,
+      "text": " You feel uninhibited.",
+      "tokens": [
+        50614,
+        509,
+        841,
+        43456,
+        5455,
+        1226,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.220782961164202,
+      "compression_ratio": 1.2169811320754718,
+      "no_speech_prob": 0.09953294694423676,
+      "words": [
+        {
+          "word": " You",
+          "start": 31.34,
+          "end": 31.6,
+          "probability": 0.9787372350692749
+        },
+        {
+          "word": " feel",
+          "start": 31.6,
+          "end": 32.36,
+          "probability": 0.9912564754486084
+        },
+        {
+          "word": " uninhibited.",
+          "start": 32.36,
+          "end": 33.98,
+          "probability": 0.9908106724421183
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2502,
+      "start": 35.64,
+      "end": 38.14,
+      "text": " Your thoughts are free.",
+      "tokens": [
+        50864,
+        2260,
+        4598,
+        366,
+        1737,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.220782961164202,
+      "compression_ratio": 1.2169811320754718,
+      "no_speech_prob": 0.09953294694423676,
+      "words": [
+        {
+          "word": " Your",
+          "start": 35.64,
+          "end": 36.14,
+          "probability": 0.977850615978241
+        },
+        {
+          "word": " thoughts",
+          "start": 36.14,
+          "end": 36.82,
+          "probability": 0.9954617619514465
+        },
+        {
+          "word": " are",
+          "start": 36.82,
+          "end": 37.56,
+          "probability": 0.9979053735733032
+        },
+        {
+          "word": " free.",
+          "start": 37.56,
+          "end": 38.14,
+          "probability": 0.9976662397384644
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2502,
+      "start": 39.82,
+      "end": 46.86,
+      "text": " Even as I say that, I insinuate myself into your heart.",
+      "tokens": [
+        51064,
+        2754,
+        382,
+        286,
+        584,
+        300,
+        11,
+        286,
+        1028,
+        259,
+        10107,
+        2059,
+        666,
+        428,
+        1917,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.220782961164202,
+      "compression_ratio": 1.2169811320754718,
+      "no_speech_prob": 0.09953294694423676,
+      "words": [
+        {
+          "word": " Even",
+          "start": 39.82,
+          "end": 40.56,
+          "probability": 0.9825992584228516
+        },
+        {
+          "word": " as",
+          "start": 40.56,
+          "end": 41.04,
+          "probability": 0.8278575539588928
+        },
+        {
+          "word": " I",
+          "start": 41.04,
+          "end": 41.5,
+          "probability": 0.9613701105117798
+        },
+        {
+          "word": " say",
+          "start": 41.5,
+          "end": 41.86,
+          "probability": 0.9906203746795654
+        },
+        {
+          "word": " that,",
+          "start": 41.86,
+          "end": 42.52,
+          "probability": 0.9944181442260742
+        },
+        {
+          "word": " I",
+          "start": 42.84,
+          "end": 43.18,
+          "probability": 0.9909260272979736
+        },
+        {
+          "word": " insinuate",
+          "start": 43.18,
+          "end": 43.92,
+          "probability": 0.9677839080492655
+        },
+        {
+          "word": " myself",
+          "start": 43.92,
+          "end": 45.14,
+          "probability": 0.9826227426528931
+        },
+        {
+          "word": " into",
+          "start": 45.14,
+          "end": 45.78,
+          "probability": 0.9450071454048157
+        },
+        {
+          "word": " your",
+          "start": 45.78,
+          "end": 46.44,
+          "probability": 0.9975513815879822
+        },
+        {
+          "word": " heart.",
+          "start": 46.44,
+          "end": 46.86,
+          "probability": 0.6569395065307617
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 4686,
+      "start": 48.22,
+      "end": 53.76,
+      "text": " You have thoughts in the back of your mind.",
+      "tokens": [
+        50414,
+        509,
+        362,
+        4598,
+        294,
+        264,
+        646,
+        295,
+        428,
+        1575,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07734947204589844,
+      "compression_ratio": 1.5045045045045045,
+      "no_speech_prob": 0.11662033945322037,
+      "words": [
+        {
+          "word": " You",
+          "start": 48.22,
+          "end": 49.32,
+          "probability": 0.19842058420181274
+        },
+        {
+          "word": " have",
+          "start": 49.32,
+          "end": 49.96,
+          "probability": 0.41828247904777527
+        },
+        {
+          "word": " thoughts",
+          "start": 49.96,
+          "end": 50.78,
+          "probability": 0.9601059556007385
+        },
+        {
+          "word": " in",
+          "start": 50.78,
+          "end": 51.3,
+          "probability": 0.9779232740402222
+        },
+        {
+          "word": " the",
+          "start": 51.3,
+          "end": 51.54,
+          "probability": 0.9904245734214783
+        },
+        {
+          "word": " back",
+          "start": 51.54,
+          "end": 52.12,
+          "probability": 0.9969156980514526
+        },
+        {
+          "word": " of",
+          "start": 52.12,
+          "end": 52.56,
+          "probability": 0.9908554553985596
+        },
+        {
+          "word": " your",
+          "start": 52.56,
+          "end": 52.88,
+          "probability": 0.9919301867485046
+        },
+        {
+          "word": " mind.",
+          "start": 52.88,
+          "end": 53.76,
+          "probability": 0.9971913695335388
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 4686,
+      "start": 55.28,
+      "end": 65.64,
+      "text": " Even as I say that, I insinuate myself into the thoughts in the back of your mind.",
+      "tokens": [
+        50714,
+        2754,
+        382,
+        286,
+        584,
+        300,
+        11,
+        286,
+        1028,
+        259,
+        10107,
+        2059,
+        666,
+        264,
+        4598,
+        294,
+        264,
+        646,
+        295,
+        428,
+        1575,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07734947204589844,
+      "compression_ratio": 1.5045045045045045,
+      "no_speech_prob": 0.11662033945322037,
+      "words": [
+        {
+          "word": " Even",
+          "start": 55.28,
+          "end": 56.0,
+          "probability": 0.9102016091346741
+        },
+        {
+          "word": " as",
+          "start": 56.0,
+          "end": 56.42,
+          "probability": 0.847518265247345
+        },
+        {
+          "word": " I",
+          "start": 56.42,
+          "end": 56.7,
+          "probability": 0.3584505617618561
+        },
+        {
+          "word": " say",
+          "start": 56.7,
+          "end": 57.2,
+          "probability": 0.9897080659866333
+        },
+        {
+          "word": " that,",
+          "start": 57.2,
+          "end": 57.88,
+          "probability": 0.9940926432609558
+        },
+        {
+          "word": " I",
+          "start": 58.26,
+          "end": 58.68,
+          "probability": 0.9888532161712646
+        },
+        {
+          "word": " insinuate",
+          "start": 58.68,
+          "end": 59.58,
+          "probability": 0.679460975031058
+        },
+        {
+          "word": " myself",
+          "start": 59.58,
+          "end": 60.7,
+          "probability": 0.954315721988678
+        },
+        {
+          "word": " into",
+          "start": 60.7,
+          "end": 62.08,
+          "probability": 0.9179233908653259
+        },
+        {
+          "word": " the",
+          "start": 62.08,
+          "end": 62.56,
+          "probability": 0.9690389633178711
+        },
+        {
+          "word": " thoughts",
+          "start": 62.56,
+          "end": 63.3,
+          "probability": 0.9945529103279114
+        },
+        {
+          "word": " in",
+          "start": 63.3,
+          "end": 63.8,
+          "probability": 0.9675186276435852
+        },
+        {
+          "word": " the",
+          "start": 63.8,
+          "end": 64.02,
+          "probability": 0.9906816482543945
+        },
+        {
+          "word": " back",
+          "start": 64.02,
+          "end": 64.34,
+          "probability": 0.9983308911323547
+        },
+        {
+          "word": " of",
+          "start": 64.34,
+          "end": 64.66,
+          "probability": 0.9914022088050842
+        },
+        {
+          "word": " your",
+          "start": 64.66,
+          "end": 64.96,
+          "probability": 0.9923345446586609
+        },
+        {
+          "word": " mind.",
+          "start": 64.96,
+          "end": 65.64,
+          "probability": 0.998521625995636
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 4686,
+      "start": 66.82,
+      "end": 68.84,
+      "text": " You are thinking alone.",
+      "tokens": [
+        51314,
+        509,
+        366,
+        1953,
+        3312,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07734947204589844,
+      "compression_ratio": 1.5045045045045045,
+      "no_speech_prob": 0.11662033945322037,
+      "words": [
+        {
+          "word": " You",
+          "start": 66.82,
+          "end": 67.18,
+          "probability": 0.9733371734619141
+        },
+        {
+          "word": " are",
+          "start": 67.18,
+          "end": 67.48,
+          "probability": 0.9108201265335083
+        },
+        {
+          "word": " thinking",
+          "start": 67.48,
+          "end": 68.02,
+          "probability": 0.9943467974662781
+        },
+        {
+          "word": " alone.",
+          "start": 68.02,
+          "end": 68.84,
+          "probability": 0.32222363352775574
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 4686,
+      "start": 69.9,
+      "end": 71.42,
+      "text": " You are hearing.",
+      "tokens": [
+        51464,
+        509,
+        366,
+        4763,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07734947204589844,
+      "compression_ratio": 1.5045045045045045,
+      "no_speech_prob": 0.11662033945322037,
+      "words": [
+        {
+          "word": " You",
+          "start": 69.9,
+          "end": 70.46,
+          "probability": 0.9880577325820923
+        },
+        {
+          "word": " are",
+          "start": 70.46,
+          "end": 70.86,
+          "probability": 0.9839122891426086
+        },
+        {
+          "word": " hearing.",
+          "start": 70.86,
+          "end": 71.42,
+          "probability": 0.9974449872970581
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 7142,
+      "start": 72.42,
+      "end": 78.48,
+      "text": " Your thoughts are following in the tracks of my thoughts.",
+      "tokens": [
+        50414,
+        2260,
+        4598,
+        366,
+        3480,
+        294,
+        264,
+        10218,
+        295,
+        452,
+        4598,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11868276379325172,
+      "compression_ratio": 2.0864197530864197,
+      "no_speech_prob": 0.19587238132953644,
+      "words": [
+        {
+          "word": " Your",
+          "start": 72.42,
+          "end": 73.46,
+          "probability": 0.528043806552887
+        },
+        {
+          "word": " thoughts",
+          "start": 73.46,
+          "end": 74.12,
+          "probability": 0.9961580634117126
+        },
+        {
+          "word": " are",
+          "start": 74.12,
+          "end": 74.6,
+          "probability": 0.9786948561668396
+        },
+        {
+          "word": " following",
+          "start": 74.6,
+          "end": 75.2,
+          "probability": 0.6950812339782715
+        },
+        {
+          "word": " in",
+          "start": 75.2,
+          "end": 75.96,
+          "probability": 0.9467218518257141
+        },
+        {
+          "word": " the",
+          "start": 75.96,
+          "end": 76.12,
+          "probability": 0.9945223331451416
+        },
+        {
+          "word": " tracks",
+          "start": 76.12,
+          "end": 76.66,
+          "probability": 0.7877681255340576
+        },
+        {
+          "word": " of",
+          "start": 76.66,
+          "end": 77.24,
+          "probability": 0.9930417537689209
+        },
+        {
+          "word": " my",
+          "start": 77.24,
+          "end": 77.68,
+          "probability": 0.989468514919281
+        },
+        {
+          "word": " thoughts.",
+          "start": 77.68,
+          "end": 78.48,
+          "probability": 0.9984051585197449
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7142,
+      "start": 81.0,
+      "end": 87.26,
+      "text": " Your thoughts are not following in the tracks of my thoughts.",
+      "tokens": [
+        50764,
+        2260,
+        4598,
+        366,
+        406,
+        3480,
+        294,
+        264,
+        10218,
+        295,
+        452,
+        4598,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11868276379325172,
+      "compression_ratio": 2.0864197530864197,
+      "no_speech_prob": 0.19587238132953644,
+      "words": [
+        {
+          "word": " Your",
+          "start": 81.0,
+          "end": 81.48,
+          "probability": 0.8673866987228394
+        },
+        {
+          "word": " thoughts",
+          "start": 81.48,
+          "end": 82.3,
+          "probability": 0.9994027614593506
+        },
+        {
+          "word": " are",
+          "start": 82.3,
+          "end": 82.8,
+          "probability": 0.9859092831611633
+        },
+        {
+          "word": " not",
+          "start": 82.8,
+          "end": 83.2,
+          "probability": 0.9929109215736389
+        },
+        {
+          "word": " following",
+          "start": 83.2,
+          "end": 83.8,
+          "probability": 0.9962249994277954
+        },
+        {
+          "word": " in",
+          "start": 83.8,
+          "end": 84.42,
+          "probability": 0.9937068819999695
+        },
+        {
+          "word": " the",
+          "start": 84.42,
+          "end": 84.82,
+          "probability": 0.9976917505264282
+        },
+        {
+          "word": " tracks",
+          "start": 84.82,
+          "end": 85.64,
+          "probability": 0.993377149105072
+        },
+        {
+          "word": " of",
+          "start": 85.64,
+          "end": 86.1,
+          "probability": 0.9977107048034668
+        },
+        {
+          "word": " my",
+          "start": 86.1,
+          "end": 86.54,
+          "probability": 0.9978421926498413
+        },
+        {
+          "word": " thoughts.",
+          "start": 86.54,
+          "end": 87.26,
+          "probability": 0.9994750618934631
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7142,
+      "start": 89.2,
+      "end": 91.14,
+      "text": " You are not thinking.",
+      "tokens": [
+        51214,
+        509,
+        366,
+        406,
+        1953,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11868276379325172,
+      "compression_ratio": 2.0864197530864197,
+      "no_speech_prob": 0.19587238132953644,
+      "words": [
+        {
+          "word": " You",
+          "start": 89.2,
+          "end": 89.68,
+          "probability": 0.9695532917976379
+        },
+        {
+          "word": " are",
+          "start": 89.68,
+          "end": 90.06,
+          "probability": 0.9813185334205627
+        },
+        {
+          "word": " not",
+          "start": 90.06,
+          "end": 90.46,
+          "probability": 0.997589111328125
+        },
+        {
+          "word": " thinking.",
+          "start": 90.46,
+          "end": 91.14,
+          "probability": 0.9938619136810303
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 7142,
+      "start": 93.28,
+      "end": 96.56,
+      "text": " Your thoughts are not free.",
+      "tokens": [
+        51414,
+        2260,
+        4598,
+        366,
+        406,
+        1737,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11868276379325172,
+      "compression_ratio": 2.0864197530864197,
+      "no_speech_prob": 0.19587238132953644,
+      "words": [
+        {
+          "word": " Your",
+          "start": 93.28,
+          "end": 93.76,
+          "probability": 0.9878182411193848
+        },
+        {
+          "word": " thoughts",
+          "start": 93.76,
+          "end": 94.4,
+          "probability": 0.9995734095573425
+        },
+        {
+          "word": " are",
+          "start": 94.4,
+          "end": 94.86,
+          "probability": 0.9982243180274963
+        },
+        {
+          "word": " not",
+          "start": 94.86,
+          "end": 95.5,
+          "probability": 0.9989171028137207
+        },
+        {
+          "word": " free.",
+          "start": 95.5,
+          "end": 96.56,
+          "probability": 0.9991255402565002
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 9656,
+      "start": 97.56,
+      "end": 100.98,
+      "text": " You feel inhibited.",
+      "tokens": [
+        50414,
+        509,
+        841,
+        20406,
+        1226,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12342799439722178,
+      "compression_ratio": 1.7789473684210526,
+      "no_speech_prob": 0.08675658702850342,
+      "words": [
+        {
+          "word": " You",
+          "start": 97.44,
+          "end": 98.14,
+          "probability": 0.25575798749923706
+        },
+        {
+          "word": " feel",
+          "start": 98.14,
+          "end": 98.72,
+          "probability": 0.2941402792930603
+        },
+        {
+          "word": " inhibited.",
+          "start": 98.72,
+          "end": 100.98,
+          "probability": 0.9180729985237122
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 9656,
+      "start": 102.0,
+      "end": 106.34,
+      "text": " You are sharing no experience.",
+      "tokens": [
+        50614,
+        509,
+        366,
+        5414,
+        572,
+        1752,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12342799439722178,
+      "compression_ratio": 1.7789473684210526,
+      "no_speech_prob": 0.08675658702850342,
+      "words": [
+        {
+          "word": " You",
+          "start": 102.0,
+          "end": 103.18,
+          "probability": 0.97098708152771
+        },
+        {
+          "word": " are",
+          "start": 103.18,
+          "end": 103.62,
+          "probability": 0.9615619778633118
+        },
+        {
+          "word": " sharing",
+          "start": 103.62,
+          "end": 104.22,
+          "probability": 0.9845736622810364
+        },
+        {
+          "word": " no",
+          "start": 104.22,
+          "end": 104.8,
+          "probability": 0.9525430798530579
+        },
+        {
+          "word": " experience.",
+          "start": 104.8,
+          "end": 106.34,
+          "probability": 0.9708396792411804
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 9656,
+      "start": 107.94,
+      "end": 109.6,
+      "text": " You are not sharing.",
+      "tokens": [
+        50864,
+        509,
+        366,
+        406,
+        5414,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12342799439722178,
+      "compression_ratio": 1.7789473684210526,
+      "no_speech_prob": 0.08675658702850342,
+      "words": [
+        {
+          "word": " You",
+          "start": 107.94,
+          "end": 108.08,
+          "probability": 0.9879939556121826
+        },
+        {
+          "word": " are",
+          "start": 108.08,
+          "end": 108.54,
+          "probability": 0.9751265645027161
+        },
+        {
+          "word": " not",
+          "start": 108.54,
+          "end": 109.14,
+          "probability": 0.9905194044113159
+        },
+        {
+          "word": " sharing.",
+          "start": 109.14,
+          "end": 109.6,
+          "probability": 0.9971188306808472
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 9656,
+      "start": 110.9,
+      "end": 113.26,
+      "text": " You are not following suit.",
+      "tokens": [
+        51064,
+        509,
+        366,
+        406,
+        3480,
+        5722,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12342799439722178,
+      "compression_ratio": 1.7789473684210526,
+      "no_speech_prob": 0.08675658702850342,
+      "words": [
+        {
+          "word": " You",
+          "start": 110.9,
+          "end": 111.24,
+          "probability": 0.9953222870826721
+        },
+        {
+          "word": " are",
+          "start": 111.24,
+          "end": 111.5,
+          "probability": 0.9707089066505432
+        },
+        {
+          "word": " not",
+          "start": 111.5,
+          "end": 111.98,
+          "probability": 0.9963578581809998
+        },
+        {
+          "word": " following",
+          "start": 111.98,
+          "end": 112.66,
+          "probability": 0.9961549639701843
+        },
+        {
+          "word": " suit.",
+          "start": 112.66,
+          "end": 113.26,
+          "probability": 0.9888976216316223
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 9656,
+      "start": 114.88,
+      "end": 119.54,
+      "text": " You are experiencing no intrigues here.",
+      "tokens": [
+        51264,
+        509,
+        366,
+        11139,
+        572,
+        17934,
+        1247,
+        510,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12342799439722178,
+      "compression_ratio": 1.7789473684210526,
+      "no_speech_prob": 0.08675658702850342,
+      "words": [
+        {
+          "word": " You",
+          "start": 114.88,
+          "end": 115.18,
+          "probability": 0.9953256845474243
+        },
+        {
+          "word": " are",
+          "start": 115.18,
+          "end": 115.98,
+          "probability": 0.9926794767379761
+        },
+        {
+          "word": " experiencing",
+          "start": 115.98,
+          "end": 117.0,
+          "probability": 0.9925442934036255
+        },
+        {
+          "word": " no",
+          "start": 117.0,
+          "end": 117.86,
+          "probability": 0.9866407513618469
+        },
+        {
+          "word": " intrigues",
+          "start": 117.86,
+          "end": 118.84,
+          "probability": 0.760599821805954
+        },
+        {
+          "word": " here.",
+          "start": 118.84,
+          "end": 119.54,
+          "probability": 0.965055525302887
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 9656,
+      "start": 120.76,
+      "end": 123.82,
+      "text": " You are experiencing nothing.",
+      "tokens": [
+        51564,
+        509,
+        366,
+        11139,
+        1825,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12342799439722178,
+      "compression_ratio": 1.7789473684210526,
+      "no_speech_prob": 0.08675658702850342,
+      "words": [
+        {
+          "word": " You",
+          "start": 120.76,
+          "end": 121.36,
+          "probability": 0.9958666563034058
+        },
+        {
+          "word": " are",
+          "start": 121.36,
+          "end": 121.94,
+          "probability": 0.9850393533706665
+        },
+        {
+          "word": " experiencing",
+          "start": 121.94,
+          "end": 123.02,
+          "probability": 0.9976551532745361
+        },
+        {
+          "word": " nothing.",
+          "start": 123.02,
+          "end": 123.82,
+          "probability": 0.9877008199691772
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 12382,
+      "start": 125.38,
+      "end": 129.52,
+      "text": " You are not imagining anything.",
+      "tokens": [
+        50414,
+        509,
+        366,
+        406,
+        27798,
+        1340,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09421284675598145,
+      "compression_ratio": 1.5277777777777777,
+      "no_speech_prob": 0.05578787997364998,
+      "words": [
+        {
+          "word": " You",
+          "start": 125.38,
+          "end": 126.38,
+          "probability": 0.3221951425075531
+        },
+        {
+          "word": " are",
+          "start": 126.38,
+          "end": 126.78,
+          "probability": 0.31222042441368103
+        },
+        {
+          "word": " not",
+          "start": 126.78,
+          "end": 127.08,
+          "probability": 0.9812398552894592
+        },
+        {
+          "word": " imagining",
+          "start": 127.08,
+          "end": 127.94,
+          "probability": 0.9567232728004456
+        },
+        {
+          "word": " anything.",
+          "start": 127.94,
+          "end": 129.52,
+          "probability": 0.9353581666946411
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 12382,
+      "start": 131.62,
+      "end": 135.14,
+      "text": " You don't have to imagine anything.",
+      "tokens": [
+        50664,
+        509,
+        500,
+        380,
+        362,
+        281,
+        3811,
+        1340,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09421284675598145,
+      "compression_ratio": 1.5277777777777777,
+      "no_speech_prob": 0.05578787997364998,
+      "words": [
+        {
+          "word": " You",
+          "start": 131.62,
+          "end": 131.68,
+          "probability": 0.977549135684967
+        },
+        {
+          "word": " don't",
+          "start": 131.68,
+          "end": 132.08,
+          "probability": 0.9698120355606079
+        },
+        {
+          "word": " have",
+          "start": 132.08,
+          "end": 132.58,
+          "probability": 0.9789652228355408
+        },
+        {
+          "word": " to",
+          "start": 132.58,
+          "end": 133.02,
+          "probability": 0.9967508316040039
+        },
+        {
+          "word": " imagine",
+          "start": 133.02,
+          "end": 133.86,
+          "probability": 0.9815199375152588
+        },
+        {
+          "word": " anything.",
+          "start": 133.86,
+          "end": 135.14,
+          "probability": 0.9915592074394226
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 12382,
+      "start": 136.66,
+      "end": 139.86,
+      "text": " You need no prerequisites.",
+      "tokens": [
+        50964,
+        509,
+        643,
+        572,
+        38333,
+        15398,
+        3324,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09421284675598145,
+      "compression_ratio": 1.5277777777777777,
+      "no_speech_prob": 0.05578787997364998,
+      "words": [
+        {
+          "word": " You",
+          "start": 136.66,
+          "end": 137.1,
+          "probability": 0.9826372265815735
+        },
+        {
+          "word": " need",
+          "start": 137.1,
+          "end": 137.58,
+          "probability": 0.9610446691513062
+        },
+        {
+          "word": " no",
+          "start": 137.58,
+          "end": 138.14,
+          "probability": 0.9573090076446533
+        },
+        {
+          "word": " prerequisites.",
+          "start": 138.14,
+          "end": 139.86,
+          "probability": 0.9592136939366659
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 12382,
+      "start": 140.98,
+      "end": 144.96,
+      "text": " You don't need to know that this is a stage.",
+      "tokens": [
+        51164,
+        509,
+        500,
+        380,
+        643,
+        281,
+        458,
+        300,
+        341,
+        307,
+        257,
+        3233,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09421284675598145,
+      "compression_ratio": 1.5277777777777777,
+      "no_speech_prob": 0.05578787997364998,
+      "words": [
+        {
+          "word": " You",
+          "start": 140.98,
+          "end": 141.3,
+          "probability": 0.9913749098777771
+        },
+        {
+          "word": " don't",
+          "start": 141.3,
+          "end": 141.72,
+          "probability": 0.9915955662727356
+        },
+        {
+          "word": " need",
+          "start": 141.72,
+          "end": 142.24,
+          "probability": 0.9807621836662292
+        },
+        {
+          "word": " to",
+          "start": 142.24,
+          "end": 142.5,
+          "probability": 0.9973379969596863
+        },
+        {
+          "word": " know",
+          "start": 142.5,
+          "end": 143.0,
+          "probability": 0.9966088533401489
+        },
+        {
+          "word": " that",
+          "start": 143.0,
+          "end": 143.38,
+          "probability": 0.9580992460250854
+        },
+        {
+          "word": " this",
+          "start": 143.38,
+          "end": 143.76,
+          "probability": 0.9910430908203125
+        },
+        {
+          "word": " is",
+          "start": 143.76,
+          "end": 144.22,
+          "probability": 0.9936716556549072
+        },
+        {
+          "word": " a",
+          "start": 144.22,
+          "end": 144.36,
+          "probability": 0.7562191486358643
+        },
+        {
+          "word": " stage.",
+          "start": 144.36,
+          "end": 144.96,
+          "probability": 0.9965500831604004
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 12382,
+      "start": 146.38,
+      "end": 149.14,
+      "text": " You need no expectations.",
+      "tokens": [
+        51414,
+        509,
+        643,
+        572,
+        9843,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09421284675598145,
+      "compression_ratio": 1.5277777777777777,
+      "no_speech_prob": 0.05578787997364998,
+      "words": [
+        {
+          "word": " You",
+          "start": 146.38,
+          "end": 146.74,
+          "probability": 0.9936904907226562
+        },
+        {
+          "word": " need",
+          "start": 146.74,
+          "end": 147.22,
+          "probability": 0.9973577857017517
+        },
+        {
+          "word": " no",
+          "start": 147.22,
+          "end": 147.78,
+          "probability": 0.9856290221214294
+        },
+        {
+          "word": " expectations.",
+          "start": 147.78,
+          "end": 149.14,
+          "probability": 0.9890382289886475
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 14914,
+      "start": 150.14,
+      "end": 155.04,
+      "text": " You need not lean back expectantly.",
+      "tokens": [
+        50414,
+        509,
+        643,
+        406,
+        11659,
+        646,
+        2066,
+        3627,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09788309097290039,
+      "compression_ratio": 1.4017094017094016,
+      "no_speech_prob": 0.05506149306893349,
+      "words": [
+        {
+          "word": " You",
+          "start": 150.14,
+          "end": 150.98,
+          "probability": 0.30251166224479675
+        },
+        {
+          "word": " need",
+          "start": 150.98,
+          "end": 151.44,
+          "probability": 0.31550222635269165
+        },
+        {
+          "word": " not",
+          "start": 151.44,
+          "end": 152.12,
+          "probability": 0.9452009201049805
+        },
+        {
+          "word": " lean",
+          "start": 152.12,
+          "end": 152.7,
+          "probability": 0.9458870887756348
+        },
+        {
+          "word": " back",
+          "start": 152.7,
+          "end": 153.46,
+          "probability": 0.9903194904327393
+        },
+        {
+          "word": " expectantly.",
+          "start": 153.46,
+          "end": 155.04,
+          "probability": 0.7930310666561127
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 14914,
+      "start": 156.56,
+      "end": 161.18,
+      "text": " You don't need to know that this is only playing.",
+      "tokens": [
+        50664,
+        509,
+        500,
+        380,
+        643,
+        281,
+        458,
+        300,
+        341,
+        307,
+        787,
+        2433,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09788309097290039,
+      "compression_ratio": 1.4017094017094016,
+      "no_speech_prob": 0.05506149306893349,
+      "words": [
+        {
+          "word": " You",
+          "start": 156.56,
+          "end": 156.68,
+          "probability": 0.9586958885192871
+        },
+        {
+          "word": " don't",
+          "start": 156.68,
+          "end": 157.1,
+          "probability": 0.9443227648735046
+        },
+        {
+          "word": " need",
+          "start": 157.1,
+          "end": 157.56,
+          "probability": 0.9971941709518433
+        },
+        {
+          "word": " to",
+          "start": 157.56,
+          "end": 157.84,
+          "probability": 0.996095597743988
+        },
+        {
+          "word": " know",
+          "start": 157.84,
+          "end": 158.24,
+          "probability": 0.994345486164093
+        },
+        {
+          "word": " that",
+          "start": 158.24,
+          "end": 158.82,
+          "probability": 0.8834659457206726
+        },
+        {
+          "word": " this",
+          "start": 158.82,
+          "end": 159.32,
+          "probability": 0.9720495939254761
+        },
+        {
+          "word": " is",
+          "start": 159.32,
+          "end": 159.84,
+          "probability": 0.9932831525802612
+        },
+        {
+          "word": " only",
+          "start": 159.84,
+          "end": 160.36,
+          "probability": 0.9171462059020996
+        },
+        {
+          "word": " playing.",
+          "start": 160.36,
+          "end": 161.18,
+          "probability": 0.7859451770782471
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 14914,
+      "start": 162.8,
+      "end": 166.24,
+      "text": " I make up no stories.",
+      "tokens": [
+        51014,
+        286,
+        652,
+        493,
+        572,
+        3676,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09788309097290039,
+      "compression_ratio": 1.4017094017094016,
+      "no_speech_prob": 0.05506149306893349,
+      "words": [
+        {
+          "word": " I",
+          "start": 162.8,
+          "end": 163.42,
+          "probability": 0.9676748514175415
+        },
+        {
+          "word": " make",
+          "start": 163.42,
+          "end": 164.0,
+          "probability": 0.9770161509513855
+        },
+        {
+          "word": " up",
+          "start": 164.0,
+          "end": 164.64,
+          "probability": 0.9967842102050781
+        },
+        {
+          "word": " no",
+          "start": 164.64,
+          "end": 165.38,
+          "probability": 0.9734751582145691
+        },
+        {
+          "word": " stories.",
+          "start": 165.38,
+          "end": 166.24,
+          "probability": 0.939926266670227
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 14914,
+      "start": 167.5,
+      "end": 170.3,
+      "text": " You are not following events.",
+      "tokens": [
+        51264,
+        509,
+        366,
+        406,
+        3480,
+        3931,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09788309097290039,
+      "compression_ratio": 1.4017094017094016,
+      "no_speech_prob": 0.05506149306893349,
+      "words": [
+        {
+          "word": " You",
+          "start": 167.5,
+          "end": 167.88,
+          "probability": 0.9868956208229065
+        },
+        {
+          "word": " are",
+          "start": 167.88,
+          "end": 168.26,
+          "probability": 0.8875835537910461
+        },
+        {
+          "word": " not",
+          "start": 168.26,
+          "end": 168.72,
+          "probability": 0.9956057667732239
+        },
+        {
+          "word": " following",
+          "start": 168.72,
+          "end": 169.34,
+          "probability": 0.9704421758651733
+        },
+        {
+          "word": " events.",
+          "start": 169.34,
+          "end": 170.3,
+          "probability": 0.7149788737297058
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 14914,
+      "start": 171.86,
+      "end": 174.62,
+      "text": " You are not playing alone.",
+      "tokens": [
+        51464,
+        509,
+        366,
+        406,
+        2433,
+        3312,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09788309097290039,
+      "compression_ratio": 1.4017094017094016,
+      "no_speech_prob": 0.05506149306893349,
+      "words": [
+        {
+          "word": " You",
+          "start": 171.86,
+          "end": 172.1,
+          "probability": 0.9954147338867188
+        },
+        {
+          "word": " are",
+          "start": 172.1,
+          "end": 172.6,
+          "probability": 0.9856858849525452
+        },
+        {
+          "word": " not",
+          "start": 172.6,
+          "end": 173.32,
+          "probability": 0.991904616355896
+        },
+        {
+          "word": " playing",
+          "start": 173.32,
+          "end": 173.92,
+          "probability": 0.9952793121337891
+        },
+        {
+          "word": " alone.",
+          "start": 173.92,
+          "end": 174.62,
+          "probability": 0.7025786638259888
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 17462,
+      "start": 174.62,
+      "end": 180.38,
+      "text": " You are being played with here.",
+      "tokens": [
+        50414,
+        509,
+        366,
+        885,
+        3737,
+        365,
+        510,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11814558506011963,
+      "compression_ratio": 0.7948717948717948,
+      "no_speech_prob": 0.012870014645159245,
+      "words": [
+        {
+          "word": " You",
+          "start": 174.62,
+          "end": 176.52,
+          "probability": 0.786064863204956
+        },
+        {
+          "word": " are",
+          "start": 176.52,
+          "end": 177.2,
+          "probability": 0.8937146663665771
+        },
+        {
+          "word": " being",
+          "start": 177.2,
+          "end": 177.96,
+          "probability": 0.988368570804596
+        },
+        {
+          "word": " played",
+          "start": 177.96,
+          "end": 178.66,
+          "probability": 0.964228630065918
+        },
+        {
+          "word": " with",
+          "start": 178.66,
+          "end": 179.38,
+          "probability": 0.9930179119110107
+        },
+        {
+          "word": " here.",
+          "start": 179.38,
+          "end": 180.38,
+          "probability": 0.9399564266204834
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

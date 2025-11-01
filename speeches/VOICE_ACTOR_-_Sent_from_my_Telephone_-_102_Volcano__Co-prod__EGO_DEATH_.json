@@ -1,0 +1,366 @@
+{
+  "text": " Hello, hello, hi Hello, hello, hi Hello, hello, hi Hello, hello, hi Hello, hello, hi Hello, hello, hi Hello, hello, hi Hello, hello, hi Hello, hello, hi",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 8.459999999999999,
+      "end": 14.56,
+      "text": " Hello, hello, hi",
+      "tokens": [
+        50364,
+        2425,
+        11,
+        7751,
+        11,
+        4879,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.696592754787869,
+      "compression_ratio": 0.8888888888888888,
+      "no_speech_prob": 0.5074025988578796,
+      "words": [
+        {
+          "word": " Hello,",
+          "start": 8.459999999999999,
+          "end": 9.86,
+          "probability": 0.07269980758428574
+        },
+        {
+          "word": " hello,",
+          "start": 9.86,
+          "end": 11.26,
+          "probability": 0.6956721544265747
+        },
+        {
+          "word": " hi",
+          "start": 14.56,
+          "end": 14.56,
+          "probability": 0.8483548164367676
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 1456,
+      "start": 23.6,
+      "end": 30.98,
+      "text": " Hello, hello, hi",
+      "tokens": [
+        50364,
+        2425,
+        11,
+        7751,
+        11,
+        4879,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3830322159661187,
+      "compression_ratio": 0.8888888888888888,
+      "no_speech_prob": 0.6713217496871948,
+      "words": [
+        {
+          "word": " Hello,",
+          "start": 23.6,
+          "end": 25.0,
+          "probability": 0.12440159171819687
+        },
+        {
+          "word": " hello,",
+          "start": 25.0,
+          "end": 26.4,
+          "probability": 0.6676380038261414
+        },
+        {
+          "word": " hi",
+          "start": 30.98,
+          "end": 30.98,
+          "probability": 0.8280571103096008
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3098,
+      "start": 41.260000000000005,
+      "end": 46.78,
+      "text": " Hello, hello, hi",
+      "tokens": [
+        50364,
+        2425,
+        11,
+        7751,
+        11,
+        4879,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.312966956032647,
+      "compression_ratio": 0.8888888888888888,
+      "no_speech_prob": 0.6378529667854309,
+      "words": [
+        {
+          "word": " Hello,",
+          "start": 41.260000000000005,
+          "end": 42.660000000000004,
+          "probability": 0.10247649252414703
+        },
+        {
+          "word": " hello,",
+          "start": 42.660000000000004,
+          "end": 44.06,
+          "probability": 0.7022510766983032
+        },
+        {
+          "word": " hi",
+          "start": 46.78,
+          "end": 46.78,
+          "probability": 0.8254926204681396
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4678,
+      "start": 55.74,
+      "end": 62.94,
+      "text": " Hello, hello, hi",
+      "tokens": [
+        50364,
+        2425,
+        11,
+        7751,
+        11,
+        4879,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2453154722849528,
+      "compression_ratio": 0.8888888888888888,
+      "no_speech_prob": 0.8343966007232666,
+      "words": [
+        {
+          "word": " Hello,",
+          "start": 55.74,
+          "end": 57.14,
+          "probability": 0.14308254420757294
+        },
+        {
+          "word": " hello,",
+          "start": 57.14,
+          "end": 58.54,
+          "probability": 0.730293869972229
+        },
+        {
+          "word": " hi",
+          "start": 62.94,
+          "end": 62.94,
+          "probability": 0.7233243584632874
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 6294,
+      "start": 72.71999999999998,
+      "end": 78.96,
+      "text": " Hello, hello, hi",
+      "tokens": [
+        50364,
+        2425,
+        11,
+        7751,
+        11,
+        4879,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22713928752475315,
+      "compression_ratio": 0.8888888888888888,
+      "no_speech_prob": 0.7050809860229492,
+      "words": [
+        {
+          "word": " Hello,",
+          "start": 72.71999999999998,
+          "end": 74.11999999999999,
+          "probability": 0.11914268136024475
+        },
+        {
+          "word": " hello,",
+          "start": 74.11999999999999,
+          "end": 75.52,
+          "probability": 0.7363218069076538
+        },
+        {
+          "word": " hi",
+          "start": 78.96,
+          "end": 78.96,
+          "probability": 0.7395738959312439
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 7896,
+      "start": 87.85999999999999,
+      "end": 95.06,
+      "text": " Hello, hello, hi",
+      "tokens": [
+        50364,
+        2425,
+        11,
+        7751,
+        11,
+        4879,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17525197399987114,
+      "compression_ratio": 0.8888888888888888,
+      "no_speech_prob": 0.7793779969215393,
+      "words": [
+        {
+          "word": " Hello,",
+          "start": 87.85999999999999,
+          "end": 89.25999999999999,
+          "probability": 0.13417473435401917
+        },
+        {
+          "word": " hello,",
+          "start": 89.25999999999999,
+          "end": 90.66,
+          "probability": 0.6780661344528198
+        },
+        {
+          "word": " hi",
+          "start": 95.06,
+          "end": 95.06,
+          "probability": 0.759056568145752
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 9506,
+      "start": 105.65999999999998,
+      "end": 110.96,
+      "text": " Hello, hello, hi",
+      "tokens": [
+        50364,
+        2425,
+        11,
+        7751,
+        11,
+        4879,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1984901163313124,
+      "compression_ratio": 0.8888888888888888,
+      "no_speech_prob": 0.6843793988227844,
+      "words": [
+        {
+          "word": " Hello,",
+          "start": 105.65999999999998,
+          "end": 107.05999999999999,
+          "probability": 0.11163520812988281
+        },
+        {
+          "word": " hello,",
+          "start": 107.05999999999999,
+          "end": 108.46,
+          "probability": 0.6758854389190674
+        },
+        {
+          "word": " hi",
+          "start": 110.96,
+          "end": 110.96,
+          "probability": 0.8509350419044495
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 11096,
+      "start": 119.83999999999999,
+      "end": 126.76,
+      "text": " Hello, hello, hi",
+      "tokens": [
+        50364,
+        2425,
+        11,
+        7751,
+        11,
+        4879,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23333899676799774,
+      "compression_ratio": 0.8888888888888888,
+      "no_speech_prob": 0.5063316822052002,
+      "words": [
+        {
+          "word": " Hello,",
+          "start": 119.83999999999999,
+          "end": 121.24,
+          "probability": 0.19906660914421082
+        },
+        {
+          "word": " hello,",
+          "start": 121.24,
+          "end": 122.64,
+          "probability": 0.6841946244239807
+        },
+        {
+          "word": " hi",
+          "start": 122.64,
+          "end": 126.76,
+          "probability": 0.9124034643173218
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 14096,
+      "start": 144.48,
+      "end": 147.34,
+      "text": " Hello, hello, hi",
+      "tokens": [
+        50364,
+        2425,
+        11,
+        7751,
+        11,
+        4879,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3932291865348816,
+      "compression_ratio": 0.8888888888888888,
+      "no_speech_prob": 0.9244445562362671,
+      "words": [
+        {
+          "word": " Hello,",
+          "start": 144.48,
+          "end": 145.88,
+          "probability": 0.000484316871734336
+        },
+        {
+          "word": " hello,",
+          "start": 147.3,
+          "end": 147.3,
+          "probability": 0.008030747063457966
+        },
+        {
+          "word": " hi",
+          "start": 147.32,
+          "end": 147.34,
+          "probability": 0.010656098835170269
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

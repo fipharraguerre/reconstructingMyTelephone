@@ -1,0 +1,871 @@
+{
+  "text": " Download the Shitty Film Godfather Part 3 It's called The Shitty Film The title of the film is RGTOUI Thursday, 3rd of September, 9 o'clock, 25th The city of Italy, 13, 14, 15, 25 In the city of Catania, 14, 14, 15, 25 Car rental total, 111, you know, 91 today Provider, Italy car rental Free to feed, learn to feed From Portoballo, Ticago Pax Bocchi Pizza and Cirucule Sado dot dot dot 96-017-0 Thanks to you, I love you",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.04,
+      "text": " Download the Shitty Film Godfather Part 3",
+      "tokens": [
+        50364,
+        32282,
+        264,
+        1160,
+        10016,
+        13801,
+        1265,
+        11541,
+        4100,
+        805,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9006011065314797,
+      "compression_ratio": 1.1983471074380165,
+      "no_speech_prob": 0.7706897258758545,
+      "words": [
+        {
+          "word": " Download",
+          "start": 0.0,
+          "end": 2.28,
+          "probability": 0.006302237510681152
+        },
+        {
+          "word": " the",
+          "start": 2.28,
+          "end": 2.68,
+          "probability": 0.2174305021762848
+        },
+        {
+          "word": " Shitty",
+          "start": 2.68,
+          "end": 3.28,
+          "probability": 0.22955188900232315
+        },
+        {
+          "word": " Film",
+          "start": 3.28,
+          "end": 4.26,
+          "probability": 0.09446901828050613
+        },
+        {
+          "word": " Godfather",
+          "start": 4.26,
+          "end": 5.66,
+          "probability": 0.6021776273846626
+        },
+        {
+          "word": " Part",
+          "start": 5.66,
+          "end": 6.18,
+          "probability": 0.3659919202327728
+        },
+        {
+          "word": " 3",
+          "start": 6.18,
+          "end": 7.04,
+          "probability": 0.6414152383804321
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.04,
+      "end": 9.62,
+      "text": " It's called The Shitty Film",
+      "tokens": [
+        50714,
+        467,
+        311,
+        1219,
+        440,
+        1160,
+        10016,
+        13801,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9006011065314797,
+      "compression_ratio": 1.1983471074380165,
+      "no_speech_prob": 0.7706897258758545,
+      "words": [
+        {
+          "word": " It's",
+          "start": 7.04,
+          "end": 7.8,
+          "probability": 0.43598106503486633
+        },
+        {
+          "word": " called",
+          "start": 7.8,
+          "end": 8.36,
+          "probability": 0.6741322875022888
+        },
+        {
+          "word": " The",
+          "start": 8.36,
+          "end": 9.1,
+          "probability": 0.09413495659828186
+        },
+        {
+          "word": " Shitty",
+          "start": 9.1,
+          "end": 9.62,
+          "probability": 0.5685131549835205
+        },
+        {
+          "word": " Film",
+          "start": 9.62,
+          "end": 9.62,
+          "probability": 0.11478789150714874
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.62,
+      "end": 18.0,
+      "text": " The title of the film is RGTOUI",
+      "tokens": [
+        50864,
+        440,
+        4876,
+        295,
+        264,
+        2007,
+        307,
+        497,
+        38,
+        51,
+        4807,
+        40,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9006011065314797,
+      "compression_ratio": 1.1983471074380165,
+      "no_speech_prob": 0.7706897258758545,
+      "words": [
+        {
+          "word": " The",
+          "start": 9.62,
+          "end": 9.9,
+          "probability": 0.1126309484243393
+        },
+        {
+          "word": " title",
+          "start": 9.9,
+          "end": 12.52,
+          "probability": 0.00038232537917792797
+        },
+        {
+          "word": " of",
+          "start": 12.52,
+          "end": 13.18,
+          "probability": 0.4657515287399292
+        },
+        {
+          "word": " the",
+          "start": 13.18,
+          "end": 13.22,
+          "probability": 0.5154253840446472
+        },
+        {
+          "word": " film",
+          "start": 13.22,
+          "end": 13.58,
+          "probability": 0.2793510854244232
+        },
+        {
+          "word": " is",
+          "start": 13.58,
+          "end": 14.66,
+          "probability": 0.9054808020591736
+        },
+        {
+          "word": " RGTOUI",
+          "start": 14.66,
+          "end": 18.0,
+          "probability": 0.46225045919418334
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 18.9,
+      "end": 27.48,
+      "text": " Thursday, 3rd of September, 9 o'clock, 25th",
+      "tokens": [
+        51264,
+        10383,
+        11,
+        805,
+        7800,
+        295,
+        7216,
+        11,
+        1722,
+        277,
+        6,
+        9023,
+        11,
+        3552,
+        392,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9006011065314797,
+      "compression_ratio": 1.1983471074380165,
+      "no_speech_prob": 0.7706897258758545,
+      "words": [
+        {
+          "word": " Thursday,",
+          "start": 18.9,
+          "end": 20.24,
+          "probability": 0.8723700046539307
+        },
+        {
+          "word": " 3rd",
+          "start": 20.64,
+          "end": 21.0,
+          "probability": 0.8248582184314728
+        },
+        {
+          "word": " of",
+          "start": 21.0,
+          "end": 21.16,
+          "probability": 0.8706859350204468
+        },
+        {
+          "word": " September,",
+          "start": 21.16,
+          "end": 22.74,
+          "probability": 0.9720092415809631
+        },
+        {
+          "word": " 9",
+          "start": 22.76,
+          "end": 24.3,
+          "probability": 0.8902984857559204
+        },
+        {
+          "word": " o",
+          "start": 24.3,
+          "end": 25.4,
+          "probability": 0.6494209170341492
+        },
+        {
+          "word": "'clock,",
+          "start": 25.4,
+          "end": 25.42,
+          "probability": 0.9489061832427979
+        },
+        {
+          "word": " 25th",
+          "start": 25.66,
+          "end": 27.48,
+          "probability": 0.2181282788515091
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2748,
+      "start": 27.48,
+      "end": 36.480000000000004,
+      "text": " The city of Italy, 13, 14, 15, 25",
+      "tokens": [
+        50364,
+        440,
+        2307,
+        295,
+        10705,
+        11,
+        3705,
+        11,
+        3499,
+        11,
+        2119,
+        11,
+        3552,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7051400723664657,
+      "compression_ratio": 1.2391304347826086,
+      "no_speech_prob": 0.10926494002342224,
+      "words": [
+        {
+          "word": " The",
+          "start": 27.48,
+          "end": 27.58,
+          "probability": 0.010693294927477837
+        },
+        {
+          "word": " city",
+          "start": 27.58,
+          "end": 29.56,
+          "probability": 0.009833496063947678
+        },
+        {
+          "word": " of",
+          "start": 29.56,
+          "end": 30.36,
+          "probability": 0.3523791432380676
+        },
+        {
+          "word": " Italy,",
+          "start": 30.36,
+          "end": 31.32,
+          "probability": 0.19364944100379944
+        },
+        {
+          "word": " 13,",
+          "start": 31.44,
+          "end": 32.8,
+          "probability": 0.36785000562667847
+        },
+        {
+          "word": " 14,",
+          "start": 32.8,
+          "end": 33.92,
+          "probability": 0.9311842918395996
+        },
+        {
+          "word": " 15,",
+          "start": 34.52,
+          "end": 35.32,
+          "probability": 0.9896519780158997
+        },
+        {
+          "word": " 25",
+          "start": 35.6,
+          "end": 36.480000000000004,
+          "probability": 0.9434447884559631
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2748,
+      "start": 37.3,
+      "end": 46.14,
+      "text": " In the city of Catania, 14, 14, 15, 25",
+      "tokens": [
+        50814,
+        682,
+        264,
+        2307,
+        295,
+        9565,
+        5609,
+        11,
+        3499,
+        11,
+        3499,
+        11,
+        2119,
+        11,
+        3552,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7051400723664657,
+      "compression_ratio": 1.2391304347826086,
+      "no_speech_prob": 0.10926494002342224,
+      "words": [
+        {
+          "word": " In",
+          "start": 37.3,
+          "end": 38.34,
+          "probability": 0.027039719745516777
+        },
+        {
+          "word": " the",
+          "start": 38.34,
+          "end": 38.62,
+          "probability": 0.16159285604953766
+        },
+        {
+          "word": " city",
+          "start": 38.62,
+          "end": 38.82,
+          "probability": 0.5551824569702148
+        },
+        {
+          "word": " of",
+          "start": 38.82,
+          "end": 38.82,
+          "probability": 0.894428014755249
+        },
+        {
+          "word": " Catania,",
+          "start": 38.82,
+          "end": 40.3,
+          "probability": 0.5694654583930969
+        },
+        {
+          "word": " 14,",
+          "start": 40.56,
+          "end": 41.26,
+          "probability": 0.19443948566913605
+        },
+        {
+          "word": " 14,",
+          "start": 41.26,
+          "end": 41.92,
+          "probability": 0.18589267134666443
+        },
+        {
+          "word": " 15,",
+          "start": 41.92,
+          "end": 45.62,
+          "probability": 0.6822646856307983
+        },
+        {
+          "word": " 25",
+          "start": 46.14,
+          "end": 46.14,
+          "probability": 0.29941821098327637
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2748,
+      "start": 46.14,
+      "end": 53.480000000000004,
+      "text": " Car rental total, 111, you know, 91 today",
+      "tokens": [
+        51114,
+        2741,
+        21468,
+        3217,
+        11,
+        2975,
+        16,
+        11,
+        291,
+        458,
+        11,
+        31064,
+        965,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7051400723664657,
+      "compression_ratio": 1.2391304347826086,
+      "no_speech_prob": 0.10926494002342224,
+      "words": [
+        {
+          "word": " Car",
+          "start": 46.14,
+          "end": 46.52,
+          "probability": 0.15910696983337402
+        },
+        {
+          "word": " rental",
+          "start": 46.52,
+          "end": 47.38,
+          "probability": 0.9754858613014221
+        },
+        {
+          "word": " total,",
+          "start": 47.38,
+          "end": 48.52,
+          "probability": 0.7460328340530396
+        },
+        {
+          "word": " 111,",
+          "start": 48.62,
+          "end": 50.52,
+          "probability": 0.7469092309474945
+        },
+        {
+          "word": " you",
+          "start": 50.82,
+          "end": 51.02,
+          "probability": 0.1713401824235916
+        },
+        {
+          "word": " know,",
+          "start": 51.02,
+          "end": 51.56,
+          "probability": 0.10434503853321075
+        },
+        {
+          "word": " 91",
+          "start": 51.7,
+          "end": 52.42,
+          "probability": 0.9439978003501892
+        },
+        {
+          "word": " today",
+          "start": 52.42,
+          "end": 53.480000000000004,
+          "probability": 0.7843382954597473
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5348,
+      "start": 53.48,
+      "end": 58.0,
+      "text": " Provider, Italy car rental",
+      "tokens": [
+        50364,
+        15685,
+        1438,
+        11,
+        10705,
+        1032,
+        21468,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6635724787126508,
+      "compression_ratio": 1.1754385964912282,
+      "no_speech_prob": 0.09486792981624603,
+      "words": [
+        {
+          "word": " Provider,",
+          "start": 53.48,
+          "end": 55.52,
+          "probability": 0.690472424030304
+        },
+        {
+          "word": " Italy",
+          "start": 55.86,
+          "end": 56.34,
+          "probability": 0.9547959566116333
+        },
+        {
+          "word": " car",
+          "start": 56.34,
+          "end": 56.8,
+          "probability": 0.01635788381099701
+        },
+        {
+          "word": " rental",
+          "start": 56.8,
+          "end": 58.0,
+          "probability": 0.016109058633446693
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5348,
+      "start": 58.0,
+      "end": 62.88,
+      "text": " Free to feed, learn to feed",
+      "tokens": [
+        50614,
+        11551,
+        281,
+        3154,
+        11,
+        1466,
+        281,
+        3154,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6635724787126508,
+      "compression_ratio": 1.1754385964912282,
+      "no_speech_prob": 0.09486792981624603,
+      "words": [
+        {
+          "word": " Free",
+          "start": 58.0,
+          "end": 59.5,
+          "probability": 0.022064629942178726
+        },
+        {
+          "word": " to",
+          "start": 59.5,
+          "end": 59.92,
+          "probability": 0.9249486327171326
+        },
+        {
+          "word": " feed,",
+          "start": 59.92,
+          "end": 60.94,
+          "probability": 0.12177707254886627
+        },
+        {
+          "word": " learn",
+          "start": 61.68,
+          "end": 61.92,
+          "probability": 0.7957132458686829
+        },
+        {
+          "word": " to",
+          "start": 61.92,
+          "end": 62.42,
+          "probability": 0.9975154399871826
+        },
+        {
+          "word": " feed",
+          "start": 62.42,
+          "end": 62.88,
+          "probability": 0.854428231716156
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5348,
+      "start": 62.88,
+      "end": 66.47999999999999,
+      "text": " From Portoballo, Ticago Pax",
+      "tokens": [
+        50814,
+        3358,
+        6733,
+        996,
+        37104,
+        11,
+        314,
+        299,
+        6442,
+        430,
+        2797,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6635724787126508,
+      "compression_ratio": 1.1754385964912282,
+      "no_speech_prob": 0.09486792981624603,
+      "words": [
+        {
+          "word": " From",
+          "start": 62.88,
+          "end": 63.42,
+          "probability": 0.038087669759988785
+        },
+        {
+          "word": " Portoballo,",
+          "start": 63.42,
+          "end": 64.74,
+          "probability": 0.3599870751301448
+        },
+        {
+          "word": " Ticago",
+          "start": 65.1,
+          "end": 65.8,
+          "probability": 0.4167749335368474
+        },
+        {
+          "word": " Pax",
+          "start": 65.8,
+          "end": 66.5,
+          "probability": 0.33769410848617554
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5348,
+      "start": 66.98,
+      "end": 72.02,
+      "text": " Bocchi Pizza and Cirucule Sado",
+      "tokens": [
+        51014,
+        363,
+        905,
+        8036,
+        24469,
+        293,
+        13791,
+        1311,
+        84,
+        306,
+        318,
+        1573,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6635724787126508,
+      "compression_ratio": 1.1754385964912282,
+      "no_speech_prob": 0.09486792981624603,
+      "words": [
+        {
+          "word": " Bocchi",
+          "start": 66.98,
+          "end": 68.06,
+          "probability": 0.41902125254273415
+        },
+        {
+          "word": " Pizza",
+          "start": 68.06,
+          "end": 68.96,
+          "probability": 0.6172524690628052
+        },
+        {
+          "word": " and",
+          "start": 68.96,
+          "end": 70.12,
+          "probability": 0.5173289775848389
+        },
+        {
+          "word": " Cirucule",
+          "start": 70.12,
+          "end": 71.3,
+          "probability": 0.2829380463808775
+        },
+        {
+          "word": " Sado",
+          "start": 71.3,
+          "end": 72.02,
+          "probability": 0.7304273247718811
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5348,
+      "start": 72.02,
+      "end": 74.52,
+      "text": " dot dot dot",
+      "tokens": [
+        51314,
+        5893,
+        5893,
+        5893,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6635724787126508,
+      "compression_ratio": 1.1754385964912282,
+      "no_speech_prob": 0.09486792981624603,
+      "words": [
+        {
+          "word": " dot",
+          "start": 72.02,
+          "end": 72.86,
+          "probability": 0.12491181492805481
+        },
+        {
+          "word": " dot",
+          "start": 72.86,
+          "end": 73.32,
+          "probability": 0.8967796564102173
+        },
+        {
+          "word": " dot",
+          "start": 73.32,
+          "end": 74.52,
+          "probability": 0.9792835116386414
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5348,
+      "start": 74.52,
+      "end": 79.24,
+      "text": " 96-017-0",
+      "tokens": [
+        51414,
+        24124,
+        12,
+        15,
+        7773,
+        12,
+        15,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6635724787126508,
+      "compression_ratio": 1.1754385964912282,
+      "no_speech_prob": 0.09486792981624603,
+      "words": [
+        {
+          "word": " 96",
+          "start": 74.52,
+          "end": 75.78,
+          "probability": 0.09998080134391785
+        },
+        {
+          "word": "-017",
+          "start": 75.78,
+          "end": 78.32,
+          "probability": 0.6464542845884959
+        },
+        {
+          "word": "-0",
+          "start": 78.32,
+          "end": 79.24,
+          "probability": 0.34658417105674744
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7924,
+      "start": 80.04,
+      "end": 83.0,
+      "text": " Thanks to you, I love you",
+      "tokens": [
+        50364,
+        2561,
+        281,
+        291,
+        11,
+        286,
+        959,
+        291,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.862117862701416,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.3641625642776489,
+      "words": [
+        {
+          "word": " Thanks",
+          "start": 80.04,
+          "end": 80.84,
+          "probability": 0.4412575960159302
+        },
+        {
+          "word": " to",
+          "start": 80.84,
+          "end": 81.18,
+          "probability": 0.6732224822044373
+        },
+        {
+          "word": " you,",
+          "start": 81.18,
+          "end": 81.64,
+          "probability": 0.26572659611701965
+        },
+        {
+          "word": " I",
+          "start": 81.78,
+          "end": 82.12,
+          "probability": 0.35508137941360474
+        },
+        {
+          "word": " love",
+          "start": 82.12,
+          "end": 83.0,
+          "probability": 0.1789921522140503
+        },
+        {
+          "word": " you",
+          "start": 83.0,
+          "end": 83.0,
+          "probability": 0.9060149192810059
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

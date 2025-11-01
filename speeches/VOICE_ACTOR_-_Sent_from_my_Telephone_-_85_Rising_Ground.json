@@ -1,0 +1,481 @@
+{
+  "text": " I couldn't make love on the runway we know A respectable third, given the speed figure A well-balanced thought, with plenty of pace Hold the position, win the first race Outpace coming down the hill, turned out to be in on the kill Stayed on strongly once, meeting the rising ground",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 9.580000000000002,
+      "end": 14.98,
+      "text": " I couldn't make love on the runway we know",
+      "tokens": [
+        50364,
+        286,
+        2809,
+        380,
+        652,
+        959,
+        322,
+        264,
+        26642,
+        321,
+        458,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7726246970040458,
+      "compression_ratio": 0.84,
+      "no_speech_prob": 0.5561307072639465,
+      "words": [
+        {
+          "word": " I",
+          "start": 9.580000000000002,
+          "end": 10.66,
+          "probability": 0.032972302287817
+        },
+        {
+          "word": " couldn't",
+          "start": 10.66,
+          "end": 11.24,
+          "probability": 0.8942914009094238
+        },
+        {
+          "word": " make",
+          "start": 11.24,
+          "end": 11.64,
+          "probability": 0.9676438570022583
+        },
+        {
+          "word": " love",
+          "start": 11.64,
+          "end": 12.14,
+          "probability": 0.993069589138031
+        },
+        {
+          "word": " on",
+          "start": 12.14,
+          "end": 12.62,
+          "probability": 0.9518798589706421
+        },
+        {
+          "word": " the",
+          "start": 12.62,
+          "end": 12.78,
+          "probability": 0.5932328104972839
+        },
+        {
+          "word": " runway",
+          "start": 12.78,
+          "end": 13.5,
+          "probability": 0.9570093750953674
+        },
+        {
+          "word": " we",
+          "start": 13.5,
+          "end": 14.04,
+          "probability": 0.5174093246459961
+        },
+        {
+          "word": " know",
+          "start": 14.04,
+          "end": 14.98,
+          "probability": 0.47484302520751953
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 1498,
+      "start": 15.98,
+      "end": 20.82,
+      "text": " A respectable third, given the speed figure",
+      "tokens": [
+        50414,
+        316,
+        44279,
+        2636,
+        11,
+        2212,
+        264,
+        3073,
+        2573,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2514551106621237,
+      "compression_ratio": 1.2115384615384615,
+      "no_speech_prob": 0.2456362247467041,
+      "words": [
+        {
+          "word": " A",
+          "start": 15.98,
+          "end": 16.8,
+          "probability": 0.07923124730587006
+        },
+        {
+          "word": " respectable",
+          "start": 16.8,
+          "end": 17.42,
+          "probability": 0.5374884605407715
+        },
+        {
+          "word": " third,",
+          "start": 17.42,
+          "end": 18.3,
+          "probability": 0.95514315366745
+        },
+        {
+          "word": " given",
+          "start": 18.58,
+          "end": 19.16,
+          "probability": 0.8239634037017822
+        },
+        {
+          "word": " the",
+          "start": 19.16,
+          "end": 19.6,
+          "probability": 0.8135535717010498
+        },
+        {
+          "word": " speed",
+          "start": 19.6,
+          "end": 19.88,
+          "probability": 0.9809896349906921
+        },
+        {
+          "word": " figure",
+          "start": 19.88,
+          "end": 20.82,
+          "probability": 0.967804491519928
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 1498,
+      "start": 22.98,
+      "end": 29.98,
+      "text": " A well-balanced thought, with plenty of pace",
+      "tokens": [
+        50764,
+        316,
+        731,
+        12,
+        40251,
+        1194,
+        11,
+        365,
+        7140,
+        295,
+        11638,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2514551106621237,
+      "compression_ratio": 1.2115384615384615,
+      "no_speech_prob": 0.2456362247467041,
+      "words": [
+        {
+          "word": " A",
+          "start": 22.98,
+          "end": 23.86,
+          "probability": 0.5080063939094543
+        },
+        {
+          "word": " well",
+          "start": 23.86,
+          "end": 24.28,
+          "probability": 0.9926990866661072
+        },
+        {
+          "word": "-balanced",
+          "start": 24.28,
+          "end": 24.84,
+          "probability": 0.7608855962753296
+        },
+        {
+          "word": " thought,",
+          "start": 24.84,
+          "end": 25.92,
+          "probability": 0.8534427881240845
+        },
+        {
+          "word": " with",
+          "start": 27.5,
+          "end": 27.6,
+          "probability": 0.9772363901138306
+        },
+        {
+          "word": " plenty",
+          "start": 27.6,
+          "end": 28.36,
+          "probability": 0.9988467693328857
+        },
+        {
+          "word": " of",
+          "start": 28.36,
+          "end": 28.78,
+          "probability": 0.9965693950653076
+        },
+        {
+          "word": " pace",
+          "start": 28.78,
+          "end": 29.98,
+          "probability": 0.929987370967865
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 1498,
+      "start": 30.66,
+      "end": 37.980000000000004,
+      "text": " Hold the position, win the first race",
+      "tokens": [
+        51164,
+        6962,
+        264,
+        2535,
+        11,
+        1942,
+        264,
+        700,
+        4569,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2514551106621237,
+      "compression_ratio": 1.2115384615384615,
+      "no_speech_prob": 0.2456362247467041,
+      "words": [
+        {
+          "word": " Hold",
+          "start": 30.66,
+          "end": 32.24,
+          "probability": 0.8543097972869873
+        },
+        {
+          "word": " the",
+          "start": 32.24,
+          "end": 32.66,
+          "probability": 0.9153850674629211
+        },
+        {
+          "word": " position,",
+          "start": 32.66,
+          "end": 33.92,
+          "probability": 0.9929047226905823
+        },
+        {
+          "word": " win",
+          "start": 35.62,
+          "end": 35.88,
+          "probability": 0.7315572500228882
+        },
+        {
+          "word": " the",
+          "start": 35.88,
+          "end": 36.4,
+          "probability": 0.9928047060966492
+        },
+        {
+          "word": " first",
+          "start": 36.4,
+          "end": 37.2,
+          "probability": 0.9808520674705505
+        },
+        {
+          "word": " race",
+          "start": 37.2,
+          "end": 37.980000000000004,
+          "probability": 0.9806721806526184
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3798,
+      "start": 40.96,
+      "end": 50.34,
+      "text": " Outpace coming down the hill, turned out to be in on the kill",
+      "tokens": [
+        50414,
+        5925,
+        17940,
+        1348,
+        760,
+        264,
+        10997,
+        11,
+        3574,
+        484,
+        281,
+        312,
+        294,
+        322,
+        264,
+        1961,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.33691180547078453,
+      "compression_ratio": 1.2043010752688172,
+      "no_speech_prob": 0.04191500321030617,
+      "words": [
+        {
+          "word": " Outpace",
+          "start": 40.96,
+          "end": 42.0,
+          "probability": 0.4008556380867958
+        },
+        {
+          "word": " coming",
+          "start": 42.0,
+          "end": 42.52,
+          "probability": 0.9098700881004333
+        },
+        {
+          "word": " down",
+          "start": 42.52,
+          "end": 43.32,
+          "probability": 0.9912919402122498
+        },
+        {
+          "word": " the",
+          "start": 43.32,
+          "end": 43.76,
+          "probability": 0.874194324016571
+        },
+        {
+          "word": " hill,",
+          "start": 43.76,
+          "end": 44.32,
+          "probability": 0.9900984168052673
+        },
+        {
+          "word": " turned",
+          "start": 44.66,
+          "end": 44.88,
+          "probability": 0.6601513624191284
+        },
+        {
+          "word": " out",
+          "start": 44.88,
+          "end": 45.16,
+          "probability": 0.9663315415382385
+        },
+        {
+          "word": " to",
+          "start": 45.16,
+          "end": 45.52,
+          "probability": 0.9168791174888611
+        },
+        {
+          "word": " be",
+          "start": 45.52,
+          "end": 45.84,
+          "probability": 0.8606714010238647
+        },
+        {
+          "word": " in",
+          "start": 45.84,
+          "end": 46.48,
+          "probability": 0.9477738738059998
+        },
+        {
+          "word": " on",
+          "start": 46.48,
+          "end": 46.78,
+          "probability": 0.9796966910362244
+        },
+        {
+          "word": " the",
+          "start": 46.78,
+          "end": 47.06,
+          "probability": 0.9439887404441833
+        },
+        {
+          "word": " kill",
+          "start": 47.06,
+          "end": 50.34,
+          "probability": 0.9486322402954102
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3798,
+      "start": 50.34,
+      "end": 59.98,
+      "text": " Stayed on strongly once, meeting the rising ground",
+      "tokens": [
+        50964,
+        8691,
+        292,
+        322,
+        10613,
+        1564,
+        11,
+        3440,
+        264,
+        11636,
+        2727,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.33691180547078453,
+      "compression_ratio": 1.2043010752688172,
+      "no_speech_prob": 0.04191500321030617,
+      "words": [
+        {
+          "word": " Stayed",
+          "start": 50.34,
+          "end": 51.46,
+          "probability": 0.5898668318986893
+        },
+        {
+          "word": " on",
+          "start": 51.46,
+          "end": 51.74,
+          "probability": 0.9643670916557312
+        },
+        {
+          "word": " strongly",
+          "start": 51.74,
+          "end": 53.84,
+          "probability": 0.3610566258430481
+        },
+        {
+          "word": " once,",
+          "start": 53.84,
+          "end": 55.08,
+          "probability": 0.9449740052223206
+        },
+        {
+          "word": " meeting",
+          "start": 55.94,
+          "end": 56.4,
+          "probability": 0.7123916149139404
+        },
+        {
+          "word": " the",
+          "start": 56.4,
+          "end": 56.9,
+          "probability": 0.9749186038970947
+        },
+        {
+          "word": " rising",
+          "start": 56.9,
+          "end": 59.02,
+          "probability": 0.7686615586280823
+        },
+        {
+          "word": " ground",
+          "start": 59.02,
+          "end": 59.98,
+          "probability": 0.08843153715133667
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

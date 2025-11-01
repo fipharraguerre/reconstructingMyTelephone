@@ -1,0 +1,942 @@
+{
+  "text": " Sorry, I was saying that I wanted to send the video that you made to Martha and I think she's gonna really appreciate it. I just got excited about it suddenly last night and I told her about it. So she's into seeing it, she wants to see it. By the same time I feel weird about sending it. Is it weird that I'm feeling weird about it or is it just me being weird? You know, I'm really confused. I slept a little bit, broken up, but yeah, better too. I don't know what happened, but what was I saying even? I was saying... Oh, I sent you an email.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 13.059999999999999,
+      "end": 23.56,
+      "text": " Sorry, I was saying that I wanted to send the video that you made to Martha and I think",
+      "tokens": [
+        50364,
+        4919,
+        11,
+        286,
+        390,
+        1566,
+        300,
+        286,
+        1415,
+        281,
+        2845,
+        264,
+        960,
+        300,
+        291,
+        1027,
+        281,
+        27787,
+        293,
+        286,
+        519,
+        51544
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37157952785491943,
+      "compression_ratio": 1.0875,
+      "no_speech_prob": 0.43102991580963135,
+      "words": [
+        {
+          "word": " Sorry,",
+          "start": 13.059999999999999,
+          "end": 13.84,
+          "probability": 0.5894160270690918
+        },
+        {
+          "word": " I",
+          "start": 14.12,
+          "end": 14.3,
+          "probability": 0.9652578234672546
+        },
+        {
+          "word": " was",
+          "start": 14.3,
+          "end": 14.56,
+          "probability": 0.9768530130386353
+        },
+        {
+          "word": " saying",
+          "start": 14.56,
+          "end": 15.0,
+          "probability": 0.9945211410522461
+        },
+        {
+          "word": " that",
+          "start": 15.0,
+          "end": 16.34,
+          "probability": 0.4020923376083374
+        },
+        {
+          "word": " I",
+          "start": 16.34,
+          "end": 17.34,
+          "probability": 0.8239811658859253
+        },
+        {
+          "word": " wanted",
+          "start": 17.34,
+          "end": 17.74,
+          "probability": 0.9270505905151367
+        },
+        {
+          "word": " to",
+          "start": 17.74,
+          "end": 18.12,
+          "probability": 0.9984642267227173
+        },
+        {
+          "word": " send",
+          "start": 18.12,
+          "end": 18.5,
+          "probability": 0.9972678422927856
+        },
+        {
+          "word": " the",
+          "start": 18.5,
+          "end": 19.52,
+          "probability": 0.6696203351020813
+        },
+        {
+          "word": " video",
+          "start": 19.52,
+          "end": 19.86,
+          "probability": 0.9715277552604675
+        },
+        {
+          "word": " that",
+          "start": 19.86,
+          "end": 20.1,
+          "probability": 0.9690019488334656
+        },
+        {
+          "word": " you",
+          "start": 20.1,
+          "end": 20.38,
+          "probability": 0.9269677996635437
+        },
+        {
+          "word": " made",
+          "start": 20.38,
+          "end": 20.9,
+          "probability": 0.983715832233429
+        },
+        {
+          "word": " to",
+          "start": 20.9,
+          "end": 22.22,
+          "probability": 0.7423036098480225
+        },
+        {
+          "word": " Martha",
+          "start": 22.22,
+          "end": 22.64,
+          "probability": 0.978766679763794
+        },
+        {
+          "word": " and",
+          "start": 22.64,
+          "end": 23.24,
+          "probability": 0.606533408164978
+        },
+        {
+          "word": " I",
+          "start": 23.24,
+          "end": 23.28,
+          "probability": 0.8908223509788513
+        },
+        {
+          "word": " think",
+          "start": 23.28,
+          "end": 23.56,
+          "probability": 0.9933748841285706
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2356,
+      "start": 23.56,
+      "end": 33.76,
+      "text": " she's gonna really appreciate it. I just got excited about it suddenly last night and I told her about it.",
+      "tokens": [
+        50364,
+        750,
+        311,
+        799,
+        534,
+        4449,
+        309,
+        13,
+        286,
+        445,
+        658,
+        2919,
+        466,
+        309,
+        5800,
+        1036,
+        1818,
+        293,
+        286,
+        1907,
+        720,
+        466,
+        309,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29838026386417754,
+      "compression_ratio": 1.611764705882353,
+      "no_speech_prob": 0.9461276531219482,
+      "words": [
+        {
+          "word": " she's",
+          "start": 23.56,
+          "end": 24.56,
+          "probability": 0.49028508365154266
+        },
+        {
+          "word": " gonna",
+          "start": 24.56,
+          "end": 24.76,
+          "probability": 0.46214479207992554
+        },
+        {
+          "word": " really",
+          "start": 24.76,
+          "end": 25.18,
+          "probability": 0.9659134745597839
+        },
+        {
+          "word": " appreciate",
+          "start": 25.18,
+          "end": 25.68,
+          "probability": 0.9777266383171082
+        },
+        {
+          "word": " it.",
+          "start": 25.68,
+          "end": 26.8,
+          "probability": 0.9787427186965942
+        },
+        {
+          "word": " I",
+          "start": 27.26,
+          "end": 27.96,
+          "probability": 0.6440961956977844
+        },
+        {
+          "word": " just",
+          "start": 27.96,
+          "end": 28.2,
+          "probability": 0.9688595533370972
+        },
+        {
+          "word": " got",
+          "start": 28.2,
+          "end": 28.36,
+          "probability": 0.9670462608337402
+        },
+        {
+          "word": " excited",
+          "start": 28.36,
+          "end": 28.86,
+          "probability": 0.9930077791213989
+        },
+        {
+          "word": " about",
+          "start": 28.86,
+          "end": 29.24,
+          "probability": 0.9973636269569397
+        },
+        {
+          "word": " it",
+          "start": 29.24,
+          "end": 29.44,
+          "probability": 0.9952611327171326
+        },
+        {
+          "word": " suddenly",
+          "start": 29.44,
+          "end": 30.34,
+          "probability": 0.6436270475387573
+        },
+        {
+          "word": " last",
+          "start": 30.34,
+          "end": 31.4,
+          "probability": 0.6901448965072632
+        },
+        {
+          "word": " night",
+          "start": 31.4,
+          "end": 31.8,
+          "probability": 0.998278021812439
+        },
+        {
+          "word": " and",
+          "start": 31.8,
+          "end": 32.2,
+          "probability": 0.4032573997974396
+        },
+        {
+          "word": " I",
+          "start": 32.2,
+          "end": 32.38,
+          "probability": 0.8281773328781128
+        },
+        {
+          "word": " told",
+          "start": 32.38,
+          "end": 32.5,
+          "probability": 0.9933980703353882
+        },
+        {
+          "word": " her",
+          "start": 32.5,
+          "end": 32.7,
+          "probability": 0.9970058798789978
+        },
+        {
+          "word": " about",
+          "start": 32.7,
+          "end": 32.98,
+          "probability": 0.9978249073028564
+        },
+        {
+          "word": " it.",
+          "start": 32.98,
+          "end": 33.76,
+          "probability": 0.9970610737800598
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2356,
+      "start": 33.88,
+      "end": 41.26,
+      "text": " So she's into seeing it, she wants to see it. By the same time I feel weird about sending it.",
+      "tokens": [
+        50864,
+        407,
+        750,
+        311,
+        666,
+        2577,
+        309,
+        11,
+        750,
+        2738,
+        281,
+        536,
+        309,
+        13,
+        3146,
+        264,
+        912,
+        565,
+        286,
+        841,
+        3657,
+        466,
+        7750,
+        309,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29838026386417754,
+      "compression_ratio": 1.611764705882353,
+      "no_speech_prob": 0.9461276531219482,
+      "words": [
+        {
+          "word": " So",
+          "start": 33.88,
+          "end": 34.12,
+          "probability": 0.5444220900535583
+        },
+        {
+          "word": " she's",
+          "start": 34.12,
+          "end": 34.82,
+          "probability": 0.8789290189743042
+        },
+        {
+          "word": " into",
+          "start": 34.82,
+          "end": 35.34,
+          "probability": 0.7889309525489807
+        },
+        {
+          "word": " seeing",
+          "start": 35.34,
+          "end": 35.7,
+          "probability": 0.7294553518295288
+        },
+        {
+          "word": " it,",
+          "start": 35.7,
+          "end": 35.84,
+          "probability": 0.9467366337776184
+        },
+        {
+          "word": " she",
+          "start": 35.84,
+          "end": 35.94,
+          "probability": 0.9814416170120239
+        },
+        {
+          "word": " wants",
+          "start": 35.94,
+          "end": 36.16,
+          "probability": 0.979965329170227
+        },
+        {
+          "word": " to",
+          "start": 36.16,
+          "end": 36.4,
+          "probability": 0.9982656836509705
+        },
+        {
+          "word": " see",
+          "start": 36.4,
+          "end": 36.58,
+          "probability": 0.9984246492385864
+        },
+        {
+          "word": " it.",
+          "start": 36.58,
+          "end": 37.42,
+          "probability": 0.9828789234161377
+        },
+        {
+          "word": " By",
+          "start": 38.36,
+          "end": 38.6,
+          "probability": 0.32974961400032043
+        },
+        {
+          "word": " the",
+          "start": 38.6,
+          "end": 38.82,
+          "probability": 0.9942272901535034
+        },
+        {
+          "word": " same",
+          "start": 38.82,
+          "end": 39.06,
+          "probability": 0.9962918758392334
+        },
+        {
+          "word": " time",
+          "start": 39.06,
+          "end": 39.32,
+          "probability": 0.9929537177085876
+        },
+        {
+          "word": " I",
+          "start": 39.32,
+          "end": 39.5,
+          "probability": 0.7077094316482544
+        },
+        {
+          "word": " feel",
+          "start": 39.5,
+          "end": 39.8,
+          "probability": 0.9917615652084351
+        },
+        {
+          "word": " weird",
+          "start": 39.8,
+          "end": 40.2,
+          "probability": 0.9935186505317688
+        },
+        {
+          "word": " about",
+          "start": 40.2,
+          "end": 40.56,
+          "probability": 0.9925353527069092
+        },
+        {
+          "word": " sending",
+          "start": 40.56,
+          "end": 40.9,
+          "probability": 0.9975874423980713
+        },
+        {
+          "word": " it.",
+          "start": 40.9,
+          "end": 41.26,
+          "probability": 0.9943068623542786
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2356,
+      "start": 41.28,
+      "end": 49.62,
+      "text": " Is it weird that I'm feeling weird about it or is it just me being weird?",
+      "tokens": [
+        51264,
+        1119,
+        309,
+        3657,
+        300,
+        286,
+        478,
+        2633,
+        3657,
+        466,
+        309,
+        420,
+        307,
+        309,
+        445,
+        385,
+        885,
+        3657,
+        30,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29838026386417754,
+      "compression_ratio": 1.611764705882353,
+      "no_speech_prob": 0.9461276531219482,
+      "words": [
+        {
+          "word": " Is",
+          "start": 41.28,
+          "end": 41.54,
+          "probability": 0.985393762588501
+        },
+        {
+          "word": " it",
+          "start": 41.54,
+          "end": 42.34,
+          "probability": 0.9899339079856873
+        },
+        {
+          "word": " weird",
+          "start": 42.34,
+          "end": 42.64,
+          "probability": 0.9856035709381104
+        },
+        {
+          "word": " that",
+          "start": 42.64,
+          "end": 42.82,
+          "probability": 0.9567844867706299
+        },
+        {
+          "word": " I'm",
+          "start": 42.82,
+          "end": 43.12,
+          "probability": 0.9643809795379639
+        },
+        {
+          "word": " feeling",
+          "start": 43.12,
+          "end": 43.42,
+          "probability": 0.996121346950531
+        },
+        {
+          "word": " weird",
+          "start": 43.42,
+          "end": 43.94,
+          "probability": 0.9720128774642944
+        },
+        {
+          "word": " about",
+          "start": 43.94,
+          "end": 44.88,
+          "probability": 0.9721654653549194
+        },
+        {
+          "word": " it",
+          "start": 44.88,
+          "end": 45.2,
+          "probability": 0.9968999624252319
+        },
+        {
+          "word": " or",
+          "start": 45.2,
+          "end": 46.02,
+          "probability": 0.6563849449157715
+        },
+        {
+          "word": " is",
+          "start": 46.02,
+          "end": 46.86,
+          "probability": 0.9019601941108704
+        },
+        {
+          "word": " it",
+          "start": 46.86,
+          "end": 47.26,
+          "probability": 0.9848068952560425
+        },
+        {
+          "word": " just",
+          "start": 47.26,
+          "end": 48.36,
+          "probability": 0.9932076334953308
+        },
+        {
+          "word": " me",
+          "start": 48.36,
+          "end": 48.88,
+          "probability": 0.5744104981422424
+        },
+        {
+          "word": " being",
+          "start": 48.88,
+          "end": 49.16,
+          "probability": 0.99327152967453
+        },
+        {
+          "word": " weird?",
+          "start": 49.16,
+          "end": 49.62,
+          "probability": 0.9950055480003357
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 4962,
+      "start": 50.62,
+      "end": 58.76,
+      "text": " You know, I'm really confused. I slept a little bit, broken up, but yeah, better too.",
+      "tokens": [
+        50414,
+        509,
+        458,
+        11,
+        286,
+        478,
+        534,
+        9019,
+        13,
+        286,
+        17400,
+        257,
+        707,
+        857,
+        11,
+        5463,
+        493,
+        11,
+        457,
+        1338,
+        11,
+        1101,
+        886,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2789548829544422,
+      "compression_ratio": 1.236842105263158,
+      "no_speech_prob": 0.13452614843845367,
+      "words": [
+        {
+          "word": " You",
+          "start": 50.28,
+          "end": 50.68,
+          "probability": 0.04552634805440903
+        },
+        {
+          "word": " know,",
+          "start": 50.68,
+          "end": 51.24,
+          "probability": 0.9130330681800842
+        },
+        {
+          "word": " I'm",
+          "start": 51.94,
+          "end": 52.18,
+          "probability": 0.8773490190505981
+        },
+        {
+          "word": " really",
+          "start": 52.18,
+          "end": 52.48,
+          "probability": 0.9514797329902649
+        },
+        {
+          "word": " confused.",
+          "start": 52.48,
+          "end": 53.16,
+          "probability": 0.9804986119270325
+        },
+        {
+          "word": " I",
+          "start": 54.02,
+          "end": 54.18,
+          "probability": 0.962215781211853
+        },
+        {
+          "word": " slept",
+          "start": 54.18,
+          "end": 54.4,
+          "probability": 0.982826828956604
+        },
+        {
+          "word": " a",
+          "start": 54.4,
+          "end": 54.52,
+          "probability": 0.9962171912193298
+        },
+        {
+          "word": " little",
+          "start": 54.52,
+          "end": 54.92,
+          "probability": 0.9897106289863586
+        },
+        {
+          "word": " bit,",
+          "start": 54.92,
+          "end": 55.62,
+          "probability": 0.996664822101593
+        },
+        {
+          "word": " broken",
+          "start": 55.78,
+          "end": 56.06,
+          "probability": 0.9205623865127563
+        },
+        {
+          "word": " up,",
+          "start": 56.06,
+          "end": 56.58,
+          "probability": 0.9791911244392395
+        },
+        {
+          "word": " but",
+          "start": 56.74,
+          "end": 56.96,
+          "probability": 0.9604644179344177
+        },
+        {
+          "word": " yeah,",
+          "start": 56.96,
+          "end": 57.76,
+          "probability": 0.893055260181427
+        },
+        {
+          "word": " better",
+          "start": 58.06,
+          "end": 58.22,
+          "probability": 0.7356913685798645
+        },
+        {
+          "word": " too.",
+          "start": 58.22,
+          "end": 58.76,
+          "probability": 0.8046383261680603
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4962,
+      "start": 62.18,
+      "end": 68.22,
+      "text": " I don't know what happened, but what was I saying even?",
+      "tokens": [
+        51014,
+        286,
+        500,
+        380,
+        458,
+        437,
+        2011,
+        11,
+        457,
+        437,
+        390,
+        286,
+        1566,
+        754,
+        30,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2789548829544422,
+      "compression_ratio": 1.236842105263158,
+      "no_speech_prob": 0.13452614843845367,
+      "words": [
+        {
+          "word": " I",
+          "start": 62.18,
+          "end": 62.9,
+          "probability": 0.33840569853782654
+        },
+        {
+          "word": " don't",
+          "start": 62.9,
+          "end": 63.66,
+          "probability": 0.9351071417331696
+        },
+        {
+          "word": " know",
+          "start": 63.66,
+          "end": 63.72,
+          "probability": 0.9930201172828674
+        },
+        {
+          "word": " what",
+          "start": 63.72,
+          "end": 64.02,
+          "probability": 0.9970170259475708
+        },
+        {
+          "word": " happened,",
+          "start": 64.02,
+          "end": 64.8,
+          "probability": 0.9930424690246582
+        },
+        {
+          "word": " but",
+          "start": 65.22,
+          "end": 65.58,
+          "probability": 0.9581257104873657
+        },
+        {
+          "word": " what",
+          "start": 65.58,
+          "end": 66.64,
+          "probability": 0.7229639887809753
+        },
+        {
+          "word": " was",
+          "start": 66.64,
+          "end": 66.86,
+          "probability": 0.9850372672080994
+        },
+        {
+          "word": " I",
+          "start": 66.86,
+          "end": 67.12,
+          "probability": 0.9913956522941589
+        },
+        {
+          "word": " saying",
+          "start": 67.12,
+          "end": 67.38,
+          "probability": 0.9930353164672852
+        },
+        {
+          "word": " even?",
+          "start": 67.38,
+          "end": 68.22,
+          "probability": 0.4231083393096924
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 6822,
+      "start": 70.12,
+      "end": 73.22,
+      "text": " I was saying...",
+      "tokens": [
+        50414,
+        286,
+        390,
+        1566,
+        485,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.33861322963938995,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.04322030395269394,
+      "words": [
+        {
+          "word": " I",
+          "start": 70.12,
+          "end": 71.28,
+          "probability": 0.5959181189537048
+        },
+        {
+          "word": " was",
+          "start": 71.28,
+          "end": 71.86,
+          "probability": 0.957880973815918
+        },
+        {
+          "word": " saying...",
+          "start": 71.86,
+          "end": 73.22,
+          "probability": 0.7674885094165802
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6822,
+      "start": 76.98,
+      "end": 80.54,
+      "text": " Oh, I sent you an email.",
+      "tokens": [
+        50814,
+        876,
+        11,
+        286,
+        2279,
+        291,
+        364,
+        3796,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.33861322963938995,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.04322030395269394,
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 76.98,
+          "end": 78.14,
+          "probability": 0.33099299669265747
+        },
+        {
+          "word": " I",
+          "start": 78.6,
+          "end": 78.66,
+          "probability": 0.9733162522315979
+        },
+        {
+          "word": " sent",
+          "start": 78.66,
+          "end": 78.98,
+          "probability": 0.97762131690979
+        },
+        {
+          "word": " you",
+          "start": 78.98,
+          "end": 80.04,
+          "probability": 0.9899072647094727
+        },
+        {
+          "word": " an",
+          "start": 80.04,
+          "end": 80.1,
+          "probability": 0.8990799188613892
+        },
+        {
+          "word": " email.",
+          "start": 80.1,
+          "end": 80.54,
+          "probability": 0.6575678586959839
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

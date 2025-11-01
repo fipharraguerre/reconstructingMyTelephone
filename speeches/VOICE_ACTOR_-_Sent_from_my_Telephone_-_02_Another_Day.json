@@ -1,0 +1,1266 @@
+{
+  "text": " Give me love so that I can... Give me love so that I can... Give me love so that I can... Give me love so that I can... It won't do But it's gone I'm used to it Not how it used to be Another day Another mix tape Another call Another mistake It won't do But it's gone I'm used to it You make no room for me Another day Another call Another mistake Another day Another mix tape Another call Another mistake It won't do But it's gone I'm used to it Give me love so that I can... Give me love so that I can...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Give me love so that I can...",
+      "tokens": [
+        50364,
+        5303,
+        385,
+        959,
+        370,
+        300,
+        286,
+        393,
+        485,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2707033157348633,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.3094833493232727,
+      "words": [
+        {
+          "word": " Give",
+          "start": 0.0,
+          "end": 0.52,
+          "probability": 0.2667599320411682
+        },
+        {
+          "word": " me",
+          "start": 0.52,
+          "end": 0.86,
+          "probability": 0.9860036969184875
+        },
+        {
+          "word": " love",
+          "start": 0.86,
+          "end": 1.32,
+          "probability": 0.9499726295471191
+        },
+        {
+          "word": " so",
+          "start": 1.32,
+          "end": 1.58,
+          "probability": 0.6047869920730591
+        },
+        {
+          "word": " that",
+          "start": 1.58,
+          "end": 1.74,
+          "probability": 0.9779022932052612
+        },
+        {
+          "word": " I",
+          "start": 1.74,
+          "end": 1.96,
+          "probability": 0.9474540948867798
+        },
+        {
+          "word": " can...",
+          "start": 1.96,
+          "end": 2.46,
+          "probability": 0.4715171679854393
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.0,
+      "end": 6.0,
+      "text": " Give me love so that I can...",
+      "tokens": [
+        50564,
+        5303,
+        385,
+        959,
+        370,
+        300,
+        286,
+        393,
+        485,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2707033157348633,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.3094833493232727,
+      "words": [
+        {
+          "word": " Give",
+          "start": 3.7,
+          "end": 4.2,
+          "probability": 0.4608691334724426
+        },
+        {
+          "word": " me",
+          "start": 4.2,
+          "end": 4.56,
+          "probability": 0.9964596629142761
+        },
+        {
+          "word": " love",
+          "start": 4.56,
+          "end": 5.06,
+          "probability": 0.9899089336395264
+        },
+        {
+          "word": " so",
+          "start": 5.06,
+          "end": 5.34,
+          "probability": 0.9539679288864136
+        },
+        {
+          "word": " that",
+          "start": 5.34,
+          "end": 5.52,
+          "probability": 0.9974084496498108
+        },
+        {
+          "word": " I",
+          "start": 5.52,
+          "end": 5.72,
+          "probability": 0.9895086288452148
+        },
+        {
+          "word": " can...",
+          "start": 5.72,
+          "end": 6.22,
+          "probability": 0.9515800178050995
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.36,
+      "end": 10.0,
+      "text": " Give me love so that I can...",
+      "tokens": [
+        50764,
+        5303,
+        385,
+        959,
+        370,
+        300,
+        286,
+        393,
+        485,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2707033157348633,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.3094833493232727,
+      "words": [
+        {
+          "word": " Give",
+          "start": 7.36,
+          "end": 8.0,
+          "probability": 0.921105682849884
+        },
+        {
+          "word": " me",
+          "start": 8.0,
+          "end": 8.28,
+          "probability": 0.9985339641571045
+        },
+        {
+          "word": " love",
+          "start": 8.28,
+          "end": 8.8,
+          "probability": 0.9973725080490112
+        },
+        {
+          "word": " so",
+          "start": 8.8,
+          "end": 9.08,
+          "probability": 0.9822170734405518
+        },
+        {
+          "word": " that",
+          "start": 9.08,
+          "end": 9.26,
+          "probability": 0.9989240765571594
+        },
+        {
+          "word": " I",
+          "start": 9.26,
+          "end": 9.46,
+          "probability": 0.9956300258636475
+        },
+        {
+          "word": " can...",
+          "start": 9.46,
+          "end": 10.0,
+          "probability": 0.9761818647384644
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.24,
+      "end": 14.0,
+      "text": " Give me love so that I can...",
+      "tokens": [
+        50964,
+        5303,
+        385,
+        959,
+        370,
+        300,
+        286,
+        393,
+        485,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2707033157348633,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.3094833493232727,
+      "words": [
+        {
+          "word": " Give",
+          "start": 11.24,
+          "end": 11.78,
+          "probability": 0.920706570148468
+        },
+        {
+          "word": " me",
+          "start": 11.78,
+          "end": 12.02,
+          "probability": 0.998365581035614
+        },
+        {
+          "word": " love",
+          "start": 12.02,
+          "end": 12.54,
+          "probability": 0.9958557486534119
+        },
+        {
+          "word": " so",
+          "start": 12.54,
+          "end": 12.9,
+          "probability": 0.9691793918609619
+        },
+        {
+          "word": " that",
+          "start": 12.9,
+          "end": 13.04,
+          "probability": 0.9949828386306763
+        },
+        {
+          "word": " I",
+          "start": 13.04,
+          "end": 13.2,
+          "probability": 0.9841676354408264
+        },
+        {
+          "word": " can...",
+          "start": 13.2,
+          "end": 14.0,
+          "probability": 0.961867481470108
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 21.0,
+      "end": 22.96,
+      "text": " It won't do",
+      "tokens": [
+        51414,
+        467,
+        1582,
+        380,
+        360,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2707033157348633,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.3094833493232727,
+      "words": [
+        {
+          "word": " It",
+          "start": 20.82,
+          "end": 21.32,
+          "probability": 0.11571510136127472
+        },
+        {
+          "word": " won't",
+          "start": 21.32,
+          "end": 22.32,
+          "probability": 0.833300918340683
+        },
+        {
+          "word": " do",
+          "start": 22.32,
+          "end": 22.96,
+          "probability": 0.9851080775260925
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.0,
+      "end": 26.0,
+      "text": " But it's gone",
+      "tokens": [
+        51564,
+        583,
+        309,
+        311,
+        2780,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2707033157348633,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.3094833493232727,
+      "words": [
+        {
+          "word": " But",
+          "start": 23.68,
+          "end": 24.18,
+          "probability": 0.31147781014442444
+        },
+        {
+          "word": " it's",
+          "start": 24.18,
+          "end": 25.04,
+          "probability": 0.9755078554153442
+        },
+        {
+          "word": " gone",
+          "start": 25.04,
+          "end": 26.0,
+          "probability": 0.3490118086338043
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 26.56,
+      "end": 29.46,
+      "text": " I'm used to it",
+      "tokens": [
+        51714,
+        286,
+        478,
+        1143,
+        281,
+        309,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2707033157348633,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.3094833493232727,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 26.56,
+          "end": 27.62,
+          "probability": 0.8029573261737823
+        },
+        {
+          "word": " used",
+          "start": 27.62,
+          "end": 28.04,
+          "probability": 0.9934677481651306
+        },
+        {
+          "word": " to",
+          "start": 28.04,
+          "end": 28.54,
+          "probability": 0.9968043565750122
+        },
+        {
+          "word": " it",
+          "start": 28.54,
+          "end": 29.46,
+          "probability": 0.9969395399093628
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 32.0,
+      "text": " Not how it used to be",
+      "tokens": [
+        50364,
+        1726,
+        577,
+        309,
+        1143,
+        281,
+        312,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12119545016372413,
+      "compression_ratio": 1.471698113207547,
+      "no_speech_prob": 0.038243863731622696,
+      "words": [
+        {
+          "word": " Not",
+          "start": 30.0,
+          "end": 30.32,
+          "probability": 0.054121941328048706
+        },
+        {
+          "word": " how",
+          "start": 30.32,
+          "end": 30.84,
+          "probability": 0.9787468314170837
+        },
+        {
+          "word": " it",
+          "start": 30.84,
+          "end": 31.24,
+          "probability": 0.9888359904289246
+        },
+        {
+          "word": " used",
+          "start": 31.24,
+          "end": 31.6,
+          "probability": 0.9814944267272949
+        },
+        {
+          "word": " to",
+          "start": 31.6,
+          "end": 31.9,
+          "probability": 0.9970656037330627
+        },
+        {
+          "word": " be",
+          "start": 31.9,
+          "end": 32.6,
+          "probability": 0.9986947178840637
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 3000,
+      "start": 32.54,
+      "end": 34.78,
+      "text": " Another day",
+      "tokens": [
+        50514,
+        3996,
+        786,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12119545016372413,
+      "compression_ratio": 1.471698113207547,
+      "no_speech_prob": 0.038243863731622696,
+      "words": [
+        {
+          "word": " Another",
+          "start": 32.54,
+          "end": 33.24,
+          "probability": 0.5630460977554321
+        },
+        {
+          "word": " day",
+          "start": 33.24,
+          "end": 34.78,
+          "probability": 0.9699007868766785
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 3000,
+      "start": 36.0,
+      "end": 37.84,
+      "text": " Another mix tape",
+      "tokens": [
+        50664,
+        3996,
+        2890,
+        7314,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12119545016372413,
+      "compression_ratio": 1.471698113207547,
+      "no_speech_prob": 0.038243863731622696,
+      "words": [
+        {
+          "word": " Another",
+          "start": 35.4,
+          "end": 36.1,
+          "probability": 0.508704423904419
+        },
+        {
+          "word": " mix",
+          "start": 36.1,
+          "end": 36.76,
+          "probability": 0.27023378014564514
+        },
+        {
+          "word": " tape",
+          "start": 36.76,
+          "end": 37.84,
+          "probability": 0.20744945108890533
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 3000,
+      "start": 37.84,
+      "end": 40.08,
+      "text": " Another call",
+      "tokens": [
+        50814,
+        3996,
+        818,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12119545016372413,
+      "compression_ratio": 1.471698113207547,
+      "no_speech_prob": 0.038243863731622696,
+      "words": [
+        {
+          "word": " Another",
+          "start": 37.84,
+          "end": 38.92,
+          "probability": 0.956045925617218
+        },
+        {
+          "word": " call",
+          "start": 38.92,
+          "end": 40.08,
+          "probability": 0.9812208414077759
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 3000,
+      "start": 40.08,
+      "end": 43.14,
+      "text": " Another mistake",
+      "tokens": [
+        50964,
+        3996,
+        6146,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12119545016372413,
+      "compression_ratio": 1.471698113207547,
+      "no_speech_prob": 0.038243863731622696,
+      "words": [
+        {
+          "word": " Another",
+          "start": 40.08,
+          "end": 41.68,
+          "probability": 0.9813523888587952
+        },
+        {
+          "word": " mistake",
+          "start": 41.68,
+          "end": 43.14,
+          "probability": 0.974247932434082
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 3000,
+      "start": 43.14,
+      "end": 45.8,
+      "text": " It won't do",
+      "tokens": [
+        51114,
+        467,
+        1582,
+        380,
+        360,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12119545016372413,
+      "compression_ratio": 1.471698113207547,
+      "no_speech_prob": 0.038243863731622696,
+      "words": [
+        {
+          "word": " It",
+          "start": 43.14,
+          "end": 44.08,
+          "probability": 0.9122028350830078
+        },
+        {
+          "word": " won't",
+          "start": 44.08,
+          "end": 44.78,
+          "probability": 0.9740197062492371
+        },
+        {
+          "word": " do",
+          "start": 44.78,
+          "end": 45.8,
+          "probability": 0.9963646531105042
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 3000,
+      "start": 45.8,
+      "end": 48.4,
+      "text": " But it's gone",
+      "tokens": [
+        51264,
+        583,
+        309,
+        311,
+        2780,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12119545016372413,
+      "compression_ratio": 1.471698113207547,
+      "no_speech_prob": 0.038243863731622696,
+      "words": [
+        {
+          "word": " But",
+          "start": 45.8,
+          "end": 46.84,
+          "probability": 0.793026864528656
+        },
+        {
+          "word": " it's",
+          "start": 46.84,
+          "end": 47.7,
+          "probability": 0.9791065156459808
+        },
+        {
+          "word": " gone",
+          "start": 47.7,
+          "end": 48.4,
+          "probability": 0.003497787518426776
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 3000,
+      "start": 48.4,
+      "end": 51.66,
+      "text": " I'm used to it",
+      "tokens": [
+        51414,
+        286,
+        478,
+        1143,
+        281,
+        309,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12119545016372413,
+      "compression_ratio": 1.471698113207547,
+      "no_speech_prob": 0.038243863731622696,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 48.4,
+          "end": 49.8,
+          "probability": 0.9746403098106384
+        },
+        {
+          "word": " used",
+          "start": 49.8,
+          "end": 50.34,
+          "probability": 0.9956920742988586
+        },
+        {
+          "word": " to",
+          "start": 50.34,
+          "end": 50.74,
+          "probability": 0.9946454763412476
+        },
+        {
+          "word": " it",
+          "start": 50.74,
+          "end": 51.66,
+          "probability": 0.9100016355514526
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 3000,
+      "start": 51.66,
+      "end": 54.68,
+      "text": " You make no room for me",
+      "tokens": [
+        51564,
+        509,
+        652,
+        572,
+        1808,
+        337,
+        385,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12119545016372413,
+      "compression_ratio": 1.471698113207547,
+      "no_speech_prob": 0.038243863731622696,
+      "words": [
+        {
+          "word": " You",
+          "start": 51.66,
+          "end": 52.24,
+          "probability": 0.9603261351585388
+        },
+        {
+          "word": " make",
+          "start": 52.24,
+          "end": 52.98,
+          "probability": 0.9906071424484253
+        },
+        {
+          "word": " no",
+          "start": 52.98,
+          "end": 53.36,
+          "probability": 0.9897157549858093
+        },
+        {
+          "word": " room",
+          "start": 53.36,
+          "end": 53.58,
+          "probability": 0.9952945113182068
+        },
+        {
+          "word": " for",
+          "start": 53.58,
+          "end": 54.0,
+          "probability": 0.9966229200363159
+        },
+        {
+          "word": " me",
+          "start": 54.0,
+          "end": 54.68,
+          "probability": 0.9995742440223694
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 3000,
+      "start": 54.68,
+      "end": 57.32,
+      "text": " Another day",
+      "tokens": [
+        51714,
+        3996,
+        786,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12119545016372413,
+      "compression_ratio": 1.471698113207547,
+      "no_speech_prob": 0.038243863731622696,
+      "words": [
+        {
+          "word": " Another",
+          "start": 54.68,
+          "end": 55.5,
+          "probability": 0.9563368558883667
+        },
+        {
+          "word": " day",
+          "start": 55.5,
+          "end": 57.32,
+          "probability": 0.989574134349823
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 6000,
+      "start": 60.08,
+      "end": 62.0,
+      "text": " Another call",
+      "tokens": [
+        50364,
+        3996,
+        818,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.029004463282498446,
+      "compression_ratio": 1.4952380952380953,
+      "no_speech_prob": 0.018959691748023033,
+      "words": [
+        {
+          "word": " Another",
+          "start": 60.08,
+          "end": 61.48,
+          "probability": 0.02498086541891098
+        },
+        {
+          "word": " call",
+          "start": 61.48,
+          "end": 62.18,
+          "probability": 0.9551724195480347
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 6000,
+      "start": 62.72,
+      "end": 65.0,
+      "text": " Another mistake",
+      "tokens": [
+        50514,
+        3996,
+        6146,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.029004463282498446,
+      "compression_ratio": 1.4952380952380953,
+      "no_speech_prob": 0.018959691748023033,
+      "words": [
+        {
+          "word": " Another",
+          "start": 62.72,
+          "end": 64.4,
+          "probability": 0.5036269426345825
+        },
+        {
+          "word": " mistake",
+          "start": 64.4,
+          "end": 65.10000000000001,
+          "probability": 0.9760806560516357
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 6000,
+      "start": 65.74,
+      "end": 68.0,
+      "text": " Another day",
+      "tokens": [
+        50664,
+        3996,
+        786,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.029004463282498446,
+      "compression_ratio": 1.4952380952380953,
+      "no_speech_prob": 0.018959691748023033,
+      "words": [
+        {
+          "word": " Another",
+          "start": 65.74,
+          "end": 66.98,
+          "probability": 0.971586287021637
+        },
+        {
+          "word": " day",
+          "start": 66.98,
+          "end": 68.0,
+          "probability": 0.989469051361084
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 6000,
+      "start": 68.68,
+      "end": 71.0,
+      "text": " Another mix tape",
+      "tokens": [
+        50814,
+        3996,
+        2890,
+        7314,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.029004463282498446,
+      "compression_ratio": 1.4952380952380953,
+      "no_speech_prob": 0.018959691748023033,
+      "words": [
+        {
+          "word": " Another",
+          "start": 68.68,
+          "end": 70.18,
+          "probability": 0.983137845993042
+        },
+        {
+          "word": " mix",
+          "start": 70.18,
+          "end": 70.8,
+          "probability": 0.060526128858327866
+        },
+        {
+          "word": " tape",
+          "start": 70.8,
+          "end": 71.5,
+          "probability": 0.11225270479917526
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 6000,
+      "start": 71.86,
+      "end": 74.1,
+      "text": " Another call",
+      "tokens": [
+        50964,
+        3996,
+        818,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.029004463282498446,
+      "compression_ratio": 1.4952380952380953,
+      "no_speech_prob": 0.018959691748023033,
+      "words": [
+        {
+          "word": " Another",
+          "start": 71.86,
+          "end": 72.92,
+          "probability": 0.9866043925285339
+        },
+        {
+          "word": " call",
+          "start": 72.92,
+          "end": 74.1,
+          "probability": 0.9896033406257629
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 6000,
+      "start": 75.0,
+      "end": 77.0,
+      "text": " Another mistake",
+      "tokens": [
+        51114,
+        3996,
+        6146,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.029004463282498446,
+      "compression_ratio": 1.4952380952380953,
+      "no_speech_prob": 0.018959691748023033,
+      "words": [
+        {
+          "word": " Another",
+          "start": 75.0,
+          "end": 75.96,
+          "probability": 0.9960359930992126
+        },
+        {
+          "word": " mistake",
+          "start": 75.96,
+          "end": 77.0,
+          "probability": 0.989321231842041
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 6000,
+      "start": 77.58,
+      "end": 79.88,
+      "text": " It won't do",
+      "tokens": [
+        51264,
+        467,
+        1582,
+        380,
+        360,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.029004463282498446,
+      "compression_ratio": 1.4952380952380953,
+      "no_speech_prob": 0.018959691748023033,
+      "words": [
+        {
+          "word": " It",
+          "start": 77.58,
+          "end": 78.58,
+          "probability": 0.031052187085151672
+        },
+        {
+          "word": " won't",
+          "start": 78.58,
+          "end": 79.02,
+          "probability": 0.9278530776500702
+        },
+        {
+          "word": " do",
+          "start": 79.02,
+          "end": 79.88,
+          "probability": 0.7120305895805359
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 6000,
+      "start": 81.0,
+      "end": 82.26,
+      "text": " But it's gone",
+      "tokens": [
+        51414,
+        583,
+        309,
+        311,
+        2780,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.029004463282498446,
+      "compression_ratio": 1.4952380952380953,
+      "no_speech_prob": 0.018959691748023033,
+      "words": [
+        {
+          "word": " But",
+          "start": 80.38,
+          "end": 81.08,
+          "probability": 0.8420264720916748
+        },
+        {
+          "word": " it's",
+          "start": 81.08,
+          "end": 81.86,
+          "probability": 0.9616858065128326
+        },
+        {
+          "word": " gone",
+          "start": 81.86,
+          "end": 82.26,
+          "probability": 0.00012956569844391197
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 6000,
+      "start": 82.26,
+      "end": 86.3,
+      "text": " I'm used to it",
+      "tokens": [
+        51564,
+        286,
+        478,
+        1143,
+        281,
+        309,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.029004463282498446,
+      "compression_ratio": 1.4952380952380953,
+      "no_speech_prob": 0.018959691748023033,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 82.26,
+          "end": 83.9,
+          "probability": 0.8545250594615936
+        },
+        {
+          "word": " used",
+          "start": 83.9,
+          "end": 84.32,
+          "probability": 0.987400233745575
+        },
+        {
+          "word": " to",
+          "start": 84.32,
+          "end": 84.84,
+          "probability": 0.9962557554244995
+        },
+        {
+          "word": " it",
+          "start": 84.84,
+          "end": 86.3,
+          "probability": 0.6285145878791809
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 6000,
+      "start": 86.3,
+      "end": 88.52,
+      "text": " Give me love so that I can...",
+      "tokens": [
+        51714,
+        5303,
+        385,
+        959,
+        370,
+        300,
+        286,
+        393,
+        485,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.029004463282498446,
+      "compression_ratio": 1.4952380952380953,
+      "no_speech_prob": 0.018959691748023033,
+      "words": [
+        {
+          "word": " Give",
+          "start": 86.3,
+          "end": 86.74,
+          "probability": 0.778903603553772
+        },
+        {
+          "word": " me",
+          "start": 86.74,
+          "end": 87.06,
+          "probability": 0.9983300566673279
+        },
+        {
+          "word": " love",
+          "start": 87.06,
+          "end": 87.54,
+          "probability": 0.9641962647438049
+        },
+        {
+          "word": " so",
+          "start": 87.54,
+          "end": 87.94,
+          "probability": 0.32903915643692017
+        },
+        {
+          "word": " that",
+          "start": 87.94,
+          "end": 88.12,
+          "probability": 0.9208135008811951
+        },
+        {
+          "word": " I",
+          "start": 88.12,
+          "end": 88.22,
+          "probability": 0.975409209728241
+        },
+        {
+          "word": " can...",
+          "start": 88.22,
+          "end": 88.52,
+          "probability": 0.7731619477272034
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 9000,
+      "start": 95.16,
+      "end": 96.56,
+      "text": " Give me love so that I can...",
+      "tokens": [
+        50364,
+        5303,
+        385,
+        959,
+        370,
+        300,
+        286,
+        393,
+        485,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08316620758601598,
+      "compression_ratio": 1.5128205128205128,
+      "no_speech_prob": 0.7123416066169739,
+      "words": [
+        {
+          "word": " Give",
+          "start": 95.16,
+          "end": 96.56,
+          "probability": 5.1062841521343216e-05
+        },
+        {
+          "word": " me",
+          "start": 96.56,
+          "end": 96.56,
+          "probability": 0.22560299932956696
+        },
+        {
+          "word": " love",
+          "start": 96.56,
+          "end": 96.56,
+          "probability": 0.011716003529727459
+        },
+        {
+          "word": " so",
+          "start": 96.56,
+          "end": 96.56,
+          "probability": 0.00275047542527318
+        },
+        {
+          "word": " that",
+          "start": 96.56,
+          "end": 96.56,
+          "probability": 0.17715726792812347
+        },
+        {
+          "word": " I",
+          "start": 96.56,
+          "end": 96.56,
+          "probability": 0.582938015460968
+        },
+        {
+          "word": " can...",
+          "start": 96.56,
+          "end": 96.56,
+          "probability": 0.3116189881693572
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 9000,
+      "start": 96.56,
+      "end": 96.56,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.08316620758601598,
+      "compression_ratio": 1.5128205128205128,
+      "no_speech_prob": 0.7123416066169739,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

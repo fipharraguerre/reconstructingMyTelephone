@@ -1,0 +1,379 @@
+{
+  "text": " I can feel it like me I'm lost and I can feel it like me I can feel it like me I'm lost and I can feel it like me I feel like I'm falling, I feel like I'm falling, I feel like I'm falling",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 36.3,
+      "text": " I can feel it like me I'm lost and I can feel it like me",
+      "tokens": [
+        50364,
+        286,
+        393,
+        841,
+        309,
+        411,
+        385,
+        286,
+        478,
+        2731,
+        293,
+        286,
+        393,
+        841,
+        309,
+        411,
+        385,
+        51352
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.7695582038477847,
+      "compression_ratio": 2.3541666666666665,
+      "no_speech_prob": 0.8569031357765198,
+      "words": [
+        {
+          "word": " I",
+          "start": 30.0,
+          "end": 30.08,
+          "probability": 0.16955751180648804
+        },
+        {
+          "word": " can",
+          "start": 30.08,
+          "end": 30.36,
+          "probability": 0.09695926308631897
+        },
+        {
+          "word": " feel",
+          "start": 30.36,
+          "end": 30.56,
+          "probability": 0.6969915628433228
+        },
+        {
+          "word": " it",
+          "start": 30.56,
+          "end": 33.84,
+          "probability": 0.4213413894176483
+        },
+        {
+          "word": " like",
+          "start": 33.84,
+          "end": 34.06,
+          "probability": 0.29087716341018677
+        },
+        {
+          "word": " me",
+          "start": 34.06,
+          "end": 34.38,
+          "probability": 0.3520568609237671
+        },
+        {
+          "word": " I'm",
+          "start": 34.38,
+          "end": 34.72,
+          "probability": 0.41842780262231827
+        },
+        {
+          "word": " lost",
+          "start": 34.72,
+          "end": 34.9,
+          "probability": 0.08101962506771088
+        },
+        {
+          "word": " and",
+          "start": 34.9,
+          "end": 35.16,
+          "probability": 0.5023223161697388
+        },
+        {
+          "word": " I",
+          "start": 35.16,
+          "end": 35.22,
+          "probability": 0.7285992503166199
+        },
+        {
+          "word": " can",
+          "start": 35.22,
+          "end": 35.56,
+          "probability": 0.6225250959396362
+        },
+        {
+          "word": " feel",
+          "start": 35.56,
+          "end": 35.72,
+          "probability": 0.7000337839126587
+        },
+        {
+          "word": " it",
+          "start": 35.72,
+          "end": 36.04,
+          "probability": 0.8267995119094849
+        },
+        {
+          "word": " like",
+          "start": 36.04,
+          "end": 36.3,
+          "probability": 0.49453067779541016
+        },
+        {
+          "word": " me",
+          "start": 36.3,
+          "end": 36.3,
+          "probability": 0.6040709614753723
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 36.3,
+      "end": 45.86,
+      "text": " I can feel it like me I'm lost and I can feel it like me",
+      "tokens": [
+        51352,
+        286,
+        393,
+        841,
+        309,
+        411,
+        385,
+        286,
+        478,
+        2731,
+        293,
+        286,
+        393,
+        841,
+        309,
+        411,
+        385,
+        51752
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.7695582038477847,
+      "compression_ratio": 2.3541666666666665,
+      "no_speech_prob": 0.8569031357765198,
+      "words": [
+        {
+          "word": " I",
+          "start": 36.3,
+          "end": 36.36,
+          "probability": 0.766200602054596
+        },
+        {
+          "word": " can",
+          "start": 36.36,
+          "end": 36.9,
+          "probability": 0.40768471360206604
+        },
+        {
+          "word": " feel",
+          "start": 36.9,
+          "end": 37.02,
+          "probability": 0.9618095755577087
+        },
+        {
+          "word": " it",
+          "start": 37.02,
+          "end": 37.62,
+          "probability": 0.9296691417694092
+        },
+        {
+          "word": " like",
+          "start": 37.62,
+          "end": 37.78,
+          "probability": 0.9513915777206421
+        },
+        {
+          "word": " me",
+          "start": 37.78,
+          "end": 39.62,
+          "probability": 0.7152268290519714
+        },
+        {
+          "word": " I'm",
+          "start": 39.62,
+          "end": 41.48,
+          "probability": 0.6801643669605255
+        },
+        {
+          "word": " lost",
+          "start": 41.48,
+          "end": 41.64,
+          "probability": 0.9450181126594543
+        },
+        {
+          "word": " and",
+          "start": 41.64,
+          "end": 42.02,
+          "probability": 0.9881235957145691
+        },
+        {
+          "word": " I",
+          "start": 42.02,
+          "end": 42.24,
+          "probability": 0.9745436906814575
+        },
+        {
+          "word": " can",
+          "start": 42.24,
+          "end": 42.58,
+          "probability": 0.9934858679771423
+        },
+        {
+          "word": " feel",
+          "start": 42.58,
+          "end": 42.68,
+          "probability": 0.9926692247390747
+        },
+        {
+          "word": " it",
+          "start": 42.68,
+          "end": 44.58,
+          "probability": 0.9952024221420288
+        },
+        {
+          "word": " like",
+          "start": 44.58,
+          "end": 44.58,
+          "probability": 0.9787040948867798
+        },
+        {
+          "word": " me",
+          "start": 44.58,
+          "end": 45.86,
+          "probability": 0.9858850240707397
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 4586,
+      "start": 45.86,
+      "end": 58.38,
+      "text": " I feel like I'm falling, I feel like I'm falling, I feel like I'm falling",
+      "tokens": [
+        50364,
+        286,
+        841,
+        411,
+        286,
+        478,
+        7440,
+        11,
+        286,
+        841,
+        411,
+        286,
+        478,
+        7440,
+        11,
+        286,
+        841,
+        411,
+        286,
+        478,
+        7440,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5238386237103007,
+      "compression_ratio": 2.0277777777777777,
+      "no_speech_prob": 0.5500718355178833,
+      "words": [
+        {
+          "word": " I",
+          "start": 45.86,
+          "end": 47.12,
+          "probability": 0.4968585968017578
+        },
+        {
+          "word": " feel",
+          "start": 47.12,
+          "end": 47.78,
+          "probability": 0.3338579535484314
+        },
+        {
+          "word": " like",
+          "start": 47.78,
+          "end": 48.48,
+          "probability": 0.3468816578388214
+        },
+        {
+          "word": " I'm",
+          "start": 48.48,
+          "end": 49.72,
+          "probability": 0.4304162561893463
+        },
+        {
+          "word": " falling,",
+          "start": 49.72,
+          "end": 49.72,
+          "probability": 0.8001753687858582
+        },
+        {
+          "word": " I",
+          "start": 49.72,
+          "end": 50.36,
+          "probability": 0.9077252149581909
+        },
+        {
+          "word": " feel",
+          "start": 50.36,
+          "end": 51.06,
+          "probability": 0.4443095028400421
+        },
+        {
+          "word": " like",
+          "start": 51.06,
+          "end": 52.52,
+          "probability": 0.993563175201416
+        },
+        {
+          "word": " I'm",
+          "start": 52.52,
+          "end": 52.88,
+          "probability": 0.9714512526988983
+        },
+        {
+          "word": " falling,",
+          "start": 52.88,
+          "end": 52.88,
+          "probability": 0.9963884353637695
+        },
+        {
+          "word": " I",
+          "start": 52.88,
+          "end": 53.82,
+          "probability": 0.9587020874023438
+        },
+        {
+          "word": " feel",
+          "start": 53.82,
+          "end": 55.04,
+          "probability": 0.8098700642585754
+        },
+        {
+          "word": " like",
+          "start": 55.04,
+          "end": 55.96,
+          "probability": 0.9967278242111206
+        },
+        {
+          "word": " I'm",
+          "start": 55.96,
+          "end": 58.38,
+          "probability": 0.9572457671165466
+        },
+        {
+          "word": " falling",
+          "start": 58.38,
+          "end": 58.38,
+          "probability": 0.9882340431213379
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,2514 @@
+{
+  "text": " I dreamed last night that we were in a restaurant. One of those really small dark ones, like a basement wall. A horrible black leather sofa. And we were talking for a long time and you only left. There's so much talking. It's getting really late. Maybe they stopped serving food. They text the restaurant people, maybe the chef, maybe the owner as well. They text back, but they close at quarter past eleven. And it's quarter to eleven. It's ten forty five. And it's dark and complete silence. We're hungry. I can smell croissants. They smell really good. Really sweet, really sweet smell. It's a really sweet smell. It's a really sweet smell of croissants. Stop texting me. I can't have them for dinner, can I? That's what I think. In my head. I don't know. But I can see them as well. I can see the croissants. I don't even like croissants that much, I think. I'm very hungry. And I'm hungry now too, so it's really hard to concentrate. We get up, text the restaurant people, said they close at eleven fifteen. It's night. Quarter to eleven. Dark and complete silence. We're hungry. I can smell croissants. I can't have them for dinner, can I? They smell good. We get up. In those kind of small basement restaurants. And we can't really see the kitchen or anyone. Restaurant, talking. You on the left. So much talking, it's getting late. Thank you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 12.52,
+      "end": 16.08,
+      "text": " I dreamed last night that we were in a restaurant.",
+      "tokens": [
+        50364,
+        286,
+        26726,
+        1036,
+        1818,
+        300,
+        321,
+        645,
+        294,
+        257,
+        6383,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.544400151570638,
+      "compression_ratio": 0.8928571428571429,
+      "no_speech_prob": 0.2870301902294159,
+      "words": [
+        {
+          "word": " I",
+          "start": 12.52,
+          "end": 13.18,
+          "probability": 0.2682233452796936
+        },
+        {
+          "word": " dreamed",
+          "start": 13.18,
+          "end": 13.84,
+          "probability": 0.4826931953430176
+        },
+        {
+          "word": " last",
+          "start": 13.84,
+          "end": 14.24,
+          "probability": 0.9736319184303284
+        },
+        {
+          "word": " night",
+          "start": 14.24,
+          "end": 14.5,
+          "probability": 0.9989833235740662
+        },
+        {
+          "word": " that",
+          "start": 14.5,
+          "end": 14.74,
+          "probability": 0.8441506028175354
+        },
+        {
+          "word": " we",
+          "start": 14.74,
+          "end": 14.9,
+          "probability": 0.9530322551727295
+        },
+        {
+          "word": " were",
+          "start": 14.9,
+          "end": 14.9,
+          "probability": 0.7661743760108948
+        },
+        {
+          "word": " in",
+          "start": 14.9,
+          "end": 15.04,
+          "probability": 0.9846352338790894
+        },
+        {
+          "word": " a",
+          "start": 15.04,
+          "end": 15.12,
+          "probability": 0.9788491725921631
+        },
+        {
+          "word": " restaurant.",
+          "start": 15.12,
+          "end": 16.08,
+          "probability": 0.9944344162940979
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 1608,
+      "start": 16.08,
+      "end": 27.52,
+      "text": " One of those really small dark ones, like a basement wall.",
+      "tokens": [
+        50364,
+        1485,
+        295,
+        729,
+        534,
+        1359,
+        2877,
+        2306,
+        11,
+        411,
+        257,
+        16893,
+        2929,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46828517913818357,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.278778076171875,
+      "words": [
+        {
+          "word": " One",
+          "start": 16.08,
+          "end": 18.46,
+          "probability": 0.20425614714622498
+        },
+        {
+          "word": " of",
+          "start": 18.46,
+          "end": 18.72,
+          "probability": 0.9869728684425354
+        },
+        {
+          "word": " those",
+          "start": 18.72,
+          "end": 19.36,
+          "probability": 0.9732468128204346
+        },
+        {
+          "word": " really",
+          "start": 19.36,
+          "end": 21.04,
+          "probability": 0.9502938985824585
+        },
+        {
+          "word": " small",
+          "start": 21.04,
+          "end": 22.38,
+          "probability": 0.47965776920318604
+        },
+        {
+          "word": " dark",
+          "start": 22.38,
+          "end": 23.76,
+          "probability": 0.5233510136604309
+        },
+        {
+          "word": " ones,",
+          "start": 23.76,
+          "end": 24.5,
+          "probability": 0.845138669013977
+        },
+        {
+          "word": " like",
+          "start": 24.78,
+          "end": 24.98,
+          "probability": 0.42034435272216797
+        },
+        {
+          "word": " a",
+          "start": 24.98,
+          "end": 25.02,
+          "probability": 0.9532300233840942
+        },
+        {
+          "word": " basement",
+          "start": 25.02,
+          "end": 26.26,
+          "probability": 0.9933556318283081
+        },
+        {
+          "word": " wall.",
+          "start": 26.26,
+          "end": 27.52,
+          "probability": 0.5570871233940125
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 1608,
+      "start": 29.42,
+      "end": 33.16,
+      "text": " A horrible black leather sofa.",
+      "tokens": [
+        50964,
+        316,
+        9263,
+        2211,
+        12821,
+        28668,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46828517913818357,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.278778076171875,
+      "words": [
+        {
+          "word": " A",
+          "start": 29.42,
+          "end": 30.24,
+          "probability": 0.14355961978435516
+        },
+        {
+          "word": " horrible",
+          "start": 30.24,
+          "end": 30.94,
+          "probability": 0.583596408367157
+        },
+        {
+          "word": " black",
+          "start": 30.94,
+          "end": 31.58,
+          "probability": 0.4000244140625
+        },
+        {
+          "word": " leather",
+          "start": 31.58,
+          "end": 32.76,
+          "probability": 0.41566041111946106
+        },
+        {
+          "word": " sofa.",
+          "start": 32.76,
+          "end": 33.16,
+          "probability": 0.6786049604415894
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 1608,
+      "start": 34.66,
+      "end": 42.4,
+      "text": " And we were talking for a long time and you only left.",
+      "tokens": [
+        51264,
+        400,
+        321,
+        645,
+        1417,
+        337,
+        257,
+        938,
+        565,
+        293,
+        291,
+        787,
+        1411,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46828517913818357,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.278778076171875,
+      "words": [
+        {
+          "word": " And",
+          "start": 34.66,
+          "end": 36.02,
+          "probability": 0.8131232261657715
+        },
+        {
+          "word": " we",
+          "start": 36.02,
+          "end": 36.82,
+          "probability": 0.4311947226524353
+        },
+        {
+          "word": " were",
+          "start": 36.82,
+          "end": 37.26,
+          "probability": 0.330734521150589
+        },
+        {
+          "word": " talking",
+          "start": 37.26,
+          "end": 37.26,
+          "probability": 0.9890900254249573
+        },
+        {
+          "word": " for",
+          "start": 37.26,
+          "end": 39.5,
+          "probability": 0.853236734867096
+        },
+        {
+          "word": " a",
+          "start": 39.5,
+          "end": 39.68,
+          "probability": 0.9858965277671814
+        },
+        {
+          "word": " long",
+          "start": 39.68,
+          "end": 39.98,
+          "probability": 0.9954730868339539
+        },
+        {
+          "word": " time",
+          "start": 39.98,
+          "end": 40.52,
+          "probability": 0.9973107576370239
+        },
+        {
+          "word": " and",
+          "start": 40.52,
+          "end": 41.1,
+          "probability": 0.5232628583908081
+        },
+        {
+          "word": " you",
+          "start": 41.1,
+          "end": 41.58,
+          "probability": 0.905949056148529
+        },
+        {
+          "word": " only",
+          "start": 41.58,
+          "end": 41.92,
+          "probability": 0.8503623008728027
+        },
+        {
+          "word": " left.",
+          "start": 41.92,
+          "end": 42.4,
+          "probability": 0.8981752395629883
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 4240,
+      "start": 43.5,
+      "end": 47.28,
+      "text": " There's so much talking. It's getting really late.",
+      "tokens": [
+        50414,
+        821,
+        311,
+        370,
+        709,
+        1417,
+        13,
+        467,
+        311,
+        1242,
+        534,
+        3469,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1950235196522304,
+      "compression_ratio": 1.4620689655172414,
+      "no_speech_prob": 0.060071155428886414,
+      "words": [
+        {
+          "word": " There's",
+          "start": 43.5,
+          "end": 44.3,
+          "probability": 0.3747497797012329
+        },
+        {
+          "word": " so",
+          "start": 44.3,
+          "end": 44.52,
+          "probability": 0.9771497845649719
+        },
+        {
+          "word": " much",
+          "start": 44.52,
+          "end": 44.8,
+          "probability": 0.9896049499511719
+        },
+        {
+          "word": " talking.",
+          "start": 44.8,
+          "end": 45.2,
+          "probability": 0.9845904111862183
+        },
+        {
+          "word": " It's",
+          "start": 45.7,
+          "end": 46.06,
+          "probability": 0.9710111916065216
+        },
+        {
+          "word": " getting",
+          "start": 46.06,
+          "end": 46.3,
+          "probability": 0.9943450689315796
+        },
+        {
+          "word": " really",
+          "start": 46.3,
+          "end": 46.76,
+          "probability": 0.9895016551017761
+        },
+        {
+          "word": " late.",
+          "start": 46.76,
+          "end": 47.28,
+          "probability": 0.9983096122741699
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4240,
+      "start": 50.04,
+      "end": 52.38,
+      "text": " Maybe they stopped serving food.",
+      "tokens": [
+        50714,
+        2704,
+        436,
+        5936,
+        8148,
+        1755,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1950235196522304,
+      "compression_ratio": 1.4620689655172414,
+      "no_speech_prob": 0.060071155428886414,
+      "words": [
+        {
+          "word": " Maybe",
+          "start": 50.04,
+          "end": 50.26,
+          "probability": 0.9758942127227783
+        },
+        {
+          "word": " they",
+          "start": 50.26,
+          "end": 50.56,
+          "probability": 0.9927005171775818
+        },
+        {
+          "word": " stopped",
+          "start": 50.56,
+          "end": 50.94,
+          "probability": 0.8571919202804565
+        },
+        {
+          "word": " serving",
+          "start": 50.94,
+          "end": 51.36,
+          "probability": 0.9909342527389526
+        },
+        {
+          "word": " food.",
+          "start": 51.36,
+          "end": 52.38,
+          "probability": 0.9059785008430481
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4240,
+      "start": 54.08,
+      "end": 61.1,
+      "text": " They text the restaurant people, maybe the chef, maybe the owner as well.",
+      "tokens": [
+        50914,
+        814,
+        2487,
+        264,
+        6383,
+        561,
+        11,
+        1310,
+        264,
+        10530,
+        11,
+        1310,
+        264,
+        7289,
+        382,
+        731,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1950235196522304,
+      "compression_ratio": 1.4620689655172414,
+      "no_speech_prob": 0.060071155428886414,
+      "words": [
+        {
+          "word": " They",
+          "start": 54.08,
+          "end": 54.44,
+          "probability": 0.6610230803489685
+        },
+        {
+          "word": " text",
+          "start": 54.44,
+          "end": 54.8,
+          "probability": 0.9379013776779175
+        },
+        {
+          "word": " the",
+          "start": 54.8,
+          "end": 55.0,
+          "probability": 0.9755989909172058
+        },
+        {
+          "word": " restaurant",
+          "start": 55.0,
+          "end": 55.58,
+          "probability": 0.9859160780906677
+        },
+        {
+          "word": " people,",
+          "start": 55.58,
+          "end": 56.16,
+          "probability": 0.9636107087135315
+        },
+        {
+          "word": " maybe",
+          "start": 56.74,
+          "end": 57.1,
+          "probability": 0.9797900915145874
+        },
+        {
+          "word": " the",
+          "start": 57.1,
+          "end": 57.4,
+          "probability": 0.9909207820892334
+        },
+        {
+          "word": " chef,",
+          "start": 57.4,
+          "end": 57.9,
+          "probability": 0.9714056849479675
+        },
+        {
+          "word": " maybe",
+          "start": 58.72,
+          "end": 59.12,
+          "probability": 0.9843130111694336
+        },
+        {
+          "word": " the",
+          "start": 59.12,
+          "end": 59.46,
+          "probability": 0.7543055415153503
+        },
+        {
+          "word": " owner",
+          "start": 59.46,
+          "end": 59.74,
+          "probability": 0.9316661953926086
+        },
+        {
+          "word": " as",
+          "start": 59.74,
+          "end": 60.1,
+          "probability": 0.9650044441223145
+        },
+        {
+          "word": " well.",
+          "start": 60.1,
+          "end": 61.1,
+          "probability": 0.9924668669700623
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 4240,
+      "start": 62.16,
+      "end": 66.46,
+      "text": " They text back, but they close at quarter past eleven.",
+      "tokens": [
+        51314,
+        814,
+        2487,
+        646,
+        11,
+        457,
+        436,
+        1998,
+        412,
+        6555,
+        1791,
+        21090,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1950235196522304,
+      "compression_ratio": 1.4620689655172414,
+      "no_speech_prob": 0.060071155428886414,
+      "words": [
+        {
+          "word": " They",
+          "start": 62.16,
+          "end": 62.6,
+          "probability": 0.7940137386322021
+        },
+        {
+          "word": " text",
+          "start": 62.6,
+          "end": 63.0,
+          "probability": 0.9933229088783264
+        },
+        {
+          "word": " back,",
+          "start": 63.0,
+          "end": 63.58,
+          "probability": 0.9985095858573914
+        },
+        {
+          "word": " but",
+          "start": 63.92,
+          "end": 64.04,
+          "probability": 0.7424303293228149
+        },
+        {
+          "word": " they",
+          "start": 64.04,
+          "end": 64.34,
+          "probability": 0.9822542071342468
+        },
+        {
+          "word": " close",
+          "start": 64.34,
+          "end": 64.58,
+          "probability": 0.9668156504631042
+        },
+        {
+          "word": " at",
+          "start": 64.58,
+          "end": 65.14,
+          "probability": 0.7611079812049866
+        },
+        {
+          "word": " quarter",
+          "start": 65.14,
+          "end": 65.5,
+          "probability": 0.7313333749771118
+        },
+        {
+          "word": " past",
+          "start": 65.5,
+          "end": 65.82,
+          "probability": 0.9940105080604553
+        },
+        {
+          "word": " eleven.",
+          "start": 65.82,
+          "end": 66.46,
+          "probability": 0.7994897961616516
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6646,
+      "start": 69.96,
+      "end": 75.3,
+      "text": " And it's quarter to eleven. It's ten forty five.",
+      "tokens": [
+        50414,
+        400,
+        309,
+        311,
+        6555,
+        281,
+        21090,
+        13,
+        467,
+        311,
+        2064,
+        15815,
+        1732,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21483929477520844,
+      "compression_ratio": 1.5333333333333334,
+      "no_speech_prob": 0.05111873149871826,
+      "words": [
+        {
+          "word": " And",
+          "start": 69.96,
+          "end": 70.88,
+          "probability": 0.3360038697719574
+        },
+        {
+          "word": " it's",
+          "start": 70.88,
+          "end": 71.8,
+          "probability": 0.9344232082366943
+        },
+        {
+          "word": " quarter",
+          "start": 71.8,
+          "end": 72.16,
+          "probability": 0.6095762848854065
+        },
+        {
+          "word": " to",
+          "start": 72.16,
+          "end": 72.46,
+          "probability": 0.9332195520401001
+        },
+        {
+          "word": " eleven.",
+          "start": 72.46,
+          "end": 73.04,
+          "probability": 0.6371379494667053
+        },
+        {
+          "word": " It's",
+          "start": 73.68,
+          "end": 74.02,
+          "probability": 0.9465439319610596
+        },
+        {
+          "word": " ten",
+          "start": 74.02,
+          "end": 74.32,
+          "probability": 0.5767951607704163
+        },
+        {
+          "word": " forty",
+          "start": 74.32,
+          "end": 74.76,
+          "probability": 0.8367100954055786
+        },
+        {
+          "word": " five.",
+          "start": 74.76,
+          "end": 75.3,
+          "probability": 0.6481078267097473
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 6646,
+      "start": 76.04,
+      "end": 78.7,
+      "text": " And it's dark and complete silence.",
+      "tokens": [
+        50814,
+        400,
+        309,
+        311,
+        2877,
+        293,
+        3566,
+        12239,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21483929477520844,
+      "compression_ratio": 1.5333333333333334,
+      "no_speech_prob": 0.05111873149871826,
+      "words": [
+        {
+          "word": " And",
+          "start": 76.04,
+          "end": 76.38,
+          "probability": 0.6847451329231262
+        },
+        {
+          "word": " it's",
+          "start": 76.38,
+          "end": 76.62,
+          "probability": 0.9925805628299713
+        },
+        {
+          "word": " dark",
+          "start": 76.62,
+          "end": 77.04,
+          "probability": 0.997395396232605
+        },
+        {
+          "word": " and",
+          "start": 77.04,
+          "end": 77.58,
+          "probability": 0.9220939874649048
+        },
+        {
+          "word": " complete",
+          "start": 77.58,
+          "end": 78.1,
+          "probability": 0.4100852906703949
+        },
+        {
+          "word": " silence.",
+          "start": 78.1,
+          "end": 78.7,
+          "probability": 0.998054027557373
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 6646,
+      "start": 79.5,
+      "end": 80.44,
+      "text": " We're hungry.",
+      "tokens": [
+        51014,
+        492,
+        434,
+        8067,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21483929477520844,
+      "compression_ratio": 1.5333333333333334,
+      "no_speech_prob": 0.05111873149871826,
+      "words": [
+        {
+          "word": " We're",
+          "start": 79.5,
+          "end": 79.78,
+          "probability": 0.6526007056236267
+        },
+        {
+          "word": " hungry.",
+          "start": 79.78,
+          "end": 80.44,
+          "probability": 0.9987378716468811
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 6646,
+      "start": 81.46,
+      "end": 82.94,
+      "text": " I can smell croissants.",
+      "tokens": [
+        51114,
+        286,
+        393,
+        4316,
+        4848,
+        891,
+        1719,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21483929477520844,
+      "compression_ratio": 1.5333333333333334,
+      "no_speech_prob": 0.05111873149871826,
+      "words": [
+        {
+          "word": " I",
+          "start": 81.46,
+          "end": 81.64,
+          "probability": 0.4758257567882538
+        },
+        {
+          "word": " can",
+          "start": 81.64,
+          "end": 81.9,
+          "probability": 0.9964348077774048
+        },
+        {
+          "word": " smell",
+          "start": 81.9,
+          "end": 82.2,
+          "probability": 0.9972825050354004
+        },
+        {
+          "word": " croissants.",
+          "start": 82.2,
+          "end": 82.94,
+          "probability": 0.8904039859771729
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 6646,
+      "start": 84.04,
+      "end": 85.42,
+      "text": " They smell really good.",
+      "tokens": [
+        51214,
+        814,
+        4316,
+        534,
+        665,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21483929477520844,
+      "compression_ratio": 1.5333333333333334,
+      "no_speech_prob": 0.05111873149871826,
+      "words": [
+        {
+          "word": " They",
+          "start": 84.04,
+          "end": 84.44,
+          "probability": 0.9651633501052856
+        },
+        {
+          "word": " smell",
+          "start": 84.44,
+          "end": 84.62,
+          "probability": 0.9962641596794128
+        },
+        {
+          "word": " really",
+          "start": 84.62,
+          "end": 85.02,
+          "probability": 0.9984254837036133
+        },
+        {
+          "word": " good.",
+          "start": 85.02,
+          "end": 85.42,
+          "probability": 0.9991942048072815
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 6646,
+      "start": 87.56,
+      "end": 90.78,
+      "text": " Really sweet, really sweet smell.",
+      "tokens": [
+        51364,
+        4083,
+        3844,
+        11,
+        534,
+        3844,
+        4316,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21483929477520844,
+      "compression_ratio": 1.5333333333333334,
+      "no_speech_prob": 0.05111873149871826,
+      "words": [
+        {
+          "word": " Really",
+          "start": 87.56,
+          "end": 88.48,
+          "probability": 0.3277108073234558
+        },
+        {
+          "word": " sweet,",
+          "start": 88.48,
+          "end": 89.18,
+          "probability": 0.9965755343437195
+        },
+        {
+          "word": " really",
+          "start": 89.18,
+          "end": 89.94,
+          "probability": 0.9792430400848389
+        },
+        {
+          "word": " sweet",
+          "start": 89.94,
+          "end": 90.32,
+          "probability": 0.9981386661529541
+        },
+        {
+          "word": " smell.",
+          "start": 90.32,
+          "end": 90.78,
+          "probability": 0.9810659289360046
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 6646,
+      "start": 91.96,
+      "end": 93.54,
+      "text": " It's a really sweet smell.",
+      "tokens": [
+        51614,
+        467,
+        311,
+        257,
+        534,
+        3844,
+        4316,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21483929477520844,
+      "compression_ratio": 1.5333333333333334,
+      "no_speech_prob": 0.05111873149871826,
+      "words": [
+        {
+          "word": " It's",
+          "start": 91.96,
+          "end": 92.28,
+          "probability": 0.9677907228469849
+        },
+        {
+          "word": " a",
+          "start": 92.28,
+          "end": 92.38,
+          "probability": 0.9473165273666382
+        },
+        {
+          "word": " really",
+          "start": 92.38,
+          "end": 92.7,
+          "probability": 0.9964962601661682
+        },
+        {
+          "word": " sweet",
+          "start": 92.7,
+          "end": 93.18,
+          "probability": 0.9989597797393799
+        },
+        {
+          "word": " smell.",
+          "start": 93.18,
+          "end": 93.54,
+          "probability": 0.7947232127189636
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 9354,
+      "start": 95.38000000000001,
+      "end": 99.54,
+      "text": " It's a really sweet smell of croissants.",
+      "tokens": [
+        50414,
+        467,
+        311,
+        257,
+        534,
+        3844,
+        4316,
+        295,
+        4848,
+        891,
+        1719,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1659213129679362,
+      "compression_ratio": 1.4130434782608696,
+      "no_speech_prob": 0.005612507462501526,
+      "words": [
+        {
+          "word": " It's",
+          "start": 95.38000000000001,
+          "end": 96.04,
+          "probability": 0.6498475074768066
+        },
+        {
+          "word": " a",
+          "start": 96.04,
+          "end": 96.12,
+          "probability": 0.9484313726425171
+        },
+        {
+          "word": " really",
+          "start": 96.12,
+          "end": 96.52,
+          "probability": 0.9937970638275146
+        },
+        {
+          "word": " sweet",
+          "start": 96.52,
+          "end": 96.9,
+          "probability": 0.9985116124153137
+        },
+        {
+          "word": " smell",
+          "start": 96.9,
+          "end": 97.46,
+          "probability": 0.9959495067596436
+        },
+        {
+          "word": " of",
+          "start": 97.46,
+          "end": 98.58,
+          "probability": 0.6844778656959534
+        },
+        {
+          "word": " croissants.",
+          "start": 98.58,
+          "end": 99.54,
+          "probability": 0.8774993022282919
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 9354,
+      "start": 105.02,
+      "end": 106.3,
+      "text": " Stop texting me.",
+      "tokens": [
+        50914,
+        5535,
+        29897,
+        385,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1659213129679362,
+      "compression_ratio": 1.4130434782608696,
+      "no_speech_prob": 0.005612507462501526,
+      "words": [
+        {
+          "word": " Stop",
+          "start": 105.02,
+          "end": 105.38,
+          "probability": 0.8186337351799011
+        },
+        {
+          "word": " texting",
+          "start": 105.38,
+          "end": 105.96,
+          "probability": 0.9984675049781799
+        },
+        {
+          "word": " me.",
+          "start": 105.96,
+          "end": 106.3,
+          "probability": 0.7770156264305115
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 9354,
+      "start": 111.2,
+      "end": 114.0,
+      "text": " I can't have them for dinner, can I?",
+      "tokens": [
+        51264,
+        286,
+        393,
+        380,
+        362,
+        552,
+        337,
+        6148,
+        11,
+        393,
+        286,
+        30,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1659213129679362,
+      "compression_ratio": 1.4130434782608696,
+      "no_speech_prob": 0.005612507462501526,
+      "words": [
+        {
+          "word": " I",
+          "start": 111.2,
+          "end": 111.86,
+          "probability": 0.8577786087989807
+        },
+        {
+          "word": " can't",
+          "start": 111.86,
+          "end": 112.28,
+          "probability": 0.9270372688770294
+        },
+        {
+          "word": " have",
+          "start": 112.28,
+          "end": 112.54,
+          "probability": 0.991331934928894
+        },
+        {
+          "word": " them",
+          "start": 112.54,
+          "end": 112.72,
+          "probability": 0.9808932542800903
+        },
+        {
+          "word": " for",
+          "start": 112.72,
+          "end": 112.92,
+          "probability": 0.9939397573471069
+        },
+        {
+          "word": " dinner,",
+          "start": 112.92,
+          "end": 113.28,
+          "probability": 0.9897539615631104
+        },
+        {
+          "word": " can",
+          "start": 113.58,
+          "end": 113.66,
+          "probability": 0.9959697723388672
+        },
+        {
+          "word": " I?",
+          "start": 113.66,
+          "end": 114.0,
+          "probability": 0.995248019695282
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 9354,
+      "start": 114.34,
+      "end": 115.54,
+      "text": " That's what I think.",
+      "tokens": [
+        51364,
+        663,
+        311,
+        437,
+        286,
+        519,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1659213129679362,
+      "compression_ratio": 1.4130434782608696,
+      "no_speech_prob": 0.005612507462501526,
+      "words": [
+        {
+          "word": " That's",
+          "start": 114.34,
+          "end": 114.72,
+          "probability": 0.979978084564209
+        },
+        {
+          "word": " what",
+          "start": 114.72,
+          "end": 114.84,
+          "probability": 0.9984024167060852
+        },
+        {
+          "word": " I",
+          "start": 114.84,
+          "end": 115.14,
+          "probability": 0.98078852891922
+        },
+        {
+          "word": " think.",
+          "start": 115.14,
+          "end": 115.54,
+          "probability": 0.9894329905509949
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 9354,
+      "start": 116.66,
+      "end": 117.48,
+      "text": " In my head.",
+      "tokens": [
+        51464,
+        682,
+        452,
+        1378,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1659213129679362,
+      "compression_ratio": 1.4130434782608696,
+      "no_speech_prob": 0.005612507462501526,
+      "words": [
+        {
+          "word": " In",
+          "start": 116.66,
+          "end": 116.68,
+          "probability": 0.19181549549102783
+        },
+        {
+          "word": " my",
+          "start": 116.68,
+          "end": 116.94,
+          "probability": 0.9946775436401367
+        },
+        {
+          "word": " head.",
+          "start": 116.94,
+          "end": 117.48,
+          "probability": 0.9995087385177612
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 9354,
+      "start": 118.44,
+      "end": 118.92,
+      "text": " I don't know.",
+      "tokens": [
+        51564,
+        286,
+        500,
+        380,
+        458,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1659213129679362,
+      "compression_ratio": 1.4130434782608696,
+      "no_speech_prob": 0.005612507462501526,
+      "words": [
+        {
+          "word": " I",
+          "start": 118.44,
+          "end": 118.62,
+          "probability": 0.665191650390625
+        },
+        {
+          "word": " don't",
+          "start": 118.62,
+          "end": 118.62,
+          "probability": 0.7076937556266785
+        },
+        {
+          "word": " know.",
+          "start": 118.62,
+          "end": 118.92,
+          "probability": 0.9979276657104492
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 9354,
+      "start": 119.06,
+      "end": 120.62,
+      "text": " But I can see them as well.",
+      "tokens": [
+        51614,
+        583,
+        286,
+        393,
+        536,
+        552,
+        382,
+        731,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1659213129679362,
+      "compression_ratio": 1.4130434782608696,
+      "no_speech_prob": 0.005612507462501526,
+      "words": [
+        {
+          "word": " But",
+          "start": 119.06,
+          "end": 119.24,
+          "probability": 0.5777668952941895
+        },
+        {
+          "word": " I",
+          "start": 119.24,
+          "end": 119.28,
+          "probability": 0.9917213320732117
+        },
+        {
+          "word": " can",
+          "start": 119.28,
+          "end": 119.62,
+          "probability": 0.9977201819419861
+        },
+        {
+          "word": " see",
+          "start": 119.62,
+          "end": 119.8,
+          "probability": 0.9937553405761719
+        },
+        {
+          "word": " them",
+          "start": 119.8,
+          "end": 120.04,
+          "probability": 0.9942680597305298
+        },
+        {
+          "word": " as",
+          "start": 120.04,
+          "end": 120.3,
+          "probability": 0.9755555391311646
+        },
+        {
+          "word": " well.",
+          "start": 120.3,
+          "end": 120.62,
+          "probability": 0.9962320923805237
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 9354,
+      "start": 120.74,
+      "end": 122.12,
+      "text": " I can see the croissants.",
+      "tokens": [
+        51714,
+        286,
+        393,
+        536,
+        264,
+        4848,
+        891,
+        1719,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1659213129679362,
+      "compression_ratio": 1.4130434782608696,
+      "no_speech_prob": 0.005612507462501526,
+      "words": [
+        {
+          "word": " I",
+          "start": 120.74,
+          "end": 120.84,
+          "probability": 0.9949550032615662
+        },
+        {
+          "word": " can",
+          "start": 120.84,
+          "end": 121.14,
+          "probability": 0.9984618425369263
+        },
+        {
+          "word": " see",
+          "start": 121.14,
+          "end": 121.3,
+          "probability": 0.9956990480422974
+        },
+        {
+          "word": " the",
+          "start": 121.3,
+          "end": 121.56,
+          "probability": 0.9967436790466309
+        },
+        {
+          "word": " croissants.",
+          "start": 121.56,
+          "end": 122.12,
+          "probability": 0.9934296011924744
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 12212,
+      "start": 123.12,
+      "end": 126.54,
+      "text": " I don't even like croissants that much, I think.",
+      "tokens": [
+        50414,
+        286,
+        500,
+        380,
+        754,
+        411,
+        4848,
+        891,
+        1719,
+        300,
+        709,
+        11,
+        286,
+        519,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15165054475938952,
+      "compression_ratio": 1.4024390243902438,
+      "no_speech_prob": 0.0027506838086992502,
+      "words": [
+        {
+          "word": " I",
+          "start": 123.05999999999999,
+          "end": 123.46,
+          "probability": 0.8710357546806335
+        },
+        {
+          "word": " don't",
+          "start": 123.46,
+          "end": 123.68,
+          "probability": 0.9663415551185608
+        },
+        {
+          "word": " even",
+          "start": 123.68,
+          "end": 124.06,
+          "probability": 0.9834766983985901
+        },
+        {
+          "word": " like",
+          "start": 124.06,
+          "end": 124.38,
+          "probability": 0.9835451245307922
+        },
+        {
+          "word": " croissants",
+          "start": 124.38,
+          "end": 124.96,
+          "probability": 0.741129532456398
+        },
+        {
+          "word": " that",
+          "start": 124.96,
+          "end": 125.32,
+          "probability": 0.9717036485671997
+        },
+        {
+          "word": " much,",
+          "start": 125.32,
+          "end": 125.58,
+          "probability": 0.9979190230369568
+        },
+        {
+          "word": " I",
+          "start": 125.58,
+          "end": 125.8,
+          "probability": 0.8204734325408936
+        },
+        {
+          "word": " think.",
+          "start": 125.8,
+          "end": 126.54,
+          "probability": 0.9907712936401367
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 12212,
+      "start": 127.78,
+      "end": 128.96,
+      "text": " I'm very hungry.",
+      "tokens": [
+        50614,
+        286,
+        478,
+        588,
+        8067,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15165054475938952,
+      "compression_ratio": 1.4024390243902438,
+      "no_speech_prob": 0.0027506838086992502,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 127.78,
+          "end": 128.06,
+          "probability": 0.855773389339447
+        },
+        {
+          "word": " very",
+          "start": 128.06,
+          "end": 128.44,
+          "probability": 0.9805387258529663
+        },
+        {
+          "word": " hungry.",
+          "start": 128.44,
+          "end": 128.96,
+          "probability": 0.9972484707832336
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 12212,
+      "start": 129.74,
+      "end": 133.2,
+      "text": " And I'm hungry now too, so it's really hard to concentrate.",
+      "tokens": [
+        50714,
+        400,
+        286,
+        478,
+        8067,
+        586,
+        886,
+        11,
+        370,
+        309,
+        311,
+        534,
+        1152,
+        281,
+        18089,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15165054475938952,
+      "compression_ratio": 1.4024390243902438,
+      "no_speech_prob": 0.0027506838086992502,
+      "words": [
+        {
+          "word": " And",
+          "start": 129.74,
+          "end": 129.9,
+          "probability": 0.9455736875534058
+        },
+        {
+          "word": " I'm",
+          "start": 129.9,
+          "end": 130.08,
+          "probability": 0.9856243431568146
+        },
+        {
+          "word": " hungry",
+          "start": 130.08,
+          "end": 130.42,
+          "probability": 0.9943008422851562
+        },
+        {
+          "word": " now",
+          "start": 130.42,
+          "end": 130.78,
+          "probability": 0.9924191236495972
+        },
+        {
+          "word": " too,",
+          "start": 130.78,
+          "end": 131.2,
+          "probability": 0.6696673035621643
+        },
+        {
+          "word": " so",
+          "start": 131.32,
+          "end": 131.62,
+          "probability": 0.601847767829895
+        },
+        {
+          "word": " it's",
+          "start": 131.62,
+          "end": 131.96,
+          "probability": 0.9381024837493896
+        },
+        {
+          "word": " really",
+          "start": 131.96,
+          "end": 132.32,
+          "probability": 0.9280555844306946
+        },
+        {
+          "word": " hard",
+          "start": 132.32,
+          "end": 132.52,
+          "probability": 0.9975605010986328
+        },
+        {
+          "word": " to",
+          "start": 132.52,
+          "end": 132.74,
+          "probability": 0.9940358400344849
+        },
+        {
+          "word": " concentrate.",
+          "start": 132.74,
+          "end": 133.2,
+          "probability": 0.9981064796447754
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 12212,
+      "start": 133.86,
+      "end": 137.92,
+      "text": " We get up, text the restaurant people,",
+      "tokens": [
+        50914,
+        492,
+        483,
+        493,
+        11,
+        2487,
+        264,
+        6383,
+        561,
+        11,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15165054475938952,
+      "compression_ratio": 1.4024390243902438,
+      "no_speech_prob": 0.0027506838086992502,
+      "words": [
+        {
+          "word": " We",
+          "start": 133.86,
+          "end": 134.3,
+          "probability": 0.9846498370170593
+        },
+        {
+          "word": " get",
+          "start": 134.3,
+          "end": 134.7,
+          "probability": 0.9824884533882141
+        },
+        {
+          "word": " up,",
+          "start": 134.7,
+          "end": 135.62,
+          "probability": 0.9950984120368958
+        },
+        {
+          "word": " text",
+          "start": 136.26,
+          "end": 136.38,
+          "probability": 0.929989218711853
+        },
+        {
+          "word": " the",
+          "start": 136.38,
+          "end": 136.66,
+          "probability": 0.5692055225372314
+        },
+        {
+          "word": " restaurant",
+          "start": 136.66,
+          "end": 137.26,
+          "probability": 0.9774174690246582
+        },
+        {
+          "word": " people,",
+          "start": 137.26,
+          "end": 137.92,
+          "probability": 0.9542974829673767
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 12212,
+      "start": 138.42,
+      "end": 141.14,
+      "text": " said they close at eleven fifteen.",
+      "tokens": [
+        51164,
+        848,
+        436,
+        1998,
+        412,
+        21090,
+        18126,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15165054475938952,
+      "compression_ratio": 1.4024390243902438,
+      "no_speech_prob": 0.0027506838086992502,
+      "words": [
+        {
+          "word": " said",
+          "start": 138.42,
+          "end": 138.58,
+          "probability": 0.5650743842124939
+        },
+        {
+          "word": " they",
+          "start": 138.58,
+          "end": 138.96,
+          "probability": 0.9779620170593262
+        },
+        {
+          "word": " close",
+          "start": 138.96,
+          "end": 139.28,
+          "probability": 0.5328521728515625
+        },
+        {
+          "word": " at",
+          "start": 139.28,
+          "end": 139.82,
+          "probability": 0.9892818927764893
+        },
+        {
+          "word": " eleven",
+          "start": 139.82,
+          "end": 140.4,
+          "probability": 0.22950617969036102
+        },
+        {
+          "word": " fifteen.",
+          "start": 140.4,
+          "end": 141.14,
+          "probability": 0.3683525621891022
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 12212,
+      "start": 142.74,
+      "end": 143.9,
+      "text": " It's night.",
+      "tokens": [
+        51364,
+        467,
+        311,
+        1818,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15165054475938952,
+      "compression_ratio": 1.4024390243902438,
+      "no_speech_prob": 0.0027506838086992502,
+      "words": [
+        {
+          "word": " It's",
+          "start": 142.74,
+          "end": 143.14,
+          "probability": 0.9893353283405304
+        },
+        {
+          "word": " night.",
+          "start": 143.14,
+          "end": 143.9,
+          "probability": 0.9949429631233215
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 12212,
+      "start": 146.62,
+      "end": 148.3,
+      "text": " Quarter to eleven.",
+      "tokens": [
+        51564,
+        43794,
+        281,
+        21090,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15165054475938952,
+      "compression_ratio": 1.4024390243902438,
+      "no_speech_prob": 0.0027506838086992502,
+      "words": [
+        {
+          "word": " Quarter",
+          "start": 146.62,
+          "end": 147.1,
+          "probability": 0.9280818700790405
+        },
+        {
+          "word": " to",
+          "start": 147.1,
+          "end": 147.36,
+          "probability": 0.9770026206970215
+        },
+        {
+          "word": " eleven.",
+          "start": 147.36,
+          "end": 148.3,
+          "probability": 0.9715963006019592
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 14830,
+      "start": 149.54000000000002,
+      "end": 152.02,
+      "text": " Dark and complete silence.",
+      "tokens": [
+        50414,
+        9563,
+        293,
+        3566,
+        12239,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12994422750957943,
+      "compression_ratio": 1.3082706766917294,
+      "no_speech_prob": 0.005844492465257645,
+      "words": [
+        {
+          "word": " Dark",
+          "start": 149.54000000000002,
+          "end": 150.46,
+          "probability": 0.1140003353357315
+        },
+        {
+          "word": " and",
+          "start": 150.46,
+          "end": 150.74,
+          "probability": 0.9501917362213135
+        },
+        {
+          "word": " complete",
+          "start": 150.74,
+          "end": 151.2,
+          "probability": 0.9774873852729797
+        },
+        {
+          "word": " silence.",
+          "start": 151.2,
+          "end": 152.02,
+          "probability": 0.9932047128677368
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 14830,
+      "start": 153.82,
+      "end": 154.52,
+      "text": " We're hungry.",
+      "tokens": [
+        50614,
+        492,
+        434,
+        8067,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12994422750957943,
+      "compression_ratio": 1.3082706766917294,
+      "no_speech_prob": 0.005844492465257645,
+      "words": [
+        {
+          "word": " We're",
+          "start": 153.82,
+          "end": 153.96,
+          "probability": 0.8568098843097687
+        },
+        {
+          "word": " hungry.",
+          "start": 153.96,
+          "end": 154.52,
+          "probability": 0.9935575127601624
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 14830,
+      "start": 155.08,
+      "end": 156.5,
+      "text": " I can smell croissants.",
+      "tokens": [
+        50664,
+        286,
+        393,
+        4316,
+        4848,
+        891,
+        1719,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12994422750957943,
+      "compression_ratio": 1.3082706766917294,
+      "no_speech_prob": 0.005844492465257645,
+      "words": [
+        {
+          "word": " I",
+          "start": 155.08,
+          "end": 155.2,
+          "probability": 0.3509696125984192
+        },
+        {
+          "word": " can",
+          "start": 155.2,
+          "end": 155.36,
+          "probability": 0.9938442707061768
+        },
+        {
+          "word": " smell",
+          "start": 155.36,
+          "end": 155.7,
+          "probability": 0.9876156449317932
+        },
+        {
+          "word": " croissants.",
+          "start": 155.7,
+          "end": 156.5,
+          "probability": 0.9942389130592346
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 14830,
+      "start": 158.72,
+      "end": 161.64,
+      "text": " I can't have them for dinner, can I?",
+      "tokens": [
+        50864,
+        286,
+        393,
+        380,
+        362,
+        552,
+        337,
+        6148,
+        11,
+        393,
+        286,
+        30,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12994422750957943,
+      "compression_ratio": 1.3082706766917294,
+      "no_speech_prob": 0.005844492465257645,
+      "words": [
+        {
+          "word": " I",
+          "start": 158.72,
+          "end": 158.84,
+          "probability": 0.9633644819259644
+        },
+        {
+          "word": " can't",
+          "start": 158.84,
+          "end": 159.26,
+          "probability": 0.9929457008838654
+        },
+        {
+          "word": " have",
+          "start": 159.26,
+          "end": 159.38,
+          "probability": 0.8970268964767456
+        },
+        {
+          "word": " them",
+          "start": 159.38,
+          "end": 159.62,
+          "probability": 0.9851862788200378
+        },
+        {
+          "word": " for",
+          "start": 159.62,
+          "end": 159.86,
+          "probability": 0.9968816041946411
+        },
+        {
+          "word": " dinner,",
+          "start": 159.86,
+          "end": 160.48,
+          "probability": 0.9945810437202454
+        },
+        {
+          "word": " can",
+          "start": 161.08,
+          "end": 161.4,
+          "probability": 0.9871993660926819
+        },
+        {
+          "word": " I?",
+          "start": 161.4,
+          "end": 161.64,
+          "probability": 0.9819136261940002
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 14830,
+      "start": 162.96,
+      "end": 164.28,
+      "text": " They smell good.",
+      "tokens": [
+        51064,
+        814,
+        4316,
+        665,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12994422750957943,
+      "compression_ratio": 1.3082706766917294,
+      "no_speech_prob": 0.005844492465257645,
+      "words": [
+        {
+          "word": " They",
+          "start": 162.96,
+          "end": 163.38,
+          "probability": 0.7464959025382996
+        },
+        {
+          "word": " smell",
+          "start": 163.38,
+          "end": 163.64,
+          "probability": 0.9952713847160339
+        },
+        {
+          "word": " good.",
+          "start": 163.64,
+          "end": 164.28,
+          "probability": 0.9976632595062256
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 14830,
+      "start": 166.46,
+      "end": 168.74,
+      "text": " We get up.",
+      "tokens": [
+        51264,
+        492,
+        483,
+        493,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12994422750957943,
+      "compression_ratio": 1.3082706766917294,
+      "no_speech_prob": 0.005844492465257645,
+      "words": [
+        {
+          "word": " We",
+          "start": 166.46,
+          "end": 166.72,
+          "probability": 0.9011436104774475
+        },
+        {
+          "word": " get",
+          "start": 166.72,
+          "end": 167.0,
+          "probability": 0.9955710768699646
+        },
+        {
+          "word": " up.",
+          "start": 167.0,
+          "end": 168.74,
+          "probability": 0.9986633062362671
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 14830,
+      "start": 169.02,
+      "end": 174.04,
+      "text": " In those kind of small basement restaurants.",
+      "tokens": [
+        51364,
+        682,
+        729,
+        733,
+        295,
+        1359,
+        16893,
+        11486,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12994422750957943,
+      "compression_ratio": 1.3082706766917294,
+      "no_speech_prob": 0.005844492465257645,
+      "words": [
+        {
+          "word": " In",
+          "start": 169.02,
+          "end": 169.62,
+          "probability": 0.47664445638656616
+        },
+        {
+          "word": " those",
+          "start": 169.62,
+          "end": 170.06,
+          "probability": 0.9452874064445496
+        },
+        {
+          "word": " kind",
+          "start": 170.06,
+          "end": 170.32,
+          "probability": 0.893764078617096
+        },
+        {
+          "word": " of",
+          "start": 170.32,
+          "end": 172.0,
+          "probability": 0.9968518614768982
+        },
+        {
+          "word": " small",
+          "start": 172.0,
+          "end": 172.6,
+          "probability": 0.8783823847770691
+        },
+        {
+          "word": " basement",
+          "start": 172.6,
+          "end": 173.34,
+          "probability": 0.9514842629432678
+        },
+        {
+          "word": " restaurants.",
+          "start": 173.34,
+          "end": 174.04,
+          "probability": 0.9756374359130859
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 17404,
+      "start": 175.18,
+      "end": 179.5,
+      "text": " And we can't really see the kitchen or anyone.",
+      "tokens": [
+        50414,
+        400,
+        321,
+        393,
+        380,
+        534,
+        536,
+        264,
+        6525,
+        420,
+        2878,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2115291294298674,
+      "compression_ratio": 1.1650485436893203,
+      "no_speech_prob": 0.009134707041084766,
+      "words": [
+        {
+          "word": " And",
+          "start": 175.18,
+          "end": 175.98,
+          "probability": 0.2098858654499054
+        },
+        {
+          "word": " we",
+          "start": 175.98,
+          "end": 176.08,
+          "probability": 0.2591017484664917
+        },
+        {
+          "word": " can't",
+          "start": 176.08,
+          "end": 176.4,
+          "probability": 0.9717846214771271
+        },
+        {
+          "word": " really",
+          "start": 176.4,
+          "end": 176.7,
+          "probability": 0.990260660648346
+        },
+        {
+          "word": " see",
+          "start": 176.7,
+          "end": 176.88,
+          "probability": 0.9955458641052246
+        },
+        {
+          "word": " the",
+          "start": 176.88,
+          "end": 177.06,
+          "probability": 0.9946040511131287
+        },
+        {
+          "word": " kitchen",
+          "start": 177.06,
+          "end": 177.54,
+          "probability": 0.9947356581687927
+        },
+        {
+          "word": " or",
+          "start": 177.54,
+          "end": 177.9,
+          "probability": 0.7844774723052979
+        },
+        {
+          "word": " anyone.",
+          "start": 177.9,
+          "end": 179.5,
+          "probability": 0.9894254207611084
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 17404,
+      "start": 186.18,
+      "end": 188.2,
+      "text": " Restaurant, talking.",
+      "tokens": [
+        50964,
+        38870,
+        11,
+        1417,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2115291294298674,
+      "compression_ratio": 1.1650485436893203,
+      "no_speech_prob": 0.009134707041084766,
+      "words": [
+        {
+          "word": " Restaurant,",
+          "start": 186.18,
+          "end": 186.98,
+          "probability": 0.5241659283638
+        },
+        {
+          "word": " talking.",
+          "start": 187.74,
+          "end": 188.2,
+          "probability": 0.8305533528327942
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 17404,
+      "start": 188.96,
+      "end": 190.3,
+      "text": " You on the left.",
+      "tokens": [
+        51064,
+        509,
+        322,
+        264,
+        1411,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2115291294298674,
+      "compression_ratio": 1.1650485436893203,
+      "no_speech_prob": 0.009134707041084766,
+      "words": [
+        {
+          "word": " You",
+          "start": 188.96,
+          "end": 189.26,
+          "probability": 0.9746521711349487
+        },
+        {
+          "word": " on",
+          "start": 189.26,
+          "end": 189.52,
+          "probability": 0.6577519178390503
+        },
+        {
+          "word": " the",
+          "start": 189.52,
+          "end": 189.74,
+          "probability": 0.9861499667167664
+        },
+        {
+          "word": " left.",
+          "start": 189.74,
+          "end": 190.3,
+          "probability": 0.9966996312141418
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 17404,
+      "start": 191.0,
+      "end": 193.64,
+      "text": " So much talking, it's getting late.",
+      "tokens": [
+        51164,
+        407,
+        709,
+        1417,
+        11,
+        309,
+        311,
+        1242,
+        3469,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2115291294298674,
+      "compression_ratio": 1.1650485436893203,
+      "no_speech_prob": 0.009134707041084766,
+      "words": [
+        {
+          "word": " So",
+          "start": 191.0,
+          "end": 191.36,
+          "probability": 0.965344250202179
+        },
+        {
+          "word": " much",
+          "start": 191.36,
+          "end": 191.68,
+          "probability": 0.9983416795730591
+        },
+        {
+          "word": " talking,",
+          "start": 191.68,
+          "end": 192.08,
+          "probability": 0.9898326396942139
+        },
+        {
+          "word": " it's",
+          "start": 192.4,
+          "end": 192.76,
+          "probability": 0.9082009792327881
+        },
+        {
+          "word": " getting",
+          "start": 192.76,
+          "end": 193.16,
+          "probability": 0.996731162071228
+        },
+        {
+          "word": " late.",
+          "start": 193.16,
+          "end": 193.64,
+          "probability": 0.9929621815681458
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 23404,
+      "start": 237.0,
+      "end": 238.42,
+      "text": " Thank you.",
+      "tokens": [
+        50364,
+        1044,
+        291,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7750418186187744,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.9549729824066162,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 237.0,
+          "end": 238.4,
+          "probability": 0.010908556170761585
+        },
+        {
+          "word": " you.",
+          "start": 238.4,
+          "end": 238.42,
+          "probability": 0.9719165563583374
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

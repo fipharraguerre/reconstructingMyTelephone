@@ -1,0 +1,1360 @@
+{
+  "text": "asterbabieshut.com Where does the knife go? singing has someone already gotten started? well, maybe better don't have that i don't see anything danger I can't take it, I can't take it, I can't take it. See? Yeah, I can't work for dinner or beer. I can't tell you anything. I can't tell you anything. Oh, I'm a fool. I'm a fool. I'm getting worse and worse. Every time I see a mistake, I'm like, I'm sorry, I'm sorry. I'm sorry, I'm sorry. I don't know what to do. I'm going to do it all over again. So, I think it's okay. I'm a little bit of a fool. I'm a fool. I'm a fool.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 13.9,
+      "end": 15.38,
+      "text": "asterbabieshut.com",
+      "tokens": [
+        50391,
+        1727,
+        24301,
+        530,
+        71,
+        325,
+        13,
+        1112,
+        50535
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.784188312032948,
+      "compression_ratio": 0.8717948717948718,
+      "no_speech_prob": 0.4358147382736206,
+      "words": [
+        {
+          "word": "asterbabieshut",
+          "start": 13.9,
+          "end": 15.3,
+          "probability": 0.1702638442648549
+        },
+        {
+          "word": ".com",
+          "start": 15.3,
+          "end": 15.38,
+          "probability": 0.46004730463027954
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 15.38,
+      "end": 15.38,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.784188312032948,
+      "compression_ratio": 0.8717948717948718,
+      "no_speech_prob": 0.4358147382736206,
+      "words": []
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 15.38,
+      "end": 15.38,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.784188312032948,
+      "compression_ratio": 0.8717948717948718,
+      "no_speech_prob": 0.4358147382736206,
+      "words": []
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.38,
+      "end": 15.38,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.784188312032948,
+      "compression_ratio": 0.8717948717948718,
+      "no_speech_prob": 0.4358147382736206,
+      "words": []
+    },
+    {
+      "id": 4,
+      "seek": 1538,
+      "start": 21.120000000000005,
+      "end": 23.62,
+      "text": " Where does the knife go?",
+      "tokens": [
+        50364,
+        2305,
+        775,
+        264,
+        7976,
+        352,
+        30,
+        50715
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.553596963687819,
+      "compression_ratio": 1.2252252252252251,
+      "no_speech_prob": 0.43629321455955505,
+      "words": [
+        {
+          "word": " Where",
+          "start": 21.120000000000005,
+          "end": 22.240000000000002,
+          "probability": 0.0008032541954889894
+        },
+        {
+          "word": " does",
+          "start": 22.240000000000002,
+          "end": 23.36,
+          "probability": 0.013497120700776577
+        },
+        {
+          "word": " the",
+          "start": 23.36,
+          "end": 23.4,
+          "probability": 0.17606227099895477
+        },
+        {
+          "word": " knife",
+          "start": 23.4,
+          "end": 23.62,
+          "probability": 0.0038965768180787563
+        },
+        {
+          "word": " go?",
+          "start": 23.62,
+          "end": 23.62,
+          "probability": 0.6422093510627747
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 1538,
+      "start": 25.6,
+      "end": 26.16,
+      "text": " singing",
+      "tokens": [
+        50715,
+        6726,
+        50915
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.553596963687819,
+      "compression_ratio": 1.2252252252252251,
+      "no_speech_prob": 0.43629321455955505,
+      "words": [
+        {
+          "word": " singing",
+          "start": 25.6,
+          "end": 26.16,
+          "probability": 2.5957333491533063e-06
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 1538,
+      "start": 26.16,
+      "end": 26.16,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.553596963687819,
+      "compression_ratio": 1.2252252252252251,
+      "no_speech_prob": 0.43629321455955505,
+      "words": []
+    },
+    {
+      "id": 7,
+      "seek": 1538,
+      "start": 26.16,
+      "end": 28.3,
+      "text": " has someone already gotten started?",
+      "tokens": [
+        51165,
+        575,
+        1580,
+        1217,
+        5768,
+        1409,
+        30,
+        51264
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.553596963687819,
+      "compression_ratio": 1.2252252252252251,
+      "no_speech_prob": 0.43629321455955505,
+      "words": [
+        {
+          "word": " has",
+          "start": 26.16,
+          "end": 26.84,
+          "probability": 5.247715671430342e-05
+        },
+        {
+          "word": " someone",
+          "start": 26.84,
+          "end": 27.82,
+          "probability": 0.02615411765873432
+        },
+        {
+          "word": " already",
+          "start": 27.82,
+          "end": 28.12,
+          "probability": 0.022030416876077652
+        },
+        {
+          "word": " gotten",
+          "start": 28.12,
+          "end": 28.12,
+          "probability": 0.004384291358292103
+        },
+        {
+          "word": " started?",
+          "start": 28.12,
+          "end": 28.3,
+          "probability": 0.0007396230939775705
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 1538,
+      "start": 28.76,
+      "end": 30.56,
+      "text": " well, maybe",
+      "tokens": [
+        51264,
+        731,
+        11,
+        1310,
+        51414
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.553596963687819,
+      "compression_ratio": 1.2252252252252251,
+      "no_speech_prob": 0.43629321455955505,
+      "words": [
+        {
+          "word": " well,",
+          "start": 28.76,
+          "end": 28.96,
+          "probability": 0.0033992447424679995
+        },
+        {
+          "word": " maybe",
+          "start": 28.96,
+          "end": 30.56,
+          "probability": 0.0839611142873764
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 1538,
+      "start": 30.56,
+      "end": 30.62,
+      "text": " better",
+      "tokens": [
+        51414,
+        1101,
+        51544
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.553596963687819,
+      "compression_ratio": 1.2252252252252251,
+      "no_speech_prob": 0.43629321455955505,
+      "words": [
+        {
+          "word": " better",
+          "start": 30.56,
+          "end": 30.62,
+          "probability": 0.0006993769784457982
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 1538,
+      "start": 30.62,
+      "end": 33.54,
+      "text": " don't have that",
+      "tokens": [
+        51544,
+        500,
+        380,
+        362,
+        300,
+        51647
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.553596963687819,
+      "compression_ratio": 1.2252252252252251,
+      "no_speech_prob": 0.43629321455955505,
+      "words": [
+        {
+          "word": " don't",
+          "start": 30.62,
+          "end": 32.12,
+          "probability": 0.494960380718112
+        },
+        {
+          "word": " have",
+          "start": 32.12,
+          "end": 32.32,
+          "probability": 0.05757984519004822
+        },
+        {
+          "word": " that",
+          "start": 32.32,
+          "end": 33.54,
+          "probability": 0.009349829517304897
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 1538,
+      "start": 33.54,
+      "end": 38.26,
+      "text": " i don't see anything",
+      "tokens": [
+        51647,
+        741,
+        500,
+        380,
+        536,
+        1340,
+        51741
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.553596963687819,
+      "compression_ratio": 1.2252252252252251,
+      "no_speech_prob": 0.43629321455955505,
+      "words": [
+        {
+          "word": " i",
+          "start": 33.54,
+          "end": 33.54,
+          "probability": 0.0013479326153174043
+        },
+        {
+          "word": " don't",
+          "start": 33.54,
+          "end": 33.54,
+          "probability": 0.5248911324888468
+        },
+        {
+          "word": " see",
+          "start": 33.54,
+          "end": 33.54,
+          "probability": 0.029157288372516632
+        },
+        {
+          "word": " anything",
+          "start": 33.54,
+          "end": 38.26,
+          "probability": 0.4348222017288208
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 1538,
+      "start": 38.26,
+      "end": 38.6,
+      "text": " danger",
+      "tokens": [
+        51741,
+        4330,
+        51803
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.553596963687819,
+      "compression_ratio": 1.2252252252252251,
+      "no_speech_prob": 0.43629321455955505,
+      "words": [
+        {
+          "word": " danger",
+          "start": 38.26,
+          "end": 38.6,
+          "probability": 0.0008839320507831872
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 3860,
+      "start": 41.18,
+      "end": 43.62,
+      "text": " I can't take it, I can't take it, I can't take it.",
+      "tokens": [
+        50364,
+        286,
+        393,
+        380,
+        747,
+        309,
+        11,
+        286,
+        393,
+        380,
+        747,
+        309,
+        11,
+        286,
+        393,
+        380,
+        747,
+        309,
+        13,
+        50614
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.7678538813735499,
+      "compression_ratio": 1.7263157894736842,
+      "no_speech_prob": 0.7681964635848999,
+      "words": [
+        {
+          "word": " I",
+          "start": 41.18,
+          "end": 41.72,
+          "probability": 0.03886204585433006
+        },
+        {
+          "word": " can't",
+          "start": 41.72,
+          "end": 41.98,
+          "probability": 0.35631851851940155
+        },
+        {
+          "word": " take",
+          "start": 41.98,
+          "end": 41.98,
+          "probability": 0.009484891779720783
+        },
+        {
+          "word": " it,",
+          "start": 41.98,
+          "end": 42.1,
+          "probability": 0.6396962404251099
+        },
+        {
+          "word": " I",
+          "start": 42.16,
+          "end": 42.44,
+          "probability": 0.5410290360450745
+        },
+        {
+          "word": " can't",
+          "start": 42.44,
+          "end": 42.44,
+          "probability": 0.5449033193290234
+        },
+        {
+          "word": " take",
+          "start": 42.44,
+          "end": 42.96,
+          "probability": 0.6579002141952515
+        },
+        {
+          "word": " it,",
+          "start": 42.96,
+          "end": 42.96,
+          "probability": 0.8658242225646973
+        },
+        {
+          "word": " I",
+          "start": 42.96,
+          "end": 43.22,
+          "probability": 0.8174828886985779
+        },
+        {
+          "word": " can't",
+          "start": 43.22,
+          "end": 43.22,
+          "probability": 0.806526243686676
+        },
+        {
+          "word": " take",
+          "start": 43.22,
+          "end": 43.36,
+          "probability": 0.6741903424263
+        },
+        {
+          "word": " it.",
+          "start": 43.36,
+          "end": 43.62,
+          "probability": 0.9020037651062012
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 3860,
+      "start": 46.12,
+      "end": 46.5,
+      "text": " See?",
+      "tokens": [
+        50764,
+        3008,
+        30,
+        50814
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.7678538813735499,
+      "compression_ratio": 1.7263157894736842,
+      "no_speech_prob": 0.7681964635848999,
+      "words": [
+        {
+          "word": " See?",
+          "start": 46.12,
+          "end": 46.5,
+          "probability": 0.2122480571269989
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 3860,
+      "start": 51.800000000000004,
+      "end": 54.08,
+      "text": " Yeah, I can't work for dinner or beer.",
+      "tokens": [
+        51064,
+        865,
+        11,
+        286,
+        393,
+        380,
+        589,
+        337,
+        6148,
+        420,
+        8795,
+        13,
+        51164
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.7678538813735499,
+      "compression_ratio": 1.7263157894736842,
+      "no_speech_prob": 0.7681964635848999,
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 51.800000000000004,
+          "end": 52.34,
+          "probability": 0.13807907700538635
+        },
+        {
+          "word": " I",
+          "start": 52.4,
+          "end": 52.4,
+          "probability": 0.919395923614502
+        },
+        {
+          "word": " can't",
+          "start": 52.4,
+          "end": 52.72,
+          "probability": 0.5610227882862091
+        },
+        {
+          "word": " work",
+          "start": 52.72,
+          "end": 53.14,
+          "probability": 0.48586466908454895
+        },
+        {
+          "word": " for",
+          "start": 53.14,
+          "end": 53.38,
+          "probability": 0.6521881222724915
+        },
+        {
+          "word": " dinner",
+          "start": 53.38,
+          "end": 53.64,
+          "probability": 0.6148691773414612
+        },
+        {
+          "word": " or",
+          "start": 53.64,
+          "end": 53.86,
+          "probability": 0.10162407159805298
+        },
+        {
+          "word": " beer.",
+          "start": 53.86,
+          "end": 54.08,
+          "probability": 0.7419175505638123
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 3860,
+      "start": 54.6,
+      "end": 55.66,
+      "text": " I can't tell you anything.",
+      "tokens": [
+        51164,
+        286,
+        393,
+        380,
+        980,
+        291,
+        1340,
+        13,
+        51264
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.7678538813735499,
+      "compression_ratio": 1.7263157894736842,
+      "no_speech_prob": 0.7681964635848999,
+      "words": [
+        {
+          "word": " I",
+          "start": 54.6,
+          "end": 54.64,
+          "probability": 0.6782362461090088
+        },
+        {
+          "word": " can't",
+          "start": 54.64,
+          "end": 55.02,
+          "probability": 0.8933984339237213
+        },
+        {
+          "word": " tell",
+          "start": 55.02,
+          "end": 55.66,
+          "probability": 0.12962396442890167
+        },
+        {
+          "word": " you",
+          "start": 55.66,
+          "end": 55.66,
+          "probability": 0.35162389278411865
+        },
+        {
+          "word": " anything.",
+          "start": 55.66,
+          "end": 55.66,
+          "probability": 0.1989135593175888
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 3860,
+      "start": 56.24,
+      "end": 57.3,
+      "text": " I can't tell you anything.",
+      "tokens": [
+        51264,
+        286,
+        393,
+        380,
+        980,
+        291,
+        1340,
+        13,
+        51364
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.7678538813735499,
+      "compression_ratio": 1.7263157894736842,
+      "no_speech_prob": 0.7681964635848999,
+      "words": [
+        {
+          "word": " I",
+          "start": 56.24,
+          "end": 56.44,
+          "probability": 0.6814621090888977
+        },
+        {
+          "word": " can't",
+          "start": 56.44,
+          "end": 56.62,
+          "probability": 0.8548732101917267
+        },
+        {
+          "word": " tell",
+          "start": 56.62,
+          "end": 56.82,
+          "probability": 0.2093082219362259
+        },
+        {
+          "word": " you",
+          "start": 56.82,
+          "end": 57.06,
+          "probability": 0.852060854434967
+        },
+        {
+          "word": " anything.",
+          "start": 57.06,
+          "end": 57.3,
+          "probability": 0.6714168787002563
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 3860,
+      "start": 59.76,
+      "end": 60.94,
+      "text": " Oh, I'm a fool.",
+      "tokens": [
+        51414,
+        876,
+        11,
+        286,
+        478,
+        257,
+        7979,
+        13,
+        51514
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.7678538813735499,
+      "compression_ratio": 1.7263157894736842,
+      "no_speech_prob": 0.7681964635848999,
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 59.76,
+          "end": 60.3,
+          "probability": 0.32951846718788147
+        },
+        {
+          "word": " I'm",
+          "start": 60.3,
+          "end": 60.58,
+          "probability": 0.5989885628223419
+        },
+        {
+          "word": " a",
+          "start": 60.58,
+          "end": 60.66,
+          "probability": 0.10410282015800476
+        },
+        {
+          "word": " fool.",
+          "start": 60.66,
+          "end": 60.94,
+          "probability": 0.17904101312160492
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 6094,
+      "start": 66.1,
+      "end": 66.96,
+      "text": " I'm a fool.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        257,
+        7979,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7571446062570595,
+      "compression_ratio": 1.5769230769230769,
+      "no_speech_prob": 0.04601167142391205,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 66.1,
+          "end": 66.78,
+          "probability": 0.14448702335357666
+        },
+        {
+          "word": " a",
+          "start": 66.78,
+          "end": 66.78,
+          "probability": 0.018940851092338562
+        },
+        {
+          "word": " fool.",
+          "start": 66.78,
+          "end": 66.96,
+          "probability": 0.0010368487564846873
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 6094,
+      "start": 67.36,
+      "end": 68.66,
+      "text": " I'm getting worse and worse.",
+      "tokens": [
+        50614,
+        286,
+        478,
+        1242,
+        5324,
+        293,
+        5324,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7571446062570595,
+      "compression_ratio": 1.5769230769230769,
+      "no_speech_prob": 0.04601167142391205,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 67.36,
+          "end": 67.7,
+          "probability": 0.3439871296286583
+        },
+        {
+          "word": " getting",
+          "start": 67.7,
+          "end": 67.78,
+          "probability": 0.10657758265733719
+        },
+        {
+          "word": " worse",
+          "start": 67.78,
+          "end": 67.78,
+          "probability": 0.4270058572292328
+        },
+        {
+          "word": " and",
+          "start": 67.78,
+          "end": 68.02,
+          "probability": 0.4316433072090149
+        },
+        {
+          "word": " worse.",
+          "start": 68.02,
+          "end": 68.66,
+          "probability": 0.9810705184936523
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 6094,
+      "start": 69.54,
+      "end": 71.12,
+      "text": " Every time I see a mistake, I'm like,",
+      "tokens": [
+        50764,
+        2048,
+        565,
+        286,
+        536,
+        257,
+        6146,
+        11,
+        286,
+        478,
+        411,
+        11,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7571446062570595,
+      "compression_ratio": 1.5769230769230769,
+      "no_speech_prob": 0.04601167142391205,
+      "words": [
+        {
+          "word": " Every",
+          "start": 69.54,
+          "end": 69.92,
+          "probability": 0.12478381395339966
+        },
+        {
+          "word": " time",
+          "start": 69.92,
+          "end": 69.94,
+          "probability": 0.9052515625953674
+        },
+        {
+          "word": " I",
+          "start": 69.94,
+          "end": 70.22,
+          "probability": 0.4649025797843933
+        },
+        {
+          "word": " see",
+          "start": 70.22,
+          "end": 70.22,
+          "probability": 0.1657039225101471
+        },
+        {
+          "word": " a",
+          "start": 70.22,
+          "end": 70.22,
+          "probability": 0.6489126682281494
+        },
+        {
+          "word": " mistake,",
+          "start": 70.22,
+          "end": 70.62,
+          "probability": 0.1548432558774948
+        },
+        {
+          "word": " I'm",
+          "start": 70.92,
+          "end": 71.06,
+          "probability": 0.36073577404022217
+        },
+        {
+          "word": " like,",
+          "start": 71.06,
+          "end": 71.12,
+          "probability": 0.12653568387031555
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 6094,
+      "start": 71.74,
+      "end": 73.68,
+      "text": " I'm sorry, I'm sorry.",
+      "tokens": [
+        50864,
+        286,
+        478,
+        2597,
+        11,
+        286,
+        478,
+        2597,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7571446062570595,
+      "compression_ratio": 1.5769230769230769,
+      "no_speech_prob": 0.04601167142391205,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 71.74,
+          "end": 71.74,
+          "probability": 0.2150087933987379
+        },
+        {
+          "word": " sorry,",
+          "start": 71.74,
+          "end": 71.74,
+          "probability": 0.23414066433906555
+        },
+        {
+          "word": " I'm",
+          "start": 72.7,
+          "end": 73.28,
+          "probability": 0.5179183483123779
+        },
+        {
+          "word": " sorry.",
+          "start": 73.28,
+          "end": 73.68,
+          "probability": 0.48493093252182007
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 6094,
+      "start": 74.84,
+      "end": 75.52,
+      "text": " I'm sorry, I'm sorry.",
+      "tokens": [
+        50964,
+        286,
+        478,
+        2597,
+        11,
+        286,
+        478,
+        2597,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7571446062570595,
+      "compression_ratio": 1.5769230769230769,
+      "no_speech_prob": 0.04601167142391205,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 74.84,
+          "end": 75.52,
+          "probability": 0.40552949346601963
+        },
+        {
+          "word": " sorry,",
+          "start": 75.52,
+          "end": 75.52,
+          "probability": 0.19021247327327728
+        },
+        {
+          "word": " I'm",
+          "start": 75.52,
+          "end": 75.52,
+          "probability": 0.8355284929275513
+        },
+        {
+          "word": " sorry.",
+          "start": 75.52,
+          "end": 75.52,
+          "probability": 0.7277072072029114
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 6094,
+      "start": 75.52,
+      "end": 76.24,
+      "text": " I don't know what to do.",
+      "tokens": [
+        51064,
+        286,
+        500,
+        380,
+        458,
+        437,
+        281,
+        360,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7571446062570595,
+      "compression_ratio": 1.5769230769230769,
+      "no_speech_prob": 0.04601167142391205,
+      "words": [
+        {
+          "word": " I",
+          "start": 75.52,
+          "end": 75.52,
+          "probability": 0.6459222435951233
+        },
+        {
+          "word": " don't",
+          "start": 75.52,
+          "end": 75.52,
+          "probability": 0.7989634275436401
+        },
+        {
+          "word": " know",
+          "start": 75.52,
+          "end": 75.52,
+          "probability": 0.9492756128311157
+        },
+        {
+          "word": " what",
+          "start": 75.52,
+          "end": 75.68,
+          "probability": 0.9776841402053833
+        },
+        {
+          "word": " to",
+          "start": 75.68,
+          "end": 76.24,
+          "probability": 0.9453584551811218
+        },
+        {
+          "word": " do.",
+          "start": 76.24,
+          "end": 76.24,
+          "probability": 0.997153639793396
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 6094,
+      "start": 77.24,
+      "end": 78.76,
+      "text": " I'm going to do it all over again.",
+      "tokens": [
+        51164,
+        286,
+        478,
+        516,
+        281,
+        360,
+        309,
+        439,
+        670,
+        797,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7571446062570595,
+      "compression_ratio": 1.5769230769230769,
+      "no_speech_prob": 0.04601167142391205,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 77.24,
+          "end": 77.54,
+          "probability": 0.41535085439682007
+        },
+        {
+          "word": " going",
+          "start": 77.54,
+          "end": 77.6,
+          "probability": 0.17958159744739532
+        },
+        {
+          "word": " to",
+          "start": 77.6,
+          "end": 77.86,
+          "probability": 0.6135593056678772
+        },
+        {
+          "word": " do",
+          "start": 77.86,
+          "end": 77.98,
+          "probability": 0.14271855354309082
+        },
+        {
+          "word": " it",
+          "start": 77.98,
+          "end": 78.2,
+          "probability": 0.430618554353714
+        },
+        {
+          "word": " all",
+          "start": 78.2,
+          "end": 78.2,
+          "probability": 0.1475919783115387
+        },
+        {
+          "word": " over",
+          "start": 78.2,
+          "end": 78.52,
+          "probability": 0.7963408827781677
+        },
+        {
+          "word": " again.",
+          "start": 78.52,
+          "end": 78.76,
+          "probability": 0.97590172290802
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 6094,
+      "start": 87.03999999999999,
+      "end": 89.04,
+      "text": " So, I think it's okay.",
+      "tokens": [
+        51664,
+        407,
+        11,
+        286,
+        519,
+        309,
+        311,
+        1392,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7571446062570595,
+      "compression_ratio": 1.5769230769230769,
+      "no_speech_prob": 0.04601167142391205,
+      "words": [
+        {
+          "word": " So,",
+          "start": 87.03999999999999,
+          "end": 87.72,
+          "probability": 0.461697518825531
+        },
+        {
+          "word": " I",
+          "start": 87.72,
+          "end": 88.4,
+          "probability": 0.29869526624679565
+        },
+        {
+          "word": " think",
+          "start": 88.4,
+          "end": 88.54,
+          "probability": 0.4745788276195526
+        },
+        {
+          "word": " it's",
+          "start": 88.54,
+          "end": 89.04,
+          "probability": 0.49616996943950653
+        },
+        {
+          "word": " okay.",
+          "start": 89.04,
+          "end": 89.04,
+          "probability": 0.2223958820104599
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 8904,
+      "start": 89.04,
+      "end": 90.36,
+      "text": " I'm a little bit of a fool.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        257,
+        707,
+        857,
+        295,
+        257,
+        7979,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6819143295288086,
+      "compression_ratio": 0.8181818181818182,
+      "no_speech_prob": 0.3895096480846405,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 89.04,
+          "end": 89.4,
+          "probability": 0.0756742786616087
+        },
+        {
+          "word": " a",
+          "start": 89.4,
+          "end": 89.56,
+          "probability": 0.08201371133327484
+        },
+        {
+          "word": " little",
+          "start": 89.56,
+          "end": 89.7,
+          "probability": 0.10137298703193665
+        },
+        {
+          "word": " bit",
+          "start": 89.7,
+          "end": 89.7,
+          "probability": 0.4898849129676819
+        },
+        {
+          "word": " of",
+          "start": 89.7,
+          "end": 89.94,
+          "probability": 0.34066304564476013
+        },
+        {
+          "word": " a",
+          "start": 89.94,
+          "end": 90.34,
+          "probability": 0.7942745089530945
+        },
+        {
+          "word": " fool.",
+          "start": 90.34,
+          "end": 90.36,
+          "probability": 0.023478809744119644
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 11904,
+      "start": 145.88,
+      "end": 148.84,
+      "text": " I'm a fool.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        257,
+        7979,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8328784108161926,
+      "compression_ratio": 0.5789473684210527,
+      "no_speech_prob": 0.9784412384033203,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 145.88,
+          "end": 147.28,
+          "probability": 0.09601031220518053
+        },
+        {
+          "word": " a",
+          "start": 147.28,
+          "end": 147.3,
+          "probability": 0.021503036841750145
+        },
+        {
+          "word": " fool.",
+          "start": 147.3,
+          "end": 148.84,
+          "probability": 0.00725453021004796
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 14904,
+      "start": 159.14,
+      "end": 160.54,
+      "text": " I'm a fool.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        257,
+        7979,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.753256618976593,
+      "compression_ratio": 0.5789473684210527,
+      "no_speech_prob": 0.9640125632286072,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 159.14,
+          "end": 160.54,
+          "probability": 0.09235911793075502
+        },
+        {
+          "word": " a",
+          "start": 160.54,
+          "end": 160.54,
+          "probability": 0.031397316604852676
+        },
+        {
+          "word": " fool.",
+          "start": 160.54,
+          "end": 160.54,
+          "probability": 0.004603381268680096
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

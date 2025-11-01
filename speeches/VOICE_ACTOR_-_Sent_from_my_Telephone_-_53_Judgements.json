@@ -1,0 +1,1804 @@
+{
+  "text": " I am actually watching people. I am watching people walking in the street ahead of me. And one of them has a light blue shirt and white sneakers, white trainers. And they are both kind of running actually, but I don't know if they are chasing each other. Or if they are just both running and one is not waiting for the other. Or maybe it's all relative. You know, one is running as fast as he can, although it looks like jogging. And then the other one is running as fast as he can. And they are both not very fast. I can't see them anymore. I wonder what they were doing. Because of this neighborhood, I have made judgments to make. I bet they did something naughty. Now they are running away from consequences. That's naughty. Maybe they were grown men. Or maybe they were running to save someone's life. Or maybe one of them's friends or girlfriends were pregnant and was ready to give birth. I can get to the hospital really fast because it's just around the corner. So I guess that's why they didn't run very fast. Because it's all relative. Thank you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 25.52,
+      "end": 29.06,
+      "text": " I am actually watching people.",
+      "tokens": [
+        50364,
+        286,
+        669,
+        767,
+        1976,
+        561,
+        13,
+        51792
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7989036560058593,
+      "compression_ratio": 0.7894736842105263,
+      "no_speech_prob": 0.2716549038887024,
+      "words": [
+        {
+          "word": " I",
+          "start": 25.52,
+          "end": 26.68,
+          "probability": 0.6406315565109253
+        },
+        {
+          "word": " am",
+          "start": 26.68,
+          "end": 26.96,
+          "probability": 0.7226031422615051
+        },
+        {
+          "word": " actually",
+          "start": 26.96,
+          "end": 27.56,
+          "probability": 0.9894689321517944
+        },
+        {
+          "word": " watching",
+          "start": 27.56,
+          "end": 28.12,
+          "probability": 0.9965935349464417
+        },
+        {
+          "word": " people.",
+          "start": 28.12,
+          "end": 29.06,
+          "probability": 0.9988551139831543
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2906,
+      "start": 29.06,
+      "end": 32.54,
+      "text": " I am watching people walking in the street ahead of me.",
+      "tokens": [
+        50364,
+        286,
+        669,
+        1976,
+        561,
+        4494,
+        294,
+        264,
+        4838,
+        2286,
+        295,
+        385,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36289782206217447,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.5025100111961365,
+      "words": [
+        {
+          "word": " I",
+          "start": 29.06,
+          "end": 29.06,
+          "probability": 0.02580922842025757
+        },
+        {
+          "word": " am",
+          "start": 29.06,
+          "end": 29.1,
+          "probability": 0.020818563178181648
+        },
+        {
+          "word": " watching",
+          "start": 29.1,
+          "end": 29.1,
+          "probability": 0.002111207926645875
+        },
+        {
+          "word": " people",
+          "start": 29.1,
+          "end": 29.92,
+          "probability": 0.02088191919028759
+        },
+        {
+          "word": " walking",
+          "start": 29.92,
+          "end": 30.6,
+          "probability": 0.4727931022644043
+        },
+        {
+          "word": " in",
+          "start": 30.6,
+          "end": 31.06,
+          "probability": 0.39156490564346313
+        },
+        {
+          "word": " the",
+          "start": 31.06,
+          "end": 31.14,
+          "probability": 0.9250170588493347
+        },
+        {
+          "word": " street",
+          "start": 31.14,
+          "end": 31.48,
+          "probability": 0.9473075270652771
+        },
+        {
+          "word": " ahead",
+          "start": 31.48,
+          "end": 31.9,
+          "probability": 0.7258402109146118
+        },
+        {
+          "word": " of",
+          "start": 31.9,
+          "end": 32.06,
+          "probability": 0.9780574440956116
+        },
+        {
+          "word": " me.",
+          "start": 32.06,
+          "end": 32.54,
+          "probability": 0.9984824061393738
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2906,
+      "start": 32.86,
+      "end": 38.96,
+      "text": " And one of them has a light blue shirt and white sneakers, white trainers.",
+      "tokens": [
+        50564,
+        400,
+        472,
+        295,
+        552,
+        575,
+        257,
+        1442,
+        3344,
+        8336,
+        293,
+        2418,
+        35331,
+        11,
+        2418,
+        35393,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36289782206217447,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.5025100111961365,
+      "words": [
+        {
+          "word": " And",
+          "start": 32.86,
+          "end": 33.04,
+          "probability": 0.4852835237979889
+        },
+        {
+          "word": " one",
+          "start": 33.04,
+          "end": 33.2,
+          "probability": 0.9231489896774292
+        },
+        {
+          "word": " of",
+          "start": 33.2,
+          "end": 33.4,
+          "probability": 0.9905974268913269
+        },
+        {
+          "word": " them",
+          "start": 33.4,
+          "end": 33.54,
+          "probability": 0.9943853616714478
+        },
+        {
+          "word": " has",
+          "start": 33.54,
+          "end": 33.92,
+          "probability": 0.8119081258773804
+        },
+        {
+          "word": " a",
+          "start": 33.92,
+          "end": 34.12,
+          "probability": 0.9707382917404175
+        },
+        {
+          "word": " light",
+          "start": 34.12,
+          "end": 34.52,
+          "probability": 0.9873299598693848
+        },
+        {
+          "word": " blue",
+          "start": 34.52,
+          "end": 35.04,
+          "probability": 0.8731033802032471
+        },
+        {
+          "word": " shirt",
+          "start": 35.04,
+          "end": 35.6,
+          "probability": 0.9758768081665039
+        },
+        {
+          "word": " and",
+          "start": 35.6,
+          "end": 36.14,
+          "probability": 0.5375231504440308
+        },
+        {
+          "word": " white",
+          "start": 36.14,
+          "end": 36.64,
+          "probability": 0.8406579494476318
+        },
+        {
+          "word": " sneakers,",
+          "start": 36.64,
+          "end": 37.36,
+          "probability": 0.8937166929244995
+        },
+        {
+          "word": " white",
+          "start": 38.18,
+          "end": 38.46,
+          "probability": 0.9504886865615845
+        },
+        {
+          "word": " trainers.",
+          "start": 38.46,
+          "end": 38.96,
+          "probability": 0.9030203819274902
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2906,
+      "start": 40.0,
+      "end": 45.38,
+      "text": " And they are both kind of running actually, but I don't know if they are chasing each other.",
+      "tokens": [
+        50864,
+        400,
+        436,
+        366,
+        1293,
+        733,
+        295,
+        2614,
+        767,
+        11,
+        457,
+        286,
+        500,
+        380,
+        458,
+        498,
+        436,
+        366,
+        17876,
+        1184,
+        661,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36289782206217447,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.5025100111961365,
+      "words": [
+        {
+          "word": " And",
+          "start": 40.0,
+          "end": 40.22,
+          "probability": 0.9447978734970093
+        },
+        {
+          "word": " they",
+          "start": 40.22,
+          "end": 40.42,
+          "probability": 0.9865880608558655
+        },
+        {
+          "word": " are",
+          "start": 40.42,
+          "end": 40.42,
+          "probability": 0.35643884539604187
+        },
+        {
+          "word": " both",
+          "start": 40.42,
+          "end": 40.7,
+          "probability": 0.9881733059883118
+        },
+        {
+          "word": " kind",
+          "start": 40.7,
+          "end": 40.92,
+          "probability": 0.8991061449050903
+        },
+        {
+          "word": " of",
+          "start": 40.92,
+          "end": 41.12,
+          "probability": 0.993664026260376
+        },
+        {
+          "word": " running",
+          "start": 41.12,
+          "end": 41.4,
+          "probability": 0.9921112060546875
+        },
+        {
+          "word": " actually,",
+          "start": 41.4,
+          "end": 42.1,
+          "probability": 0.7356758117675781
+        },
+        {
+          "word": " but",
+          "start": 42.36,
+          "end": 42.46,
+          "probability": 0.9811413288116455
+        },
+        {
+          "word": " I",
+          "start": 42.46,
+          "end": 42.66,
+          "probability": 0.9629030227661133
+        },
+        {
+          "word": " don't",
+          "start": 42.66,
+          "end": 42.78,
+          "probability": 0.9571405351161957
+        },
+        {
+          "word": " know",
+          "start": 42.78,
+          "end": 42.9,
+          "probability": 0.9946411848068237
+        },
+        {
+          "word": " if",
+          "start": 42.9,
+          "end": 43.08,
+          "probability": 0.9849591851234436
+        },
+        {
+          "word": " they",
+          "start": 43.08,
+          "end": 43.2,
+          "probability": 0.9922083020210266
+        },
+        {
+          "word": " are",
+          "start": 43.2,
+          "end": 43.4,
+          "probability": 0.8993988633155823
+        },
+        {
+          "word": " chasing",
+          "start": 43.4,
+          "end": 43.98,
+          "probability": 0.970782458782196
+        },
+        {
+          "word": " each",
+          "start": 43.98,
+          "end": 44.42,
+          "probability": 0.9922193288803101
+        },
+        {
+          "word": " other.",
+          "start": 44.42,
+          "end": 45.38,
+          "probability": 0.991357684135437
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2906,
+      "start": 45.8,
+      "end": 51.38,
+      "text": " Or if they are just both running and one is not waiting for the other.",
+      "tokens": [
+        51164,
+        1610,
+        498,
+        436,
+        366,
+        445,
+        1293,
+        2614,
+        293,
+        472,
+        307,
+        406,
+        3806,
+        337,
+        264,
+        661,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36289782206217447,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.5025100111961365,
+      "words": [
+        {
+          "word": " Or",
+          "start": 45.8,
+          "end": 46.02,
+          "probability": 0.9236271381378174
+        },
+        {
+          "word": " if",
+          "start": 46.02,
+          "end": 46.24,
+          "probability": 0.9458326697349548
+        },
+        {
+          "word": " they",
+          "start": 46.24,
+          "end": 46.46,
+          "probability": 0.987084686756134
+        },
+        {
+          "word": " are",
+          "start": 46.46,
+          "end": 46.46,
+          "probability": 0.9172753691673279
+        },
+        {
+          "word": " just",
+          "start": 46.46,
+          "end": 46.92,
+          "probability": 0.7516648769378662
+        },
+        {
+          "word": " both",
+          "start": 46.92,
+          "end": 47.34,
+          "probability": 0.9755609035491943
+        },
+        {
+          "word": " running",
+          "start": 47.34,
+          "end": 47.84,
+          "probability": 0.9948496222496033
+        },
+        {
+          "word": " and",
+          "start": 47.84,
+          "end": 48.04,
+          "probability": 0.8779518008232117
+        },
+        {
+          "word": " one",
+          "start": 48.04,
+          "end": 48.26,
+          "probability": 0.988465428352356
+        },
+        {
+          "word": " is",
+          "start": 48.26,
+          "end": 48.44,
+          "probability": 0.9854556918144226
+        },
+        {
+          "word": " not",
+          "start": 48.44,
+          "end": 48.74,
+          "probability": 0.9748226404190063
+        },
+        {
+          "word": " waiting",
+          "start": 48.74,
+          "end": 49.4,
+          "probability": 0.9968171715736389
+        },
+        {
+          "word": " for",
+          "start": 49.4,
+          "end": 50.62,
+          "probability": 0.92451012134552
+        },
+        {
+          "word": " the",
+          "start": 50.62,
+          "end": 50.84,
+          "probability": 0.995744526386261
+        },
+        {
+          "word": " other.",
+          "start": 50.84,
+          "end": 51.38,
+          "probability": 0.9984562397003174
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 5138,
+      "start": 51.38,
+      "end": 55.58,
+      "text": " Or maybe it's all relative.",
+      "tokens": [
+        50364,
+        1610,
+        1310,
+        309,
+        311,
+        439,
+        4972,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16900734467939896,
+      "compression_ratio": 1.5693430656934306,
+      "no_speech_prob": 0.3633326292037964,
+      "words": [
+        {
+          "word": " Or",
+          "start": 51.38,
+          "end": 52.64,
+          "probability": 0.35929954051971436
+        },
+        {
+          "word": " maybe",
+          "start": 52.64,
+          "end": 52.98,
+          "probability": 0.9796656966209412
+        },
+        {
+          "word": " it's",
+          "start": 52.98,
+          "end": 54.54,
+          "probability": 0.7783456444740295
+        },
+        {
+          "word": " all",
+          "start": 54.54,
+          "end": 54.86,
+          "probability": 0.5366004705429077
+        },
+        {
+          "word": " relative.",
+          "start": 54.86,
+          "end": 55.58,
+          "probability": 0.9909005165100098
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 5138,
+      "start": 57.62,
+      "end": 63.54,
+      "text": " You know, one is running as fast as he can, although it looks like jogging.",
+      "tokens": [
+        50564,
+        509,
+        458,
+        11,
+        472,
+        307,
+        2614,
+        382,
+        2370,
+        382,
+        415,
+        393,
+        11,
+        4878,
+        309,
+        1542,
+        411,
+        9464,
+        3249,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16900734467939896,
+      "compression_ratio": 1.5693430656934306,
+      "no_speech_prob": 0.3633326292037964,
+      "words": [
+        {
+          "word": " You",
+          "start": 57.62,
+          "end": 57.68,
+          "probability": 0.6167911887168884
+        },
+        {
+          "word": " know,",
+          "start": 57.68,
+          "end": 57.88,
+          "probability": 0.9982162117958069
+        },
+        {
+          "word": " one",
+          "start": 58.02,
+          "end": 58.12,
+          "probability": 0.990875244140625
+        },
+        {
+          "word": " is",
+          "start": 58.12,
+          "end": 58.4,
+          "probability": 0.9929670095443726
+        },
+        {
+          "word": " running",
+          "start": 58.4,
+          "end": 58.96,
+          "probability": 0.9920823574066162
+        },
+        {
+          "word": " as",
+          "start": 58.96,
+          "end": 60.4,
+          "probability": 0.9664352536201477
+        },
+        {
+          "word": " fast",
+          "start": 60.4,
+          "end": 60.7,
+          "probability": 0.9990288019180298
+        },
+        {
+          "word": " as",
+          "start": 60.7,
+          "end": 60.96,
+          "probability": 0.9933390021324158
+        },
+        {
+          "word": " he",
+          "start": 60.96,
+          "end": 61.24,
+          "probability": 0.9924824833869934
+        },
+        {
+          "word": " can,",
+          "start": 61.24,
+          "end": 61.58,
+          "probability": 0.9991531372070312
+        },
+        {
+          "word": " although",
+          "start": 61.94,
+          "end": 62.2,
+          "probability": 0.9484176635742188
+        },
+        {
+          "word": " it",
+          "start": 62.2,
+          "end": 62.24,
+          "probability": 0.9776082634925842
+        },
+        {
+          "word": " looks",
+          "start": 62.24,
+          "end": 62.68,
+          "probability": 0.991820216178894
+        },
+        {
+          "word": " like",
+          "start": 62.68,
+          "end": 62.98,
+          "probability": 0.9717794060707092
+        },
+        {
+          "word": " jogging.",
+          "start": 62.98,
+          "end": 63.54,
+          "probability": 0.9915637373924255
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5138,
+      "start": 64.34,
+      "end": 71.4,
+      "text": " And then the other one is running as fast as he can.",
+      "tokens": [
+        50964,
+        400,
+        550,
+        264,
+        661,
+        472,
+        307,
+        2614,
+        382,
+        2370,
+        382,
+        415,
+        393,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16900734467939896,
+      "compression_ratio": 1.5693430656934306,
+      "no_speech_prob": 0.3633326292037964,
+      "words": [
+        {
+          "word": " And",
+          "start": 64.34,
+          "end": 64.72,
+          "probability": 0.6728652715682983
+        },
+        {
+          "word": " then",
+          "start": 64.72,
+          "end": 64.94,
+          "probability": 0.8937867879867554
+        },
+        {
+          "word": " the",
+          "start": 64.94,
+          "end": 65.12,
+          "probability": 0.9670249819755554
+        },
+        {
+          "word": " other",
+          "start": 65.12,
+          "end": 65.44,
+          "probability": 0.9992430210113525
+        },
+        {
+          "word": " one",
+          "start": 65.44,
+          "end": 66.52,
+          "probability": 0.9867681860923767
+        },
+        {
+          "word": " is",
+          "start": 66.52,
+          "end": 67.16,
+          "probability": 0.954284131526947
+        },
+        {
+          "word": " running",
+          "start": 67.16,
+          "end": 68.04,
+          "probability": 0.9980435371398926
+        },
+        {
+          "word": " as",
+          "start": 68.04,
+          "end": 69.72,
+          "probability": 0.9799979329109192
+        },
+        {
+          "word": " fast",
+          "start": 69.72,
+          "end": 70.02,
+          "probability": 0.9992013573646545
+        },
+        {
+          "word": " as",
+          "start": 70.02,
+          "end": 70.22,
+          "probability": 0.9932135343551636
+        },
+        {
+          "word": " he",
+          "start": 70.22,
+          "end": 70.6,
+          "probability": 0.997053861618042
+        },
+        {
+          "word": " can.",
+          "start": 70.6,
+          "end": 71.4,
+          "probability": 0.998955488204956
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5138,
+      "start": 72.16,
+      "end": 75.18,
+      "text": " And they are both not very fast.",
+      "tokens": [
+        51364,
+        400,
+        436,
+        366,
+        1293,
+        406,
+        588,
+        2370,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16900734467939896,
+      "compression_ratio": 1.5693430656934306,
+      "no_speech_prob": 0.3633326292037964,
+      "words": [
+        {
+          "word": " And",
+          "start": 72.16,
+          "end": 72.28,
+          "probability": 0.2793407738208771
+        },
+        {
+          "word": " they",
+          "start": 72.28,
+          "end": 72.44,
+          "probability": 0.7720890641212463
+        },
+        {
+          "word": " are",
+          "start": 72.44,
+          "end": 72.44,
+          "probability": 0.1318926364183426
+        },
+        {
+          "word": " both",
+          "start": 72.44,
+          "end": 72.96,
+          "probability": 0.9944630265235901
+        },
+        {
+          "word": " not",
+          "start": 72.96,
+          "end": 73.44,
+          "probability": 0.9388194680213928
+        },
+        {
+          "word": " very",
+          "start": 73.44,
+          "end": 73.96,
+          "probability": 0.9939701557159424
+        },
+        {
+          "word": " fast.",
+          "start": 73.96,
+          "end": 75.18,
+          "probability": 0.9991449117660522
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5138,
+      "start": 76.64000000000001,
+      "end": 78.9,
+      "text": " I can't see them anymore.",
+      "tokens": [
+        51564,
+        286,
+        393,
+        380,
+        536,
+        552,
+        3602,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16900734467939896,
+      "compression_ratio": 1.5693430656934306,
+      "no_speech_prob": 0.3633326292037964,
+      "words": [
+        {
+          "word": " I",
+          "start": 76.64000000000001,
+          "end": 77.4,
+          "probability": 0.7151944041252136
+        },
+        {
+          "word": " can't",
+          "start": 77.4,
+          "end": 77.88,
+          "probability": 0.9764983057975769
+        },
+        {
+          "word": " see",
+          "start": 77.88,
+          "end": 78.12,
+          "probability": 0.9961733222007751
+        },
+        {
+          "word": " them",
+          "start": 78.12,
+          "end": 78.34,
+          "probability": 0.9961612224578857
+        },
+        {
+          "word": " anymore.",
+          "start": 78.34,
+          "end": 78.9,
+          "probability": 0.8633619546890259
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 7890,
+      "start": 78.9,
+      "end": 82.8,
+      "text": " I wonder what they were doing.",
+      "tokens": [
+        50364,
+        286,
+        2441,
+        437,
+        436,
+        645,
+        884,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1420890522003174,
+      "compression_ratio": 1.3381294964028776,
+      "no_speech_prob": 0.04850558191537857,
+      "words": [
+        {
+          "word": " I",
+          "start": 78.9,
+          "end": 80.66,
+          "probability": 0.3393711745738983
+        },
+        {
+          "word": " wonder",
+          "start": 80.66,
+          "end": 80.84,
+          "probability": 0.8203818798065186
+        },
+        {
+          "word": " what",
+          "start": 80.84,
+          "end": 81.12,
+          "probability": 0.9888736009597778
+        },
+        {
+          "word": " they",
+          "start": 81.12,
+          "end": 81.4,
+          "probability": 0.982700765132904
+        },
+        {
+          "word": " were",
+          "start": 81.4,
+          "end": 81.54,
+          "probability": 0.9635483026504517
+        },
+        {
+          "word": " doing.",
+          "start": 81.54,
+          "end": 82.8,
+          "probability": 0.9974926710128784
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 7890,
+      "start": 86.6,
+      "end": 93.14,
+      "text": " Because of this neighborhood, I have made judgments to make.",
+      "tokens": [
+        50564,
+        1436,
+        295,
+        341,
+        7630,
+        11,
+        286,
+        362,
+        1027,
+        40337,
+        281,
+        652,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1420890522003174,
+      "compression_ratio": 1.3381294964028776,
+      "no_speech_prob": 0.04850558191537857,
+      "words": [
+        {
+          "word": " Because",
+          "start": 86.6,
+          "end": 86.96,
+          "probability": 0.7138960957527161
+        },
+        {
+          "word": " of",
+          "start": 86.96,
+          "end": 87.2,
+          "probability": 0.9944185018539429
+        },
+        {
+          "word": " this",
+          "start": 87.2,
+          "end": 87.46,
+          "probability": 0.930182695388794
+        },
+        {
+          "word": " neighborhood,",
+          "start": 87.46,
+          "end": 88.1,
+          "probability": 0.7643353939056396
+        },
+        {
+          "word": " I",
+          "start": 88.82,
+          "end": 90.14,
+          "probability": 0.9067841172218323
+        },
+        {
+          "word": " have",
+          "start": 90.14,
+          "end": 91.12,
+          "probability": 0.4869414269924164
+        },
+        {
+          "word": " made",
+          "start": 91.12,
+          "end": 91.4,
+          "probability": 0.8856313228607178
+        },
+        {
+          "word": " judgments",
+          "start": 91.4,
+          "end": 92.18,
+          "probability": 0.6861950755119324
+        },
+        {
+          "word": " to",
+          "start": 92.18,
+          "end": 92.64,
+          "probability": 0.9536383152008057
+        },
+        {
+          "word": " make.",
+          "start": 92.64,
+          "end": 93.14,
+          "probability": 0.996330201625824
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7890,
+      "start": 94.36,
+      "end": 96.64,
+      "text": " I bet they did something naughty.",
+      "tokens": [
+        51064,
+        286,
+        778,
+        436,
+        630,
+        746,
+        32154,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1420890522003174,
+      "compression_ratio": 1.3381294964028776,
+      "no_speech_prob": 0.04850558191537857,
+      "words": [
+        {
+          "word": " I",
+          "start": 94.36,
+          "end": 94.6,
+          "probability": 0.9775452613830566
+        },
+        {
+          "word": " bet",
+          "start": 94.6,
+          "end": 94.78,
+          "probability": 0.9957762360572815
+        },
+        {
+          "word": " they",
+          "start": 94.78,
+          "end": 95.08,
+          "probability": 0.9877789616584778
+        },
+        {
+          "word": " did",
+          "start": 95.08,
+          "end": 95.26,
+          "probability": 0.9975875616073608
+        },
+        {
+          "word": " something",
+          "start": 95.26,
+          "end": 95.8,
+          "probability": 0.9822561740875244
+        },
+        {
+          "word": " naughty.",
+          "start": 95.8,
+          "end": 96.64,
+          "probability": 0.995070219039917
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7890,
+      "start": 99.18,
+      "end": 101.9,
+      "text": " Now they are running away from consequences.",
+      "tokens": [
+        51264,
+        823,
+        436,
+        366,
+        2614,
+        1314,
+        490,
+        10098,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1420890522003174,
+      "compression_ratio": 1.3381294964028776,
+      "no_speech_prob": 0.04850558191537857,
+      "words": [
+        {
+          "word": " Now",
+          "start": 99.18,
+          "end": 99.8,
+          "probability": 0.8779152035713196
+        },
+        {
+          "word": " they",
+          "start": 99.8,
+          "end": 100.0,
+          "probability": 0.9061242938041687
+        },
+        {
+          "word": " are",
+          "start": 100.0,
+          "end": 100.0,
+          "probability": 0.11977148056030273
+        },
+        {
+          "word": " running",
+          "start": 100.0,
+          "end": 100.34,
+          "probability": 0.9936167001724243
+        },
+        {
+          "word": " away",
+          "start": 100.34,
+          "end": 100.74,
+          "probability": 0.9933674931526184
+        },
+        {
+          "word": " from",
+          "start": 100.74,
+          "end": 101.04,
+          "probability": 0.9954812526702881
+        },
+        {
+          "word": " consequences.",
+          "start": 101.04,
+          "end": 101.9,
+          "probability": 0.9810013175010681
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 7890,
+      "start": 103.94,
+      "end": 105.02,
+      "text": " That's naughty.",
+      "tokens": [
+        51564,
+        663,
+        311,
+        32154,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1420890522003174,
+      "compression_ratio": 1.3381294964028776,
+      "no_speech_prob": 0.04850558191537857,
+      "words": [
+        {
+          "word": " That's",
+          "start": 103.94,
+          "end": 104.56,
+          "probability": 0.9027540683746338
+        },
+        {
+          "word": " naughty.",
+          "start": 104.56,
+          "end": 105.02,
+          "probability": 0.9910370111465454
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 10502,
+      "start": 106.64,
+      "end": 109.38,
+      "text": " Maybe they were grown men.",
+      "tokens": [
+        50364,
+        2704,
+        436,
+        645,
+        7709,
+        1706,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13492077450419582,
+      "compression_ratio": 1.4310344827586208,
+      "no_speech_prob": 0.17898249626159668,
+      "words": [
+        {
+          "word": " Maybe",
+          "start": 106.64,
+          "end": 107.48,
+          "probability": 0.31056323647499084
+        },
+        {
+          "word": " they",
+          "start": 107.48,
+          "end": 107.7,
+          "probability": 0.42123427987098694
+        },
+        {
+          "word": " were",
+          "start": 107.7,
+          "end": 108.0,
+          "probability": 0.9009019732475281
+        },
+        {
+          "word": " grown",
+          "start": 108.0,
+          "end": 108.2,
+          "probability": 0.6575894355773926
+        },
+        {
+          "word": " men.",
+          "start": 108.2,
+          "end": 109.38,
+          "probability": 0.934467077255249
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 10502,
+      "start": 113.94,
+      "end": 118.68,
+      "text": " Or maybe they were running to save someone's life.",
+      "tokens": [
+        50764,
+        1610,
+        1310,
+        436,
+        645,
+        2614,
+        281,
+        3155,
+        1580,
+        311,
+        993,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13492077450419582,
+      "compression_ratio": 1.4310344827586208,
+      "no_speech_prob": 0.17898249626159668,
+      "words": [
+        {
+          "word": " Or",
+          "start": 113.94,
+          "end": 114.12,
+          "probability": 0.603800356388092
+        },
+        {
+          "word": " maybe",
+          "start": 114.12,
+          "end": 114.38,
+          "probability": 0.9796535968780518
+        },
+        {
+          "word": " they",
+          "start": 114.38,
+          "end": 114.6,
+          "probability": 0.9870298504829407
+        },
+        {
+          "word": " were",
+          "start": 114.6,
+          "end": 114.78,
+          "probability": 0.9905396699905396
+        },
+        {
+          "word": " running",
+          "start": 114.78,
+          "end": 115.2,
+          "probability": 0.9884030222892761
+        },
+        {
+          "word": " to",
+          "start": 115.2,
+          "end": 116.54,
+          "probability": 0.9739590287208557
+        },
+        {
+          "word": " save",
+          "start": 116.54,
+          "end": 117.42,
+          "probability": 0.951002299785614
+        },
+        {
+          "word": " someone's",
+          "start": 117.42,
+          "end": 118.64,
+          "probability": 0.8464187383651733
+        },
+        {
+          "word": " life.",
+          "start": 118.64,
+          "end": 118.68,
+          "probability": 0.9917019009590149
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 10502,
+      "start": 119.84,
+      "end": 129.32,
+      "text": " Or maybe one of them's friends or girlfriends were pregnant and was ready to give birth.",
+      "tokens": [
+        51064,
+        1610,
+        1310,
+        472,
+        295,
+        552,
+        311,
+        1855,
+        420,
+        46558,
+        645,
+        10435,
+        293,
+        390,
+        1919,
+        281,
+        976,
+        3965,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13492077450419582,
+      "compression_ratio": 1.4310344827586208,
+      "no_speech_prob": 0.17898249626159668,
+      "words": [
+        {
+          "word": " Or",
+          "start": 119.84,
+          "end": 119.92,
+          "probability": 0.6475787162780762
+        },
+        {
+          "word": " maybe",
+          "start": 119.92,
+          "end": 120.96,
+          "probability": 0.9603664875030518
+        },
+        {
+          "word": " one",
+          "start": 120.96,
+          "end": 121.42,
+          "probability": 0.9398534297943115
+        },
+        {
+          "word": " of",
+          "start": 121.42,
+          "end": 121.76,
+          "probability": 0.9973604083061218
+        },
+        {
+          "word": " them's",
+          "start": 121.76,
+          "end": 124.06,
+          "probability": 0.8062359690666199
+        },
+        {
+          "word": " friends",
+          "start": 124.06,
+          "end": 125.42,
+          "probability": 0.8670419454574585
+        },
+        {
+          "word": " or",
+          "start": 125.42,
+          "end": 125.68,
+          "probability": 0.9118801355361938
+        },
+        {
+          "word": " girlfriends",
+          "start": 125.68,
+          "end": 126.36,
+          "probability": 0.6770132780075073
+        },
+        {
+          "word": " were",
+          "start": 126.36,
+          "end": 126.86,
+          "probability": 0.6373581290245056
+        },
+        {
+          "word": " pregnant",
+          "start": 126.86,
+          "end": 127.38,
+          "probability": 0.9927536845207214
+        },
+        {
+          "word": " and",
+          "start": 127.38,
+          "end": 127.9,
+          "probability": 0.8350008130073547
+        },
+        {
+          "word": " was",
+          "start": 127.9,
+          "end": 128.02,
+          "probability": 0.8070772886276245
+        },
+        {
+          "word": " ready",
+          "start": 128.02,
+          "end": 128.28,
+          "probability": 0.9926251769065857
+        },
+        {
+          "word": " to",
+          "start": 128.28,
+          "end": 128.58,
+          "probability": 0.997753918170929
+        },
+        {
+          "word": " give",
+          "start": 128.58,
+          "end": 128.9,
+          "probability": 0.9961503744125366
+        },
+        {
+          "word": " birth.",
+          "start": 128.9,
+          "end": 129.32,
+          "probability": 0.9996067881584167
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 12932,
+      "start": 129.32,
+      "end": 138.16,
+      "text": " I can get to the hospital really fast because it's just around the corner.",
+      "tokens": [
+        50364,
+        286,
+        393,
+        483,
+        281,
+        264,
+        4530,
+        534,
+        2370,
+        570,
+        309,
+        311,
+        445,
+        926,
+        264,
+        4538,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.172415744690668,
+      "compression_ratio": 1.293103448275862,
+      "no_speech_prob": 0.33958885073661804,
+      "words": [
+        {
+          "word": " I",
+          "start": 129.32,
+          "end": 130.62,
+          "probability": 0.47974440455436707
+        },
+        {
+          "word": " can",
+          "start": 130.62,
+          "end": 130.96,
+          "probability": 0.8316142559051514
+        },
+        {
+          "word": " get",
+          "start": 130.96,
+          "end": 131.36,
+          "probability": 0.9173516035079956
+        },
+        {
+          "word": " to",
+          "start": 131.36,
+          "end": 131.64,
+          "probability": 0.9753275513648987
+        },
+        {
+          "word": " the",
+          "start": 131.64,
+          "end": 131.84,
+          "probability": 0.9887793064117432
+        },
+        {
+          "word": " hospital",
+          "start": 131.84,
+          "end": 132.4,
+          "probability": 0.990308940410614
+        },
+        {
+          "word": " really",
+          "start": 132.4,
+          "end": 133.04,
+          "probability": 0.3959852159023285
+        },
+        {
+          "word": " fast",
+          "start": 133.04,
+          "end": 133.9,
+          "probability": 0.996840238571167
+        },
+        {
+          "word": " because",
+          "start": 133.9,
+          "end": 135.02,
+          "probability": 0.5360694527626038
+        },
+        {
+          "word": " it's",
+          "start": 135.02,
+          "end": 136.72,
+          "probability": 0.830316960811615
+        },
+        {
+          "word": " just",
+          "start": 136.72,
+          "end": 137.02,
+          "probability": 0.9948776960372925
+        },
+        {
+          "word": " around",
+          "start": 137.02,
+          "end": 137.3,
+          "probability": 0.6356639266014099
+        },
+        {
+          "word": " the",
+          "start": 137.3,
+          "end": 137.56,
+          "probability": 0.9629194736480713
+        },
+        {
+          "word": " corner.",
+          "start": 137.56,
+          "end": 138.16,
+          "probability": 0.9991199374198914
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 12932,
+      "start": 139.92,
+      "end": 143.48,
+      "text": " So I guess that's why they didn't run very fast.",
+      "tokens": [
+        50864,
+        407,
+        286,
+        2041,
+        300,
+        311,
+        983,
+        436,
+        994,
+        380,
+        1190,
+        588,
+        2370,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.172415744690668,
+      "compression_ratio": 1.293103448275862,
+      "no_speech_prob": 0.33958885073661804,
+      "words": [
+        {
+          "word": " So",
+          "start": 139.92,
+          "end": 140.14,
+          "probability": 0.9220158457756042
+        },
+        {
+          "word": " I",
+          "start": 140.14,
+          "end": 140.14,
+          "probability": 0.90675950050354
+        },
+        {
+          "word": " guess",
+          "start": 140.14,
+          "end": 140.44,
+          "probability": 0.9988916516304016
+        },
+        {
+          "word": " that's",
+          "start": 140.44,
+          "end": 140.92,
+          "probability": 0.9851221442222595
+        },
+        {
+          "word": " why",
+          "start": 140.92,
+          "end": 141.12,
+          "probability": 0.9966534972190857
+        },
+        {
+          "word": " they",
+          "start": 141.12,
+          "end": 141.34,
+          "probability": 0.978536069393158
+        },
+        {
+          "word": " didn't",
+          "start": 141.34,
+          "end": 141.56,
+          "probability": 0.9889898300170898
+        },
+        {
+          "word": " run",
+          "start": 141.56,
+          "end": 141.8,
+          "probability": 0.988552451133728
+        },
+        {
+          "word": " very",
+          "start": 141.8,
+          "end": 142.4,
+          "probability": 0.9809449911117554
+        },
+        {
+          "word": " fast.",
+          "start": 142.4,
+          "end": 143.48,
+          "probability": 0.9974504113197327
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 12932,
+      "start": 147.72000000000003,
+      "end": 150.38,
+      "text": " Because it's all relative.",
+      "tokens": [
+        51064,
+        1436,
+        309,
+        311,
+        439,
+        4972,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.172415744690668,
+      "compression_ratio": 1.293103448275862,
+      "no_speech_prob": 0.33958885073661804,
+      "words": [
+        {
+          "word": " Because",
+          "start": 147.72000000000003,
+          "end": 148.64000000000001,
+          "probability": 0.8767895698547363
+        },
+        {
+          "word": " it's",
+          "start": 148.64000000000001,
+          "end": 149.56,
+          "probability": 0.5866656377911568
+        },
+        {
+          "word": " all",
+          "start": 149.56,
+          "end": 149.82,
+          "probability": 0.7769176363945007
+        },
+        {
+          "word": " relative.",
+          "start": 149.82,
+          "end": 150.38,
+          "probability": 0.9936309456825256
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 15932,
+      "start": 165.04,
+      "end": 167.84,
+      "text": " Thank you.",
+      "tokens": [
+        50364,
+        1044,
+        291,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8257691860198975,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.9680420160293579,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 165.04,
+          "end": 166.44,
+          "probability": 0.01171325147151947
+        },
+        {
+          "word": " you.",
+          "start": 166.44,
+          "end": 167.84,
+          "probability": 0.9735956192016602
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

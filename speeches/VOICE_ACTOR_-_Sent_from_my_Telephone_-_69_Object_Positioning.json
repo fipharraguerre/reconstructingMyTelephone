@@ -1,0 +1,140 @@
+{
+  "text": " What? I didn't understand a word. I think I heard notes. So one word I understood.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 7.800000000000001,
+      "end": 19.84,
+      "text": " What? I didn't understand a word. I think I heard notes. So one word I understood.",
+      "tokens": [
+        50364,
+        708,
+        30,
+        286,
+        994,
+        380,
+        1223,
+        257,
+        1349,
+        13,
+        286,
+        519,
+        286,
+        2198,
+        5570,
+        13,
+        407,
+        472,
+        1349,
+        286,
+        7320,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36552731196085614,
+      "compression_ratio": 1.0649350649350648,
+      "no_speech_prob": 0.23534542322158813,
+      "words": [
+        {
+          "word": " What?",
+          "start": 7.800000000000001,
+          "end": 8.62,
+          "probability": 0.6238287687301636
+        },
+        {
+          "word": " I",
+          "start": 9.38,
+          "end": 9.52,
+          "probability": 0.9742977619171143
+        },
+        {
+          "word": " didn't",
+          "start": 9.52,
+          "end": 9.84,
+          "probability": 0.9753634929656982
+        },
+        {
+          "word": " understand",
+          "start": 9.84,
+          "end": 10.52,
+          "probability": 0.9955447912216187
+        },
+        {
+          "word": " a",
+          "start": 10.52,
+          "end": 10.98,
+          "probability": 0.9279302358627319
+        },
+        {
+          "word": " word.",
+          "start": 10.98,
+          "end": 11.4,
+          "probability": 0.9990589022636414
+        },
+        {
+          "word": " I",
+          "start": 12.94,
+          "end": 12.98,
+          "probability": 0.9897016286849976
+        },
+        {
+          "word": " think",
+          "start": 12.98,
+          "end": 13.22,
+          "probability": 0.9963204860687256
+        },
+        {
+          "word": " I",
+          "start": 13.22,
+          "end": 13.5,
+          "probability": 0.968025267124176
+        },
+        {
+          "word": " heard",
+          "start": 13.5,
+          "end": 13.94,
+          "probability": 0.9707307815551758
+        },
+        {
+          "word": " notes.",
+          "start": 13.94,
+          "end": 15.1,
+          "probability": 0.7870562672615051
+        },
+        {
+          "word": " So",
+          "start": 18.26,
+          "end": 18.58,
+          "probability": 0.7436162233352661
+        },
+        {
+          "word": " one",
+          "start": 18.58,
+          "end": 18.86,
+          "probability": 0.8153678774833679
+        },
+        {
+          "word": " word",
+          "start": 18.86,
+          "end": 19.16,
+          "probability": 0.9677033424377441
+        },
+        {
+          "word": " I",
+          "start": 19.16,
+          "end": 19.44,
+          "probability": 0.6581799387931824
+        },
+        {
+          "word": " understood.",
+          "start": 19.44,
+          "end": 19.84,
+          "probability": 0.9929091930389404
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

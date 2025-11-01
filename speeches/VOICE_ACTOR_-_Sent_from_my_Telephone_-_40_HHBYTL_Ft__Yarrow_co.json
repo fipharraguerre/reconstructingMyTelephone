@@ -1,0 +1,1056 @@
+{
+  "text": " Not to Happiness has brought you to life. Happiness? Yes, happiness has brought you to life. Happiness has brought me to life. Yes, happiness has brought you to life. Sure. You should talk more Dazu� less, you shouldn't have come here yet. Berry Layman she had everything across the world you'll have everything across the globe crops and culture, looking after one another. Happiness has brought you to life. Happiness? Yes, happiness has brought you to life. Happiness has brought you to life. Yes. Show of you. Happiness has brought you to life.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 18.5,
+      "text": " Not to",
+      "tokens": [
+        50364,
+        1726,
+        281,
+        51289
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.5616935094197593,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 0.30300936102867126,
+      "words": [
+        {
+          "word": " Not",
+          "start": 0.0,
+          "end": 0.0,
+          "probability": 0.00011676159192575142
+        },
+        {
+          "word": " to",
+          "start": 0.0,
+          "end": 18.5,
+          "probability": 0.02364003285765648
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 1850,
+      "start": 18.5,
+      "end": 20.72,
+      "text": " Happiness has brought you to life.",
+      "tokens": [
+        50364,
+        46224,
+        575,
+        3038,
+        291,
+        281,
+        993,
+        13,
+        50497
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.5342527389526367,
+      "compression_ratio": 2.357142857142857,
+      "no_speech_prob": 0.5099461078643799,
+      "words": [
+        {
+          "word": " Happiness",
+          "start": 18.5,
+          "end": 18.72,
+          "probability": 0.4783523678779602
+        },
+        {
+          "word": " has",
+          "start": 18.72,
+          "end": 19.14,
+          "probability": 0.8662717938423157
+        },
+        {
+          "word": " brought",
+          "start": 19.14,
+          "end": 19.32,
+          "probability": 0.9969382286071777
+        },
+        {
+          "word": " you",
+          "start": 19.32,
+          "end": 19.52,
+          "probability": 0.9713191986083984
+        },
+        {
+          "word": " to",
+          "start": 19.52,
+          "end": 19.74,
+          "probability": 0.9879635572433472
+        },
+        {
+          "word": " life.",
+          "start": 19.74,
+          "end": 20.72,
+          "probability": 0.9864193797111511
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 1850,
+      "start": 21.18,
+      "end": 21.82,
+      "text": " Happiness?",
+      "tokens": [
+        50497,
+        46224,
+        30,
+        50555
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.5342527389526367,
+      "compression_ratio": 2.357142857142857,
+      "no_speech_prob": 0.5099461078643799,
+      "words": [
+        {
+          "word": " Happiness?",
+          "start": 21.18,
+          "end": 21.82,
+          "probability": 0.46564966440200806
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 1850,
+      "start": 22.02,
+      "end": 24.7,
+      "text": " Yes, happiness has brought you to life.",
+      "tokens": [
+        50555,
+        1079,
+        11,
+        8324,
+        575,
+        3038,
+        291,
+        281,
+        993,
+        13,
+        50748
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.5342527389526367,
+      "compression_ratio": 2.357142857142857,
+      "no_speech_prob": 0.5099461078643799,
+      "words": [
+        {
+          "word": " Yes,",
+          "start": 22.02,
+          "end": 22.54,
+          "probability": 0.9550085663795471
+        },
+        {
+          "word": " happiness",
+          "start": 22.94,
+          "end": 23.2,
+          "probability": 0.9823734760284424
+        },
+        {
+          "word": " has",
+          "start": 23.2,
+          "end": 23.52,
+          "probability": 0.9876188039779663
+        },
+        {
+          "word": " brought",
+          "start": 23.52,
+          "end": 23.66,
+          "probability": 0.9973081350326538
+        },
+        {
+          "word": " you",
+          "start": 23.66,
+          "end": 23.82,
+          "probability": 0.9860856533050537
+        },
+        {
+          "word": " to",
+          "start": 23.82,
+          "end": 23.92,
+          "probability": 0.997137188911438
+        },
+        {
+          "word": " life.",
+          "start": 23.92,
+          "end": 24.7,
+          "probability": 0.998826801776886
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 1850,
+      "start": 26.26,
+      "end": 28.5,
+      "text": " Happiness has brought me to life.",
+      "tokens": [
+        50748,
+        46224,
+        575,
+        3038,
+        385,
+        281,
+        993,
+        13,
+        50877
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.5342527389526367,
+      "compression_ratio": 2.357142857142857,
+      "no_speech_prob": 0.5099461078643799,
+      "words": [
+        {
+          "word": " Happiness",
+          "start": 26.26,
+          "end": 26.64,
+          "probability": 0.5568239688873291
+        },
+        {
+          "word": " has",
+          "start": 26.64,
+          "end": 27.12,
+          "probability": 0.9741979241371155
+        },
+        {
+          "word": " brought",
+          "start": 27.12,
+          "end": 27.36,
+          "probability": 0.9965928196907043
+        },
+        {
+          "word": " me",
+          "start": 27.36,
+          "end": 27.72,
+          "probability": 0.9878761768341064
+        },
+        {
+          "word": " to",
+          "start": 27.72,
+          "end": 27.88,
+          "probability": 0.9971950054168701
+        },
+        {
+          "word": " life.",
+          "start": 27.88,
+          "end": 28.5,
+          "probability": 0.9976341724395752
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 1850,
+      "start": 28.78,
+      "end": 31.4,
+      "text": " Yes, happiness has brought you to life.",
+      "tokens": [
+        50877,
+        1079,
+        11,
+        8324,
+        575,
+        3038,
+        291,
+        281,
+        993,
+        13,
+        51044
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.5342527389526367,
+      "compression_ratio": 2.357142857142857,
+      "no_speech_prob": 0.5099461078643799,
+      "words": [
+        {
+          "word": " Yes,",
+          "start": 28.78,
+          "end": 29.1,
+          "probability": 0.9829692244529724
+        },
+        {
+          "word": " happiness",
+          "start": 29.5,
+          "end": 29.76,
+          "probability": 0.9970767498016357
+        },
+        {
+          "word": " has",
+          "start": 29.76,
+          "end": 30.1,
+          "probability": 0.9948679208755493
+        },
+        {
+          "word": " brought",
+          "start": 30.1,
+          "end": 30.24,
+          "probability": 0.9987118244171143
+        },
+        {
+          "word": " you",
+          "start": 30.24,
+          "end": 30.4,
+          "probability": 0.9856284856796265
+        },
+        {
+          "word": " to",
+          "start": 30.4,
+          "end": 30.54,
+          "probability": 0.9988478422164917
+        },
+        {
+          "word": " life.",
+          "start": 30.54,
+          "end": 31.4,
+          "probability": 0.9991217255592346
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 1850,
+      "start": 36.16,
+      "end": 36.58,
+      "text": " Sure.",
+      "tokens": [
+        51244,
+        4894,
+        13,
+        51286
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.5342527389526367,
+      "compression_ratio": 2.357142857142857,
+      "no_speech_prob": 0.5099461078643799,
+      "words": [
+        {
+          "word": " Sure.",
+          "start": 36.16,
+          "end": 36.58,
+          "probability": 0.9435462355613708
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 3658,
+      "start": 36.58,
+      "end": 52.5,
+      "text": " You should talk more Dazu� less,",
+      "tokens": [
+        50379,
+        509,
+        820,
+        751,
+        544,
+        34667,
+        97,
+        1570,
+        11,
+        50475
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.105067241622741,
+      "compression_ratio": 1.4411764705882353,
+      "no_speech_prob": 0.08079329133033752,
+      "words": [
+        {
+          "word": " You",
+          "start": 36.58,
+          "end": 36.58,
+          "probability": 0.0032172617502510548
+        },
+        {
+          "word": " should",
+          "start": 36.58,
+          "end": 52.5,
+          "probability": 0.014391317032277584
+        },
+        {
+          "word": " talk",
+          "start": 52.5,
+          "end": 52.5,
+          "probability": 0.004372340627014637
+        },
+        {
+          "word": " more",
+          "start": 52.5,
+          "end": 52.5,
+          "probability": 0.014500878751277924
+        },
+        {
+          "word": " Dazu�",
+          "start": 52.5,
+          "end": 52.5,
+          "probability": 1.741100997776357e-05
+        },
+        {
+          "word": " less,",
+          "start": 52.5,
+          "end": 52.5,
+          "probability": 0.00011896039359271526
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 3658,
+      "start": 52.5,
+      "end": 52.5,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.105067241622741,
+      "compression_ratio": 1.4411764705882353,
+      "no_speech_prob": 0.08079329133033752,
+      "words": []
+    },
+    {
+      "id": 9,
+      "seek": 3658,
+      "start": 52.5,
+      "end": 52.5,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.105067241622741,
+      "compression_ratio": 1.4411764705882353,
+      "no_speech_prob": 0.08079329133033752,
+      "words": []
+    },
+    {
+      "id": 10,
+      "seek": 3658,
+      "start": 52.5,
+      "end": 52.5,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.105067241622741,
+      "compression_ratio": 1.4411764705882353,
+      "no_speech_prob": 0.08079329133033752,
+      "words": []
+    },
+    {
+      "id": 11,
+      "seek": 3658,
+      "start": 52.5,
+      "end": 57.24,
+      "text": " you shouldn't have come here yet.",
+      "tokens": [
+        50816,
+        291,
+        4659,
+        380,
+        362,
+        808,
+        510,
+        1939,
+        13,
+        50944
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.105067241622741,
+      "compression_ratio": 1.4411764705882353,
+      "no_speech_prob": 0.08079329133033752,
+      "words": [
+        {
+          "word": " you",
+          "start": 52.5,
+          "end": 52.5,
+          "probability": 0.0017031600000336766
+        },
+        {
+          "word": " shouldn't",
+          "start": 52.5,
+          "end": 57.12,
+          "probability": 0.5045041800476611
+        },
+        {
+          "word": " have",
+          "start": 57.12,
+          "end": 57.14,
+          "probability": 0.3589734435081482
+        },
+        {
+          "word": " come",
+          "start": 57.14,
+          "end": 57.16,
+          "probability": 0.03408009931445122
+        },
+        {
+          "word": " here",
+          "start": 57.16,
+          "end": 57.18,
+          "probability": 0.13754045963287354
+        },
+        {
+          "word": " yet.",
+          "start": 57.18,
+          "end": 57.24,
+          "probability": 0.00020156240498181432
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 3658,
+      "start": 58.9,
+      "end": 60.02,
+      "text": " Berry Layman she had everything across the world",
+      "tokens": [
+        51044,
+        34084,
+        20084,
+        1601,
+        750,
+        632,
+        1203,
+        2108,
+        264,
+        1002,
+        51264
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.105067241622741,
+      "compression_ratio": 1.4411764705882353,
+      "no_speech_prob": 0.08079329133033752,
+      "words": [
+        {
+          "word": " Berry",
+          "start": 58.9,
+          "end": 59.46,
+          "probability": 6.81341180097661e-06
+        },
+        {
+          "word": " Layman",
+          "start": 59.46,
+          "end": 60.02,
+          "probability": 0.010261056993840612
+        },
+        {
+          "word": " she",
+          "start": 60.02,
+          "end": 60.02,
+          "probability": 0.0028872813563793898
+        },
+        {
+          "word": " had",
+          "start": 60.02,
+          "end": 60.02,
+          "probability": 0.01534449215978384
+        },
+        {
+          "word": " everything",
+          "start": 60.02,
+          "end": 60.02,
+          "probability": 0.003091667778789997
+        },
+        {
+          "word": " across",
+          "start": 60.02,
+          "end": 60.02,
+          "probability": 2.1578358428087085e-05
+        },
+        {
+          "word": " the",
+          "start": 60.02,
+          "end": 60.02,
+          "probability": 0.49501240253448486
+        },
+        {
+          "word": " world",
+          "start": 60.02,
+          "end": 60.02,
+          "probability": 0.03524467721581459
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 3658,
+      "start": 60.02,
+      "end": 66.36,
+      "text": " you'll have everything across the globe crops and culture,",
+      "tokens": [
+        51264,
+        291,
+        603,
+        362,
+        1203,
+        2108,
+        264,
+        15371,
+        16829,
+        293,
+        3713,
+        11,
+        51488
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.105067241622741,
+      "compression_ratio": 1.4411764705882353,
+      "no_speech_prob": 0.08079329133033752,
+      "words": [
+        {
+          "word": " you'll",
+          "start": 60.02,
+          "end": 60.02,
+          "probability": 0.016129142488352954
+        },
+        {
+          "word": " have",
+          "start": 60.02,
+          "end": 60.02,
+          "probability": 0.05476363003253937
+        },
+        {
+          "word": " everything",
+          "start": 60.02,
+          "end": 60.02,
+          "probability": 0.031891219317913055
+        },
+        {
+          "word": " across",
+          "start": 60.02,
+          "end": 60.02,
+          "probability": 0.01876397430896759
+        },
+        {
+          "word": " the",
+          "start": 60.02,
+          "end": 60.28,
+          "probability": 0.9104796648025513
+        },
+        {
+          "word": " globe",
+          "start": 60.28,
+          "end": 60.56,
+          "probability": 0.07144531607627869
+        },
+        {
+          "word": " crops",
+          "start": 60.56,
+          "end": 61.32,
+          "probability": 2.051975229733216e-07
+        },
+        {
+          "word": " and",
+          "start": 61.32,
+          "end": 66.36,
+          "probability": 0.09094314277172089
+        },
+        {
+          "word": " culture,",
+          "start": 66.36,
+          "end": 66.36,
+          "probability": 0.0009103947668336332
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 3658,
+      "start": 66.36,
+      "end": 66.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.105067241622741,
+      "compression_ratio": 1.4411764705882353,
+      "no_speech_prob": 0.08079329133033752,
+      "words": []
+    },
+    {
+      "id": 15,
+      "seek": 3658,
+      "start": 66.52,
+      "end": 66.56,
+      "text": " looking after one another.",
+      "tokens": [
+        51680,
+        1237,
+        934,
+        472,
+        1071,
+        13,
+        51790
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.105067241622741,
+      "compression_ratio": 1.4411764705882353,
+      "no_speech_prob": 0.08079329133033752,
+      "words": [
+        {
+          "word": " looking",
+          "start": 66.52,
+          "end": 66.56,
+          "probability": 0.000122441619168967
+        },
+        {
+          "word": " after",
+          "start": 66.56,
+          "end": 66.56,
+          "probability": 0.05765123292803764
+        },
+        {
+          "word": " one",
+          "start": 66.56,
+          "end": 66.56,
+          "probability": 0.002241758396849036
+        },
+        {
+          "word": " another.",
+          "start": 66.56,
+          "end": 66.56,
+          "probability": 0.5014556050300598
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 6656,
+      "start": 67.89999999999999,
+      "end": 70.76,
+      "text": " Happiness has brought you to life.",
+      "tokens": [
+        50364,
+        46224,
+        575,
+        3038,
+        291,
+        281,
+        993,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4107443636113947,
+      "compression_ratio": 1.9166666666666667,
+      "no_speech_prob": 0.14446234703063965,
+      "words": [
+        {
+          "word": " Happiness",
+          "start": 67.89999999999999,
+          "end": 68.74,
+          "probability": 0.5734370350837708
+        },
+        {
+          "word": " has",
+          "start": 68.74,
+          "end": 69.16,
+          "probability": 0.40815702080726624
+        },
+        {
+          "word": " brought",
+          "start": 69.16,
+          "end": 69.34,
+          "probability": 0.9963261485099792
+        },
+        {
+          "word": " you",
+          "start": 69.34,
+          "end": 69.54,
+          "probability": 0.9800492525100708
+        },
+        {
+          "word": " to",
+          "start": 69.54,
+          "end": 69.74,
+          "probability": 0.961126446723938
+        },
+        {
+          "word": " life.",
+          "start": 69.74,
+          "end": 70.76,
+          "probability": 0.9830302596092224
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 6656,
+      "start": 72.16,
+      "end": 73.0,
+      "text": " Happiness?",
+      "tokens": [
+        50614,
+        46224,
+        30,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4107443636113947,
+      "compression_ratio": 1.9166666666666667,
+      "no_speech_prob": 0.14446234703063965,
+      "words": [
+        {
+          "word": " Happiness?",
+          "start": 72.16,
+          "end": 73.0,
+          "probability": 0.34118539094924927
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 6656,
+      "start": 73.58,
+      "end": 75.56,
+      "text": " Yes, happiness has brought you to life.",
+      "tokens": [
+        50664,
+        1079,
+        11,
+        8324,
+        575,
+        3038,
+        291,
+        281,
+        993,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4107443636113947,
+      "compression_ratio": 1.9166666666666667,
+      "no_speech_prob": 0.14446234703063965,
+      "words": [
+        {
+          "word": " Yes,",
+          "start": 73.58,
+          "end": 74.0,
+          "probability": 0.9521301984786987
+        },
+        {
+          "word": " happiness",
+          "start": 74.38,
+          "end": 74.66,
+          "probability": 0.9827778935432434
+        },
+        {
+          "word": " has",
+          "start": 74.66,
+          "end": 75.0,
+          "probability": 0.9814755916595459
+        },
+        {
+          "word": " brought",
+          "start": 75.0,
+          "end": 75.12,
+          "probability": 0.9975989460945129
+        },
+        {
+          "word": " you",
+          "start": 75.12,
+          "end": 75.3,
+          "probability": 0.8890211582183838
+        },
+        {
+          "word": " to",
+          "start": 75.3,
+          "end": 75.44,
+          "probability": 0.9967861175537109
+        },
+        {
+          "word": " life.",
+          "start": 75.44,
+          "end": 75.86,
+          "probability": 0.9989981055259705
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 6656,
+      "start": 77.54,
+      "end": 79.66,
+      "text": " Happiness has brought you to life.",
+      "tokens": [
+        50864,
+        46224,
+        575,
+        3038,
+        291,
+        281,
+        993,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4107443636113947,
+      "compression_ratio": 1.9166666666666667,
+      "no_speech_prob": 0.14446234703063965,
+      "words": [
+        {
+          "word": " Happiness",
+          "start": 77.54,
+          "end": 77.98,
+          "probability": 0.5460403561592102
+        },
+        {
+          "word": " has",
+          "start": 77.98,
+          "end": 78.42,
+          "probability": 0.9681313037872314
+        },
+        {
+          "word": " brought",
+          "start": 78.42,
+          "end": 78.66,
+          "probability": 0.997442364692688
+        },
+        {
+          "word": " you",
+          "start": 78.66,
+          "end": 78.98,
+          "probability": 0.716506838798523
+        },
+        {
+          "word": " to",
+          "start": 78.98,
+          "end": 79.16,
+          "probability": 0.9945479035377502
+        },
+        {
+          "word": " life.",
+          "start": 79.16,
+          "end": 79.66,
+          "probability": 0.9972335696220398
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 6656,
+      "start": 80.06,
+      "end": 80.66,
+      "text": " Yes.",
+      "tokens": [
+        51014,
+        1079,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4107443636113947,
+      "compression_ratio": 1.9166666666666667,
+      "no_speech_prob": 0.14446234703063965,
+      "words": [
+        {
+          "word": " Yes.",
+          "start": 80.06,
+          "end": 80.66,
+          "probability": 0.9600452780723572
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 6656,
+      "start": 82.66,
+      "end": 83.66,
+      "text": " Show of you.",
+      "tokens": [
+        51114,
+        6895,
+        295,
+        291,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4107443636113947,
+      "compression_ratio": 1.9166666666666667,
+      "no_speech_prob": 0.14446234703063965,
+      "words": [
+        {
+          "word": " Show",
+          "start": 82.66,
+          "end": 83.22,
+          "probability": 0.2503579258918762
+        },
+        {
+          "word": " of",
+          "start": 83.22,
+          "end": 83.48,
+          "probability": 0.4284687638282776
+        },
+        {
+          "word": " you.",
+          "start": 83.48,
+          "end": 83.66,
+          "probability": 0.21112656593322754
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 9656,
+      "start": 96.56,
+      "end": 97.84,
+      "text": " Happiness has brought you to life.",
+      "tokens": [
+        50414,
+        46224,
+        575,
+        3038,
+        291,
+        281,
+        993,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6054516315460206,
+      "compression_ratio": 0.8095238095238095,
+      "no_speech_prob": 0.9299440979957581,
+      "words": [
+        {
+          "word": " Happiness",
+          "start": 96.56,
+          "end": 96.56,
+          "probability": 4.528119461610913e-06
+        },
+        {
+          "word": " has",
+          "start": 96.56,
+          "end": 96.56,
+          "probability": 0.004104758147150278
+        },
+        {
+          "word": " brought",
+          "start": 96.56,
+          "end": 97.02,
+          "probability": 0.015380945056676865
+        },
+        {
+          "word": " you",
+          "start": 97.02,
+          "end": 97.72,
+          "probability": 0.15683244168758392
+        },
+        {
+          "word": " to",
+          "start": 97.72,
+          "end": 97.74,
+          "probability": 0.10146082192659378
+        },
+        {
+          "word": " life.",
+          "start": 97.74,
+          "end": 97.84,
+          "probability": 0.0858592540025711
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

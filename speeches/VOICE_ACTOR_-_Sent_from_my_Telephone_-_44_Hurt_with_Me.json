@@ -1,0 +1,1621 @@
+{
+  "text": " I don't really look up to anybody. I guess I have some favorite musicians that I like a lot. I don't emulate anybody. I'm not that fat yet. I have human achievements. I find some things that, like, of course I like Jimi Hendrix, of course. Yeah. I'm not really into this type of music. It seems boring. But I'm not really into high-pitched via. At one point in my life I was more inspired by people. But as a young boy, humans aren't really that... I don't really look to have any inspiration that much anymore. I look very into myself and what goes on in there. Internal struggles, shit like that. I think inside more than outside. I'm not into really surface reality that much. It's got to feel good. You know, it's something that doesn't feel right. It's just not personal. You do what you feel. I mean, everything we do, we feel like doing. That's pretty much what we will continue to do.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 2.399999999999998,
+      "end": 5.34,
+      "text": " I don't really look up to anybody.",
+      "tokens": [
+        50364,
+        286,
+        500,
+        380,
+        534,
+        574,
+        493,
+        281,
+        4472,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5691781044006348,
+      "compression_ratio": 1.21875,
+      "no_speech_prob": 0.3002181947231293,
+      "words": [
+        {
+          "word": " I",
+          "start": 2.399999999999998,
+          "end": 3.32,
+          "probability": 0.48301926255226135
+        },
+        {
+          "word": " don't",
+          "start": 3.32,
+          "end": 3.54,
+          "probability": 0.9734987318515778
+        },
+        {
+          "word": " really",
+          "start": 3.54,
+          "end": 3.78,
+          "probability": 0.9565339684486389
+        },
+        {
+          "word": " look",
+          "start": 3.78,
+          "end": 4.02,
+          "probability": 0.9892149567604065
+        },
+        {
+          "word": " up",
+          "start": 4.02,
+          "end": 4.24,
+          "probability": 0.9982013702392578
+        },
+        {
+          "word": " to",
+          "start": 4.24,
+          "end": 4.36,
+          "probability": 0.994841992855072
+        },
+        {
+          "word": " anybody.",
+          "start": 4.36,
+          "end": 5.34,
+          "probability": 0.9879360198974609
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 11.76,
+      "end": 15.76,
+      "text": " I guess I have some favorite musicians that I like a lot.",
+      "tokens": [
+        50952,
+        286,
+        2041,
+        286,
+        362,
+        512,
+        2954,
+        16916,
+        300,
+        286,
+        411,
+        257,
+        688,
+        13,
+        51302
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5691781044006348,
+      "compression_ratio": 1.21875,
+      "no_speech_prob": 0.3002181947231293,
+      "words": [
+        {
+          "word": " I",
+          "start": 11.36,
+          "end": 11.82,
+          "probability": 0.7132976651191711
+        },
+        {
+          "word": " guess",
+          "start": 11.82,
+          "end": 12.06,
+          "probability": 0.9895415306091309
+        },
+        {
+          "word": " I",
+          "start": 12.06,
+          "end": 12.26,
+          "probability": 0.9782941341400146
+        },
+        {
+          "word": " have",
+          "start": 12.26,
+          "end": 12.56,
+          "probability": 0.9958912134170532
+        },
+        {
+          "word": " some",
+          "start": 12.56,
+          "end": 13.12,
+          "probability": 0.9952740669250488
+        },
+        {
+          "word": " favorite",
+          "start": 13.12,
+          "end": 13.58,
+          "probability": 0.7039870619773865
+        },
+        {
+          "word": " musicians",
+          "start": 13.58,
+          "end": 14.12,
+          "probability": 0.9905620217323303
+        },
+        {
+          "word": " that",
+          "start": 14.12,
+          "end": 14.4,
+          "probability": 0.7710394263267517
+        },
+        {
+          "word": " I",
+          "start": 14.4,
+          "end": 14.46,
+          "probability": 0.9932418465614319
+        },
+        {
+          "word": " like",
+          "start": 14.46,
+          "end": 14.68,
+          "probability": 0.9962918758392334
+        },
+        {
+          "word": " a",
+          "start": 14.68,
+          "end": 14.92,
+          "probability": 0.9899703860282898
+        },
+        {
+          "word": " lot.",
+          "start": 14.92,
+          "end": 15.76,
+          "probability": 0.9994155168533325
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 20.18,
+      "end": 23.56,
+      "text": " I don't emulate anybody.",
+      "tokens": [
+        51424,
+        286,
+        500,
+        380,
+        45497,
+        4472,
+        13,
+        51674
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5691781044006348,
+      "compression_ratio": 1.21875,
+      "no_speech_prob": 0.3002181947231293,
+      "words": [
+        {
+          "word": " I",
+          "start": 20.18,
+          "end": 20.18,
+          "probability": 0.23501449823379517
+        },
+        {
+          "word": " don't",
+          "start": 20.18,
+          "end": 21.96,
+          "probability": 0.9919382035732269
+        },
+        {
+          "word": " emulate",
+          "start": 21.96,
+          "end": 22.44,
+          "probability": 0.9801492094993591
+        },
+        {
+          "word": " anybody.",
+          "start": 22.44,
+          "end": 23.56,
+          "probability": 0.9899789094924927
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2356,
+      "start": 26.16,
+      "end": 28.44,
+      "text": " I'm not that fat yet.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        406,
+        300,
+        4046,
+        1939,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5000060081481934,
+      "compression_ratio": 1.2346938775510203,
+      "no_speech_prob": 0.02515101432800293,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 26.16,
+          "end": 27.2,
+          "probability": 0.5701375007629395
+        },
+        {
+          "word": " not",
+          "start": 27.2,
+          "end": 27.94,
+          "probability": 0.9942625164985657
+        },
+        {
+          "word": " that",
+          "start": 27.94,
+          "end": 28.12,
+          "probability": 0.9385200142860413
+        },
+        {
+          "word": " fat",
+          "start": 28.12,
+          "end": 28.32,
+          "probability": 0.3382662236690521
+        },
+        {
+          "word": " yet.",
+          "start": 28.32,
+          "end": 28.44,
+          "probability": 0.4848600924015045
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2356,
+      "start": 29.58,
+      "end": 32.0,
+      "text": " I have human achievements.",
+      "tokens": [
+        50614,
+        286,
+        362,
+        1952,
+        21420,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5000060081481934,
+      "compression_ratio": 1.2346938775510203,
+      "no_speech_prob": 0.02515101432800293,
+      "words": [
+        {
+          "word": " I",
+          "start": 29.58,
+          "end": 29.58,
+          "probability": 0.7065642476081848
+        },
+        {
+          "word": " have",
+          "start": 29.58,
+          "end": 30.4,
+          "probability": 0.7897793054580688
+        },
+        {
+          "word": " human",
+          "start": 30.4,
+          "end": 31.26,
+          "probability": 0.6315842866897583
+        },
+        {
+          "word": " achievements.",
+          "start": 31.26,
+          "end": 32.0,
+          "probability": 0.9634873867034912
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2356,
+      "start": 36.9,
+      "end": 43.56,
+      "text": " I find some things that, like, of course I like Jimi Hendrix, of course.",
+      "tokens": [
+        51014,
+        286,
+        915,
+        512,
+        721,
+        300,
+        11,
+        411,
+        11,
+        295,
+        1164,
+        286,
+        411,
+        6637,
+        72,
+        28594,
+        6579,
+        11,
+        295,
+        1164,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5000060081481934,
+      "compression_ratio": 1.2346938775510203,
+      "no_speech_prob": 0.02515101432800293,
+      "words": [
+        {
+          "word": " I",
+          "start": 36.9,
+          "end": 37.06,
+          "probability": 0.9464595317840576
+        },
+        {
+          "word": " find",
+          "start": 37.06,
+          "end": 37.58,
+          "probability": 0.9600614309310913
+        },
+        {
+          "word": " some",
+          "start": 37.58,
+          "end": 38.64,
+          "probability": 0.93570476770401
+        },
+        {
+          "word": " things",
+          "start": 38.64,
+          "end": 39.02,
+          "probability": 0.9072006940841675
+        },
+        {
+          "word": " that,",
+          "start": 39.02,
+          "end": 39.6,
+          "probability": 0.2356446534395218
+        },
+        {
+          "word": " like,",
+          "start": 40.42,
+          "end": 40.64,
+          "probability": 0.7423766851425171
+        },
+        {
+          "word": " of",
+          "start": 40.64,
+          "end": 41.18,
+          "probability": 0.6551873087882996
+        },
+        {
+          "word": " course",
+          "start": 41.18,
+          "end": 41.38,
+          "probability": 0.9984517097473145
+        },
+        {
+          "word": " I",
+          "start": 41.38,
+          "end": 41.5,
+          "probability": 0.6350323557853699
+        },
+        {
+          "word": " like",
+          "start": 41.5,
+          "end": 41.68,
+          "probability": 0.976150631904602
+        },
+        {
+          "word": " Jimi",
+          "start": 41.68,
+          "end": 42.14,
+          "probability": 0.9228332042694092
+        },
+        {
+          "word": " Hendrix,",
+          "start": 42.14,
+          "end": 42.5,
+          "probability": 0.9957408905029297
+        },
+        {
+          "word": " of",
+          "start": 42.98,
+          "end": 43.38,
+          "probability": 0.9720280766487122
+        },
+        {
+          "word": " course.",
+          "start": 43.38,
+          "end": 43.900000000000006,
+          "probability": 0.999195396900177
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4390,
+      "start": 58.3,
+      "end": 58.98,
+      "text": " Yeah.",
+      "tokens": [
+        50414,
+        865,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7322561364424857,
+      "compression_ratio": 1.2093023255813953,
+      "no_speech_prob": 0.06839783489704132,
+      "words": [
+        {
+          "word": " Yeah.",
+          "start": 58.3,
+          "end": 58.98,
+          "probability": 0.025992562994360924
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 4390,
+      "start": 59.0,
+      "end": 61.58,
+      "text": " I'm not really into this type of music.",
+      "tokens": [
+        50764,
+        286,
+        478,
+        406,
+        534,
+        666,
+        341,
+        2010,
+        295,
+        1318,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7322561364424857,
+      "compression_ratio": 1.2093023255813953,
+      "no_speech_prob": 0.06839783489704132,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 59.0,
+          "end": 59.22,
+          "probability": 0.46512962877750397
+        },
+        {
+          "word": " not",
+          "start": 59.22,
+          "end": 59.32,
+          "probability": 0.8426539301872253
+        },
+        {
+          "word": " really",
+          "start": 59.32,
+          "end": 59.56,
+          "probability": 0.747857391834259
+        },
+        {
+          "word": " into",
+          "start": 59.56,
+          "end": 59.9,
+          "probability": 0.6818777918815613
+        },
+        {
+          "word": " this",
+          "start": 59.9,
+          "end": 60.16,
+          "probability": 0.4120214581489563
+        },
+        {
+          "word": " type",
+          "start": 60.16,
+          "end": 60.98,
+          "probability": 0.54056316614151
+        },
+        {
+          "word": " of",
+          "start": 60.98,
+          "end": 61.58,
+          "probability": 0.9895555377006531
+        },
+        {
+          "word": " music.",
+          "start": 61.58,
+          "end": 61.58,
+          "probability": 0.6818220615386963
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 4390,
+      "start": 61.68,
+      "end": 63.04,
+      "text": " It seems boring.",
+      "tokens": [
+        51114,
+        467,
+        2544,
+        9989,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7322561364424857,
+      "compression_ratio": 1.2093023255813953,
+      "no_speech_prob": 0.06839783489704132,
+      "words": [
+        {
+          "word": " It",
+          "start": 61.68,
+          "end": 62.0,
+          "probability": 0.6377755999565125
+        },
+        {
+          "word": " seems",
+          "start": 62.0,
+          "end": 62.3,
+          "probability": 0.9420046806335449
+        },
+        {
+          "word": " boring.",
+          "start": 62.3,
+          "end": 63.04,
+          "probability": 0.9944836497306824
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 4390,
+      "start": 66.94,
+      "end": 70.94,
+      "text": " But I'm not really into high-pitched via.",
+      "tokens": [
+        51514,
+        583,
+        286,
+        478,
+        406,
+        534,
+        666,
+        1090,
+        12,
+        79,
+        41328,
+        5766,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7322561364424857,
+      "compression_ratio": 1.2093023255813953,
+      "no_speech_prob": 0.06839783489704132,
+      "words": [
+        {
+          "word": " But",
+          "start": 66.94,
+          "end": 67.3,
+          "probability": 0.9411510229110718
+        },
+        {
+          "word": " I'm",
+          "start": 67.3,
+          "end": 68.04,
+          "probability": 0.9598298966884613
+        },
+        {
+          "word": " not",
+          "start": 68.04,
+          "end": 68.04,
+          "probability": 0.9863298535346985
+        },
+        {
+          "word": " really",
+          "start": 68.04,
+          "end": 68.32,
+          "probability": 0.20656484365463257
+        },
+        {
+          "word": " into",
+          "start": 68.32,
+          "end": 68.86,
+          "probability": 0.9012245535850525
+        },
+        {
+          "word": " high",
+          "start": 68.86,
+          "end": 69.2,
+          "probability": 0.13211482763290405
+        },
+        {
+          "word": "-pitched",
+          "start": 69.2,
+          "end": 70.94,
+          "probability": 0.2247162957986196
+        },
+        {
+          "word": " via.",
+          "start": 70.94,
+          "end": 70.94,
+          "probability": 0.1407134234905243
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 7094,
+      "start": 72.02000000000001,
+      "end": 80.24,
+      "text": " At one point in my life I was more inspired by people.",
+      "tokens": [
+        50414,
+        1711,
+        472,
+        935,
+        294,
+        452,
+        993,
+        286,
+        390,
+        544,
+        7547,
+        538,
+        561,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3395681381225586,
+      "compression_ratio": 1.3387096774193548,
+      "no_speech_prob": 0.016660282388329506,
+      "words": [
+        {
+          "word": " At",
+          "start": 72.02000000000001,
+          "end": 72.62,
+          "probability": 0.09005808085203171
+        },
+        {
+          "word": " one",
+          "start": 72.62,
+          "end": 72.62,
+          "probability": 0.8678927421569824
+        },
+        {
+          "word": " point",
+          "start": 72.62,
+          "end": 72.88,
+          "probability": 0.9954274892807007
+        },
+        {
+          "word": " in",
+          "start": 72.88,
+          "end": 73.02,
+          "probability": 0.7417903542518616
+        },
+        {
+          "word": " my",
+          "start": 73.02,
+          "end": 73.18,
+          "probability": 0.9883528351783752
+        },
+        {
+          "word": " life",
+          "start": 73.18,
+          "end": 73.36,
+          "probability": 0.8899552822113037
+        },
+        {
+          "word": " I",
+          "start": 73.36,
+          "end": 73.48,
+          "probability": 0.6841771006584167
+        },
+        {
+          "word": " was",
+          "start": 73.48,
+          "end": 74.28,
+          "probability": 0.9920637011528015
+        },
+        {
+          "word": " more",
+          "start": 74.28,
+          "end": 74.6,
+          "probability": 0.8719422817230225
+        },
+        {
+          "word": " inspired",
+          "start": 74.6,
+          "end": 75.06,
+          "probability": 0.9670909643173218
+        },
+        {
+          "word": " by",
+          "start": 75.06,
+          "end": 80.24,
+          "probability": 0.9967806339263916
+        },
+        {
+          "word": " people.",
+          "start": 80.24,
+          "end": 80.24,
+          "probability": 0.9855615496635437
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 7094,
+      "start": 83.54,
+      "end": 89.94,
+      "text": " But as a young boy, humans aren't really that...",
+      "tokens": [
+        50964,
+        583,
+        382,
+        257,
+        2037,
+        3237,
+        11,
+        6255,
+        3212,
+        380,
+        534,
+        300,
+        485,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3395681381225586,
+      "compression_ratio": 1.3387096774193548,
+      "no_speech_prob": 0.016660282388329506,
+      "words": [
+        {
+          "word": " But",
+          "start": 83.54,
+          "end": 83.8,
+          "probability": 0.7888515591621399
+        },
+        {
+          "word": " as",
+          "start": 83.8,
+          "end": 84.1,
+          "probability": 0.9333496689796448
+        },
+        {
+          "word": " a",
+          "start": 84.1,
+          "end": 84.28,
+          "probability": 0.9358285665512085
+        },
+        {
+          "word": " young",
+          "start": 84.28,
+          "end": 84.76,
+          "probability": 0.8860593438148499
+        },
+        {
+          "word": " boy,",
+          "start": 84.76,
+          "end": 85.7,
+          "probability": 0.43192410469055176
+        },
+        {
+          "word": " humans",
+          "start": 87.18,
+          "end": 87.48,
+          "probability": 0.7031746506690979
+        },
+        {
+          "word": " aren't",
+          "start": 87.48,
+          "end": 88.6,
+          "probability": 0.8118027150630951
+        },
+        {
+          "word": " really",
+          "start": 88.6,
+          "end": 88.98,
+          "probability": 0.4481358826160431
+        },
+        {
+          "word": " that...",
+          "start": 88.98,
+          "end": 89.94,
+          "probability": 0.40403591841459274
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7094,
+      "start": 90.46,
+      "end": 94.62,
+      "text": " I don't really look to have any inspiration that much anymore.",
+      "tokens": [
+        51314,
+        286,
+        500,
+        380,
+        534,
+        574,
+        281,
+        362,
+        604,
+        10249,
+        300,
+        709,
+        3602,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3395681381225586,
+      "compression_ratio": 1.3387096774193548,
+      "no_speech_prob": 0.016660282388329506,
+      "words": [
+        {
+          "word": " I",
+          "start": 90.46,
+          "end": 90.5,
+          "probability": 0.1880055069923401
+        },
+        {
+          "word": " don't",
+          "start": 90.5,
+          "end": 90.78,
+          "probability": 0.6923626810312271
+        },
+        {
+          "word": " really",
+          "start": 90.78,
+          "end": 90.78,
+          "probability": 0.7296254634857178
+        },
+        {
+          "word": " look",
+          "start": 90.78,
+          "end": 90.84,
+          "probability": 0.29027318954467773
+        },
+        {
+          "word": " to",
+          "start": 90.84,
+          "end": 91.12,
+          "probability": 0.4035153090953827
+        },
+        {
+          "word": " have",
+          "start": 91.12,
+          "end": 91.22,
+          "probability": 0.7772461175918579
+        },
+        {
+          "word": " any",
+          "start": 91.22,
+          "end": 91.38,
+          "probability": 0.2630404531955719
+        },
+        {
+          "word": " inspiration",
+          "start": 91.38,
+          "end": 91.92,
+          "probability": 0.9539416432380676
+        },
+        {
+          "word": " that",
+          "start": 91.92,
+          "end": 92.12,
+          "probability": 0.8760311603546143
+        },
+        {
+          "word": " much",
+          "start": 92.12,
+          "end": 92.36,
+          "probability": 0.9982522130012512
+        },
+        {
+          "word": " anymore.",
+          "start": 92.36,
+          "end": 94.62,
+          "probability": 0.9636193513870239
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 9462,
+      "start": 97.74,
+      "end": 102.64,
+      "text": " I look very into myself and what goes on in there.",
+      "tokens": [
+        50414,
+        286,
+        574,
+        588,
+        666,
+        2059,
+        293,
+        437,
+        1709,
+        322,
+        294,
+        456,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3804601501016056,
+      "compression_ratio": 1.2121212121212122,
+      "no_speech_prob": 0.03557927906513214,
+      "words": [
+        {
+          "word": " I",
+          "start": 97.74,
+          "end": 98.74,
+          "probability": 0.10374614596366882
+        },
+        {
+          "word": " look",
+          "start": 98.74,
+          "end": 99.24,
+          "probability": 0.49186718463897705
+        },
+        {
+          "word": " very",
+          "start": 99.24,
+          "end": 100.16,
+          "probability": 0.27587825059890747
+        },
+        {
+          "word": " into",
+          "start": 100.16,
+          "end": 100.16,
+          "probability": 0.006731946021318436
+        },
+        {
+          "word": " myself",
+          "start": 100.16,
+          "end": 101.12,
+          "probability": 0.4349302351474762
+        },
+        {
+          "word": " and",
+          "start": 101.12,
+          "end": 101.38,
+          "probability": 0.6383163928985596
+        },
+        {
+          "word": " what",
+          "start": 101.38,
+          "end": 101.56,
+          "probability": 0.9545316100120544
+        },
+        {
+          "word": " goes",
+          "start": 101.56,
+          "end": 101.82,
+          "probability": 0.9901620149612427
+        },
+        {
+          "word": " on",
+          "start": 101.82,
+          "end": 101.98,
+          "probability": 0.9904475212097168
+        },
+        {
+          "word": " in",
+          "start": 101.98,
+          "end": 102.12,
+          "probability": 0.9180726408958435
+        },
+        {
+          "word": " there.",
+          "start": 102.12,
+          "end": 102.64,
+          "probability": 0.9793110489845276
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 9462,
+      "start": 102.78,
+      "end": 107.62,
+      "text": " Internal struggles, shit like that.",
+      "tokens": [
+        50764,
+        47836,
+        17592,
+        11,
+        4611,
+        411,
+        300,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3804601501016056,
+      "compression_ratio": 1.2121212121212122,
+      "no_speech_prob": 0.03557927906513214,
+      "words": [
+        {
+          "word": " Internal",
+          "start": 102.78,
+          "end": 103.28,
+          "probability": 0.8441548347473145
+        },
+        {
+          "word": " struggles,",
+          "start": 103.28,
+          "end": 104.42,
+          "probability": 0.18687181174755096
+        },
+        {
+          "word": " shit",
+          "start": 105.28,
+          "end": 105.48,
+          "probability": 0.41955551505088806
+        },
+        {
+          "word": " like",
+          "start": 105.48,
+          "end": 105.82,
+          "probability": 0.9950140118598938
+        },
+        {
+          "word": " that.",
+          "start": 105.82,
+          "end": 107.62,
+          "probability": 0.9986613988876343
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 9462,
+      "start": 114.84,
+      "end": 118.56,
+      "text": " I think inside more than outside.",
+      "tokens": [
+        51364,
+        286,
+        519,
+        1854,
+        544,
+        813,
+        2380,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3804601501016056,
+      "compression_ratio": 1.2121212121212122,
+      "no_speech_prob": 0.03557927906513214,
+      "words": [
+        {
+          "word": " I",
+          "start": 114.84,
+          "end": 114.84,
+          "probability": 0.19967776536941528
+        },
+        {
+          "word": " think",
+          "start": 114.84,
+          "end": 115.22,
+          "probability": 0.4548552930355072
+        },
+        {
+          "word": " inside",
+          "start": 115.22,
+          "end": 115.82,
+          "probability": 0.9695780277252197
+        },
+        {
+          "word": " more",
+          "start": 115.82,
+          "end": 116.22,
+          "probability": 0.9353665709495544
+        },
+        {
+          "word": " than",
+          "start": 116.22,
+          "end": 116.34,
+          "probability": 0.9897018671035767
+        },
+        {
+          "word": " outside.",
+          "start": 116.34,
+          "end": 118.56,
+          "probability": 0.9968275427818298
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 11856,
+      "start": 122.22,
+      "end": 128.6,
+      "text": " I'm not into really surface reality that much.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        406,
+        666,
+        534,
+        3753,
+        4103,
+        300,
+        709,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38774933005278966,
+      "compression_ratio": 1.3636363636363635,
+      "no_speech_prob": 0.007820762693881989,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 122.22,
+          "end": 123.14,
+          "probability": 0.126710943877697
+        },
+        {
+          "word": " not",
+          "start": 123.14,
+          "end": 123.42,
+          "probability": 0.3029242753982544
+        },
+        {
+          "word": " into",
+          "start": 123.42,
+          "end": 123.96,
+          "probability": 0.2830456793308258
+        },
+        {
+          "word": " really",
+          "start": 123.96,
+          "end": 124.62,
+          "probability": 0.038710400462150574
+        },
+        {
+          "word": " surface",
+          "start": 124.62,
+          "end": 125.62,
+          "probability": 0.7649139165878296
+        },
+        {
+          "word": " reality",
+          "start": 125.62,
+          "end": 126.34,
+          "probability": 0.9603151082992554
+        },
+        {
+          "word": " that",
+          "start": 126.34,
+          "end": 126.8,
+          "probability": 0.934141218662262
+        },
+        {
+          "word": " much.",
+          "start": 126.8,
+          "end": 128.6,
+          "probability": 0.999189555644989
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 11856,
+      "start": 131.82,
+      "end": 132.54,
+      "text": " It's got to feel good.",
+      "tokens": [
+        50814,
+        467,
+        311,
+        658,
+        281,
+        841,
+        665,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38774933005278966,
+      "compression_ratio": 1.3636363636363635,
+      "no_speech_prob": 0.007820762693881989,
+      "words": [
+        {
+          "word": " It's",
+          "start": 131.82,
+          "end": 131.82,
+          "probability": 0.6798055619001389
+        },
+        {
+          "word": " got",
+          "start": 131.82,
+          "end": 131.82,
+          "probability": 0.4523926377296448
+        },
+        {
+          "word": " to",
+          "start": 131.82,
+          "end": 131.9,
+          "probability": 0.9205279350280762
+        },
+        {
+          "word": " feel",
+          "start": 131.9,
+          "end": 132.14,
+          "probability": 0.9806593060493469
+        },
+        {
+          "word": " good.",
+          "start": 132.14,
+          "end": 132.54,
+          "probability": 0.6609270572662354
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 11856,
+      "start": 133.24,
+      "end": 138.7,
+      "text": " You know, it's something that doesn't feel right.",
+      "tokens": [
+        51064,
+        509,
+        458,
+        11,
+        309,
+        311,
+        746,
+        300,
+        1177,
+        380,
+        841,
+        558,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38774933005278966,
+      "compression_ratio": 1.3636363636363635,
+      "no_speech_prob": 0.007820762693881989,
+      "words": [
+        {
+          "word": " You",
+          "start": 133.24,
+          "end": 134.16,
+          "probability": 0.2158603072166443
+        },
+        {
+          "word": " know,",
+          "start": 134.16,
+          "end": 134.3,
+          "probability": 0.9539489150047302
+        },
+        {
+          "word": " it's",
+          "start": 134.36,
+          "end": 134.64,
+          "probability": 0.7408149540424347
+        },
+        {
+          "word": " something",
+          "start": 134.64,
+          "end": 134.64,
+          "probability": 0.35518884658813477
+        },
+        {
+          "word": " that",
+          "start": 134.64,
+          "end": 137.72,
+          "probability": 0.8548707365989685
+        },
+        {
+          "word": " doesn't",
+          "start": 137.72,
+          "end": 137.9,
+          "probability": 0.9626538455486298
+        },
+        {
+          "word": " feel",
+          "start": 137.9,
+          "end": 138.2,
+          "probability": 0.9973680377006531
+        },
+        {
+          "word": " right.",
+          "start": 138.2,
+          "end": 138.7,
+          "probability": 0.9949339032173157
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 11856,
+      "start": 139.6,
+      "end": 141.0,
+      "text": " It's just not personal.",
+      "tokens": [
+        51314,
+        467,
+        311,
+        445,
+        406,
+        2973,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38774933005278966,
+      "compression_ratio": 1.3636363636363635,
+      "no_speech_prob": 0.007820762693881989,
+      "words": [
+        {
+          "word": " It's",
+          "start": 139.6,
+          "end": 139.76,
+          "probability": 0.8944339454174042
+        },
+        {
+          "word": " just",
+          "start": 139.76,
+          "end": 139.94,
+          "probability": 0.8838242292404175
+        },
+        {
+          "word": " not",
+          "start": 139.94,
+          "end": 140.16,
+          "probability": 0.9934225678443909
+        },
+        {
+          "word": " personal.",
+          "start": 140.16,
+          "end": 141.0,
+          "probability": 0.9655778408050537
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 11856,
+      "start": 141.92,
+      "end": 143.38,
+      "text": " You do what you feel.",
+      "tokens": [
+        51464,
+        509,
+        360,
+        437,
+        291,
+        841,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38774933005278966,
+      "compression_ratio": 1.3636363636363635,
+      "no_speech_prob": 0.007820762693881989,
+      "words": [
+        {
+          "word": " You",
+          "start": 141.92,
+          "end": 142.22,
+          "probability": 0.20830945670604706
+        },
+        {
+          "word": " do",
+          "start": 142.22,
+          "end": 142.38,
+          "probability": 0.8160353899002075
+        },
+        {
+          "word": " what",
+          "start": 142.38,
+          "end": 142.54,
+          "probability": 0.9796492457389832
+        },
+        {
+          "word": " you",
+          "start": 142.54,
+          "end": 142.74,
+          "probability": 0.9977436065673828
+        },
+        {
+          "word": " feel.",
+          "start": 142.74,
+          "end": 143.38,
+          "probability": 0.9976332187652588
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 14338,
+      "start": 143.38,
+      "end": 147.88,
+      "text": " I mean, everything we do, we feel like doing.",
+      "tokens": [
+        50364,
+        286,
+        914,
+        11,
+        1203,
+        321,
+        360,
+        11,
+        321,
+        841,
+        411,
+        884,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25145113468170166,
+      "compression_ratio": 1.0813953488372092,
+      "no_speech_prob": 0.002867006929591298,
+      "words": [
+        {
+          "word": " I",
+          "start": 143.38,
+          "end": 143.88,
+          "probability": 0.28569284081459045
+        },
+        {
+          "word": " mean,",
+          "start": 143.88,
+          "end": 143.94,
+          "probability": 0.9888920187950134
+        },
+        {
+          "word": " everything",
+          "start": 144.44,
+          "end": 144.74,
+          "probability": 0.9607018232345581
+        },
+        {
+          "word": " we",
+          "start": 144.74,
+          "end": 145.1,
+          "probability": 0.4269539713859558
+        },
+        {
+          "word": " do,",
+          "start": 145.1,
+          "end": 145.46,
+          "probability": 0.3369600474834442
+        },
+        {
+          "word": " we",
+          "start": 145.8,
+          "end": 146.24,
+          "probability": 0.21874307096004486
+        },
+        {
+          "word": " feel",
+          "start": 146.24,
+          "end": 146.56,
+          "probability": 0.8028920292854309
+        },
+        {
+          "word": " like",
+          "start": 146.56,
+          "end": 146.84,
+          "probability": 0.889074981212616
+        },
+        {
+          "word": " doing.",
+          "start": 146.84,
+          "end": 147.88,
+          "probability": 0.8568516969680786
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 14338,
+      "start": 155.52,
+      "end": 158.46,
+      "text": " That's pretty much what we will continue to do.",
+      "tokens": [
+        50964,
+        663,
+        311,
+        1238,
+        709,
+        437,
+        321,
+        486,
+        2354,
+        281,
+        360,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25145113468170166,
+      "compression_ratio": 1.0813953488372092,
+      "no_speech_prob": 0.002867006929591298,
+      "words": [
+        {
+          "word": " That's",
+          "start": 155.52,
+          "end": 156.24,
+          "probability": 0.7570695281028748
+        },
+        {
+          "word": " pretty",
+          "start": 156.24,
+          "end": 156.36,
+          "probability": 0.9839826822280884
+        },
+        {
+          "word": " much",
+          "start": 156.36,
+          "end": 156.72,
+          "probability": 0.9993641972541809
+        },
+        {
+          "word": " what",
+          "start": 156.72,
+          "end": 156.92,
+          "probability": 0.9640679955482483
+        },
+        {
+          "word": " we",
+          "start": 156.92,
+          "end": 157.16,
+          "probability": 0.9965423941612244
+        },
+        {
+          "word": " will",
+          "start": 157.16,
+          "end": 157.38,
+          "probability": 0.9248784780502319
+        },
+        {
+          "word": " continue",
+          "start": 157.38,
+          "end": 157.74,
+          "probability": 0.9983251690864563
+        },
+        {
+          "word": " to",
+          "start": 157.74,
+          "end": 158.0,
+          "probability": 0.9988498687744141
+        },
+        {
+          "word": " do.",
+          "start": 158.0,
+          "end": 158.46,
+          "probability": 0.9995917677879333
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,550 @@
+{
+  "text": " Where are you going? But what if they come? I didn't expect to see you again. Are you okay? I know what I saw. We have to go. Long. Come with me and let's talk about this. So where is he? It's just a dream. Do you believe me?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 2.3199999999999985,
+      "end": 3.68,
+      "text": " Where are you going?",
+      "tokens": [
+        50364,
+        2305,
+        366,
+        291,
+        516,
+        30,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24866485595703125,
+      "compression_ratio": 1.1702127659574468,
+      "no_speech_prob": 0.3648042678833008,
+      "words": [
+        {
+          "word": " Where",
+          "start": 2.3199999999999985,
+          "end": 2.92,
+          "probability": 0.8420954346656799
+        },
+        {
+          "word": " are",
+          "start": 2.92,
+          "end": 3.18,
+          "probability": 0.9705788493156433
+        },
+        {
+          "word": " you",
+          "start": 3.18,
+          "end": 3.24,
+          "probability": 0.9934917092323303
+        },
+        {
+          "word": " going?",
+          "start": 3.24,
+          "end": 3.68,
+          "probability": 0.998291552066803
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.68,
+      "end": 6.94,
+      "text": " But what if they come?",
+      "tokens": [
+        50614,
+        583,
+        437,
+        498,
+        436,
+        808,
+        30,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24866485595703125,
+      "compression_ratio": 1.1702127659574468,
+      "no_speech_prob": 0.3648042678833008,
+      "words": [
+        {
+          "word": " But",
+          "start": 5.68,
+          "end": 5.86,
+          "probability": 0.9089502096176147
+        },
+        {
+          "word": " what",
+          "start": 5.86,
+          "end": 6.1,
+          "probability": 0.9563129544258118
+        },
+        {
+          "word": " if",
+          "start": 6.1,
+          "end": 6.26,
+          "probability": 0.98558109998703
+        },
+        {
+          "word": " they",
+          "start": 6.26,
+          "end": 6.52,
+          "probability": 0.7793185710906982
+        },
+        {
+          "word": " come?",
+          "start": 6.52,
+          "end": 6.94,
+          "probability": 0.9950780868530273
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.04,
+      "end": 14.0,
+      "text": " I didn't expect to see you again.",
+      "tokens": [
+        50864,
+        286,
+        994,
+        380,
+        2066,
+        281,
+        536,
+        291,
+        797,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24866485595703125,
+      "compression_ratio": 1.1702127659574468,
+      "no_speech_prob": 0.3648042678833008,
+      "words": [
+        {
+          "word": " I",
+          "start": 11.04,
+          "end": 11.34,
+          "probability": 0.992363691329956
+        },
+        {
+          "word": " didn't",
+          "start": 11.34,
+          "end": 11.68,
+          "probability": 0.9777722954750061
+        },
+        {
+          "word": " expect",
+          "start": 11.68,
+          "end": 12.26,
+          "probability": 0.996306300163269
+        },
+        {
+          "word": " to",
+          "start": 12.26,
+          "end": 12.52,
+          "probability": 0.9946940541267395
+        },
+        {
+          "word": " see",
+          "start": 12.52,
+          "end": 12.68,
+          "probability": 0.9985080361366272
+        },
+        {
+          "word": " you",
+          "start": 12.68,
+          "end": 12.9,
+          "probability": 0.9979087114334106
+        },
+        {
+          "word": " again.",
+          "start": 12.9,
+          "end": 14.0,
+          "probability": 0.9958043694496155
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.16,
+      "end": 17.92,
+      "text": " Are you okay?",
+      "tokens": [
+        51114,
+        2014,
+        291,
+        1392,
+        30,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24866485595703125,
+      "compression_ratio": 1.1702127659574468,
+      "no_speech_prob": 0.3648042678833008,
+      "words": [
+        {
+          "word": " Are",
+          "start": 17.16,
+          "end": 17.34,
+          "probability": 0.9949193596839905
+        },
+        {
+          "word": " you",
+          "start": 17.34,
+          "end": 17.52,
+          "probability": 0.9990726709365845
+        },
+        {
+          "word": " okay?",
+          "start": 17.52,
+          "end": 17.92,
+          "probability": 0.5417884588241577
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 21.46,
+      "end": 23.64,
+      "text": " I know what I saw.",
+      "tokens": [
+        51364,
+        286,
+        458,
+        437,
+        286,
+        1866,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24866485595703125,
+      "compression_ratio": 1.1702127659574468,
+      "no_speech_prob": 0.3648042678833008,
+      "words": [
+        {
+          "word": " I",
+          "start": 21.46,
+          "end": 22.06,
+          "probability": 0.9951189756393433
+        },
+        {
+          "word": " know",
+          "start": 22.06,
+          "end": 22.36,
+          "probability": 0.9946179986000061
+        },
+        {
+          "word": " what",
+          "start": 22.36,
+          "end": 22.5,
+          "probability": 0.9957362413406372
+        },
+        {
+          "word": " I",
+          "start": 22.5,
+          "end": 22.72,
+          "probability": 0.8595436811447144
+        },
+        {
+          "word": " saw.",
+          "start": 22.72,
+          "end": 23.64,
+          "probability": 0.9960441589355469
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2364,
+      "start": 27.98,
+      "end": 30.4,
+      "text": " We have to go.",
+      "tokens": [
+        50364,
+        492,
+        362,
+        281,
+        352,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13902947902679444,
+      "compression_ratio": 1.0795454545454546,
+      "no_speech_prob": 0.009082832373678684,
+      "words": [
+        {
+          "word": " We",
+          "start": 27.98,
+          "end": 28.74,
+          "probability": 0.4248965382575989
+        },
+        {
+          "word": " have",
+          "start": 28.74,
+          "end": 29.1,
+          "probability": 0.9806708097457886
+        },
+        {
+          "word": " to",
+          "start": 29.1,
+          "end": 29.4,
+          "probability": 0.9904335737228394
+        },
+        {
+          "word": " go.",
+          "start": 29.4,
+          "end": 30.4,
+          "probability": 0.977088212966919
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2364,
+      "start": 31.34,
+      "end": 31.72,
+      "text": " Long.",
+      "tokens": [
+        50614,
+        8282,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13902947902679444,
+      "compression_ratio": 1.0795454545454546,
+      "no_speech_prob": 0.009082832373678684,
+      "words": [
+        {
+          "word": " Long.",
+          "start": 31.34,
+          "end": 31.72,
+          "probability": 0.6565478444099426
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2364,
+      "start": 37.98,
+      "end": 40.52,
+      "text": " Come with me and let's talk about this.",
+      "tokens": [
+        50864,
+        2492,
+        365,
+        385,
+        293,
+        718,
+        311,
+        751,
+        466,
+        341,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13902947902679444,
+      "compression_ratio": 1.0795454545454546,
+      "no_speech_prob": 0.009082832373678684,
+      "words": [
+        {
+          "word": " Come",
+          "start": 37.98,
+          "end": 38.4,
+          "probability": 0.9699664115905762
+        },
+        {
+          "word": " with",
+          "start": 38.4,
+          "end": 38.66,
+          "probability": 0.996319055557251
+        },
+        {
+          "word": " me",
+          "start": 38.66,
+          "end": 38.86,
+          "probability": 0.9979972243309021
+        },
+        {
+          "word": " and",
+          "start": 38.86,
+          "end": 39.04,
+          "probability": 0.8215284943580627
+        },
+        {
+          "word": " let's",
+          "start": 39.04,
+          "end": 39.28,
+          "probability": 0.9410372078418732
+        },
+        {
+          "word": " talk",
+          "start": 39.28,
+          "end": 39.64,
+          "probability": 0.9981465339660645
+        },
+        {
+          "word": " about",
+          "start": 39.64,
+          "end": 40.14,
+          "probability": 0.9968910813331604
+        },
+        {
+          "word": " this.",
+          "start": 40.14,
+          "end": 40.52,
+          "probability": 0.9138471484184265
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2364,
+      "start": 43.28,
+      "end": 44.84,
+      "text": " So where is he?",
+      "tokens": [
+        51114,
+        407,
+        689,
+        307,
+        415,
+        30,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13902947902679444,
+      "compression_ratio": 1.0795454545454546,
+      "no_speech_prob": 0.009082832373678684,
+      "words": [
+        {
+          "word": " So",
+          "start": 43.28,
+          "end": 43.64,
+          "probability": 0.9769372940063477
+        },
+        {
+          "word": " where",
+          "start": 43.64,
+          "end": 43.94,
+          "probability": 0.8091549277305603
+        },
+        {
+          "word": " is",
+          "start": 43.94,
+          "end": 44.18,
+          "probability": 0.9982680082321167
+        },
+        {
+          "word": " he?",
+          "start": 44.18,
+          "end": 44.84,
+          "probability": 0.37139275670051575
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2364,
+      "start": 48.74,
+      "end": 50.64,
+      "text": " It's just a dream.",
+      "tokens": [
+        51364,
+        467,
+        311,
+        445,
+        257,
+        3055,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13902947902679444,
+      "compression_ratio": 1.0795454545454546,
+      "no_speech_prob": 0.009082832373678684,
+      "words": [
+        {
+          "word": " It's",
+          "start": 48.74,
+          "end": 49.5,
+          "probability": 0.982205867767334
+        },
+        {
+          "word": " just",
+          "start": 49.5,
+          "end": 49.88,
+          "probability": 0.9973306655883789
+        },
+        {
+          "word": " a",
+          "start": 49.88,
+          "end": 50.18,
+          "probability": 0.9975207448005676
+        },
+        {
+          "word": " dream.",
+          "start": 50.18,
+          "end": 50.64,
+          "probability": 0.9984484910964966
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5064,
+      "start": 52.260000000000005,
+      "end": 53.9,
+      "text": " Do you believe me?",
+      "tokens": [
+        50364,
+        1144,
+        291,
+        1697,
+        385,
+        30,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15963846445083618,
+      "compression_ratio": 0.6923076923076923,
+      "no_speech_prob": 0.08448228240013123,
+      "words": [
+        {
+          "word": " Do",
+          "start": 52.260000000000005,
+          "end": 53.06,
+          "probability": 0.757168173789978
+        },
+        {
+          "word": " you",
+          "start": 53.06,
+          "end": 53.16,
+          "probability": 0.9870226979255676
+        },
+        {
+          "word": " believe",
+          "start": 53.16,
+          "end": 53.56,
+          "probability": 0.9674580097198486
+        },
+        {
+          "word": " me?",
+          "start": 53.56,
+          "end": 53.9,
+          "probability": 0.8942404985427856
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

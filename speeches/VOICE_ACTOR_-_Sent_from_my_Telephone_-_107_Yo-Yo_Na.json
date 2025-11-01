@@ -1,0 +1,1337 @@
+{
+  "text": " 🎵L microphone pop opportunities of där Yonah shalom, Yonah tebaim sheli hayam, Yonah shalom, Yonah tebaim sheli hayam, Yonah shalom, Yonah shiv chitunat te'om, Yonah shalom, Yonah tebaim sheli hayam, Yonah shalom, Yonah shiv nal achalom, Zeki etzeh le, Ha tiri plu, Yonah shalom, Yonah tebaim sheli hayam, Yonah shalom, Yonah tebaim sheli hayam, Yonah shalom, Yonah tebaim sheli hayam, Yonah shalom, Yonah tebaim sheli hayam, Yonah tebaim sheli hayam, Yonah shalom, Yonah shiv nal achalom, Zeki etzeh le, Ha tiri plu, Nal shokha, Ud vim vim nal shokha, Nal shokha, Ud vim vim nal shokha, Yonah shalom, Yonah tebaim sheli hayam, Yonah shalom, Yonah tebaim sheli hayam, Yonah shalom, Yonah shirchit mul nataron utzime achalom,",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 28.580000000000002,
+      "end": 29.98,
+      "text": " 🎵L microphone pop opportunities of där",
+      "tokens": [
+        50364,
+        25674,
+        43,
+        10952,
+        1665,
+        4786,
+        295,
+        12976,
+        51660
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -6.181193958629262,
+      "compression_ratio": 0.84,
+      "no_speech_prob": 0.5162793397903442,
+      "words": [
+        {
+          "word": " 🎵L",
+          "start": 28.580000000000002,
+          "end": 29.98,
+          "probability": 0.0031221570825437084
+        },
+        {
+          "word": " microphone",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 2.490995393600315e-05
+        },
+        {
+          "word": " pop",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.0009020398138090968
+        },
+        {
+          "word": " opportunities",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.00011278649617452174
+        },
+        {
+          "word": " of",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.012370730750262737
+        },
+        {
+          "word": " där",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 1.106023887587071e-06
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2998,
+      "start": 29.98,
+      "end": 38.98,
+      "text": " Yonah shalom, Yonah tebaim sheli hayam,",
+      "tokens": [
+        50364,
+        398,
+        266,
+        545,
+        402,
+        40780,
+        11,
+        398,
+        266,
+        545,
+        535,
+        4231,
+        332,
+        9180,
+        72,
+        4842,
+        335,
+        11,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.49386049489505957,
+      "compression_ratio": 1.935483870967742,
+      "no_speech_prob": 0.8707060217857361,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 29.98,
+          "end": 31.68,
+          "probability": 0.4480082107086976
+        },
+        {
+          "word": " shalom,",
+          "start": 31.68,
+          "end": 33.46,
+          "probability": 0.32267865538597107
+        },
+        {
+          "word": " Yonah",
+          "start": 35.44,
+          "end": 36.12,
+          "probability": 0.8170746763547262
+        },
+        {
+          "word": " tebaim",
+          "start": 36.12,
+          "end": 37.08,
+          "probability": 0.45600927869478863
+        },
+        {
+          "word": " sheli",
+          "start": 37.08,
+          "end": 38.0,
+          "probability": 0.6227471381425858
+        },
+        {
+          "word": " hayam,",
+          "start": 38.0,
+          "end": 38.98,
+          "probability": 0.41937239468097687
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2998,
+      "start": 39.12,
+      "end": 48.34,
+      "text": " Yonah shalom, Yonah tebaim sheli hayam,",
+      "tokens": [
+        50814,
+        398,
+        266,
+        545,
+        402,
+        40780,
+        11,
+        398,
+        266,
+        545,
+        535,
+        4231,
+        332,
+        9180,
+        72,
+        4842,
+        335,
+        11,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.49386049489505957,
+      "compression_ratio": 1.935483870967742,
+      "no_speech_prob": 0.8707060217857361,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 39.12,
+          "end": 39.96,
+          "probability": 0.9542587002118429
+        },
+        {
+          "word": " shalom,",
+          "start": 39.96,
+          "end": 42.16,
+          "probability": 0.9592533111572266
+        },
+        {
+          "word": " Yonah",
+          "start": 43.3,
+          "end": 43.94,
+          "probability": 0.9937359491984049
+        },
+        {
+          "word": " tebaim",
+          "start": 43.94,
+          "end": 45.12,
+          "probability": 0.9924922386805216
+        },
+        {
+          "word": " sheli",
+          "start": 45.12,
+          "end": 46.24,
+          "probability": 0.9932375252246857
+        },
+        {
+          "word": " hayam,",
+          "start": 46.24,
+          "end": 48.34,
+          "probability": 0.9812251925468445
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2998,
+      "start": 49.84,
+      "end": 57.9,
+      "text": " Yonah shalom, Yonah shiv chitunat te'om,",
+      "tokens": [
+        51264,
+        398,
+        266,
+        545,
+        402,
+        40780,
+        11,
+        398,
+        266,
+        545,
+        402,
+        592,
+        417,
+        270,
+        409,
+        267,
+        535,
+        6,
+        298,
+        11,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.49386049489505957,
+      "compression_ratio": 1.935483870967742,
+      "no_speech_prob": 0.8707060217857361,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 49.84,
+          "end": 50.54,
+          "probability": 0.9755131999651591
+        },
+        {
+          "word": " shalom,",
+          "start": 50.54,
+          "end": 52.24,
+          "probability": 0.7173211574554443
+        },
+        {
+          "word": " Yonah",
+          "start": 54.14,
+          "end": 54.88,
+          "probability": 0.9818558494249979
+        },
+        {
+          "word": " shiv",
+          "start": 54.88,
+          "end": 55.38,
+          "probability": 0.4215291440486908
+        },
+        {
+          "word": " chitunat",
+          "start": 55.38,
+          "end": 57.02,
+          "probability": 0.503958698362112
+        },
+        {
+          "word": " te",
+          "start": 57.02,
+          "end": 57.44,
+          "probability": 0.17407678067684174
+        },
+        {
+          "word": "'om,",
+          "start": 57.44,
+          "end": 57.9,
+          "probability": 0.11253288388252258
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 5790,
+      "start": 57.9,
+      "end": 68.12,
+      "text": " Yonah shalom, Yonah tebaim sheli hayam,",
+      "tokens": [
+        50364,
+        398,
+        266,
+        545,
+        402,
+        40780,
+        11,
+        398,
+        266,
+        545,
+        535,
+        4231,
+        332,
+        9180,
+        72,
+        4842,
+        335,
+        11,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23707685016450428,
+      "compression_ratio": 0.9285714285714286,
+      "no_speech_prob": 0.3036855161190033,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 57.9,
+          "end": 59.24,
+          "probability": 0.2137705193987737
+        },
+        {
+          "word": " shalom,",
+          "start": 59.24,
+          "end": 61.24,
+          "probability": 0.3792987372726202
+        },
+        {
+          "word": " Yonah",
+          "start": 63.3,
+          "end": 64.36,
+          "probability": 0.8356720606486002
+        },
+        {
+          "word": " tebaim",
+          "start": 64.36,
+          "end": 65.18,
+          "probability": 0.06127948195595915
+        },
+        {
+          "word": " sheli",
+          "start": 65.18,
+          "end": 66.28,
+          "probability": 0.20762052561622113
+        },
+        {
+          "word": " hayam,",
+          "start": 66.28,
+          "end": 68.12,
+          "probability": 0.6408760845661163
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 6812,
+      "start": 83.13999999999999,
+      "end": 91.1,
+      "text": " Yonah shalom, Yonah shiv nal achalom,",
+      "tokens": [
+        50364,
+        398,
+        266,
+        545,
+        402,
+        40780,
+        11,
+        398,
+        266,
+        545,
+        402,
+        592,
+        297,
+        304,
+        2800,
+        40780,
+        11,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6999158041817801,
+      "compression_ratio": 1.0483870967741935,
+      "no_speech_prob": 0.1939619779586792,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 83.13999999999999,
+          "end": 84.53999999999999,
+          "probability": 0.2129250311603149
+        },
+        {
+          "word": " shalom,",
+          "start": 84.53999999999999,
+          "end": 85.94,
+          "probability": 0.6023470535874367
+        },
+        {
+          "word": " Yonah",
+          "start": 87.88,
+          "end": 88.76,
+          "probability": 0.872142473856608
+        },
+        {
+          "word": " shiv",
+          "start": 88.76,
+          "end": 89.32,
+          "probability": 0.2077640169300139
+        },
+        {
+          "word": " nal",
+          "start": 89.32,
+          "end": 89.96,
+          "probability": 0.23876106506213546
+        },
+        {
+          "word": " achalom,",
+          "start": 89.96,
+          "end": 91.1,
+          "probability": 0.314832478761673
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 6812,
+      "start": 91.34,
+      "end": 98.1,
+      "text": " Zeki etzeh le, Ha tiri plu,",
+      "tokens": [
+        50864,
+        1176,
+        14753,
+        1030,
+        1381,
+        71,
+        476,
+        11,
+        4064,
+        256,
+        12988,
+        499,
+        84,
+        11,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6999158041817801,
+      "compression_ratio": 1.0483870967741935,
+      "no_speech_prob": 0.1939619779586792,
+      "words": [
+        {
+          "word": " Zeki",
+          "start": 91.34,
+          "end": 92.18,
+          "probability": 0.33002762123942375
+        },
+        {
+          "word": " etzeh",
+          "start": 92.18,
+          "end": 93.56,
+          "probability": 0.4724118361870448
+        },
+        {
+          "word": " le,",
+          "start": 93.56,
+          "end": 94.44,
+          "probability": 0.09419425576925278
+        },
+        {
+          "word": " Ha",
+          "start": 95.36,
+          "end": 97.0,
+          "probability": 0.21503621339797974
+        },
+        {
+          "word": " tiri",
+          "start": 97.0,
+          "end": 97.78,
+          "probability": 0.4536300301551819
+        },
+        {
+          "word": " plu,",
+          "start": 97.78,
+          "end": 98.1,
+          "probability": 0.5054581016302109
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 9810,
+      "start": 98.1,
+      "end": 108.1,
+      "text": " Yonah shalom, Yonah tebaim sheli hayam,",
+      "tokens": [
+        50364,
+        398,
+        266,
+        545,
+        402,
+        40780,
+        11,
+        398,
+        266,
+        545,
+        535,
+        4231,
+        332,
+        9180,
+        72,
+        4842,
+        335,
+        11,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1793375253677368,
+      "compression_ratio": 1.7954545454545454,
+      "no_speech_prob": 0.817700982093811,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 98.1,
+          "end": 98.74,
+          "probability": 0.2077064278225104
+        },
+        {
+          "word": " shalom,",
+          "start": 98.74,
+          "end": 100.06,
+          "probability": 0.026925508864223957
+        },
+        {
+          "word": " Yonah",
+          "start": 101.96,
+          "end": 102.46,
+          "probability": 0.3539293284217517
+        },
+        {
+          "word": " tebaim",
+          "start": 102.46,
+          "end": 106.94,
+          "probability": 0.1446678313659504
+        },
+        {
+          "word": " sheli",
+          "start": 106.94,
+          "end": 107.86,
+          "probability": 0.008413397317781346
+        },
+        {
+          "word": " hayam,",
+          "start": 107.86,
+          "end": 108.56,
+          "probability": 0.1186727462336421
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 9810,
+      "start": 116.46,
+      "end": 128.08,
+      "text": " Yonah shalom, Yonah tebaim sheli hayam,",
+      "tokens": [
+        50864,
+        398,
+        266,
+        545,
+        402,
+        40780,
+        11,
+        398,
+        266,
+        545,
+        535,
+        4231,
+        332,
+        9180,
+        72,
+        4842,
+        335,
+        11,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1793375253677368,
+      "compression_ratio": 1.7954545454545454,
+      "no_speech_prob": 0.817700982093811,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 116.46,
+          "end": 116.64,
+          "probability": 0.7437029083569845
+        },
+        {
+          "word": " shalom,",
+          "start": 116.64,
+          "end": 118.1,
+          "probability": 0.5374255329370499
+        },
+        {
+          "word": " Yonah",
+          "start": 118.1,
+          "end": 127.22,
+          "probability": 0.9433736602465311
+        },
+        {
+          "word": " tebaim",
+          "start": 127.22,
+          "end": 128.08,
+          "probability": 0.8995833794275919
+        },
+        {
+          "word": " sheli",
+          "start": 128.08,
+          "end": 128.08,
+          "probability": 0.604260191321373
+        },
+        {
+          "word": " hayam,",
+          "start": 128.08,
+          "end": 128.08,
+          "probability": 0.9107476472854614
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 12808,
+      "start": 143.89999999999998,
+      "end": 152.52,
+      "text": " Yonah shalom, Yonah tebaim sheli hayam,",
+      "tokens": [
+        50364,
+        398,
+        266,
+        545,
+        402,
+        40780,
+        11,
+        398,
+        266,
+        545,
+        535,
+        4231,
+        332,
+        9180,
+        72,
+        4842,
+        335,
+        11,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09132579565048218,
+      "compression_ratio": 1.7954545454545454,
+      "no_speech_prob": 0.9339296817779541,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 143.89999999999998,
+          "end": 145.29999999999998,
+          "probability": 0.30183774046599865
+        },
+        {
+          "word": " shalom,",
+          "start": 145.29999999999998,
+          "end": 146.7,
+          "probability": 0.4259137399494648
+        },
+        {
+          "word": " Yonah",
+          "start": 148.82,
+          "end": 149.42,
+          "probability": 0.7099559307098389
+        },
+        {
+          "word": " tebaim",
+          "start": 149.42,
+          "end": 150.34,
+          "probability": 0.15610605459369253
+        },
+        {
+          "word": " sheli",
+          "start": 150.34,
+          "end": 151.28,
+          "probability": 0.2951134815812111
+        },
+        {
+          "word": " hayam,",
+          "start": 151.28,
+          "end": 152.52,
+          "probability": 0.09858317142061424
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 12808,
+      "start": 153.44,
+      "end": 158.06,
+      "text": " Yonah shalom, Yonah tebaim sheli hayam,",
+      "tokens": [
+        50864,
+        398,
+        266,
+        545,
+        402,
+        40780,
+        11,
+        398,
+        266,
+        545,
+        535,
+        4231,
+        332,
+        9180,
+        72,
+        4842,
+        335,
+        11,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09132579565048218,
+      "compression_ratio": 1.7954545454545454,
+      "no_speech_prob": 0.9339296817779541,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 153.44,
+          "end": 154.36,
+          "probability": 0.9650547305742899
+        },
+        {
+          "word": " shalom,",
+          "start": 154.36,
+          "end": 156.28,
+          "probability": 0.9426081776618958
+        },
+        {
+          "word": " Yonah",
+          "start": 157.62,
+          "end": 158.06,
+          "probability": 0.9811808466911316
+        },
+        {
+          "word": " tebaim",
+          "start": 158.06,
+          "end": 158.06,
+          "probability": 0.7637401620546976
+        },
+        {
+          "word": " sheli",
+          "start": 158.06,
+          "end": 158.06,
+          "probability": 0.6854730248451233
+        },
+        {
+          "word": " hayam,",
+          "start": 158.06,
+          "end": 158.06,
+          "probability": 0.8342598974704742
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 15806,
+      "start": 158.06,
+      "end": 164.06,
+      "text": " Yonah tebaim sheli hayam,",
+      "tokens": [
+        50364,
+        398,
+        266,
+        545,
+        535,
+        4231,
+        332,
+        9180,
+        72,
+        4842,
+        335,
+        11,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13993451089570016,
+      "compression_ratio": 1.1666666666666667,
+      "no_speech_prob": 0.909270703792572,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 158.06,
+          "end": 158.62,
+          "probability": 0.25472774682566524
+        },
+        {
+          "word": " tebaim",
+          "start": 158.62,
+          "end": 159.5,
+          "probability": 0.016387930683170755
+        },
+        {
+          "word": " sheli",
+          "start": 159.5,
+          "end": 161.56,
+          "probability": 0.038416702300310135
+        },
+        {
+          "word": " hayam,",
+          "start": 161.56,
+          "end": 164.06,
+          "probability": 0.010119749698787928
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 15806,
+      "start": 171.82,
+      "end": 179.92,
+      "text": " Yonah shalom, Yonah shiv nal achalom,",
+      "tokens": [
+        51064,
+        398,
+        266,
+        545,
+        402,
+        40780,
+        11,
+        398,
+        266,
+        545,
+        402,
+        592,
+        297,
+        304,
+        2800,
+        40780,
+        11,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13993451089570016,
+      "compression_ratio": 1.1666666666666667,
+      "no_speech_prob": 0.909270703792572,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 171.82,
+          "end": 172.38,
+          "probability": 0.8035618464152018
+        },
+        {
+          "word": " shalom,",
+          "start": 172.38,
+          "end": 173.8,
+          "probability": 0.13334367703646421
+        },
+        {
+          "word": " Yonah",
+          "start": 176.44,
+          "end": 177.36,
+          "probability": 0.981087327003479
+        },
+        {
+          "word": " shiv",
+          "start": 177.36,
+          "end": 177.92,
+          "probability": 0.3080123905092478
+        },
+        {
+          "word": " nal",
+          "start": 177.92,
+          "end": 178.72,
+          "probability": 0.04492571169976145
+        },
+        {
+          "word": " achalom,",
+          "start": 178.72,
+          "end": 179.92,
+          "probability": 0.040928108617663383
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 17992,
+      "start": 179.92,
+      "end": 187.58,
+      "text": " Zeki etzeh le, Ha tiri plu,",
+      "tokens": [
+        50364,
+        1176,
+        14753,
+        1030,
+        1381,
+        71,
+        476,
+        11,
+        4064,
+        256,
+        12988,
+        499,
+        84,
+        11,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47060769064384594,
+      "compression_ratio": 1.6166666666666667,
+      "no_speech_prob": 0.613883912563324,
+      "words": [
+        {
+          "word": " Zeki",
+          "start": 179.92,
+          "end": 181.02,
+          "probability": 0.0005569960485445336
+        },
+        {
+          "word": " etzeh",
+          "start": 181.02,
+          "end": 182.96,
+          "probability": 0.1657489494731029
+        },
+        {
+          "word": " le,",
+          "start": 182.96,
+          "end": 184.06,
+          "probability": 0.02276361919939518
+        },
+        {
+          "word": " Ha",
+          "start": 185.0,
+          "end": 186.04,
+          "probability": 0.04575320705771446
+        },
+        {
+          "word": " tiri",
+          "start": 186.04,
+          "end": 187.06,
+          "probability": 0.15861734747886658
+        },
+        {
+          "word": " plu,",
+          "start": 187.06,
+          "end": 187.58,
+          "probability": 0.06549573130905628
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 17992,
+      "start": 187.7,
+      "end": 193.92,
+      "text": " Nal shokha, Ud vim vim nal shokha,",
+      "tokens": [
+        50764,
+        426,
+        304,
+        402,
+        453,
+        1641,
+        11,
+        624,
+        67,
+        371,
+        332,
+        371,
+        332,
+        297,
+        304,
+        402,
+        453,
+        1641,
+        11,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47060769064384594,
+      "compression_ratio": 1.6166666666666667,
+      "no_speech_prob": 0.613883912563324,
+      "words": [
+        {
+          "word": " Nal",
+          "start": 187.7,
+          "end": 187.88,
+          "probability": 0.007481098873540759
+        },
+        {
+          "word": " shokha,",
+          "start": 187.88,
+          "end": 188.92,
+          "probability": 0.39390478034814197
+        },
+        {
+          "word": " Ud",
+          "start": 189.06,
+          "end": 189.48,
+          "probability": 0.3504160940647125
+        },
+        {
+          "word": " vim",
+          "start": 189.48,
+          "end": 189.98,
+          "probability": 0.25546497479081154
+        },
+        {
+          "word": " vim",
+          "start": 189.98,
+          "end": 190.56,
+          "probability": 0.49102745577692986
+        },
+        {
+          "word": " nal",
+          "start": 190.56,
+          "end": 190.86,
+          "probability": 0.45800354331731796
+        },
+        {
+          "word": " shokha,",
+          "start": 190.86,
+          "end": 193.92,
+          "probability": 0.8454192082087199
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 17992,
+      "start": 196.62,
+      "end": 203.92,
+      "text": " Nal shokha, Ud vim vim nal shokha,",
+      "tokens": [
+        51164,
+        426,
+        304,
+        402,
+        453,
+        1641,
+        11,
+        624,
+        67,
+        371,
+        332,
+        371,
+        332,
+        297,
+        304,
+        402,
+        453,
+        1641,
+        11,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47060769064384594,
+      "compression_ratio": 1.6166666666666667,
+      "no_speech_prob": 0.613883912563324,
+      "words": [
+        {
+          "word": " Nal",
+          "start": 196.62,
+          "end": 197.06,
+          "probability": 0.28823523223400116
+        },
+        {
+          "word": " shokha,",
+          "start": 197.06,
+          "end": 197.84,
+          "probability": 0.6125505082309246
+        },
+        {
+          "word": " Ud",
+          "start": 199.34,
+          "end": 199.36,
+          "probability": 0.694057285785675
+        },
+        {
+          "word": " vim",
+          "start": 199.36,
+          "end": 199.36,
+          "probability": 0.9759981632232666
+        },
+        {
+          "word": " vim",
+          "start": 199.36,
+          "end": 199.36,
+          "probability": 0.9671108424663544
+        },
+        {
+          "word": " nal",
+          "start": 199.36,
+          "end": 199.36,
+          "probability": 0.9319249093532562
+        },
+        {
+          "word": " shokha,",
+          "start": 199.36,
+          "end": 203.92,
+          "probability": 0.9965686400731405
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 20392,
+      "start": 209.26,
+      "end": 218.26,
+      "text": " Yonah shalom, Yonah tebaim sheli hayam,",
+      "tokens": [
+        50364,
+        398,
+        266,
+        545,
+        402,
+        40780,
+        11,
+        398,
+        266,
+        545,
+        535,
+        4231,
+        332,
+        9180,
+        72,
+        4842,
+        335,
+        11,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06044030785560608,
+      "compression_ratio": 1.7954545454545454,
+      "no_speech_prob": 0.26479384303092957,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 209.26,
+          "end": 210.66,
+          "probability": 0.36003512144088745
+        },
+        {
+          "word": " shalom,",
+          "start": 210.66,
+          "end": 212.06,
+          "probability": 0.5643747821450233
+        },
+        {
+          "word": " Yonah",
+          "start": 214.4,
+          "end": 215.04,
+          "probability": 0.7687091827392578
+        },
+        {
+          "word": " tebaim",
+          "start": 215.04,
+          "end": 215.88,
+          "probability": 0.14290709157163897
+        },
+        {
+          "word": " sheli",
+          "start": 215.88,
+          "end": 216.88,
+          "probability": 0.6132487207651138
+        },
+        {
+          "word": " hayam,",
+          "start": 216.88,
+          "end": 218.26,
+          "probability": 0.327155277132988
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 20392,
+      "start": 219.58,
+      "end": 227.0,
+      "text": " Yonah shalom, Yonah tebaim sheli hayam,",
+      "tokens": [
+        50864,
+        398,
+        266,
+        545,
+        402,
+        40780,
+        11,
+        398,
+        266,
+        545,
+        535,
+        4231,
+        332,
+        9180,
+        72,
+        4842,
+        335,
+        11,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06044030785560608,
+      "compression_ratio": 1.7954545454545454,
+      "no_speech_prob": 0.26479384303092957,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 219.58,
+          "end": 220.56,
+          "probability": 0.9795151948928833
+        },
+        {
+          "word": " shalom,",
+          "start": 220.56,
+          "end": 222.56,
+          "probability": 0.9803120195865631
+        },
+        {
+          "word": " Yonah",
+          "start": 223.78,
+          "end": 224.34,
+          "probability": 0.995175818602244
+        },
+        {
+          "word": " tebaim",
+          "start": 224.34,
+          "end": 225.4,
+          "probability": 0.9946342706680298
+        },
+        {
+          "word": " sheli",
+          "start": 225.4,
+          "end": 226.44,
+          "probability": 0.995332807302475
+        },
+        {
+          "word": " hayam,",
+          "start": 226.44,
+          "end": 227.0,
+          "probability": 0.8194769620895386
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 22700,
+      "start": 231.44,
+      "end": 244.52,
+      "text": " Yonah shalom, Yonah shirchit mul nataron utzime achalom,",
+      "tokens": [
+        50364,
+        398,
+        266,
+        545,
+        402,
+        40780,
+        11,
+        398,
+        266,
+        545,
+        402,
+        347,
+        339,
+        270,
+        14077,
+        2249,
+        6372,
+        2839,
+        89,
+        1312,
+        2800,
+        40780,
+        11,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45763267517089845,
+      "compression_ratio": 1.037037037037037,
+      "no_speech_prob": 0.353549599647522,
+      "words": [
+        {
+          "word": " Yonah",
+          "start": 231.44,
+          "end": 232.84,
+          "probability": 0.37575123583277065
+        },
+        {
+          "word": " shalom,",
+          "start": 232.84,
+          "end": 234.24,
+          "probability": 0.13740874081850052
+        },
+        {
+          "word": " Yonah",
+          "start": 238.14,
+          "end": 238.92,
+          "probability": 0.9148399829864502
+        },
+        {
+          "word": " shirchit",
+          "start": 238.92,
+          "end": 239.88,
+          "probability": 0.6803924292325974
+        },
+        {
+          "word": " mul",
+          "start": 239.88,
+          "end": 240.32,
+          "probability": 0.1313142031431198
+        },
+        {
+          "word": " nataron",
+          "start": 240.32,
+          "end": 241.74,
+          "probability": 0.19529176875948906
+        },
+        {
+          "word": " utzime",
+          "start": 241.74,
+          "end": 243.08,
+          "probability": 0.8238953550656637
+        },
+        {
+          "word": " achalom,",
+          "start": 243.08,
+          "end": 244.52,
+          "probability": 0.021155872847884893
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

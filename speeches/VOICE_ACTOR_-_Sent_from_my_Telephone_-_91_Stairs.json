@@ -1,0 +1,230 @@
+{
+  "text": " Make you a sound I am not done Climbing up stairs You are my light, tell Make you a sound",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 6.02,
+      "end": 15.36,
+      "text": " Make you a sound I am not done",
+      "tokens": [
+        50364,
+        4387,
+        291,
+        257,
+        1626,
+        286,
+        669,
+        406,
+        1096,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7662687301635742,
+      "compression_ratio": 0.7894736842105263,
+      "no_speech_prob": 0.35676708817481995,
+      "words": [
+        {
+          "word": " Make",
+          "start": 6.02,
+          "end": 7.42,
+          "probability": 0.6093680262565613
+        },
+        {
+          "word": " you",
+          "start": 7.42,
+          "end": 7.68,
+          "probability": 0.2600017786026001
+        },
+        {
+          "word": " a",
+          "start": 7.68,
+          "end": 8.02,
+          "probability": 0.9219267964363098
+        },
+        {
+          "word": " sound",
+          "start": 8.02,
+          "end": 9.22,
+          "probability": 0.9214441180229187
+        },
+        {
+          "word": " I",
+          "start": 9.22,
+          "end": 11.18,
+          "probability": 0.6039339303970337
+        },
+        {
+          "word": " am",
+          "start": 11.18,
+          "end": 11.6,
+          "probability": 0.9471201300621033
+        },
+        {
+          "word": " not",
+          "start": 11.6,
+          "end": 11.96,
+          "probability": 0.9761959314346313
+        },
+        {
+          "word": " done",
+          "start": 11.96,
+          "end": 15.36,
+          "probability": 0.9219322204589844
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 1536,
+      "start": 25.68,
+      "end": 30.7,
+      "text": " Climbing up stairs",
+      "tokens": [
+        50364,
+        2033,
+        332,
+        4324,
+        493,
+        13471,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40049126413133407,
+      "compression_ratio": 0.6923076923076923,
+      "no_speech_prob": 0.2164224535226822,
+      "words": [
+        {
+          "word": " Climbing",
+          "start": 25.68,
+          "end": 27.08,
+          "probability": 0.8977580269177755
+        },
+        {
+          "word": " up",
+          "start": 27.08,
+          "end": 27.48,
+          "probability": 0.5118770003318787
+        },
+        {
+          "word": " stairs",
+          "start": 27.48,
+          "end": 30.7,
+          "probability": 0.9509942531585693
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3070,
+      "start": 36.72,
+      "end": 40.7,
+      "text": " You are my light, tell",
+      "tokens": [
+        50364,
+        509,
+        366,
+        452,
+        1442,
+        11,
+        980,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8598998069763184,
+      "compression_ratio": 0.7333333333333333,
+      "no_speech_prob": 0.14062418043613434,
+      "words": [
+        {
+          "word": " You",
+          "start": 36.72,
+          "end": 37.98,
+          "probability": 0.49561306834220886
+        },
+        {
+          "word": " are",
+          "start": 37.98,
+          "end": 38.46,
+          "probability": 0.5647515058517456
+        },
+        {
+          "word": " my",
+          "start": 38.46,
+          "end": 38.68,
+          "probability": 0.8675509691238403
+        },
+        {
+          "word": " light,",
+          "start": 38.68,
+          "end": 39.22,
+          "probability": 0.24184712767601013
+        },
+        {
+          "word": " tell",
+          "start": 39.94,
+          "end": 40.7,
+          "probability": 0.1433803290128708
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4070,
+      "start": 40.7,
+      "end": 45.32,
+      "text": " Make you a sound",
+      "tokens": [
+        50414,
+        4387,
+        291,
+        257,
+        1626,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.44581477982657297,
+      "compression_ratio": 0.6666666666666666,
+      "no_speech_prob": 0.296398401260376,
+      "words": [
+        {
+          "word": " Make",
+          "start": 40.7,
+          "end": 43.32,
+          "probability": 0.044754207134246826
+        },
+        {
+          "word": " you",
+          "start": 43.32,
+          "end": 43.7,
+          "probability": 0.06715809553861618
+        },
+        {
+          "word": " a",
+          "start": 43.7,
+          "end": 44.1,
+          "probability": 0.6905378699302673
+        },
+        {
+          "word": " sound",
+          "start": 44.1,
+          "end": 45.32,
+          "probability": 0.00022431455727200955
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 7070,
+      "start": 70.7,
+      "end": 70.7,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.514980673789978,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.8873894810676575,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

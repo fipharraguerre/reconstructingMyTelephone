@@ -1,0 +1,1073 @@
+{
+  "text": " The moment of clarity, you're with your back to me Finally all the same pain, communicate in silent dread No longer end at me Transparent, no transparency Like what you do to love Same old fair, same old fair, same old fair now I used to care I can't explain I can't explain Same old words, different passes Same old time, different places Same old fair, same old fair, same old fair I used to care Same old words, different places Same old time, different places I can't explain I can't explain I can't explain I can't explain I can't explain",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 16.44,
+      "end": 27.92,
+      "text": " The moment of clarity, you're with your back to me",
+      "tokens": [
+        50364,
+        440,
+        1623,
+        295,
+        16992,
+        11,
+        291,
+        434,
+        365,
+        428,
+        646,
+        281,
+        385,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6503320932388306,
+      "compression_ratio": 0.9090909090909091,
+      "no_speech_prob": 0.4615309238433838,
+      "words": [
+        {
+          "word": " The",
+          "start": 16.44,
+          "end": 17.84,
+          "probability": 0.04065488278865814
+        },
+        {
+          "word": " moment",
+          "start": 17.84,
+          "end": 18.84,
+          "probability": 0.6735999584197998
+        },
+        {
+          "word": " of",
+          "start": 18.84,
+          "end": 19.68,
+          "probability": 0.9955449104309082
+        },
+        {
+          "word": " clarity,",
+          "start": 19.68,
+          "end": 21.94,
+          "probability": 0.9916057586669922
+        },
+        {
+          "word": " you're",
+          "start": 23.94,
+          "end": 24.52,
+          "probability": 0.8016066551208496
+        },
+        {
+          "word": " with",
+          "start": 24.52,
+          "end": 25.24,
+          "probability": 0.9960527420043945
+        },
+        {
+          "word": " your",
+          "start": 25.24,
+          "end": 25.98,
+          "probability": 0.9070477485656738
+        },
+        {
+          "word": " back",
+          "start": 25.98,
+          "end": 26.76,
+          "probability": 0.732903003692627
+        },
+        {
+          "word": " to",
+          "start": 26.76,
+          "end": 27.22,
+          "probability": 0.9958551526069641
+        },
+        {
+          "word": " me",
+          "start": 27.22,
+          "end": 27.92,
+          "probability": 0.9985489249229431
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2792,
+      "start": 30.200000000000003,
+      "end": 41.58,
+      "text": " Finally all the same pain, communicate in silent dread",
+      "tokens": [
+        50414,
+        6288,
+        439,
+        264,
+        912,
+        1822,
+        11,
+        7890,
+        294,
+        12784,
+        22236,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41683810097830637,
+      "compression_ratio": 1.0277777777777777,
+      "no_speech_prob": 0.02173258550465107,
+      "words": [
+        {
+          "word": " Finally",
+          "start": 30.200000000000003,
+          "end": 31.6,
+          "probability": 0.05873006954789162
+        },
+        {
+          "word": " all",
+          "start": 31.6,
+          "end": 32.36,
+          "probability": 0.26429474353790283
+        },
+        {
+          "word": " the",
+          "start": 32.36,
+          "end": 32.9,
+          "probability": 0.9814323782920837
+        },
+        {
+          "word": " same",
+          "start": 32.9,
+          "end": 33.44,
+          "probability": 0.965167224407196
+        },
+        {
+          "word": " pain,",
+          "start": 33.44,
+          "end": 35.02,
+          "probability": 0.9228240251541138
+        },
+        {
+          "word": " communicate",
+          "start": 36.16,
+          "end": 37.82,
+          "probability": 0.5672734379768372
+        },
+        {
+          "word": " in",
+          "start": 37.82,
+          "end": 39.04,
+          "probability": 0.8444189429283142
+        },
+        {
+          "word": " silent",
+          "start": 39.04,
+          "end": 40.14,
+          "probability": 0.9752869606018066
+        },
+        {
+          "word": " dread",
+          "start": 40.14,
+          "end": 41.58,
+          "probability": 0.12121505290269852
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2792,
+      "start": 42.92,
+      "end": 47.92,
+      "text": " No longer end at me",
+      "tokens": [
+        51114,
+        883,
+        2854,
+        917,
+        412,
+        385,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41683810097830637,
+      "compression_ratio": 1.0277777777777777,
+      "no_speech_prob": 0.02173258550465107,
+      "words": [
+        {
+          "word": " No",
+          "start": 42.92,
+          "end": 43.82,
+          "probability": 0.20795811712741852
+        },
+        {
+          "word": " longer",
+          "start": 43.82,
+          "end": 44.86,
+          "probability": 0.9869102835655212
+        },
+        {
+          "word": " end",
+          "start": 44.86,
+          "end": 45.56,
+          "probability": 0.8886880278587341
+        },
+        {
+          "word": " at",
+          "start": 45.56,
+          "end": 46.02,
+          "probability": 0.8533899188041687
+        },
+        {
+          "word": " me",
+          "start": 46.02,
+          "end": 47.92,
+          "probability": 0.942987322807312
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4792,
+      "start": 49.78,
+      "end": 54.72,
+      "text": " Transparent, no transparency",
+      "tokens": [
+        50414,
+        6531,
+        38321,
+        11,
+        572,
+        17131,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3584745767954233,
+      "compression_ratio": 1.3647058823529412,
+      "no_speech_prob": 0.010062461718916893,
+      "words": [
+        {
+          "word": " Transparent,",
+          "start": 49.78,
+          "end": 50.82,
+          "probability": 0.22362513095140457
+        },
+        {
+          "word": " no",
+          "start": 54.72,
+          "end": 54.72,
+          "probability": 0.16047480702400208
+        },
+        {
+          "word": " transparency",
+          "start": 54.72,
+          "end": 54.72,
+          "probability": 0.9275488257408142
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 4792,
+      "start": 54.72,
+      "end": 59.34,
+      "text": " Like what you do to love",
+      "tokens": [
+        50664,
+        1743,
+        437,
+        291,
+        360,
+        281,
+        959,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3584745767954233,
+      "compression_ratio": 1.3647058823529412,
+      "no_speech_prob": 0.010062461718916893,
+      "words": [
+        {
+          "word": " Like",
+          "start": 54.72,
+          "end": 55.78,
+          "probability": 0.2735321819782257
+        },
+        {
+          "word": " what",
+          "start": 55.78,
+          "end": 56.32,
+          "probability": 0.9383264780044556
+        },
+        {
+          "word": " you",
+          "start": 56.32,
+          "end": 56.76,
+          "probability": 0.9921749234199524
+        },
+        {
+          "word": " do",
+          "start": 56.76,
+          "end": 57.14,
+          "probability": 0.9245904684066772
+        },
+        {
+          "word": " to",
+          "start": 57.14,
+          "end": 57.92,
+          "probability": 0.9737117886543274
+        },
+        {
+          "word": " love",
+          "start": 57.92,
+          "end": 59.34,
+          "probability": 0.480106383562088
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4792,
+      "start": 59.34,
+      "end": 64.92,
+      "text": " Same old fair, same old fair, same old fair now",
+      "tokens": [
+        50914,
+        10635,
+        1331,
+        3143,
+        11,
+        912,
+        1331,
+        3143,
+        11,
+        912,
+        1331,
+        3143,
+        586,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3584745767954233,
+      "compression_ratio": 1.3647058823529412,
+      "no_speech_prob": 0.010062461718916893,
+      "words": [
+        {
+          "word": " Same",
+          "start": 59.34,
+          "end": 60.46,
+          "probability": 0.442898154258728
+        },
+        {
+          "word": " old",
+          "start": 60.46,
+          "end": 60.68,
+          "probability": 0.5114839673042297
+        },
+        {
+          "word": " fair,",
+          "start": 60.68,
+          "end": 61.0,
+          "probability": 0.487520307302475
+        },
+        {
+          "word": " same",
+          "start": 61.2,
+          "end": 61.66,
+          "probability": 0.9820868968963623
+        },
+        {
+          "word": " old",
+          "start": 61.66,
+          "end": 62.04,
+          "probability": 0.9974639415740967
+        },
+        {
+          "word": " fair,",
+          "start": 62.04,
+          "end": 62.44,
+          "probability": 0.9948562383651733
+        },
+        {
+          "word": " same",
+          "start": 62.7,
+          "end": 63.06,
+          "probability": 0.9844798445701599
+        },
+        {
+          "word": " old",
+          "start": 63.06,
+          "end": 63.5,
+          "probability": 0.9990198612213135
+        },
+        {
+          "word": " fair",
+          "start": 63.5,
+          "end": 64.0,
+          "probability": 0.9980296492576599
+        },
+        {
+          "word": " now",
+          "start": 64.0,
+          "end": 64.92,
+          "probability": 0.5280488133430481
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4792,
+      "start": 67.86000000000001,
+      "end": 70.92,
+      "text": " I used to care",
+      "tokens": [
+        51314,
+        286,
+        1143,
+        281,
+        1127,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3584745767954233,
+      "compression_ratio": 1.3647058823529412,
+      "no_speech_prob": 0.010062461718916893,
+      "words": [
+        {
+          "word": " I",
+          "start": 67.86000000000001,
+          "end": 68.9,
+          "probability": 0.6116953492164612
+        },
+        {
+          "word": " used",
+          "start": 68.9,
+          "end": 69.44,
+          "probability": 0.9824152588844299
+        },
+        {
+          "word": " to",
+          "start": 69.44,
+          "end": 70.02,
+          "probability": 0.9965456128120422
+        },
+        {
+          "word": " care",
+          "start": 70.02,
+          "end": 70.92,
+          "probability": 0.9594122767448425
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 7092,
+      "start": 74.66,
+      "end": 80.92,
+      "text": " I can't explain",
+      "tokens": [
+        50364,
+        286,
+        393,
+        380,
+        2903,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40902243341718403,
+      "compression_ratio": 1.1481481481481481,
+      "no_speech_prob": 0.012169179506599903,
+      "words": [
+        {
+          "word": " I",
+          "start": 74.66,
+          "end": 76.06,
+          "probability": 0.10932517796754837
+        },
+        {
+          "word": " can't",
+          "start": 76.06,
+          "end": 77.08,
+          "probability": 0.8224969804286957
+        },
+        {
+          "word": " explain",
+          "start": 77.08,
+          "end": 80.92,
+          "probability": 0.8275647759437561
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 7092,
+      "start": 83.32,
+      "end": 89.92,
+      "text": " I can't explain",
+      "tokens": [
+        50914,
+        286,
+        393,
+        380,
+        2903,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40902243341718403,
+      "compression_ratio": 1.1481481481481481,
+      "no_speech_prob": 0.012169179506599903,
+      "words": [
+        {
+          "word": " I",
+          "start": 83.32,
+          "end": 84.72,
+          "probability": 0.45036575198173523
+        },
+        {
+          "word": " can't",
+          "start": 84.72,
+          "end": 85.84,
+          "probability": 0.9964933395385742
+        },
+        {
+          "word": " explain",
+          "start": 85.84,
+          "end": 89.92,
+          "probability": 0.9833493232727051
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 8992,
+      "start": 93.16,
+      "end": 95.92,
+      "text": " Same old words, different passes",
+      "tokens": [
+        50364,
+        10635,
+        1331,
+        2283,
+        11,
+        819,
+        11335,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2402585612403022,
+      "compression_ratio": 1.5769230769230769,
+      "no_speech_prob": 0.04521167278289795,
+      "words": [
+        {
+          "word": " Same",
+          "start": 93.16,
+          "end": 94.0,
+          "probability": 0.04379117488861084
+        },
+        {
+          "word": " old",
+          "start": 94.0,
+          "end": 94.38,
+          "probability": 0.10662592202425003
+        },
+        {
+          "word": " words,",
+          "start": 94.38,
+          "end": 94.8,
+          "probability": 0.12541387975215912
+        },
+        {
+          "word": " different",
+          "start": 95.12,
+          "end": 95.4,
+          "probability": 0.947904109954834
+        },
+        {
+          "word": " passes",
+          "start": 95.4,
+          "end": 95.92,
+          "probability": 0.23416897654533386
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 8992,
+      "start": 98.9,
+      "end": 103.02,
+      "text": " Same old time, different places",
+      "tokens": [
+        50714,
+        10635,
+        1331,
+        565,
+        11,
+        819,
+        3190,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2402585612403022,
+      "compression_ratio": 1.5769230769230769,
+      "no_speech_prob": 0.04521167278289795,
+      "words": [
+        {
+          "word": " Same",
+          "start": 98.9,
+          "end": 99.74,
+          "probability": 0.5256162285804749
+        },
+        {
+          "word": " old",
+          "start": 99.74,
+          "end": 100.08,
+          "probability": 0.9824057221412659
+        },
+        {
+          "word": " time,",
+          "start": 100.08,
+          "end": 100.42,
+          "probability": 0.8442668914794922
+        },
+        {
+          "word": " different",
+          "start": 100.82,
+          "end": 101.32,
+          "probability": 0.9917898178100586
+        },
+        {
+          "word": " places",
+          "start": 101.32,
+          "end": 103.02,
+          "probability": 0.8824745416641235
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 8992,
+      "start": 104.9,
+      "end": 110.22,
+      "text": " Same old fair, same old fair, same old fair",
+      "tokens": [
+        51064,
+        10635,
+        1331,
+        3143,
+        11,
+        912,
+        1331,
+        3143,
+        11,
+        912,
+        1331,
+        3143,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2402585612403022,
+      "compression_ratio": 1.5769230769230769,
+      "no_speech_prob": 0.04521167278289795,
+      "words": [
+        {
+          "word": " Same",
+          "start": 104.9,
+          "end": 105.74,
+          "probability": 0.9355722069740295
+        },
+        {
+          "word": " old",
+          "start": 105.74,
+          "end": 106.16,
+          "probability": 0.6896306276321411
+        },
+        {
+          "word": " fair,",
+          "start": 106.16,
+          "end": 106.5,
+          "probability": 0.18758973479270935
+        },
+        {
+          "word": " same",
+          "start": 106.78,
+          "end": 107.18,
+          "probability": 0.9914301037788391
+        },
+        {
+          "word": " old",
+          "start": 107.18,
+          "end": 107.52,
+          "probability": 0.9990003705024719
+        },
+        {
+          "word": " fair,",
+          "start": 107.52,
+          "end": 108.06,
+          "probability": 0.9112181663513184
+        },
+        {
+          "word": " same",
+          "start": 108.1,
+          "end": 108.9,
+          "probability": 0.9950643181800842
+        },
+        {
+          "word": " old",
+          "start": 108.9,
+          "end": 109.12,
+          "probability": 0.9988625049591064
+        },
+        {
+          "word": " fair",
+          "start": 109.12,
+          "end": 110.22,
+          "probability": 0.9983112812042236
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 8992,
+      "start": 111.9,
+      "end": 114.12,
+      "text": " I used to care",
+      "tokens": [
+        51414,
+        286,
+        1143,
+        281,
+        1127,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2402585612403022,
+      "compression_ratio": 1.5769230769230769,
+      "no_speech_prob": 0.04521167278289795,
+      "words": [
+        {
+          "word": " I",
+          "start": 111.9,
+          "end": 112.74,
+          "probability": 0.9220332503318787
+        },
+        {
+          "word": " used",
+          "start": 112.74,
+          "end": 113.12,
+          "probability": 0.9858037233352661
+        },
+        {
+          "word": " to",
+          "start": 113.12,
+          "end": 113.66,
+          "probability": 0.9983093738555908
+        },
+        {
+          "word": " care",
+          "start": 113.66,
+          "end": 114.12,
+          "probability": 0.257061630487442
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 11992,
+      "start": 122.42,
+      "end": 126.02,
+      "text": " Same old words, different places",
+      "tokens": [
+        50414,
+        10635,
+        1331,
+        2283,
+        11,
+        819,
+        3190,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29772644572787815,
+      "compression_ratio": 1.28,
+      "no_speech_prob": 0.0072474232874810696,
+      "words": [
+        {
+          "word": " Same",
+          "start": 122.42,
+          "end": 123.42,
+          "probability": 0.00398825341835618
+        },
+        {
+          "word": " old",
+          "start": 123.42,
+          "end": 123.92,
+          "probability": 0.004616111982613802
+        },
+        {
+          "word": " words,",
+          "start": 123.92,
+          "end": 124.3,
+          "probability": 0.005074853077530861
+        },
+        {
+          "word": " different",
+          "start": 124.48,
+          "end": 124.88,
+          "probability": 0.706697940826416
+        },
+        {
+          "word": " places",
+          "start": 124.88,
+          "end": 126.02,
+          "probability": 0.6854654550552368
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 11992,
+      "start": 126.02,
+      "end": 134.78,
+      "text": " Same old time, different places",
+      "tokens": [
+        50714,
+        10635,
+        1331,
+        565,
+        11,
+        819,
+        3190,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29772644572787815,
+      "compression_ratio": 1.28,
+      "no_speech_prob": 0.0072474232874810696,
+      "words": [
+        {
+          "word": " Same",
+          "start": 126.02,
+          "end": 126.54,
+          "probability": 0.009075443260371685
+        },
+        {
+          "word": " old",
+          "start": 126.54,
+          "end": 126.9,
+          "probability": 0.6810235977172852
+        },
+        {
+          "word": " time,",
+          "start": 126.9,
+          "end": 126.98,
+          "probability": 0.00041373621206730604
+        },
+        {
+          "word": " different",
+          "start": 126.98,
+          "end": 127.68,
+          "probability": 0.9731084108352661
+        },
+        {
+          "word": " places",
+          "start": 127.68,
+          "end": 134.78,
+          "probability": 0.8801441192626953
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 13478,
+      "start": 143.26,
+      "end": 147.54,
+      "text": " I can't explain",
+      "tokens": [
+        50364,
+        286,
+        393,
+        380,
+        2903,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3258490562438965,
+      "compression_ratio": 1.1481481481481481,
+      "no_speech_prob": 0.009317590855062008,
+      "words": [
+        {
+          "word": " I",
+          "start": 143.26,
+          "end": 144.66,
+          "probability": 0.1231641098856926
+        },
+        {
+          "word": " can't",
+          "start": 144.66,
+          "end": 145.6,
+          "probability": 0.7004672139883041
+        },
+        {
+          "word": " explain",
+          "start": 145.6,
+          "end": 147.54,
+          "probability": 0.6161468029022217
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 13478,
+      "start": 152.44,
+      "end": 157.04,
+      "text": " I can't explain",
+      "tokens": [
+        51164,
+        286,
+        393,
+        380,
+        2903,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3258490562438965,
+      "compression_ratio": 1.1481481481481481,
+      "no_speech_prob": 0.009317590855062008,
+      "words": [
+        {
+          "word": " I",
+          "start": 152.44,
+          "end": 153.84,
+          "probability": 0.18067476153373718
+        },
+        {
+          "word": " can't",
+          "start": 153.84,
+          "end": 154.98,
+          "probability": 0.9931440949440002
+        },
+        {
+          "word": " explain",
+          "start": 154.98,
+          "end": 157.04,
+          "probability": 0.9958920478820801
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 15704,
+      "start": 162.48,
+      "end": 166.94,
+      "text": " I can't explain",
+      "tokens": [
+        50364,
+        286,
+        393,
+        380,
+        2903,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3686187267303467,
+      "compression_ratio": 1.1481481481481481,
+      "no_speech_prob": 0.03887474536895752,
+      "words": [
+        {
+          "word": " I",
+          "start": 162.48,
+          "end": 163.88,
+          "probability": 0.3255282938480377
+        },
+        {
+          "word": " can't",
+          "start": 163.88,
+          "end": 164.82,
+          "probability": 0.7118402421474457
+        },
+        {
+          "word": " explain",
+          "start": 164.82,
+          "end": 166.94,
+          "probability": 0.025749454274773598
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 15704,
+      "start": 171.22,
+      "end": 176.2,
+      "text": " I can't explain",
+      "tokens": [
+        50914,
+        286,
+        393,
+        380,
+        2903,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3686187267303467,
+      "compression_ratio": 1.1481481481481481,
+      "no_speech_prob": 0.03887474536895752,
+      "words": [
+        {
+          "word": " I",
+          "start": 171.22,
+          "end": 172.62,
+          "probability": 0.3469162583351135
+        },
+        {
+          "word": " can't",
+          "start": 172.62,
+          "end": 174.02,
+          "probability": 0.9927229881286621
+        },
+        {
+          "word": " explain",
+          "start": 174.02,
+          "end": 176.2,
+          "probability": 0.9941896200180054
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 17620,
+      "start": 180.44,
+      "end": 183.88,
+      "text": " I can't explain",
+      "tokens": [
+        50364,
+        286,
+        393,
+        380,
+        2903,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3517779963357108,
+      "compression_ratio": 0.6521739130434783,
+      "no_speech_prob": 0.34486544132232666,
+      "words": [
+        {
+          "word": " I",
+          "start": 180.44,
+          "end": 181.84,
+          "probability": 0.061795055866241455
+        },
+        {
+          "word": " can't",
+          "start": 181.84,
+          "end": 183.24,
+          "probability": 0.3445967398583889
+        },
+        {
+          "word": " explain",
+          "start": 183.24,
+          "end": 183.88,
+          "probability": 0.003500040853396058
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

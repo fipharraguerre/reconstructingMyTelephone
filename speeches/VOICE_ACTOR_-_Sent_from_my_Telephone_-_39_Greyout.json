@@ -1,0 +1,686 @@
+{
+  "text": " Shake your hand and hope to die If you are gone then so am I Blunder transmission Grey eye Stunned eye Grey eye Flowing down a waterfall This sensation is so powerful Blunder transmission Grey eye Stunned eye Shake your hand and hope to die Grey eye Stunned eye Grey eye Stunned eye Grey eye Thank you for watching!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 3.9799999999999995,
+      "end": 17.6,
+      "text": " Shake your hand and hope to die If you are gone then so am I",
+      "tokens": [
+        50364,
+        27809,
+        428,
+        1011,
+        293,
+        1454,
+        281,
+        978,
+        759,
+        291,
+        366,
+        2780,
+        550,
+        370,
+        669,
+        286,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4459605467946906,
+      "compression_ratio": 0.967741935483871,
+      "no_speech_prob": 0.6195915341377258,
+      "words": [
+        {
+          "word": " Shake",
+          "start": 3.9799999999999995,
+          "end": 5.14,
+          "probability": 0.14224496483802795
+        },
+        {
+          "word": " your",
+          "start": 5.14,
+          "end": 5.9,
+          "probability": 0.9834587574005127
+        },
+        {
+          "word": " hand",
+          "start": 5.9,
+          "end": 6.4,
+          "probability": 0.9334084391593933
+        },
+        {
+          "word": " and",
+          "start": 6.4,
+          "end": 6.92,
+          "probability": 0.8788398504257202
+        },
+        {
+          "word": " hope",
+          "start": 6.92,
+          "end": 7.16,
+          "probability": 0.9887188673019409
+        },
+        {
+          "word": " to",
+          "start": 7.16,
+          "end": 7.72,
+          "probability": 0.9900049567222595
+        },
+        {
+          "word": " die",
+          "start": 7.72,
+          "end": 9.16,
+          "probability": 0.991004228591919
+        },
+        {
+          "word": " If",
+          "start": 9.16,
+          "end": 11.74,
+          "probability": 0.7218712568283081
+        },
+        {
+          "word": " you",
+          "start": 11.74,
+          "end": 12.44,
+          "probability": 0.9960338473320007
+        },
+        {
+          "word": " are",
+          "start": 12.44,
+          "end": 12.86,
+          "probability": 0.9211071729660034
+        },
+        {
+          "word": " gone",
+          "start": 12.86,
+          "end": 13.22,
+          "probability": 0.9263074398040771
+        },
+        {
+          "word": " then",
+          "start": 13.22,
+          "end": 13.84,
+          "probability": 0.691242516040802
+        },
+        {
+          "word": " so",
+          "start": 13.84,
+          "end": 14.42,
+          "probability": 0.37192079424858093
+        },
+        {
+          "word": " am",
+          "start": 14.42,
+          "end": 14.92,
+          "probability": 0.8984041810035706
+        },
+        {
+          "word": " I",
+          "start": 14.92,
+          "end": 17.6,
+          "probability": 0.9610041379928589
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 1760,
+      "start": 17.6,
+      "end": 21.6,
+      "text": " Blunder transmission",
+      "tokens": [
+        50364,
+        2177,
+        6617,
+        11574,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5634294033050538,
+      "compression_ratio": 1.0416666666666667,
+      "no_speech_prob": 0.2235041856765747,
+      "words": [
+        {
+          "word": " Blunder",
+          "start": 17.6,
+          "end": 19.7,
+          "probability": 0.5311882644891739
+        },
+        {
+          "word": " transmission",
+          "start": 19.7,
+          "end": 21.6,
+          "probability": 0.816877007484436
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 1760,
+      "start": 24.140000000000004,
+      "end": 25.6,
+      "text": " Grey eye",
+      "tokens": [
+        50664,
+        24854,
+        3313,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5634294033050538,
+      "compression_ratio": 1.0416666666666667,
+      "no_speech_prob": 0.2235041856765747,
+      "words": [
+        {
+          "word": " Grey",
+          "start": 24.140000000000004,
+          "end": 25.540000000000003,
+          "probability": 0.1587885320186615
+        },
+        {
+          "word": " eye",
+          "start": 25.540000000000003,
+          "end": 26.240000000000002,
+          "probability": 0.6341526508331299
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 1760,
+      "start": 30.220000000000002,
+      "end": 31.62,
+      "text": " Stunned eye",
+      "tokens": [
+        50864,
+        745,
+        409,
+        9232,
+        3313,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5634294033050538,
+      "compression_ratio": 1.0416666666666667,
+      "no_speech_prob": 0.2235041856765747,
+      "words": [
+        {
+          "word": " Stunned",
+          "start": 30.220000000000002,
+          "end": 31.62,
+          "probability": 0.43532221019268036
+        },
+        {
+          "word": " eye",
+          "start": 31.62,
+          "end": 31.62,
+          "probability": 0.989123523235321
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 1760,
+      "start": 31.62,
+      "end": 33.6,
+      "text": " Grey eye",
+      "tokens": [
+        51064,
+        24854,
+        3313,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5634294033050538,
+      "compression_ratio": 1.0416666666666667,
+      "no_speech_prob": 0.2235041856765747,
+      "words": [
+        {
+          "word": " Grey",
+          "start": 31.62,
+          "end": 33.0,
+          "probability": 0.9627028107643127
+        },
+        {
+          "word": " eye",
+          "start": 33.0,
+          "end": 33.7,
+          "probability": 0.9933671355247498
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4760,
+      "start": 48.32,
+      "end": 59.06,
+      "text": " Flowing down a waterfall This sensation is so powerful",
+      "tokens": [
+        50364,
+        3235,
+        9637,
+        760,
+        257,
+        27848,
+        639,
+        20069,
+        307,
+        370,
+        4005,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.276429499898638,
+      "compression_ratio": 1.1294117647058823,
+      "no_speech_prob": 0.031070977449417114,
+      "words": [
+        {
+          "word": " Flowing",
+          "start": 48.32,
+          "end": 49.72,
+          "probability": 0.7600978314876556
+        },
+        {
+          "word": " down",
+          "start": 49.72,
+          "end": 50.78,
+          "probability": 0.9868956208229065
+        },
+        {
+          "word": " a",
+          "start": 50.78,
+          "end": 51.26,
+          "probability": 0.24945016205310822
+        },
+        {
+          "word": " waterfall",
+          "start": 51.26,
+          "end": 53.4,
+          "probability": 0.9981322884559631
+        },
+        {
+          "word": " This",
+          "start": 53.4,
+          "end": 54.62,
+          "probability": 0.3795430064201355
+        },
+        {
+          "word": " sensation",
+          "start": 54.62,
+          "end": 55.72,
+          "probability": 0.9938848614692688
+        },
+        {
+          "word": " is",
+          "start": 55.72,
+          "end": 56.5,
+          "probability": 0.9353066086769104
+        },
+        {
+          "word": " so",
+          "start": 56.5,
+          "end": 56.92,
+          "probability": 0.9951895475387573
+        },
+        {
+          "word": " powerful",
+          "start": 56.92,
+          "end": 59.06,
+          "probability": 0.9981948733329773
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4760,
+      "start": 61.400000000000006,
+      "end": 63.6,
+      "text": " Blunder transmission",
+      "tokens": [
+        50964,
+        2177,
+        6617,
+        11574,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.276429499898638,
+      "compression_ratio": 1.1294117647058823,
+      "no_speech_prob": 0.031070977449417114,
+      "words": [
+        {
+          "word": " Blunder",
+          "start": 61.400000000000006,
+          "end": 62.800000000000004,
+          "probability": 0.43639166094362736
+        },
+        {
+          "word": " transmission",
+          "start": 62.800000000000004,
+          "end": 63.6,
+          "probability": 0.8818336129188538
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 4760,
+      "start": 66.0,
+      "end": 67.6,
+      "text": " Grey eye",
+      "tokens": [
+        51264,
+        24854,
+        3313,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.276429499898638,
+      "compression_ratio": 1.1294117647058823,
+      "no_speech_prob": 0.031070977449417114,
+      "words": [
+        {
+          "word": " Grey",
+          "start": 66.0,
+          "end": 67.4,
+          "probability": 0.0958058089017868
+        },
+        {
+          "word": " eye",
+          "start": 67.4,
+          "end": 68.10000000000001,
+          "probability": 0.010176354087889194
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 4760,
+      "start": 70.61999999999999,
+      "end": 73.18,
+      "text": " Stunned eye",
+      "tokens": [
+        51464,
+        745,
+        409,
+        9232,
+        3313,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.276429499898638,
+      "compression_ratio": 1.1294117647058823,
+      "no_speech_prob": 0.031070977449417114,
+      "words": [
+        {
+          "word": " Stunned",
+          "start": 70.61999999999999,
+          "end": 72.02,
+          "probability": 0.27686299026633304
+        },
+        {
+          "word": " eye",
+          "start": 72.02,
+          "end": 73.18,
+          "probability": 0.7396787405014038
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 7760,
+      "start": 80.46,
+      "end": 88.6,
+      "text": " Shake your hand and hope to die Grey eye",
+      "tokens": [
+        50364,
+        27809,
+        428,
+        1011,
+        293,
+        1454,
+        281,
+        978,
+        24854,
+        3313,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24535821378231049,
+      "compression_ratio": 1.4385964912280702,
+      "no_speech_prob": 0.022444767877459526,
+      "words": [
+        {
+          "word": " Shake",
+          "start": 80.46,
+          "end": 81.86,
+          "probability": 0.7412410378456116
+        },
+        {
+          "word": " your",
+          "start": 81.86,
+          "end": 82.44,
+          "probability": 0.9769699573516846
+        },
+        {
+          "word": " hand",
+          "start": 82.44,
+          "end": 83.1,
+          "probability": 0.45648282766342163
+        },
+        {
+          "word": " and",
+          "start": 83.1,
+          "end": 83.72,
+          "probability": 0.10369811207056046
+        },
+        {
+          "word": " hope",
+          "start": 83.72,
+          "end": 83.96,
+          "probability": 0.0010268213227391243
+        },
+        {
+          "word": " to",
+          "start": 83.96,
+          "end": 84.24,
+          "probability": 0.962411105632782
+        },
+        {
+          "word": " die",
+          "start": 84.24,
+          "end": 86.58,
+          "probability": 0.9944456815719604
+        },
+        {
+          "word": " Grey",
+          "start": 86.58,
+          "end": 88.16,
+          "probability": 0.024318689480423927
+        },
+        {
+          "word": " eye",
+          "start": 88.16,
+          "end": 88.86,
+          "probability": 0.13628444075584412
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 7760,
+      "start": 91.32,
+      "end": 93.86,
+      "text": " Stunned eye",
+      "tokens": [
+        50964,
+        745,
+        409,
+        9232,
+        3313,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24535821378231049,
+      "compression_ratio": 1.4385964912280702,
+      "no_speech_prob": 0.022444767877459526,
+      "words": [
+        {
+          "word": " Stunned",
+          "start": 91.32,
+          "end": 92.72,
+          "probability": 0.3392480406910181
+        },
+        {
+          "word": " eye",
+          "start": 92.72,
+          "end": 93.86,
+          "probability": 0.8898283243179321
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 7760,
+      "start": 93.86,
+      "end": 97.7,
+      "text": " Grey eye",
+      "tokens": [
+        51114,
+        24854,
+        3313,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24535821378231049,
+      "compression_ratio": 1.4385964912280702,
+      "no_speech_prob": 0.022444767877459526,
+      "words": [
+        {
+          "word": " Grey",
+          "start": 93.86,
+          "end": 94.94,
+          "probability": 0.7789179682731628
+        },
+        {
+          "word": " eye",
+          "start": 94.94,
+          "end": 97.7,
+          "probability": 0.9717026352882385
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7760,
+      "start": 97.7,
+      "end": 102.14,
+      "text": " Stunned eye",
+      "tokens": [
+        51264,
+        745,
+        409,
+        9232,
+        3313,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24535821378231049,
+      "compression_ratio": 1.4385964912280702,
+      "no_speech_prob": 0.022444767877459526,
+      "words": [
+        {
+          "word": " Stunned",
+          "start": 97.7,
+          "end": 99.2,
+          "probability": 0.9919209082921346
+        },
+        {
+          "word": " eye",
+          "start": 99.2,
+          "end": 102.14,
+          "probability": 0.9825057983398438
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7760,
+      "start": 102.14,
+      "end": 104.96,
+      "text": " Grey eye",
+      "tokens": [
+        51414,
+        24854,
+        3313,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24535821378231049,
+      "compression_ratio": 1.4385964912280702,
+      "no_speech_prob": 0.022444767877459526,
+      "words": [
+        {
+          "word": " Grey",
+          "start": 102.14,
+          "end": 103.16,
+          "probability": 0.9506767392158508
+        },
+        {
+          "word": " eye",
+          "start": 103.16,
+          "end": 104.96,
+          "probability": 0.9791277050971985
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 10760,
+      "start": 113.05999999999999,
+      "end": 117.08,
+      "text": " Thank you for watching!",
+      "tokens": [
+        50364,
+        1044,
+        291,
+        337,
+        1976,
+        0,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6751796007156372,
+      "compression_ratio": 0.7419354838709677,
+      "no_speech_prob": 0.8170340061187744,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 113.05999999999999,
+          "end": 114.46,
+          "probability": 0.014265624806284904
+        },
+        {
+          "word": " you",
+          "start": 114.46,
+          "end": 115.86,
+          "probability": 0.9480988383293152
+        },
+        {
+          "word": " for",
+          "start": 115.86,
+          "end": 117.08,
+          "probability": 0.2875043451786041
+        },
+        {
+          "word": " watching!",
+          "start": 117.08,
+          "end": 117.08,
+          "probability": 0.8124934434890747
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

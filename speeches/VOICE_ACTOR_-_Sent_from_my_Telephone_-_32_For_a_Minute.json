@@ -1,0 +1,476 @@
+{
+  "text": " it's so rock it is so rock let's talk for a minute walk for a minute it is so rock not for a minute talk for an hour This is an hour. Time to go home. Now it's just good to live.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 6.100000000000002,
+      "end": 7.72,
+      "text": " it's so rock",
+      "tokens": [
+        50364,
+        309,
+        311,
+        370,
+        3727,
+        50863
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.242409498795219,
+      "compression_ratio": 1.7313432835820894,
+      "no_speech_prob": 0.5220523476600647,
+      "words": [
+        {
+          "word": " it's",
+          "start": 6.100000000000002,
+          "end": 6.86,
+          "probability": 0.3346315696835518
+        },
+        {
+          "word": " so",
+          "start": 6.86,
+          "end": 6.86,
+          "probability": 0.1573852300643921
+        },
+        {
+          "word": " rock",
+          "start": 6.86,
+          "end": 7.72,
+          "probability": 0.09445775300264359
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 13.280000000000001,
+      "end": 14.66,
+      "text": " it is so rock",
+      "tokens": [
+        50863,
+        309,
+        307,
+        370,
+        3727,
+        51093
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.242409498795219,
+      "compression_ratio": 1.7313432835820894,
+      "no_speech_prob": 0.5220523476600647,
+      "words": [
+        {
+          "word": " it",
+          "start": 13.280000000000001,
+          "end": 14.04,
+          "probability": 0.3043169379234314
+        },
+        {
+          "word": " is",
+          "start": 14.04,
+          "end": 14.28,
+          "probability": 0.26636379957199097
+        },
+        {
+          "word": " so",
+          "start": 14.28,
+          "end": 14.46,
+          "probability": 0.9431913495063782
+        },
+        {
+          "word": " rock",
+          "start": 14.46,
+          "end": 14.66,
+          "probability": 0.957663357257843
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.66,
+      "end": 17.06,
+      "text": " let's talk for a minute",
+      "tokens": [
+        51094,
+        718,
+        311,
+        751,
+        337,
+        257,
+        3456,
+        51258
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.242409498795219,
+      "compression_ratio": 1.7313432835820894,
+      "no_speech_prob": 0.5220523476600647,
+      "words": [
+        {
+          "word": " let's",
+          "start": 14.66,
+          "end": 15.28,
+          "probability": 0.5063948081806302
+        },
+        {
+          "word": " talk",
+          "start": 15.28,
+          "end": 15.58,
+          "probability": 0.9061775803565979
+        },
+        {
+          "word": " for",
+          "start": 15.58,
+          "end": 15.88,
+          "probability": 0.9593339562416077
+        },
+        {
+          "word": " a",
+          "start": 15.88,
+          "end": 15.98,
+          "probability": 0.9753724932670593
+        },
+        {
+          "word": " minute",
+          "start": 15.98,
+          "end": 17.06,
+          "probability": 0.9445304274559021
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.88,
+      "end": 20.14,
+      "text": " walk for a minute",
+      "tokens": [
+        51258,
+        1792,
+        337,
+        257,
+        3456,
+        51433
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.242409498795219,
+      "compression_ratio": 1.7313432835820894,
+      "no_speech_prob": 0.5220523476600647,
+      "words": [
+        {
+          "word": " walk",
+          "start": 17.88,
+          "end": 18.44,
+          "probability": 0.6200188994407654
+        },
+        {
+          "word": " for",
+          "start": 18.44,
+          "end": 18.82,
+          "probability": 0.9966080188751221
+        },
+        {
+          "word": " a",
+          "start": 18.82,
+          "end": 18.96,
+          "probability": 0.9964642524719238
+        },
+        {
+          "word": " minute",
+          "start": 18.96,
+          "end": 20.14,
+          "probability": 0.9927514791488647
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.94,
+      "end": 22.32,
+      "text": " it is so rock",
+      "tokens": [
+        51434,
+        309,
+        307,
+        370,
+        3727,
+        51504
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.242409498795219,
+      "compression_ratio": 1.7313432835820894,
+      "no_speech_prob": 0.5220523476600647,
+      "words": [
+        {
+          "word": " it",
+          "start": 20.94,
+          "end": 21.7,
+          "probability": 0.7983232736587524
+        },
+        {
+          "word": " is",
+          "start": 21.7,
+          "end": 21.88,
+          "probability": 0.9398760199546814
+        },
+        {
+          "word": " so",
+          "start": 21.88,
+          "end": 22.06,
+          "probability": 0.9945917725563049
+        },
+        {
+          "word": " rock",
+          "start": 22.06,
+          "end": 22.32,
+          "probability": 0.9952571988105774
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 22.32,
+      "end": 24.82,
+      "text": " not for a minute",
+      "tokens": [
+        51504,
+        406,
+        337,
+        257,
+        3456,
+        51604
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.242409498795219,
+      "compression_ratio": 1.7313432835820894,
+      "no_speech_prob": 0.5220523476600647,
+      "words": [
+        {
+          "word": " not",
+          "start": 22.32,
+          "end": 22.88,
+          "probability": 0.5191957950592041
+        },
+        {
+          "word": " for",
+          "start": 22.88,
+          "end": 23.22,
+          "probability": 0.9854530692100525
+        },
+        {
+          "word": " a",
+          "start": 23.22,
+          "end": 23.46,
+          "probability": 0.9902465343475342
+        },
+        {
+          "word": " minute",
+          "start": 23.46,
+          "end": 24.82,
+          "probability": 0.9950313568115234
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.82,
+      "end": 27.46,
+      "text": " talk for an hour",
+      "tokens": [
+        51604,
+        751,
+        337,
+        364,
+        1773,
+        51788
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.242409498795219,
+      "compression_ratio": 1.7313432835820894,
+      "no_speech_prob": 0.5220523476600647,
+      "words": [
+        {
+          "word": " talk",
+          "start": 24.82,
+          "end": 25.84,
+          "probability": 0.9847061038017273
+        },
+        {
+          "word": " for",
+          "start": 25.84,
+          "end": 26.28,
+          "probability": 0.9980661273002625
+        },
+        {
+          "word": " an",
+          "start": 26.28,
+          "end": 26.54,
+          "probability": 0.9599233865737915
+        },
+        {
+          "word": " hour",
+          "start": 26.54,
+          "end": 27.46,
+          "probability": 0.9951574206352234
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2746,
+      "start": 29.64,
+      "end": 32.44,
+      "text": " This is an hour.",
+      "tokens": [
+        50364,
+        639,
+        307,
+        364,
+        1773,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7027191925048828,
+      "compression_ratio": 0.9682539682539683,
+      "no_speech_prob": 0.35053879022598267,
+      "words": [
+        {
+          "word": " This",
+          "start": 29.64,
+          "end": 30.32,
+          "probability": 0.4737131893634796
+        },
+        {
+          "word": " is",
+          "start": 30.32,
+          "end": 30.68,
+          "probability": 0.6879467368125916
+        },
+        {
+          "word": " an",
+          "start": 30.68,
+          "end": 31.0,
+          "probability": 0.2806152105331421
+        },
+        {
+          "word": " hour.",
+          "start": 31.0,
+          "end": 32.44,
+          "probability": 0.9365648627281189
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2746,
+      "start": 34.6,
+      "end": 36.28,
+      "text": " Time to go home.",
+      "tokens": [
+        50614,
+        6161,
+        281,
+        352,
+        1280,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7027191925048828,
+      "compression_ratio": 0.9682539682539683,
+      "no_speech_prob": 0.35053879022598267,
+      "words": [
+        {
+          "word": " Time",
+          "start": 34.6,
+          "end": 34.82,
+          "probability": 0.9308770895004272
+        },
+        {
+          "word": " to",
+          "start": 34.82,
+          "end": 35.12,
+          "probability": 0.9587650895118713
+        },
+        {
+          "word": " go",
+          "start": 35.12,
+          "end": 35.46,
+          "probability": 0.37403997778892517
+        },
+        {
+          "word": " home.",
+          "start": 35.46,
+          "end": 36.28,
+          "probability": 0.7568637728691101
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2746,
+      "start": 40.64,
+      "end": 41.9,
+      "text": " Now it's just good to live.",
+      "tokens": [
+        50864,
+        823,
+        309,
+        311,
+        445,
+        665,
+        281,
+        1621,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7027191925048828,
+      "compression_ratio": 0.9682539682539683,
+      "no_speech_prob": 0.35053879022598267,
+      "words": [
+        {
+          "word": " Now",
+          "start": 40.64,
+          "end": 40.82,
+          "probability": 0.33349987864494324
+        },
+        {
+          "word": " it's",
+          "start": 40.82,
+          "end": 40.98,
+          "probability": 0.6464254409074783
+        },
+        {
+          "word": " just",
+          "start": 40.98,
+          "end": 41.16,
+          "probability": 0.9862317442893982
+        },
+        {
+          "word": " good",
+          "start": 41.16,
+          "end": 41.46,
+          "probability": 0.26906225085258484
+        },
+        {
+          "word": " to",
+          "start": 41.46,
+          "end": 41.56,
+          "probability": 0.26231080293655396
+        },
+        {
+          "word": " live.",
+          "start": 41.56,
+          "end": 41.9,
+          "probability": 0.9061875343322754
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

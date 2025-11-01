@@ -1,0 +1,249 @@
+{
+  "text": " Emotions running deep Vibrating in the heat Of my love Of my love Sun is coloring my love Covering my love Emotions running deep",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 6000,
+      "start": 69.89999999999999,
+      "end": 79.0,
+      "text": " Emotions running deep Vibrating in the heat",
+      "tokens": [
+        50364,
+        3968,
+        310,
+        626,
+        2614,
+        2452,
+        691,
+        6414,
+        990,
+        294,
+        264,
+        3738,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5186709086100261,
+      "compression_ratio": 0.8958333333333334,
+      "no_speech_prob": 0.44754084944725037,
+      "words": [
+        {
+          "word": " Emotions",
+          "start": 69.89999999999999,
+          "end": 71.3,
+          "probability": 0.6851087162892023
+        },
+        {
+          "word": " running",
+          "start": 71.3,
+          "end": 72.22,
+          "probability": 0.9342673420906067
+        },
+        {
+          "word": " deep",
+          "start": 72.22,
+          "end": 74.5,
+          "probability": 0.9904824495315552
+        },
+        {
+          "word": " Vibrating",
+          "start": 74.5,
+          "end": 77.04,
+          "probability": 0.8779215614000956
+        },
+        {
+          "word": " in",
+          "start": 77.04,
+          "end": 77.74,
+          "probability": 0.9899128675460815
+        },
+        {
+          "word": " the",
+          "start": 77.74,
+          "end": 78.26,
+          "probability": 0.9964242577552795
+        },
+        {
+          "word": " heat",
+          "start": 78.26,
+          "end": 79.0,
+          "probability": 0.9744604825973511
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 7900,
+      "start": 80.67999999999999,
+      "end": 91.0,
+      "text": " Of my love Of my love",
+      "tokens": [
+        50364,
+        2720,
+        452,
+        959,
+        2720,
+        452,
+        959,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5007054805755615,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.3326309323310852,
+      "words": [
+        {
+          "word": " Of",
+          "start": 80.67999999999999,
+          "end": 82.08,
+          "probability": 0.30036354064941406
+        },
+        {
+          "word": " my",
+          "start": 82.08,
+          "end": 82.92,
+          "probability": 0.9717780947685242
+        },
+        {
+          "word": " love",
+          "start": 82.92,
+          "end": 84.42,
+          "probability": 0.9442817568778992
+        },
+        {
+          "word": " Of",
+          "start": 84.42,
+          "end": 88.24,
+          "probability": 0.5933689475059509
+        },
+        {
+          "word": " my",
+          "start": 88.24,
+          "end": 89.74,
+          "probability": 0.9941818118095398
+        },
+        {
+          "word": " love",
+          "start": 89.74,
+          "end": 91.0,
+          "probability": 0.9967279434204102
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 9100,
+      "start": 103.19999999999999,
+      "end": 114.0,
+      "text": " Sun is coloring my love Covering my love",
+      "tokens": [
+        50364,
+        6163,
+        307,
+        23198,
+        452,
+        959,
+        19106,
+        278,
+        452,
+        959,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3970562219619751,
+      "compression_ratio": 1.1111111111111112,
+      "no_speech_prob": 0.35001885890960693,
+      "words": [
+        {
+          "word": " Sun",
+          "start": 103.19999999999999,
+          "end": 104.6,
+          "probability": 0.42456886172294617
+        },
+        {
+          "word": " is",
+          "start": 104.6,
+          "end": 105.2,
+          "probability": 0.9774957895278931
+        },
+        {
+          "word": " coloring",
+          "start": 105.2,
+          "end": 106.26,
+          "probability": 0.3850526511669159
+        },
+        {
+          "word": " my",
+          "start": 106.26,
+          "end": 107.46,
+          "probability": 0.9882785081863403
+        },
+        {
+          "word": " love",
+          "start": 107.46,
+          "end": 108.86,
+          "probability": 0.7533823847770691
+        },
+        {
+          "word": " Covering",
+          "start": 108.86,
+          "end": 112.74,
+          "probability": 0.5794578269124031
+        },
+        {
+          "word": " my",
+          "start": 112.74,
+          "end": 113.98,
+          "probability": 0.996123731136322
+        },
+        {
+          "word": " love",
+          "start": 113.98,
+          "end": 114.68,
+          "probability": 0.9917182922363281
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 12100,
+      "start": 141.73999999999998,
+      "end": 143.14,
+      "text": " Emotions running deep",
+      "tokens": [
+        50364,
+        3968,
+        310,
+        626,
+        2614,
+        2452,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.568000316619873,
+      "compression_ratio": 0.7241379310344828,
+      "no_speech_prob": 0.720365583896637,
+      "words": [
+        {
+          "word": " Emotions",
+          "start": 141.73999999999998,
+          "end": 143.14,
+          "probability": 0.3298765916072928
+        },
+        {
+          "word": " running",
+          "start": 143.14,
+          "end": 143.14,
+          "probability": 0.00026535720098763704
+        },
+        {
+          "word": " deep",
+          "start": 143.14,
+          "end": 143.14,
+          "probability": 0.009468690492212772
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

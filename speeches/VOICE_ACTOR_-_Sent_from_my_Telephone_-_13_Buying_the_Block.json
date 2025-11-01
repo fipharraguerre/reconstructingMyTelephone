@@ -1,0 +1,1374 @@
+{
+  "text": " I think it's either we wait until we have more songs to make a cassette or not use all of our songs and later, you know, I can't decide which ones from the ones that I've decided to use which is most of them not used and so if you can think of songs you don't want to miss I know you said to take my time but I just like to, you know, get it done I don't see why wait or wait like I said to make more songs Yeah, I mean because the length isn't even unless we invest in rather some Japanese tapes, they're like 72 minutes long I don't know, now with the new songs one side would have something like 30 or 31 minutes and the other would have something like 34 minutes and I tried but I just can't transfer some of the songs from one to the other side It doesn't make sense sonically or conceptually as well",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 9.14,
+      "text": " I think it's either we wait until we have more songs to make a cassette",
+      "tokens": [
+        50364,
+        286,
+        519,
+        309,
+        311,
+        2139,
+        321,
+        1699,
+        1826,
+        321,
+        362,
+        544,
+        5781,
+        281,
+        652,
+        257,
+        40514,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23536596298217774,
+      "compression_ratio": 1.4122137404580153,
+      "no_speech_prob": 0.25908517837524414,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.82,
+          "probability": 0.6541324853897095
+        },
+        {
+          "word": " think",
+          "start": 0.82,
+          "end": 1.24,
+          "probability": 0.9757300615310669
+        },
+        {
+          "word": " it's",
+          "start": 1.24,
+          "end": 2.7,
+          "probability": 0.7268117964267731
+        },
+        {
+          "word": " either",
+          "start": 2.7,
+          "end": 3.44,
+          "probability": 0.9782984852790833
+        },
+        {
+          "word": " we",
+          "start": 3.44,
+          "end": 3.96,
+          "probability": 0.9336617588996887
+        },
+        {
+          "word": " wait",
+          "start": 3.96,
+          "end": 4.44,
+          "probability": 0.9896436929702759
+        },
+        {
+          "word": " until",
+          "start": 4.44,
+          "end": 5.28,
+          "probability": 0.6650151610374451
+        },
+        {
+          "word": " we",
+          "start": 5.28,
+          "end": 5.56,
+          "probability": 0.9934237003326416
+        },
+        {
+          "word": " have",
+          "start": 5.56,
+          "end": 5.78,
+          "probability": 0.9831079840660095
+        },
+        {
+          "word": " more",
+          "start": 5.78,
+          "end": 6.36,
+          "probability": 0.9894056916236877
+        },
+        {
+          "word": " songs",
+          "start": 6.36,
+          "end": 7.06,
+          "probability": 0.9938190579414368
+        },
+        {
+          "word": " to",
+          "start": 7.06,
+          "end": 8.12,
+          "probability": 0.9004325866699219
+        },
+        {
+          "word": " make",
+          "start": 8.12,
+          "end": 8.38,
+          "probability": 0.9208521842956543
+        },
+        {
+          "word": " a",
+          "start": 8.38,
+          "end": 8.54,
+          "probability": 0.947188675403595
+        },
+        {
+          "word": " cassette",
+          "start": 8.54,
+          "end": 9.14,
+          "probability": 0.9903723001480103
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 11.239999999999997,
+      "end": 23.34,
+      "text": " or not use all of our songs and later, you know, I can't decide which ones from the ones that I've decided to use",
+      "tokens": [
+        50814,
+        420,
+        406,
+        764,
+        439,
+        295,
+        527,
+        5781,
+        293,
+        1780,
+        11,
+        291,
+        458,
+        11,
+        286,
+        393,
+        380,
+        4536,
+        597,
+        2306,
+        490,
+        264,
+        2306,
+        300,
+        286,
+        600,
+        3047,
+        281,
+        764,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23536596298217774,
+      "compression_ratio": 1.4122137404580153,
+      "no_speech_prob": 0.25908517837524414,
+      "words": [
+        {
+          "word": " or",
+          "start": 11.239999999999997,
+          "end": 12.12,
+          "probability": 0.6642628908157349
+        },
+        {
+          "word": " not",
+          "start": 12.12,
+          "end": 12.6,
+          "probability": 0.8710002899169922
+        },
+        {
+          "word": " use",
+          "start": 12.6,
+          "end": 12.96,
+          "probability": 0.734777569770813
+        },
+        {
+          "word": " all",
+          "start": 12.96,
+          "end": 13.26,
+          "probability": 0.9798833727836609
+        },
+        {
+          "word": " of",
+          "start": 13.26,
+          "end": 13.38,
+          "probability": 0.9007195830345154
+        },
+        {
+          "word": " our",
+          "start": 13.38,
+          "end": 13.52,
+          "probability": 0.9839681386947632
+        },
+        {
+          "word": " songs",
+          "start": 13.52,
+          "end": 14.56,
+          "probability": 0.9958804845809937
+        },
+        {
+          "word": " and",
+          "start": 14.56,
+          "end": 15.26,
+          "probability": 0.6565690636634827
+        },
+        {
+          "word": " later,",
+          "start": 15.26,
+          "end": 15.66,
+          "probability": 0.637901782989502
+        },
+        {
+          "word": " you",
+          "start": 15.74,
+          "end": 16.0,
+          "probability": 0.8240349292755127
+        },
+        {
+          "word": " know,",
+          "start": 16.0,
+          "end": 16.2,
+          "probability": 0.9987072944641113
+        },
+        {
+          "word": " I",
+          "start": 17.38,
+          "end": 17.52,
+          "probability": 0.9366816282272339
+        },
+        {
+          "word": " can't",
+          "start": 17.52,
+          "end": 17.96,
+          "probability": 0.9907727837562561
+        },
+        {
+          "word": " decide",
+          "start": 17.96,
+          "end": 18.9,
+          "probability": 0.9943242073059082
+        },
+        {
+          "word": " which",
+          "start": 18.9,
+          "end": 19.7,
+          "probability": 0.9700873494148254
+        },
+        {
+          "word": " ones",
+          "start": 19.7,
+          "end": 20.04,
+          "probability": 0.853023886680603
+        },
+        {
+          "word": " from",
+          "start": 20.04,
+          "end": 20.38,
+          "probability": 0.7937140464782715
+        },
+        {
+          "word": " the",
+          "start": 20.38,
+          "end": 20.52,
+          "probability": 0.9845610857009888
+        },
+        {
+          "word": " ones",
+          "start": 20.52,
+          "end": 20.74,
+          "probability": 0.9659317135810852
+        },
+        {
+          "word": " that",
+          "start": 20.74,
+          "end": 21.34,
+          "probability": 0.8028973340988159
+        },
+        {
+          "word": " I've",
+          "start": 21.34,
+          "end": 22.02,
+          "probability": 0.882485568523407
+        },
+        {
+          "word": " decided",
+          "start": 22.02,
+          "end": 22.34,
+          "probability": 0.9954877495765686
+        },
+        {
+          "word": " to",
+          "start": 22.34,
+          "end": 22.74,
+          "probability": 0.9978325963020325
+        },
+        {
+          "word": " use",
+          "start": 22.74,
+          "end": 23.34,
+          "probability": 0.9975574016571045
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2334,
+      "start": 23.34,
+      "end": 32.96,
+      "text": " which is most of them not used and so if you can think of songs you don't want to miss",
+      "tokens": [
+        50364,
+        597,
+        307,
+        881,
+        295,
+        552,
+        406,
+        1143,
+        293,
+        370,
+        498,
+        291,
+        393,
+        519,
+        295,
+        5781,
+        291,
+        500,
+        380,
+        528,
+        281,
+        1713,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26553672552108765,
+      "compression_ratio": 1.5602836879432624,
+      "no_speech_prob": 0.5808115005493164,
+      "words": [
+        {
+          "word": " which",
+          "start": 23.34,
+          "end": 23.34,
+          "probability": 0.05161127820611
+        },
+        {
+          "word": " is",
+          "start": 23.34,
+          "end": 23.82,
+          "probability": 0.9604982137680054
+        },
+        {
+          "word": " most",
+          "start": 23.82,
+          "end": 24.06,
+          "probability": 0.2568865418434143
+        },
+        {
+          "word": " of",
+          "start": 24.06,
+          "end": 24.28,
+          "probability": 0.9742447733879089
+        },
+        {
+          "word": " them",
+          "start": 24.28,
+          "end": 25.08,
+          "probability": 0.7299619913101196
+        },
+        {
+          "word": " not",
+          "start": 25.08,
+          "end": 25.48,
+          "probability": 0.5843416452407837
+        },
+        {
+          "word": " used",
+          "start": 25.48,
+          "end": 26.12,
+          "probability": 0.628976047039032
+        },
+        {
+          "word": " and",
+          "start": 26.12,
+          "end": 26.72,
+          "probability": 0.24781078100204468
+        },
+        {
+          "word": " so",
+          "start": 26.72,
+          "end": 26.96,
+          "probability": 0.1949341595172882
+        },
+        {
+          "word": " if",
+          "start": 26.96,
+          "end": 27.14,
+          "probability": 0.931147038936615
+        },
+        {
+          "word": " you",
+          "start": 27.14,
+          "end": 27.68,
+          "probability": 0.9787796139717102
+        },
+        {
+          "word": " can",
+          "start": 27.68,
+          "end": 28.72,
+          "probability": 0.31799665093421936
+        },
+        {
+          "word": " think",
+          "start": 28.72,
+          "end": 29.22,
+          "probability": 0.9069627523422241
+        },
+        {
+          "word": " of",
+          "start": 29.22,
+          "end": 30.22,
+          "probability": 0.9802163243293762
+        },
+        {
+          "word": " songs",
+          "start": 30.22,
+          "end": 30.66,
+          "probability": 0.9280185103416443
+        },
+        {
+          "word": " you",
+          "start": 30.66,
+          "end": 31.22,
+          "probability": 0.9249262809753418
+        },
+        {
+          "word": " don't",
+          "start": 31.22,
+          "end": 31.6,
+          "probability": 0.974737673997879
+        },
+        {
+          "word": " want",
+          "start": 31.6,
+          "end": 31.86,
+          "probability": 0.5218892097473145
+        },
+        {
+          "word": " to",
+          "start": 31.86,
+          "end": 32.08,
+          "probability": 0.9427753686904907
+        },
+        {
+          "word": " miss",
+          "start": 32.08,
+          "end": 32.96,
+          "probability": 0.6695743799209595
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2334,
+      "start": 33.9,
+      "end": 40.68,
+      "text": " I know you said to take my time but I just like to, you know, get it done",
+      "tokens": [
+        50864,
+        286,
+        458,
+        291,
+        848,
+        281,
+        747,
+        452,
+        565,
+        457,
+        286,
+        445,
+        411,
+        281,
+        11,
+        291,
+        458,
+        11,
+        483,
+        309,
+        1096,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26553672552108765,
+      "compression_ratio": 1.5602836879432624,
+      "no_speech_prob": 0.5808115005493164,
+      "words": [
+        {
+          "word": " I",
+          "start": 33.9,
+          "end": 34.58,
+          "probability": 0.2842381000518799
+        },
+        {
+          "word": " know",
+          "start": 34.58,
+          "end": 35.0,
+          "probability": 0.8979184031486511
+        },
+        {
+          "word": " you",
+          "start": 35.0,
+          "end": 36.62,
+          "probability": 0.3331752419471741
+        },
+        {
+          "word": " said",
+          "start": 36.62,
+          "end": 36.76,
+          "probability": 0.9538901448249817
+        },
+        {
+          "word": " to",
+          "start": 36.76,
+          "end": 36.98,
+          "probability": 0.9453502297401428
+        },
+        {
+          "word": " take",
+          "start": 36.98,
+          "end": 37.36,
+          "probability": 0.9899604320526123
+        },
+        {
+          "word": " my",
+          "start": 37.36,
+          "end": 37.46,
+          "probability": 0.9705761075019836
+        },
+        {
+          "word": " time",
+          "start": 37.46,
+          "end": 37.72,
+          "probability": 0.9980946183204651
+        },
+        {
+          "word": " but",
+          "start": 37.72,
+          "end": 37.96,
+          "probability": 0.7995635271072388
+        },
+        {
+          "word": " I",
+          "start": 37.96,
+          "end": 38.22,
+          "probability": 0.8877295851707458
+        },
+        {
+          "word": " just",
+          "start": 38.22,
+          "end": 38.36,
+          "probability": 0.9240617752075195
+        },
+        {
+          "word": " like",
+          "start": 38.36,
+          "end": 38.54,
+          "probability": 0.9752132892608643
+        },
+        {
+          "word": " to,",
+          "start": 38.54,
+          "end": 39.3,
+          "probability": 0.9272908568382263
+        },
+        {
+          "word": " you",
+          "start": 39.3,
+          "end": 39.42,
+          "probability": 0.9555368423461914
+        },
+        {
+          "word": " know,",
+          "start": 39.42,
+          "end": 39.94,
+          "probability": 0.9981649518013
+        },
+        {
+          "word": " get",
+          "start": 40.2,
+          "end": 40.38,
+          "probability": 0.9827336072921753
+        },
+        {
+          "word": " it",
+          "start": 40.38,
+          "end": 40.6,
+          "probability": 0.9938350915908813
+        },
+        {
+          "word": " done",
+          "start": 40.6,
+          "end": 40.68,
+          "probability": 0.9972308278083801
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2334,
+      "start": 41.34,
+      "end": 48.22,
+      "text": " I don't see why wait or wait like I said to make more songs",
+      "tokens": [
+        51264,
+        286,
+        500,
+        380,
+        536,
+        983,
+        1699,
+        420,
+        1699,
+        411,
+        286,
+        848,
+        281,
+        652,
+        544,
+        5781,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26553672552108765,
+      "compression_ratio": 1.5602836879432624,
+      "no_speech_prob": 0.5808115005493164,
+      "words": [
+        {
+          "word": " I",
+          "start": 41.239999999999995,
+          "end": 41.58,
+          "probability": 0.3942018449306488
+        },
+        {
+          "word": " don't",
+          "start": 41.58,
+          "end": 41.76,
+          "probability": 0.9912991225719452
+        },
+        {
+          "word": " see",
+          "start": 41.76,
+          "end": 42.04,
+          "probability": 0.9513177871704102
+        },
+        {
+          "word": " why",
+          "start": 42.04,
+          "end": 42.22,
+          "probability": 0.992420494556427
+        },
+        {
+          "word": " wait",
+          "start": 42.22,
+          "end": 42.64,
+          "probability": 0.9317448735237122
+        },
+        {
+          "word": " or",
+          "start": 42.64,
+          "end": 44.76,
+          "probability": 0.6045581102371216
+        },
+        {
+          "word": " wait",
+          "start": 44.76,
+          "end": 45.28,
+          "probability": 0.9464657306671143
+        },
+        {
+          "word": " like",
+          "start": 45.28,
+          "end": 46.02,
+          "probability": 0.34146666526794434
+        },
+        {
+          "word": " I",
+          "start": 46.02,
+          "end": 46.68,
+          "probability": 0.8771366477012634
+        },
+        {
+          "word": " said",
+          "start": 46.68,
+          "end": 46.98,
+          "probability": 0.9943833351135254
+        },
+        {
+          "word": " to",
+          "start": 46.98,
+          "end": 47.24,
+          "probability": 0.8128788471221924
+        },
+        {
+          "word": " make",
+          "start": 47.24,
+          "end": 47.38,
+          "probability": 0.9978651404380798
+        },
+        {
+          "word": " more",
+          "start": 47.38,
+          "end": 47.68,
+          "probability": 0.9974391460418701
+        },
+        {
+          "word": " songs",
+          "start": 47.68,
+          "end": 48.22,
+          "probability": 0.9974448680877686
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4822,
+      "start": 50.30000000000001,
+      "end": 60.18,
+      "text": " Yeah, I mean because the length isn't even",
+      "tokens": [
+        50414,
+        865,
+        11,
+        286,
+        914,
+        570,
+        264,
+        4641,
+        1943,
+        380,
+        754,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38271341016215665,
+      "compression_ratio": 1.1553398058252426,
+      "no_speech_prob": 0.20645636320114136,
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 50.30000000000001,
+          "end": 51.32000000000001,
+          "probability": 0.2762099802494049
+        },
+        {
+          "word": " I",
+          "start": 51.32000000000001,
+          "end": 52.34,
+          "probability": 0.259903222322464
+        },
+        {
+          "word": " mean",
+          "start": 52.34,
+          "end": 52.78,
+          "probability": 0.8561540246009827
+        },
+        {
+          "word": " because",
+          "start": 52.78,
+          "end": 53.5,
+          "probability": 0.8583731055259705
+        },
+        {
+          "word": " the",
+          "start": 53.5,
+          "end": 57.48,
+          "probability": 0.11686617136001587
+        },
+        {
+          "word": " length",
+          "start": 57.48,
+          "end": 58.64,
+          "probability": 0.9341696500778198
+        },
+        {
+          "word": " isn't",
+          "start": 58.64,
+          "end": 59.16,
+          "probability": 0.8369384109973907
+        },
+        {
+          "word": " even",
+          "start": 59.16,
+          "end": 60.18,
+          "probability": 0.9820240139961243
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4822,
+      "start": 60.18,
+      "end": 66.44,
+      "text": " unless we invest in rather some Japanese tapes, they're like 72 minutes long",
+      "tokens": [
+        50964,
+        5969,
+        321,
+        1963,
+        294,
+        2831,
+        512,
+        5433,
+        31349,
+        11,
+        436,
+        434,
+        411,
+        18731,
+        2077,
+        938,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38271341016215665,
+      "compression_ratio": 1.1553398058252426,
+      "no_speech_prob": 0.20645636320114136,
+      "words": [
+        {
+          "word": " unless",
+          "start": 60.18,
+          "end": 61.1,
+          "probability": 0.1613307148218155
+        },
+        {
+          "word": " we",
+          "start": 61.1,
+          "end": 61.54,
+          "probability": 0.9884341359138489
+        },
+        {
+          "word": " invest",
+          "start": 61.54,
+          "end": 62.04,
+          "probability": 0.8293306827545166
+        },
+        {
+          "word": " in",
+          "start": 62.04,
+          "end": 62.82,
+          "probability": 0.9494341015815735
+        },
+        {
+          "word": " rather",
+          "start": 62.82,
+          "end": 63.18,
+          "probability": 0.4060988128185272
+        },
+        {
+          "word": " some",
+          "start": 63.18,
+          "end": 63.5,
+          "probability": 0.8489444851875305
+        },
+        {
+          "word": " Japanese",
+          "start": 63.5,
+          "end": 64.02,
+          "probability": 0.9216289520263672
+        },
+        {
+          "word": " tapes,",
+          "start": 64.02,
+          "end": 64.46,
+          "probability": 0.9644396305084229
+        },
+        {
+          "word": " they're",
+          "start": 64.58,
+          "end": 64.78,
+          "probability": 0.7342108488082886
+        },
+        {
+          "word": " like",
+          "start": 64.78,
+          "end": 64.96,
+          "probability": 0.8107007741928101
+        },
+        {
+          "word": " 72",
+          "start": 64.96,
+          "end": 65.54,
+          "probability": 0.9813809394836426
+        },
+        {
+          "word": " minutes",
+          "start": 65.54,
+          "end": 66.02,
+          "probability": 0.907900869846344
+        },
+        {
+          "word": " long",
+          "start": 66.02,
+          "end": 66.44,
+          "probability": 0.9911642074584961
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6644,
+      "start": 67.44,
+      "end": 70.46,
+      "text": " I don't know, now with the new songs",
+      "tokens": [
+        50414,
+        286,
+        500,
+        380,
+        458,
+        11,
+        586,
+        365,
+        264,
+        777,
+        5781,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2616451808384487,
+      "compression_ratio": 1.6323529411764706,
+      "no_speech_prob": 0.25718674063682556,
+      "words": [
+        {
+          "word": " I",
+          "start": 67.36,
+          "end": 67.7,
+          "probability": 0.3289484679698944
+        },
+        {
+          "word": " don't",
+          "start": 67.7,
+          "end": 67.92,
+          "probability": 0.9106207191944122
+        },
+        {
+          "word": " know,",
+          "start": 67.92,
+          "end": 68.24,
+          "probability": 0.9916831254959106
+        },
+        {
+          "word": " now",
+          "start": 68.28,
+          "end": 69.0,
+          "probability": 0.3723558485507965
+        },
+        {
+          "word": " with",
+          "start": 69.0,
+          "end": 69.32,
+          "probability": 0.8853754997253418
+        },
+        {
+          "word": " the",
+          "start": 69.32,
+          "end": 69.44,
+          "probability": 0.9723267555236816
+        },
+        {
+          "word": " new",
+          "start": 69.44,
+          "end": 69.7,
+          "probability": 0.993399977684021
+        },
+        {
+          "word": " songs",
+          "start": 69.7,
+          "end": 70.46,
+          "probability": 0.9936394095420837
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6644,
+      "start": 75.01999999999998,
+      "end": 84.72,
+      "text": " one side would have something like 30 or 31 minutes and the other would have something like 34 minutes",
+      "tokens": [
+        50714,
+        472,
+        1252,
+        576,
+        362,
+        746,
+        411,
+        2217,
+        420,
+        10353,
+        2077,
+        293,
+        264,
+        661,
+        576,
+        362,
+        746,
+        411,
+        12790,
+        2077,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2616451808384487,
+      "compression_ratio": 1.6323529411764706,
+      "no_speech_prob": 0.25718674063682556,
+      "words": [
+        {
+          "word": " one",
+          "start": 75.01999999999998,
+          "end": 75.69999999999999,
+          "probability": 0.3350232243537903
+        },
+        {
+          "word": " side",
+          "start": 75.69999999999999,
+          "end": 76.38,
+          "probability": 0.8960957527160645
+        },
+        {
+          "word": " would",
+          "start": 76.38,
+          "end": 76.7,
+          "probability": 0.8542210459709167
+        },
+        {
+          "word": " have",
+          "start": 76.7,
+          "end": 77.0,
+          "probability": 0.9886016249656677
+        },
+        {
+          "word": " something",
+          "start": 77.0,
+          "end": 78.52,
+          "probability": 0.38483572006225586
+        },
+        {
+          "word": " like",
+          "start": 78.52,
+          "end": 78.82,
+          "probability": 0.9685410857200623
+        },
+        {
+          "word": " 30",
+          "start": 78.82,
+          "end": 79.58,
+          "probability": 0.6668434143066406
+        },
+        {
+          "word": " or",
+          "start": 79.58,
+          "end": 80.32,
+          "probability": 0.39389294385910034
+        },
+        {
+          "word": " 31",
+          "start": 80.32,
+          "end": 80.94,
+          "probability": 0.9862414598464966
+        },
+        {
+          "word": " minutes",
+          "start": 80.94,
+          "end": 81.58,
+          "probability": 0.9183129668235779
+        },
+        {
+          "word": " and",
+          "start": 81.58,
+          "end": 82.1,
+          "probability": 0.8238853812217712
+        },
+        {
+          "word": " the",
+          "start": 82.1,
+          "end": 82.2,
+          "probability": 0.9789683222770691
+        },
+        {
+          "word": " other",
+          "start": 82.2,
+          "end": 82.5,
+          "probability": 0.9930301308631897
+        },
+        {
+          "word": " would",
+          "start": 82.5,
+          "end": 82.68,
+          "probability": 0.7132779955863953
+        },
+        {
+          "word": " have",
+          "start": 82.68,
+          "end": 82.92,
+          "probability": 0.9869469404220581
+        },
+        {
+          "word": " something",
+          "start": 82.92,
+          "end": 83.28,
+          "probability": 0.9237080216407776
+        },
+        {
+          "word": " like",
+          "start": 83.28,
+          "end": 83.48,
+          "probability": 0.9048516154289246
+        },
+        {
+          "word": " 34",
+          "start": 83.48,
+          "end": 84.06,
+          "probability": 0.9892611503601074
+        },
+        {
+          "word": " minutes",
+          "start": 84.06,
+          "end": 84.72,
+          "probability": 0.9812233448028564
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 6644,
+      "start": 84.72,
+      "end": 92.16,
+      "text": " and I tried but I just can't transfer some of the songs from one to the other side",
+      "tokens": [
+        51264,
+        293,
+        286,
+        3031,
+        457,
+        286,
+        445,
+        393,
+        380,
+        5003,
+        512,
+        295,
+        264,
+        5781,
+        490,
+        472,
+        281,
+        264,
+        661,
+        1252,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2616451808384487,
+      "compression_ratio": 1.6323529411764706,
+      "no_speech_prob": 0.25718674063682556,
+      "words": [
+        {
+          "word": " and",
+          "start": 84.72,
+          "end": 85.52,
+          "probability": 0.5983278751373291
+        },
+        {
+          "word": " I",
+          "start": 85.52,
+          "end": 85.76,
+          "probability": 0.9122112393379211
+        },
+        {
+          "word": " tried",
+          "start": 85.76,
+          "end": 86.18,
+          "probability": 0.9252491593360901
+        },
+        {
+          "word": " but",
+          "start": 86.18,
+          "end": 86.44,
+          "probability": 0.7623474597930908
+        },
+        {
+          "word": " I",
+          "start": 86.44,
+          "end": 86.64,
+          "probability": 0.9560438394546509
+        },
+        {
+          "word": " just",
+          "start": 86.64,
+          "end": 86.98,
+          "probability": 0.9634232521057129
+        },
+        {
+          "word": " can't",
+          "start": 86.98,
+          "end": 87.54,
+          "probability": 0.9799934029579163
+        },
+        {
+          "word": " transfer",
+          "start": 87.54,
+          "end": 88.94,
+          "probability": 0.9829434156417847
+        },
+        {
+          "word": " some",
+          "start": 88.94,
+          "end": 89.96,
+          "probability": 0.09249943494796753
+        },
+        {
+          "word": " of",
+          "start": 89.96,
+          "end": 89.96,
+          "probability": 0.429781436920166
+        },
+        {
+          "word": " the",
+          "start": 89.96,
+          "end": 90.34,
+          "probability": 0.7780374884605408
+        },
+        {
+          "word": " songs",
+          "start": 90.34,
+          "end": 90.72,
+          "probability": 0.5410650968551636
+        },
+        {
+          "word": " from",
+          "start": 90.72,
+          "end": 91.06,
+          "probability": 0.9507927894592285
+        },
+        {
+          "word": " one",
+          "start": 91.06,
+          "end": 91.28,
+          "probability": 0.9804000854492188
+        },
+        {
+          "word": " to",
+          "start": 91.28,
+          "end": 91.46,
+          "probability": 0.8826611638069153
+        },
+        {
+          "word": " the",
+          "start": 91.46,
+          "end": 91.62,
+          "probability": 0.9880962371826172
+        },
+        {
+          "word": " other",
+          "start": 91.62,
+          "end": 91.9,
+          "probability": 0.9961798191070557
+        },
+        {
+          "word": " side",
+          "start": 91.9,
+          "end": 92.16,
+          "probability": 0.954916775226593
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 9216,
+      "start": 92.16,
+      "end": 98.04,
+      "text": " It doesn't make sense sonically or conceptually as well",
+      "tokens": [
+        50364,
+        467,
+        1177,
+        380,
+        652,
+        2020,
+        1872,
+        984,
+        420,
+        3410,
+        671,
+        382,
+        731,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17651240030924478,
+      "compression_ratio": 0.9482758620689655,
+      "no_speech_prob": 0.03613360598683357,
+      "words": [
+        {
+          "word": " It",
+          "start": 92.16,
+          "end": 92.4,
+          "probability": 0.23711834847927094
+        },
+        {
+          "word": " doesn't",
+          "start": 92.4,
+          "end": 93.66,
+          "probability": 0.983823835849762
+        },
+        {
+          "word": " make",
+          "start": 93.66,
+          "end": 93.66,
+          "probability": 0.9890754222869873
+        },
+        {
+          "word": " sense",
+          "start": 93.66,
+          "end": 94.74,
+          "probability": 0.9521213173866272
+        },
+        {
+          "word": " sonically",
+          "start": 94.74,
+          "end": 96.16,
+          "probability": 0.9688403904438019
+        },
+        {
+          "word": " or",
+          "start": 96.16,
+          "end": 97.0,
+          "probability": 0.8817988634109497
+        },
+        {
+          "word": " conceptually",
+          "start": 97.0,
+          "end": 97.58,
+          "probability": 0.9948914349079132
+        },
+        {
+          "word": " as",
+          "start": 97.58,
+          "end": 97.82,
+          "probability": 0.9272795915603638
+        },
+        {
+          "word": " well",
+          "start": 97.82,
+          "end": 98.04,
+          "probability": 0.9975222945213318
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

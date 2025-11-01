@@ -1,0 +1,1325 @@
+{
+  "text": " You'd find the fear No, no, no, no, no, no, no You know you had this one before I know, but both Move inside and find Move inside and find Move inside and find I don't want to let you go I don't want to let you go I don't want to let you go Oh no No You don't relate to me Protect our energy Whatever it takes Whatever it takes No more No more, no more, no more No more No more I don't want to let you go Oh no I don't want to let you go Oh no No No No No No No No",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 30.28,
+      "end": 34.86,
+      "text": " You'd find the fear",
+      "tokens": [
+        50364,
+        509,
+        1116,
+        915,
+        264,
+        4240,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42795728600543476,
+      "compression_ratio": 1.3,
+      "no_speech_prob": 0.7508354187011719,
+      "words": [
+        {
+          "word": " You'd",
+          "start": 30.28,
+          "end": 31.68,
+          "probability": 0.4010636918246746
+        },
+        {
+          "word": " find",
+          "start": 31.68,
+          "end": 32.52,
+          "probability": 0.8888610005378723
+        },
+        {
+          "word": " the",
+          "start": 32.52,
+          "end": 33.26,
+          "probability": 0.41953277587890625
+        },
+        {
+          "word": " fear",
+          "start": 33.26,
+          "end": 34.86,
+          "probability": 0.48581069707870483
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 36.0,
+      "end": 41.12,
+      "text": " No, no, no, no, no, no, no",
+      "tokens": [
+        50664,
+        883,
+        11,
+        572,
+        11,
+        572,
+        11,
+        572,
+        11,
+        572,
+        11,
+        572,
+        11,
+        572,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42795728600543476,
+      "compression_ratio": 1.3,
+      "no_speech_prob": 0.7508354187011719,
+      "words": [
+        {
+          "word": " No,",
+          "start": 36.0,
+          "end": 36.88,
+          "probability": 0.5338026285171509
+        },
+        {
+          "word": " no,",
+          "start": 36.96,
+          "end": 37.38,
+          "probability": 0.9273012280464172
+        },
+        {
+          "word": " no,",
+          "start": 38.22,
+          "end": 38.22,
+          "probability": 0.9520784616470337
+        },
+        {
+          "word": " no,",
+          "start": 38.22,
+          "end": 39.32,
+          "probability": 0.7363254427909851
+        },
+        {
+          "word": " no,",
+          "start": 39.38,
+          "end": 39.66,
+          "probability": 0.9195921421051025
+        },
+        {
+          "word": " no,",
+          "start": 39.66,
+          "end": 40.34,
+          "probability": 0.9449982643127441
+        },
+        {
+          "word": " no",
+          "start": 40.34,
+          "end": 41.12,
+          "probability": 0.9409286975860596
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 41.12,
+      "end": 45.8,
+      "text": " You know you had this one before",
+      "tokens": [
+        50914,
+        509,
+        458,
+        291,
+        632,
+        341,
+        472,
+        949,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42795728600543476,
+      "compression_ratio": 1.3,
+      "no_speech_prob": 0.7508354187011719,
+      "words": [
+        {
+          "word": " You",
+          "start": 41.12,
+          "end": 41.62,
+          "probability": 0.5897961258888245
+        },
+        {
+          "word": " know",
+          "start": 41.62,
+          "end": 42.0,
+          "probability": 0.8793964982032776
+        },
+        {
+          "word": " you",
+          "start": 42.0,
+          "end": 42.48,
+          "probability": 0.9403603076934814
+        },
+        {
+          "word": " had",
+          "start": 42.48,
+          "end": 42.82,
+          "probability": 0.431895911693573
+        },
+        {
+          "word": " this",
+          "start": 42.82,
+          "end": 43.5,
+          "probability": 0.9576675891876221
+        },
+        {
+          "word": " one",
+          "start": 43.5,
+          "end": 43.9,
+          "probability": 0.9454348683357239
+        },
+        {
+          "word": " before",
+          "start": 43.9,
+          "end": 45.8,
+          "probability": 0.9978988170623779
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 45.8,
+      "end": 52.0,
+      "text": " I know, but both",
+      "tokens": [
+        51164,
+        286,
+        458,
+        11,
+        457,
+        1293,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42795728600543476,
+      "compression_ratio": 1.3,
+      "no_speech_prob": 0.7508354187011719,
+      "words": [
+        {
+          "word": " I",
+          "start": 45.8,
+          "end": 47.4,
+          "probability": 0.424093097448349
+        },
+        {
+          "word": " know,",
+          "start": 47.4,
+          "end": 49.02,
+          "probability": 0.7429698705673218
+        },
+        {
+          "word": " but",
+          "start": 49.28,
+          "end": 49.86,
+          "probability": 0.5541852712631226
+        },
+        {
+          "word": " both",
+          "start": 49.86,
+          "end": 52.0,
+          "probability": 0.2983211576938629
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 52.64,
+      "end": 56.38,
+      "text": " Move inside and find",
+      "tokens": [
+        51464,
+        10475,
+        1854,
+        293,
+        915,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42795728600543476,
+      "compression_ratio": 1.3,
+      "no_speech_prob": 0.7508354187011719,
+      "words": [
+        {
+          "word": " Move",
+          "start": 52.64,
+          "end": 53.68,
+          "probability": 0.46062400937080383
+        },
+        {
+          "word": " inside",
+          "start": 53.68,
+          "end": 54.58,
+          "probability": 0.6631453633308411
+        },
+        {
+          "word": " and",
+          "start": 54.58,
+          "end": 55.18,
+          "probability": 0.2884563207626343
+        },
+        {
+          "word": " find",
+          "start": 55.18,
+          "end": 56.38,
+          "probability": 0.35042721033096313
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 5638,
+      "start": 58.32,
+      "end": 61.38,
+      "text": " Move inside and find",
+      "tokens": [
+        50364,
+        10475,
+        1854,
+        293,
+        915,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2600435343655673,
+      "compression_ratio": 2.0677966101694913,
+      "no_speech_prob": 0.023725200444459915,
+      "words": [
+        {
+          "word": " Move",
+          "start": 58.32,
+          "end": 59.68,
+          "probability": 0.00260324589908123
+        },
+        {
+          "word": " inside",
+          "start": 59.68,
+          "end": 60.6,
+          "probability": 0.23615410923957825
+        },
+        {
+          "word": " and",
+          "start": 60.6,
+          "end": 61.28,
+          "probability": 0.11809395998716354
+        },
+        {
+          "word": " find",
+          "start": 61.28,
+          "end": 61.96,
+          "probability": 0.3282695412635803
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 5638,
+      "start": 66.64,
+      "end": 69.36,
+      "text": " Move inside and find",
+      "tokens": [
+        50614,
+        10475,
+        1854,
+        293,
+        915,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2600435343655673,
+      "compression_ratio": 2.0677966101694913,
+      "no_speech_prob": 0.023725200444459915,
+      "words": [
+        {
+          "word": " Move",
+          "start": 66.64,
+          "end": 68.0,
+          "probability": 2.3570160010422114e-06
+        },
+        {
+          "word": " inside",
+          "start": 68.0,
+          "end": 69.36,
+          "probability": 0.9744636416435242
+        },
+        {
+          "word": " and",
+          "start": 69.36,
+          "end": 69.36,
+          "probability": 0.95539391040802
+        },
+        {
+          "word": " find",
+          "start": 69.36,
+          "end": 69.36,
+          "probability": 0.9894614815711975
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5638,
+      "start": 69.36,
+      "end": 73.08,
+      "text": " I don't want to let you go",
+      "tokens": [
+        50864,
+        286,
+        500,
+        380,
+        528,
+        281,
+        718,
+        291,
+        352,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2600435343655673,
+      "compression_ratio": 2.0677966101694913,
+      "no_speech_prob": 0.023725200444459915,
+      "words": [
+        {
+          "word": " I",
+          "start": 69.36,
+          "end": 69.36,
+          "probability": 0.15701912343502045
+        },
+        {
+          "word": " don't",
+          "start": 69.36,
+          "end": 70.58,
+          "probability": 0.9711398184299469
+        },
+        {
+          "word": " want",
+          "start": 70.58,
+          "end": 71.06,
+          "probability": 0.523218035697937
+        },
+        {
+          "word": " to",
+          "start": 71.06,
+          "end": 71.22,
+          "probability": 0.8750532865524292
+        },
+        {
+          "word": " let",
+          "start": 71.22,
+          "end": 71.58,
+          "probability": 0.9853488802909851
+        },
+        {
+          "word": " you",
+          "start": 71.58,
+          "end": 72.04,
+          "probability": 0.9359413385391235
+        },
+        {
+          "word": " go",
+          "start": 72.04,
+          "end": 73.08,
+          "probability": 0.9954036474227905
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5638,
+      "start": 73.08,
+      "end": 78.88,
+      "text": " I don't want to let you go",
+      "tokens": [
+        51114,
+        286,
+        500,
+        380,
+        528,
+        281,
+        718,
+        291,
+        352,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2600435343655673,
+      "compression_ratio": 2.0677966101694913,
+      "no_speech_prob": 0.023725200444459915,
+      "words": [
+        {
+          "word": " I",
+          "start": 73.08,
+          "end": 74.76,
+          "probability": 0.3726421296596527
+        },
+        {
+          "word": " don't",
+          "start": 74.76,
+          "end": 78.68,
+          "probability": 0.9779952764511108
+        },
+        {
+          "word": " want",
+          "start": 78.68,
+          "end": 78.7,
+          "probability": 0.9624942541122437
+        },
+        {
+          "word": " to",
+          "start": 78.7,
+          "end": 78.7,
+          "probability": 0.9868288636207581
+        },
+        {
+          "word": " let",
+          "start": 78.7,
+          "end": 78.88,
+          "probability": 0.9919096827507019
+        },
+        {
+          "word": " you",
+          "start": 78.88,
+          "end": 78.88,
+          "probability": 0.9957354068756104
+        },
+        {
+          "word": " go",
+          "start": 78.88,
+          "end": 78.88,
+          "probability": 0.9958861470222473
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5638,
+      "start": 78.88,
+      "end": 86.36,
+      "text": " I don't want to let you go",
+      "tokens": [
+        51364,
+        286,
+        500,
+        380,
+        528,
+        281,
+        718,
+        291,
+        352,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2600435343655673,
+      "compression_ratio": 2.0677966101694913,
+      "no_speech_prob": 0.023725200444459915,
+      "words": [
+        {
+          "word": " I",
+          "start": 78.88,
+          "end": 78.96,
+          "probability": 0.5706477165222168
+        },
+        {
+          "word": " don't",
+          "start": 78.96,
+          "end": 83.66,
+          "probability": 0.9818861484527588
+        },
+        {
+          "word": " want",
+          "start": 83.66,
+          "end": 84.22,
+          "probability": 0.9872978925704956
+        },
+        {
+          "word": " to",
+          "start": 84.22,
+          "end": 84.52,
+          "probability": 0.9965100884437561
+        },
+        {
+          "word": " let",
+          "start": 84.52,
+          "end": 84.78,
+          "probability": 0.9917740225791931
+        },
+        {
+          "word": " you",
+          "start": 84.78,
+          "end": 85.18,
+          "probability": 0.9978629946708679
+        },
+        {
+          "word": " go",
+          "start": 85.18,
+          "end": 86.36,
+          "probability": 0.9969347715377808
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 8636,
+      "start": 86.36,
+      "end": 89.78,
+      "text": " Oh no",
+      "tokens": [
+        50364,
+        876,
+        572,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4600978764620694,
+      "compression_ratio": 0.8771929824561403,
+      "no_speech_prob": 0.030360933393239975,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 86.36,
+          "end": 87.88,
+          "probability": 0.07105689495801926
+        },
+        {
+          "word": " no",
+          "start": 87.88,
+          "end": 89.78,
+          "probability": 0.1635153740644455
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 8636,
+      "start": 93.91999999999999,
+      "end": 94.36,
+      "text": " No",
+      "tokens": [
+        50514,
+        883,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4600978764620694,
+      "compression_ratio": 0.8771929824561403,
+      "no_speech_prob": 0.030360933393239975,
+      "words": [
+        {
+          "word": " No",
+          "start": 93.91999999999999,
+          "end": 94.61999999999999,
+          "probability": 0.07875590771436691
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 8636,
+      "start": 100.46,
+      "end": 105.36,
+      "text": " You don't relate to me",
+      "tokens": [
+        51064,
+        509,
+        500,
+        380,
+        10961,
+        281,
+        385,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4600978764620694,
+      "compression_ratio": 0.8771929824561403,
+      "no_speech_prob": 0.030360933393239975,
+      "words": [
+        {
+          "word": " You",
+          "start": 100.46,
+          "end": 101.86,
+          "probability": 0.19667573273181915
+        },
+        {
+          "word": " don't",
+          "start": 101.86,
+          "end": 102.42,
+          "probability": 0.9784087538719177
+        },
+        {
+          "word": " relate",
+          "start": 102.42,
+          "end": 103.5,
+          "probability": 0.8049243688583374
+        },
+        {
+          "word": " to",
+          "start": 103.5,
+          "end": 103.62,
+          "probability": 0.9358206987380981
+        },
+        {
+          "word": " me",
+          "start": 103.62,
+          "end": 105.36,
+          "probability": 0.9952077269554138
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 8636,
+      "start": 107.22,
+      "end": 110.88,
+      "text": " Protect our energy",
+      "tokens": [
+        51364,
+        32017,
+        527,
+        2281,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4600978764620694,
+      "compression_ratio": 0.8771929824561403,
+      "no_speech_prob": 0.030360933393239975,
+      "words": [
+        {
+          "word": " Protect",
+          "start": 107.22,
+          "end": 108.62,
+          "probability": 0.1913679987192154
+        },
+        {
+          "word": " our",
+          "start": 108.62,
+          "end": 109.38,
+          "probability": 0.4399414360523224
+        },
+        {
+          "word": " energy",
+          "start": 109.38,
+          "end": 110.88,
+          "probability": 0.8389732241630554
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 11088,
+      "start": 114.63999999999999,
+      "end": 117.44,
+      "text": " Whatever it takes",
+      "tokens": [
+        50364,
+        8541,
+        309,
+        2516,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3234727223714193,
+      "compression_ratio": 1.75,
+      "no_speech_prob": 0.025063201785087585,
+      "words": [
+        {
+          "word": " Whatever",
+          "start": 114.63999999999999,
+          "end": 116.03999999999999,
+          "probability": 0.057401493191719055
+        },
+        {
+          "word": " it",
+          "start": 116.03999999999999,
+          "end": 117.44,
+          "probability": 0.22503429651260376
+        },
+        {
+          "word": " takes",
+          "start": 117.44,
+          "end": 117.44,
+          "probability": 0.5567326545715332
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 11088,
+      "start": 117.44,
+      "end": 123.38,
+      "text": " Whatever it takes",
+      "tokens": [
+        50614,
+        8541,
+        309,
+        2516,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3234727223714193,
+      "compression_ratio": 1.75,
+      "no_speech_prob": 0.025063201785087585,
+      "words": [
+        {
+          "word": " Whatever",
+          "start": 117.44,
+          "end": 118.34,
+          "probability": 0.15016750991344452
+        },
+        {
+          "word": " it",
+          "start": 118.34,
+          "end": 123.38,
+          "probability": 0.9859201312065125
+        },
+        {
+          "word": " takes",
+          "start": 123.38,
+          "end": 123.38,
+          "probability": 0.9839562773704529
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 11088,
+      "start": 123.38,
+      "end": 125.06,
+      "text": " No more",
+      "tokens": [
+        50864,
+        883,
+        544,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3234727223714193,
+      "compression_ratio": 1.75,
+      "no_speech_prob": 0.025063201785087585,
+      "words": [
+        {
+          "word": " No",
+          "start": 123.38,
+          "end": 124.36,
+          "probability": 0.8810182213783264
+        },
+        {
+          "word": " more",
+          "start": 124.36,
+          "end": 125.06,
+          "probability": 0.9365262389183044
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 11088,
+      "start": 125.06,
+      "end": 128.58,
+      "text": " No more, no more, no more",
+      "tokens": [
+        51114,
+        883,
+        544,
+        11,
+        572,
+        544,
+        11,
+        572,
+        544,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3234727223714193,
+      "compression_ratio": 1.75,
+      "no_speech_prob": 0.025063201785087585,
+      "words": [
+        {
+          "word": " No",
+          "start": 125.06,
+          "end": 125.66,
+          "probability": 0.19111914932727814
+        },
+        {
+          "word": " more,",
+          "start": 125.66,
+          "end": 126.12,
+          "probability": 0.9747675657272339
+        },
+        {
+          "word": " no",
+          "start": 126.12,
+          "end": 126.9,
+          "probability": 0.8074995875358582
+        },
+        {
+          "word": " more,",
+          "start": 126.9,
+          "end": 127.28,
+          "probability": 0.9868500232696533
+        },
+        {
+          "word": " no",
+          "start": 127.28,
+          "end": 127.72,
+          "probability": 0.9238017797470093
+        },
+        {
+          "word": " more",
+          "start": 127.72,
+          "end": 128.58,
+          "probability": 0.9931966066360474
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 11088,
+      "start": 128.58,
+      "end": 132.5,
+      "text": " No more",
+      "tokens": [
+        51364,
+        883,
+        544,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3234727223714193,
+      "compression_ratio": 1.75,
+      "no_speech_prob": 0.025063201785087585,
+      "words": [
+        {
+          "word": " No",
+          "start": 128.58,
+          "end": 129.38,
+          "probability": 0.2834031879901886
+        },
+        {
+          "word": " more",
+          "start": 129.38,
+          "end": 132.5,
+          "probability": 0.7289410829544067
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 13250,
+      "start": 132.5,
+      "end": 136.42,
+      "text": " No more",
+      "tokens": [
+        50364,
+        883,
+        544,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14704061956966624,
+      "compression_ratio": 1.46,
+      "no_speech_prob": 0.03089379519224167,
+      "words": [
+        {
+          "word": " No",
+          "start": 132.5,
+          "end": 133.96,
+          "probability": 0.004322949331253767
+        },
+        {
+          "word": " more",
+          "start": 133.96,
+          "end": 136.42,
+          "probability": 0.005850882735103369
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 13250,
+      "start": 136.42,
+      "end": 140.64,
+      "text": " I don't want to let you go",
+      "tokens": [
+        50614,
+        286,
+        500,
+        380,
+        528,
+        281,
+        718,
+        291,
+        352,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14704061956966624,
+      "compression_ratio": 1.46,
+      "no_speech_prob": 0.03089379519224167,
+      "words": [
+        {
+          "word": " I",
+          "start": 136.42,
+          "end": 136.42,
+          "probability": 0.008209453895688057
+        },
+        {
+          "word": " don't",
+          "start": 136.42,
+          "end": 136.9,
+          "probability": 0.7876120805740356
+        },
+        {
+          "word": " want",
+          "start": 136.9,
+          "end": 137.34,
+          "probability": 0.6320241689682007
+        },
+        {
+          "word": " to",
+          "start": 137.34,
+          "end": 137.58,
+          "probability": 0.7965760827064514
+        },
+        {
+          "word": " let",
+          "start": 137.58,
+          "end": 137.92,
+          "probability": 0.9712145328521729
+        },
+        {
+          "word": " you",
+          "start": 137.92,
+          "end": 138.46,
+          "probability": 0.9903228282928467
+        },
+        {
+          "word": " go",
+          "start": 138.46,
+          "end": 140.64,
+          "probability": 0.9927783608436584
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 13250,
+      "start": 143.0,
+      "end": 145.14,
+      "text": " Oh no",
+      "tokens": [
+        50864,
+        876,
+        572,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14704061956966624,
+      "compression_ratio": 1.46,
+      "no_speech_prob": 0.03089379519224167,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 143.0,
+          "end": 144.4,
+          "probability": 0.2472219318151474
+        },
+        {
+          "word": " no",
+          "start": 144.4,
+          "end": 145.14,
+          "probability": 0.7134460806846619
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 13250,
+      "start": 148.16,
+      "end": 152.5,
+      "text": " I don't want to let you go",
+      "tokens": [
+        51114,
+        286,
+        500,
+        380,
+        528,
+        281,
+        718,
+        291,
+        352,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14704061956966624,
+      "compression_ratio": 1.46,
+      "no_speech_prob": 0.03089379519224167,
+      "words": [
+        {
+          "word": " I",
+          "start": 148.16,
+          "end": 149.56,
+          "probability": 0.44212135672569275
+        },
+        {
+          "word": " don't",
+          "start": 149.56,
+          "end": 150.96,
+          "probability": 0.8302583396434784
+        },
+        {
+          "word": " want",
+          "start": 150.96,
+          "end": 151.38,
+          "probability": 0.9586681723594666
+        },
+        {
+          "word": " to",
+          "start": 151.38,
+          "end": 151.62,
+          "probability": 0.9886217713356018
+        },
+        {
+          "word": " let",
+          "start": 151.62,
+          "end": 151.94,
+          "probability": 0.9973247051239014
+        },
+        {
+          "word": " you",
+          "start": 151.94,
+          "end": 152.4,
+          "probability": 0.9992577433586121
+        },
+        {
+          "word": " go",
+          "start": 152.4,
+          "end": 153.1,
+          "probability": 0.9991581439971924
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 13250,
+      "start": 154.94,
+      "end": 157.74,
+      "text": " Oh no",
+      "tokens": [
+        51364,
+        876,
+        572,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14704061956966624,
+      "compression_ratio": 1.46,
+      "no_speech_prob": 0.03089379519224167,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 154.94,
+          "end": 156.34,
+          "probability": 0.8765459656715393
+        },
+        {
+          "word": " no",
+          "start": 156.34,
+          "end": 157.74,
+          "probability": 0.957823634147644
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 15774,
+      "start": 161.16,
+      "end": 162.56,
+      "text": " No",
+      "tokens": [
+        50364,
+        883,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1617008938508875,
+      "compression_ratio": 1.0769230769230769,
+      "no_speech_prob": 0.16895945370197296,
+      "words": [
+        {
+          "word": " No",
+          "start": 161.16,
+          "end": 162.56,
+          "probability": 0.0013527550036087632
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 15774,
+      "start": 164.26,
+      "end": 165.66,
+      "text": " No",
+      "tokens": [
+        50614,
+        883,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1617008938508875,
+      "compression_ratio": 1.0769230769230769,
+      "no_speech_prob": 0.16895945370197296,
+      "words": [
+        {
+          "word": " No",
+          "start": 164.26,
+          "end": 165.66,
+          "probability": 0.01781005971133709
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 15774,
+      "start": 177.1,
+      "end": 178.5,
+      "text": " No",
+      "tokens": [
+        50864,
+        883,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1617008938508875,
+      "compression_ratio": 1.0769230769230769,
+      "no_speech_prob": 0.16895945370197296,
+      "words": [
+        {
+          "word": " No",
+          "start": 177.1,
+          "end": 178.5,
+          "probability": 0.4887850880622864
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 15774,
+      "start": 180.35999999999999,
+      "end": 181.76,
+      "text": " No",
+      "tokens": [
+        51114,
+        883,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1617008938508875,
+      "compression_ratio": 1.0769230769230769,
+      "no_speech_prob": 0.16895945370197296,
+      "words": [
+        {
+          "word": " No",
+          "start": 180.35999999999999,
+          "end": 181.76,
+          "probability": 0.7043060064315796
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 15774,
+      "start": 181.76,
+      "end": 182.18,
+      "text": " No",
+      "tokens": [
+        51364,
+        883,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1617008938508875,
+      "compression_ratio": 1.0769230769230769,
+      "no_speech_prob": 0.16895945370197296,
+      "words": [
+        {
+          "word": " No",
+          "start": 181.76,
+          "end": 182.18,
+          "probability": 0.7794896364212036
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 18218,
+      "start": 182.18,
+      "end": 182.68,
+      "text": " No",
+      "tokens": [
+        50364,
+        883,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24024155735969543,
+      "compression_ratio": 0.2,
+      "no_speech_prob": 0.25439414381980896,
+      "words": [
+        {
+          "word": " No",
+          "start": 182.18,
+          "end": 182.68,
+          "probability": 0.002640069229528308
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 21218,
+      "start": 212.18,
+      "end": 212.18,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.26700403009142193,
+      "compression_ratio": 0.38461538461538464,
+      "no_speech_prob": 0.5511404871940613,
+      "words": []
+    },
+    {
+      "id": 31,
+      "seek": 21218,
+      "start": 217.5,
+      "end": 218.9,
+      "text": " No",
+      "tokens": [
+        50614,
+        883,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26700403009142193,
+      "compression_ratio": 0.38461538461538464,
+      "no_speech_prob": 0.5511404871940613,
+      "words": [
+        {
+          "word": " No",
+          "start": 217.5,
+          "end": 218.9,
+          "probability": 0.003910582046955824
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

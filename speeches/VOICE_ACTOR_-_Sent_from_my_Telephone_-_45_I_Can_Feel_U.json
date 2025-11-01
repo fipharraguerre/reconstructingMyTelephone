@@ -1,0 +1,453 @@
+{
+  "text": " You can't hide. I can see you. Look, I'm sorry about earlier. I wasn't prepared. It just happened, you know? I had to stay alone, you know that? I know you can hear me. I know you're there. Say something. I'm sorry. I'm sorry.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 17.400000000000002,
+      "end": 22.34,
+      "text": " You can't hide. I can see you.",
+      "tokens": [
+        50364,
+        509,
+        393,
+        380,
+        6479,
+        13,
+        286,
+        393,
+        536,
+        291,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6380037580217633,
+      "compression_ratio": 0.8571428571428571,
+      "no_speech_prob": 0.1997552067041397,
+      "words": [
+        {
+          "word": " You",
+          "start": 17.400000000000002,
+          "end": 18.48,
+          "probability": 0.48007550835609436
+        },
+        {
+          "word": " can't",
+          "start": 18.48,
+          "end": 19.02,
+          "probability": 0.5378512442111969
+        },
+        {
+          "word": " hide.",
+          "start": 19.02,
+          "end": 19.34,
+          "probability": 0.9362708926200867
+        },
+        {
+          "word": " I",
+          "start": 20.42,
+          "end": 20.72,
+          "probability": 0.9790974259376526
+        },
+        {
+          "word": " can",
+          "start": 20.72,
+          "end": 21.1,
+          "probability": 0.9960517287254333
+        },
+        {
+          "word": " see",
+          "start": 21.1,
+          "end": 21.4,
+          "probability": 0.6785097718238831
+        },
+        {
+          "word": " you.",
+          "start": 21.4,
+          "end": 22.34,
+          "probability": 0.788004994392395
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2234,
+      "start": 28.22,
+      "end": 36.34,
+      "text": " Look, I'm sorry about earlier. I wasn't prepared. It just happened, you know?",
+      "tokens": [
+        50364,
+        2053,
+        11,
+        286,
+        478,
+        2597,
+        466,
+        3071,
+        13,
+        286,
+        2067,
+        380,
+        4927,
+        13,
+        467,
+        445,
+        2011,
+        11,
+        291,
+        458,
+        30,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24455670515696207,
+      "compression_ratio": 0.9746835443037974,
+      "no_speech_prob": 0.059911295771598816,
+      "words": [
+        {
+          "word": " Look,",
+          "start": 28.22,
+          "end": 29.06,
+          "probability": 0.6848878264427185
+        },
+        {
+          "word": " I'm",
+          "start": 29.06,
+          "end": 29.42,
+          "probability": 0.9516461193561554
+        },
+        {
+          "word": " sorry",
+          "start": 29.42,
+          "end": 29.72,
+          "probability": 0.9967880249023438
+        },
+        {
+          "word": " about",
+          "start": 29.72,
+          "end": 30.12,
+          "probability": 0.9975219368934631
+        },
+        {
+          "word": " earlier.",
+          "start": 30.12,
+          "end": 30.74,
+          "probability": 0.9894710779190063
+        },
+        {
+          "word": " I",
+          "start": 31.6,
+          "end": 31.76,
+          "probability": 0.9848870635032654
+        },
+        {
+          "word": " wasn't",
+          "start": 31.76,
+          "end": 32.24,
+          "probability": 0.9875582158565521
+        },
+        {
+          "word": " prepared.",
+          "start": 32.24,
+          "end": 32.88,
+          "probability": 0.9849998950958252
+        },
+        {
+          "word": " It",
+          "start": 34.18,
+          "end": 34.5,
+          "probability": 0.981329083442688
+        },
+        {
+          "word": " just",
+          "start": 34.5,
+          "end": 34.88,
+          "probability": 0.9736706614494324
+        },
+        {
+          "word": " happened,",
+          "start": 34.88,
+          "end": 35.5,
+          "probability": 0.9814095497131348
+        },
+        {
+          "word": " you",
+          "start": 35.66,
+          "end": 35.92,
+          "probability": 0.9706242084503174
+        },
+        {
+          "word": " know?",
+          "start": 35.92,
+          "end": 36.34,
+          "probability": 0.999448835849762
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3634,
+      "start": 38.660000000000004,
+      "end": 41.6,
+      "text": " I had to stay alone, you know that?",
+      "tokens": [
+        50414,
+        286,
+        632,
+        281,
+        1754,
+        3312,
+        11,
+        291,
+        458,
+        300,
+        30,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2725036216504646,
+      "compression_ratio": 1.130952380952381,
+      "no_speech_prob": 0.43581336736679077,
+      "words": [
+        {
+          "word": " I",
+          "start": 38.660000000000004,
+          "end": 39.28,
+          "probability": 0.7696505188941956
+        },
+        {
+          "word": " had",
+          "start": 39.28,
+          "end": 39.56,
+          "probability": 0.7354198098182678
+        },
+        {
+          "word": " to",
+          "start": 39.56,
+          "end": 39.84,
+          "probability": 0.9903117418289185
+        },
+        {
+          "word": " stay",
+          "start": 39.84,
+          "end": 40.02,
+          "probability": 0.694059431552887
+        },
+        {
+          "word": " alone,",
+          "start": 40.02,
+          "end": 40.36,
+          "probability": 0.4649398922920227
+        },
+        {
+          "word": " you",
+          "start": 40.62,
+          "end": 40.62,
+          "probability": 0.9748098254203796
+        },
+        {
+          "word": " know",
+          "start": 40.62,
+          "end": 40.82,
+          "probability": 0.9983781576156616
+        },
+        {
+          "word": " that?",
+          "start": 40.82,
+          "end": 41.6,
+          "probability": 0.9760958552360535
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3634,
+      "start": 45.26,
+      "end": 51.22,
+      "text": " I know you can hear me. I know you're there.",
+      "tokens": [
+        50764,
+        286,
+        458,
+        291,
+        393,
+        1568,
+        385,
+        13,
+        286,
+        458,
+        291,
+        434,
+        456,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2725036216504646,
+      "compression_ratio": 1.130952380952381,
+      "no_speech_prob": 0.43581336736679077,
+      "words": [
+        {
+          "word": " I",
+          "start": 45.26,
+          "end": 45.42,
+          "probability": 0.9794107675552368
+        },
+        {
+          "word": " know",
+          "start": 45.42,
+          "end": 45.66,
+          "probability": 0.9711647033691406
+        },
+        {
+          "word": " you",
+          "start": 45.66,
+          "end": 45.9,
+          "probability": 0.9143362641334534
+        },
+        {
+          "word": " can",
+          "start": 45.9,
+          "end": 46.14,
+          "probability": 0.9903117418289185
+        },
+        {
+          "word": " hear",
+          "start": 46.14,
+          "end": 46.4,
+          "probability": 0.9903104901313782
+        },
+        {
+          "word": " me.",
+          "start": 46.4,
+          "end": 47.66,
+          "probability": 0.9992287158966064
+        },
+        {
+          "word": " I",
+          "start": 49.24,
+          "end": 49.86,
+          "probability": 0.9935228824615479
+        },
+        {
+          "word": " know",
+          "start": 49.86,
+          "end": 50.1,
+          "probability": 0.9968144297599792
+        },
+        {
+          "word": " you're",
+          "start": 50.1,
+          "end": 50.58,
+          "probability": 0.9594093561172485
+        },
+        {
+          "word": " there.",
+          "start": 50.58,
+          "end": 51.22,
+          "probability": 0.9907398223876953
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3634,
+      "start": 61.86,
+      "end": 62.68,
+      "text": " Say something.",
+      "tokens": [
+        51614,
+        6463,
+        746,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2725036216504646,
+      "compression_ratio": 1.130952380952381,
+      "no_speech_prob": 0.43581336736679077,
+      "words": [
+        {
+          "word": " Say",
+          "start": 61.86,
+          "end": 62.1,
+          "probability": 0.9360893964767456
+        },
+        {
+          "word": " something.",
+          "start": 62.1,
+          "end": 62.68,
+          "probability": 0.9891373515129089
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 6634,
+      "start": 87.56,
+      "end": 87.62,
+      "text": " I'm sorry.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        2597,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8184403691973005,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.6472345590591431,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 87.56,
+          "end": 87.6,
+          "probability": 0.09894823282957077
+        },
+        {
+          "word": " sorry.",
+          "start": 87.6,
+          "end": 87.62,
+          "probability": 0.0735216811299324
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 9634,
+      "start": 96.34,
+      "end": 98.28,
+      "text": " I'm sorry.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        2597,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6696942874363491,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.829939067363739,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 96.34,
+          "end": 96.34,
+          "probability": 0.09925982356071472
+        },
+        {
+          "word": " sorry.",
+          "start": 96.34,
+          "end": 98.28,
+          "probability": 0.07496488839387894
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

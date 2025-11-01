@@ -1,0 +1,53 @@
+{
+  "text": " No need to palavra",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.02,
+      "text": " No need to palavra",
+      "tokens": [
+        50364,
+        883,
+        643,
+        281,
+        3984,
+        706,
+        424,
+        50515
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.9098233116997614,
+      "compression_ratio": 0.6923076923076923,
+      "no_speech_prob": 0.2680485248565674,
+      "words": [
+        {
+          "word": " No",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.0006039961008355021
+        },
+        {
+          "word": " need",
+          "start": 0.42,
+          "end": 0.74,
+          "probability": 0.2527265250682831
+        },
+        {
+          "word": " to",
+          "start": 0.74,
+          "end": 1.86,
+          "probability": 0.7364364862442017
+        },
+        {
+          "word": " palavra",
+          "start": 1.86,
+          "end": 3.02,
+          "probability": 0.14500462263822556
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

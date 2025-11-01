@@ -1,0 +1,2927 @@
+{
+  "text": " I don't remember much of my dream from last night but what I do remember is the sound of bells added onto a song, a section of a song. I don't even know if I heard it but I knew it was there and when I woke up in the middle of the night, I woke up and it was dark and instead of recollecting my memory of that dream, my mind wandered to another dream I had some years ago where I had a dream about bells and it was probably the most beautiful dream I've ever had with no real emotion to it, just pure, pure sonic beauty. There was the sound of bells, kind of like church bells but without the without the association that comes with it of weddings or religion. It was just the sound of it and it was so captivating, so alluring, quite psychedelic, quite trippy with unexpected repetitions, reverb and echo. And since that dream I have learned to appreciate the sound of bells. I didn't used to like the sound of bells, I used to find it annoying, maybe due to the association I had with it or the frequency, I don't know. But since I've come to love the sound of bells, I have never, I didn't, I couldn't recreate that tune. Maybe you could, or maybe you could add some bells to this and it will go echo, echo and here's a bell and the same one is ringing again. It also reminds me of yet another dream I had, near that time I had the dream made out of bells, also a sonic dream but a lot more complex. I couldn't even begin to try to recall that tune that my mind made. It was like my whole being was embodied in that sound. It was like my whole being was embodied in that sound. It was like my whole being was embodied in that sound. It was like my whole being was embodied in that sound. It was like my whole being was embodied in that sound. It was like my whole being was embodied in that sound.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 34.14,
+      "end": 47.66,
+      "text": " I don't remember much of my dream from last night but what I do remember is the sound",
+      "tokens": [
+        50364,
+        286,
+        500,
+        380,
+        1604,
+        709,
+        295,
+        452,
+        3055,
+        490,
+        1036,
+        1818,
+        457,
+        437,
+        286,
+        360,
+        1604,
+        307,
+        264,
+        1626,
+        51250
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28890363029811694,
+      "compression_ratio": 1.1333333333333333,
+      "no_speech_prob": 0.2632656395435333,
+      "words": [
+        {
+          "word": " I",
+          "start": 34.14,
+          "end": 35.14,
+          "probability": 0.8094191551208496
+        },
+        {
+          "word": " don't",
+          "start": 35.14,
+          "end": 35.62,
+          "probability": 0.9860643744468689
+        },
+        {
+          "word": " remember",
+          "start": 35.62,
+          "end": 36.14,
+          "probability": 0.9921750426292419
+        },
+        {
+          "word": " much",
+          "start": 36.14,
+          "end": 36.54,
+          "probability": 0.9965422749519348
+        },
+        {
+          "word": " of",
+          "start": 36.54,
+          "end": 36.76,
+          "probability": 0.9901500940322876
+        },
+        {
+          "word": " my",
+          "start": 36.76,
+          "end": 37.02,
+          "probability": 0.9890930652618408
+        },
+        {
+          "word": " dream",
+          "start": 37.02,
+          "end": 37.24,
+          "probability": 0.9791927337646484
+        },
+        {
+          "word": " from",
+          "start": 37.24,
+          "end": 37.64,
+          "probability": 0.9749249219894409
+        },
+        {
+          "word": " last",
+          "start": 37.64,
+          "end": 37.92,
+          "probability": 0.9960983991622925
+        },
+        {
+          "word": " night",
+          "start": 37.92,
+          "end": 38.54,
+          "probability": 0.9993653893470764
+        },
+        {
+          "word": " but",
+          "start": 38.54,
+          "end": 40.02,
+          "probability": 0.45047733187675476
+        },
+        {
+          "word": " what",
+          "start": 40.02,
+          "end": 41.22,
+          "probability": 0.8550961017608643
+        },
+        {
+          "word": " I",
+          "start": 41.22,
+          "end": 41.46,
+          "probability": 0.9768983721733093
+        },
+        {
+          "word": " do",
+          "start": 41.46,
+          "end": 41.7,
+          "probability": 0.9968422651290894
+        },
+        {
+          "word": " remember",
+          "start": 41.7,
+          "end": 42.7,
+          "probability": 0.9971200227737427
+        },
+        {
+          "word": " is",
+          "start": 42.7,
+          "end": 43.96,
+          "probability": 0.9639934301376343
+        },
+        {
+          "word": " the",
+          "start": 43.96,
+          "end": 46.88,
+          "probability": 0.8081594109535217
+        },
+        {
+          "word": " sound",
+          "start": 46.88,
+          "end": 47.66,
+          "probability": 0.9781175255775452
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 4766,
+      "start": 47.66,
+      "end": 65.6,
+      "text": " of bells added onto a song, a section of a song. I don't even know if I heard it but I knew it was",
+      "tokens": [
+        50364,
+        295,
+        25474,
+        3869,
+        3911,
+        257,
+        2153,
+        11,
+        257,
+        3541,
+        295,
+        257,
+        2153,
+        13,
+        286,
+        500,
+        380,
+        754,
+        458,
+        498,
+        286,
+        2198,
+        309,
+        457,
+        286,
+        2586,
+        309,
+        390,
+        51252
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23306480530769594,
+      "compression_ratio": 1.1666666666666667,
+      "no_speech_prob": 0.6360525488853455,
+      "words": [
+        {
+          "word": " of",
+          "start": 47.66,
+          "end": 49.02,
+          "probability": 0.7177354693412781
+        },
+        {
+          "word": " bells",
+          "start": 49.02,
+          "end": 50.36,
+          "probability": 0.9285670518875122
+        },
+        {
+          "word": " added",
+          "start": 50.36,
+          "end": 52.46,
+          "probability": 0.9578783512115479
+        },
+        {
+          "word": " onto",
+          "start": 52.46,
+          "end": 55.18,
+          "probability": 0.43384817242622375
+        },
+        {
+          "word": " a",
+          "start": 55.18,
+          "end": 55.54,
+          "probability": 0.9850133061408997
+        },
+        {
+          "word": " song,",
+          "start": 55.54,
+          "end": 56.2,
+          "probability": 0.992402195930481
+        },
+        {
+          "word": " a",
+          "start": 57.5,
+          "end": 57.76,
+          "probability": 0.9692924618721008
+        },
+        {
+          "word": " section",
+          "start": 57.76,
+          "end": 58.08,
+          "probability": 0.9981521964073181
+        },
+        {
+          "word": " of",
+          "start": 58.08,
+          "end": 58.44,
+          "probability": 0.9967417120933533
+        },
+        {
+          "word": " a",
+          "start": 58.44,
+          "end": 58.54,
+          "probability": 0.6794138550758362
+        },
+        {
+          "word": " song.",
+          "start": 58.54,
+          "end": 59.34,
+          "probability": 0.9990009665489197
+        },
+        {
+          "word": " I",
+          "start": 60.58,
+          "end": 61.3,
+          "probability": 0.7785521745681763
+        },
+        {
+          "word": " don't",
+          "start": 61.3,
+          "end": 61.58,
+          "probability": 0.9924330115318298
+        },
+        {
+          "word": " even",
+          "start": 61.58,
+          "end": 61.94,
+          "probability": 0.9778172373771667
+        },
+        {
+          "word": " know",
+          "start": 61.94,
+          "end": 62.16,
+          "probability": 0.9986555576324463
+        },
+        {
+          "word": " if",
+          "start": 62.16,
+          "end": 62.44,
+          "probability": 0.997086226940155
+        },
+        {
+          "word": " I",
+          "start": 62.44,
+          "end": 62.72,
+          "probability": 0.9703282713890076
+        },
+        {
+          "word": " heard",
+          "start": 62.72,
+          "end": 63.02,
+          "probability": 0.9904628396034241
+        },
+        {
+          "word": " it",
+          "start": 63.02,
+          "end": 64.1,
+          "probability": 0.9975802898406982
+        },
+        {
+          "word": " but",
+          "start": 64.1,
+          "end": 64.54,
+          "probability": 0.38246381282806396
+        },
+        {
+          "word": " I",
+          "start": 64.54,
+          "end": 64.86,
+          "probability": 0.9841623306274414
+        },
+        {
+          "word": " knew",
+          "start": 64.86,
+          "end": 65.02,
+          "probability": 0.9978256821632385
+        },
+        {
+          "word": " it",
+          "start": 65.02,
+          "end": 65.34,
+          "probability": 0.995930016040802
+        },
+        {
+          "word": " was",
+          "start": 65.34,
+          "end": 65.6,
+          "probability": 0.998992383480072
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 6560,
+      "start": 65.6,
+      "end": 77.64,
+      "text": " there and when I woke up in the middle of the night, I woke up and it was dark and instead of",
+      "tokens": [
+        50364,
+        456,
+        293,
+        562,
+        286,
+        12852,
+        493,
+        294,
+        264,
+        2808,
+        295,
+        264,
+        1818,
+        11,
+        286,
+        12852,
+        493,
+        293,
+        309,
+        390,
+        2877,
+        293,
+        2602,
+        295,
+        50966
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22542295455932618,
+      "compression_ratio": 1.4761904761904763,
+      "no_speech_prob": 0.9421067237854004,
+      "words": [
+        {
+          "word": " there",
+          "start": 65.6,
+          "end": 66.08,
+          "probability": 0.1883872151374817
+        },
+        {
+          "word": " and",
+          "start": 66.08,
+          "end": 67.58,
+          "probability": 0.40466341376304626
+        },
+        {
+          "word": " when",
+          "start": 67.58,
+          "end": 67.8,
+          "probability": 0.9669204354286194
+        },
+        {
+          "word": " I",
+          "start": 67.8,
+          "end": 68.06,
+          "probability": 0.955369770526886
+        },
+        {
+          "word": " woke",
+          "start": 68.06,
+          "end": 68.38,
+          "probability": 0.9881073832511902
+        },
+        {
+          "word": " up",
+          "start": 68.38,
+          "end": 70.36,
+          "probability": 0.9928296208381653
+        },
+        {
+          "word": " in",
+          "start": 70.36,
+          "end": 70.98,
+          "probability": 0.7204418182373047
+        },
+        {
+          "word": " the",
+          "start": 70.98,
+          "end": 70.98,
+          "probability": 0.8491226434707642
+        },
+        {
+          "word": " middle",
+          "start": 70.98,
+          "end": 71.18,
+          "probability": 0.9984303116798401
+        },
+        {
+          "word": " of",
+          "start": 71.18,
+          "end": 71.46,
+          "probability": 0.9981254935264587
+        },
+        {
+          "word": " the",
+          "start": 71.46,
+          "end": 71.66,
+          "probability": 0.9830194115638733
+        },
+        {
+          "word": " night,",
+          "start": 71.66,
+          "end": 72.26,
+          "probability": 0.9987781643867493
+        },
+        {
+          "word": " I",
+          "start": 72.74,
+          "end": 73.04,
+          "probability": 0.9627041220664978
+        },
+        {
+          "word": " woke",
+          "start": 73.04,
+          "end": 73.36,
+          "probability": 0.9917519688606262
+        },
+        {
+          "word": " up",
+          "start": 73.36,
+          "end": 73.76,
+          "probability": 0.9944244623184204
+        },
+        {
+          "word": " and",
+          "start": 73.76,
+          "end": 73.86,
+          "probability": 0.9357139468193054
+        },
+        {
+          "word": " it",
+          "start": 73.86,
+          "end": 74.02,
+          "probability": 0.9960947632789612
+        },
+        {
+          "word": " was",
+          "start": 74.02,
+          "end": 74.24,
+          "probability": 0.998555600643158
+        },
+        {
+          "word": " dark",
+          "start": 74.24,
+          "end": 74.98,
+          "probability": 0.9989249110221863
+        },
+        {
+          "word": " and",
+          "start": 74.98,
+          "end": 76.82,
+          "probability": 0.6658076643943787
+        },
+        {
+          "word": " instead",
+          "start": 76.82,
+          "end": 77.54,
+          "probability": 0.9626322984695435
+        },
+        {
+          "word": " of",
+          "start": 77.54,
+          "end": 78.02000000000001,
+          "probability": 0.9982888102531433
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 6560,
+      "start": 79.22000000000001,
+      "end": 89.03999999999999,
+      "text": " recollecting my memory of that dream, my mind wandered to another dream I had some years ago",
+      "tokens": [
+        50966,
+        39495,
+        557,
+        278,
+        452,
+        4675,
+        295,
+        300,
+        3055,
+        11,
+        452,
+        1575,
+        14304,
+        4073,
+        281,
+        1071,
+        3055,
+        286,
+        632,
+        512,
+        924,
+        2057,
+        51536
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22542295455932618,
+      "compression_ratio": 1.4761904761904763,
+      "no_speech_prob": 0.9421067237854004,
+      "words": [
+        {
+          "word": " recollecting",
+          "start": 79.22000000000001,
+          "end": 80.18,
+          "probability": 0.9898003538449606
+        },
+        {
+          "word": " my",
+          "start": 80.18,
+          "end": 81.0,
+          "probability": 0.9840558767318726
+        },
+        {
+          "word": " memory",
+          "start": 81.0,
+          "end": 81.56,
+          "probability": 0.9556678533554077
+        },
+        {
+          "word": " of",
+          "start": 81.56,
+          "end": 81.9,
+          "probability": 0.9958333969116211
+        },
+        {
+          "word": " that",
+          "start": 81.9,
+          "end": 82.22,
+          "probability": 0.9951505661010742
+        },
+        {
+          "word": " dream,",
+          "start": 82.22,
+          "end": 82.7,
+          "probability": 0.9971979856491089
+        },
+        {
+          "word": " my",
+          "start": 83.46,
+          "end": 83.64,
+          "probability": 0.9946211576461792
+        },
+        {
+          "word": " mind",
+          "start": 83.64,
+          "end": 84.06,
+          "probability": 0.9988144636154175
+        },
+        {
+          "word": " wandered",
+          "start": 84.06,
+          "end": 84.8,
+          "probability": 0.9634071290493011
+        },
+        {
+          "word": " to",
+          "start": 84.8,
+          "end": 85.84,
+          "probability": 0.9921420812606812
+        },
+        {
+          "word": " another",
+          "start": 85.84,
+          "end": 86.36,
+          "probability": 0.9932445883750916
+        },
+        {
+          "word": " dream",
+          "start": 86.36,
+          "end": 86.86,
+          "probability": 0.9990179538726807
+        },
+        {
+          "word": " I",
+          "start": 86.86,
+          "end": 87.18,
+          "probability": 0.9664767980575562
+        },
+        {
+          "word": " had",
+          "start": 87.18,
+          "end": 88.08,
+          "probability": 0.9978179931640625
+        },
+        {
+          "word": " some",
+          "start": 88.08,
+          "end": 88.64,
+          "probability": 0.957819402217865
+        },
+        {
+          "word": " years",
+          "start": 88.64,
+          "end": 89.0,
+          "probability": 0.9985122084617615
+        },
+        {
+          "word": " ago",
+          "start": 89.0,
+          "end": 89.48,
+          "probability": 0.9990469813346863
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 8948,
+      "start": 93.97999999999999,
+      "end": 106.96000000000001,
+      "text": " where I had a dream about bells and it was probably the most beautiful dream I've ever had",
+      "tokens": [
+        50364,
+        689,
+        286,
+        632,
+        257,
+        3055,
+        466,
+        25474,
+        293,
+        309,
+        390,
+        1391,
+        264,
+        881,
+        2238,
+        3055,
+        286,
+        600,
+        1562,
+        632,
+        51238
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3418434806492018,
+      "compression_ratio": 1.125,
+      "no_speech_prob": 0.23935259878635406,
+      "words": [
+        {
+          "word": " where",
+          "start": 93.97999999999999,
+          "end": 95.22,
+          "probability": 0.3349996507167816
+        },
+        {
+          "word": " I",
+          "start": 95.22,
+          "end": 96.46,
+          "probability": 0.8835951089859009
+        },
+        {
+          "word": " had",
+          "start": 96.46,
+          "end": 96.84,
+          "probability": 0.9891835451126099
+        },
+        {
+          "word": " a",
+          "start": 96.84,
+          "end": 96.98,
+          "probability": 0.9481030106544495
+        },
+        {
+          "word": " dream",
+          "start": 96.98,
+          "end": 97.28,
+          "probability": 0.9991517066955566
+        },
+        {
+          "word": " about",
+          "start": 97.28,
+          "end": 97.74,
+          "probability": 0.9934161901473999
+        },
+        {
+          "word": " bells",
+          "start": 97.74,
+          "end": 98.58,
+          "probability": 0.8502721190452576
+        },
+        {
+          "word": " and",
+          "start": 98.58,
+          "end": 101.2,
+          "probability": 0.45784327387809753
+        },
+        {
+          "word": " it",
+          "start": 101.2,
+          "end": 102.38,
+          "probability": 0.8747934699058533
+        },
+        {
+          "word": " was",
+          "start": 102.38,
+          "end": 103.4,
+          "probability": 0.9978905320167542
+        },
+        {
+          "word": " probably",
+          "start": 103.4,
+          "end": 104.5,
+          "probability": 0.7223158478736877
+        },
+        {
+          "word": " the",
+          "start": 104.5,
+          "end": 104.66,
+          "probability": 0.9953860640525818
+        },
+        {
+          "word": " most",
+          "start": 104.66,
+          "end": 105.16,
+          "probability": 0.9995121955871582
+        },
+        {
+          "word": " beautiful",
+          "start": 105.16,
+          "end": 105.9,
+          "probability": 0.9968359470367432
+        },
+        {
+          "word": " dream",
+          "start": 105.9,
+          "end": 106.32,
+          "probability": 0.9953351616859436
+        },
+        {
+          "word": " I've",
+          "start": 106.32,
+          "end": 106.58,
+          "probability": 0.9194150865077972
+        },
+        {
+          "word": " ever",
+          "start": 106.58,
+          "end": 106.9,
+          "probability": 0.9950587749481201
+        },
+        {
+          "word": " had",
+          "start": 106.9,
+          "end": 107.52000000000001,
+          "probability": 0.9992913007736206
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 10752,
+      "start": 111.51999999999998,
+      "end": 131.74,
+      "text": " with no real emotion to it, just pure, pure sonic beauty. There was the sound of bells,",
+      "tokens": [
+        50364,
+        365,
+        572,
+        957,
+        8913,
+        281,
+        309,
+        11,
+        445,
+        6075,
+        11,
+        6075,
+        48725,
+        6643,
+        13,
+        821,
+        390,
+        264,
+        1626,
+        295,
+        25474,
+        11,
+        51544
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3685741424560547,
+      "compression_ratio": 1.0875,
+      "no_speech_prob": 0.3924506902694702,
+      "words": [
+        {
+          "word": " with",
+          "start": 111.51999999999998,
+          "end": 112.91999999999999,
+          "probability": 0.4750843346118927
+        },
+        {
+          "word": " no",
+          "start": 112.91999999999999,
+          "end": 114.32,
+          "probability": 0.9916200637817383
+        },
+        {
+          "word": " real",
+          "start": 114.32,
+          "end": 115.86,
+          "probability": 0.7598118782043457
+        },
+        {
+          "word": " emotion",
+          "start": 115.86,
+          "end": 116.68,
+          "probability": 0.9859058856964111
+        },
+        {
+          "word": " to",
+          "start": 116.68,
+          "end": 117.08,
+          "probability": 0.9832950234413147
+        },
+        {
+          "word": " it,",
+          "start": 117.08,
+          "end": 118.08,
+          "probability": 0.9973547458648682
+        },
+        {
+          "word": " just",
+          "start": 118.34,
+          "end": 119.24,
+          "probability": 0.9856509566307068
+        },
+        {
+          "word": " pure,",
+          "start": 119.24,
+          "end": 120.84,
+          "probability": 0.9935832619667053
+        },
+        {
+          "word": " pure",
+          "start": 120.88,
+          "end": 122.42,
+          "probability": 0.9529387950897217
+        },
+        {
+          "word": " sonic",
+          "start": 122.42,
+          "end": 123.1,
+          "probability": 0.2786617875099182
+        },
+        {
+          "word": " beauty.",
+          "start": 123.1,
+          "end": 124.06,
+          "probability": 0.9870268702507019
+        },
+        {
+          "word": " There",
+          "start": 128.0,
+          "end": 128.12,
+          "probability": 0.9611547589302063
+        },
+        {
+          "word": " was",
+          "start": 128.12,
+          "end": 129.58,
+          "probability": 0.9948530793190002
+        },
+        {
+          "word": " the",
+          "start": 129.58,
+          "end": 129.7,
+          "probability": 0.4771072268486023
+        },
+        {
+          "word": " sound",
+          "start": 129.7,
+          "end": 130.14,
+          "probability": 0.9958025813102722
+        },
+        {
+          "word": " of",
+          "start": 130.14,
+          "end": 131.14,
+          "probability": 0.9989551305770874
+        },
+        {
+          "word": " bells,",
+          "start": 131.14,
+          "end": 131.74,
+          "probability": 0.9959016442298889
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 13174,
+      "start": 131.74,
+      "end": 151.48,
+      "text": " kind of like church bells but without the without the association that comes with it of weddings or religion.",
+      "tokens": [
+        50364,
+        733,
+        295,
+        411,
+        4128,
+        25474,
+        457,
+        1553,
+        264,
+        1553,
+        264,
+        14598,
+        300,
+        1487,
+        365,
+        309,
+        295,
+        39617,
+        420,
+        7561,
+        13,
+        51328
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5469740629196167,
+      "compression_ratio": 1.2674418604651163,
+      "no_speech_prob": 0.28976091742515564,
+      "words": [
+        {
+          "word": " kind",
+          "start": 131.74,
+          "end": 134.38,
+          "probability": 0.39462584257125854
+        },
+        {
+          "word": " of",
+          "start": 134.38,
+          "end": 134.72,
+          "probability": 0.9985826015472412
+        },
+        {
+          "word": " like",
+          "start": 134.72,
+          "end": 135.18,
+          "probability": 0.9880303740501404
+        },
+        {
+          "word": " church",
+          "start": 135.18,
+          "end": 135.68,
+          "probability": 0.982546329498291
+        },
+        {
+          "word": " bells",
+          "start": 135.68,
+          "end": 136.4,
+          "probability": 0.9984143972396851
+        },
+        {
+          "word": " but",
+          "start": 136.4,
+          "end": 138.54,
+          "probability": 0.5700348615646362
+        },
+        {
+          "word": " without",
+          "start": 138.54,
+          "end": 139.34,
+          "probability": 0.9814655780792236
+        },
+        {
+          "word": " the",
+          "start": 139.34,
+          "end": 141.54,
+          "probability": 0.978331983089447
+        },
+        {
+          "word": " without",
+          "start": 141.54,
+          "end": 141.54,
+          "probability": 0.44544634222984314
+        },
+        {
+          "word": " the",
+          "start": 141.54,
+          "end": 143.02,
+          "probability": 0.9979846477508545
+        },
+        {
+          "word": " association",
+          "start": 143.02,
+          "end": 144.08,
+          "probability": 0.987086296081543
+        },
+        {
+          "word": " that",
+          "start": 144.08,
+          "end": 145.22,
+          "probability": 0.9868831038475037
+        },
+        {
+          "word": " comes",
+          "start": 145.22,
+          "end": 146.18,
+          "probability": 0.9973779916763306
+        },
+        {
+          "word": " with",
+          "start": 146.18,
+          "end": 147.1,
+          "probability": 0.9969362020492554
+        },
+        {
+          "word": " it",
+          "start": 147.1,
+          "end": 147.66,
+          "probability": 0.9888432025909424
+        },
+        {
+          "word": " of",
+          "start": 147.66,
+          "end": 148.66,
+          "probability": 0.735501229763031
+        },
+        {
+          "word": " weddings",
+          "start": 148.66,
+          "end": 149.34,
+          "probability": 0.8986783623695374
+        },
+        {
+          "word": " or",
+          "start": 149.34,
+          "end": 150.52,
+          "probability": 0.9459449052810669
+        },
+        {
+          "word": " religion.",
+          "start": 150.52,
+          "end": 151.48,
+          "probability": 0.9893404841423035
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 15148,
+      "start": 153.92,
+      "end": 172.95999999999998,
+      "text": " It was just the sound of it and it was so captivating, so alluring, quite psychedelic,",
+      "tokens": [
+        50414,
+        467,
+        390,
+        445,
+        264,
+        1626,
+        295,
+        309,
+        293,
+        309,
+        390,
+        370,
+        40769,
+        990,
+        11,
+        370,
+        439,
+        1345,
+        11,
+        1596,
+        47732,
+        299,
+        11,
+        51438
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30896949768066406,
+      "compression_ratio": 1.1025641025641026,
+      "no_speech_prob": 0.4427255690097809,
+      "words": [
+        {
+          "word": " It",
+          "start": 153.92,
+          "end": 155.32,
+          "probability": 0.2833881378173828
+        },
+        {
+          "word": " was",
+          "start": 155.32,
+          "end": 156.18,
+          "probability": 0.9876601099967957
+        },
+        {
+          "word": " just",
+          "start": 156.18,
+          "end": 157.02,
+          "probability": 0.901997447013855
+        },
+        {
+          "word": " the",
+          "start": 157.02,
+          "end": 158.68,
+          "probability": 0.8684002757072449
+        },
+        {
+          "word": " sound",
+          "start": 158.68,
+          "end": 159.0,
+          "probability": 0.9937210083007812
+        },
+        {
+          "word": " of",
+          "start": 159.0,
+          "end": 159.32,
+          "probability": 0.9940400123596191
+        },
+        {
+          "word": " it",
+          "start": 159.32,
+          "end": 159.94,
+          "probability": 0.9971143007278442
+        },
+        {
+          "word": " and",
+          "start": 159.94,
+          "end": 160.6,
+          "probability": 0.4534682333469391
+        },
+        {
+          "word": " it",
+          "start": 160.6,
+          "end": 160.84,
+          "probability": 0.9916845560073853
+        },
+        {
+          "word": " was",
+          "start": 160.84,
+          "end": 161.34,
+          "probability": 0.9947399497032166
+        },
+        {
+          "word": " so",
+          "start": 161.34,
+          "end": 163.72,
+          "probability": 0.9897817373275757
+        },
+        {
+          "word": " captivating,",
+          "start": 163.72,
+          "end": 165.34,
+          "probability": 0.6687603294849396
+        },
+        {
+          "word": " so",
+          "start": 166.86,
+          "end": 167.22,
+          "probability": 0.9638001322746277
+        },
+        {
+          "word": " alluring,",
+          "start": 167.22,
+          "end": 169.08,
+          "probability": 0.9971170127391815
+        },
+        {
+          "word": " quite",
+          "start": 171.66,
+          "end": 172.2,
+          "probability": 0.9411202073097229
+        },
+        {
+          "word": " psychedelic,",
+          "start": 172.2,
+          "end": 172.95999999999998,
+          "probability": 0.9862300157546997
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 17296,
+      "start": 172.96,
+      "end": 188.44,
+      "text": " quite trippy with unexpected repetitions, reverb and echo.",
+      "tokens": [
+        50364,
+        1596,
+        1376,
+        7966,
+        365,
+        13106,
+        13645,
+        2451,
+        11,
+        41829,
+        293,
+        14300,
+        13,
+        51138
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5889987945556641,
+      "compression_ratio": 0.9354838709677419,
+      "no_speech_prob": 0.4778551161289215,
+      "words": [
+        {
+          "word": " quite",
+          "start": 172.96,
+          "end": 174.98,
+          "probability": 0.2114788293838501
+        },
+        {
+          "word": " trippy",
+          "start": 174.98,
+          "end": 176.72,
+          "probability": 0.9787783622741699
+        },
+        {
+          "word": " with",
+          "start": 176.72,
+          "end": 180.52,
+          "probability": 0.7168586254119873
+        },
+        {
+          "word": " unexpected",
+          "start": 180.52,
+          "end": 181.6,
+          "probability": 0.8502834439277649
+        },
+        {
+          "word": " repetitions,",
+          "start": 181.6,
+          "end": 183.72,
+          "probability": 0.959323525428772
+        },
+        {
+          "word": " reverb",
+          "start": 187.18,
+          "end": 187.6,
+          "probability": 0.9362415075302124
+        },
+        {
+          "word": " and",
+          "start": 187.6,
+          "end": 188.2,
+          "probability": 0.8833440542221069
+        },
+        {
+          "word": " echo.",
+          "start": 188.2,
+          "end": 188.89999999999998,
+          "probability": 0.9951133131980896
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 18890,
+      "start": 194.6,
+      "end": 208.9,
+      "text": " And since that dream I have learned to appreciate the sound of bells. I didn't used to like the",
+      "tokens": [
+        50364,
+        400,
+        1670,
+        300,
+        3055,
+        286,
+        362,
+        3264,
+        281,
+        4449,
+        264,
+        1626,
+        295,
+        25474,
+        13,
+        286,
+        994,
+        380,
+        1143,
+        281,
+        411,
+        264,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22427337646484374,
+      "compression_ratio": 1.1585365853658536,
+      "no_speech_prob": 0.0800313949584961,
+      "words": [
+        {
+          "word": " And",
+          "start": 194.6,
+          "end": 195.78,
+          "probability": 0.46460986137390137
+        },
+        {
+          "word": " since",
+          "start": 195.78,
+          "end": 196.96,
+          "probability": 0.8202991485595703
+        },
+        {
+          "word": " that",
+          "start": 196.96,
+          "end": 197.54,
+          "probability": 0.9931413531303406
+        },
+        {
+          "word": " dream",
+          "start": 197.54,
+          "end": 198.16,
+          "probability": 0.9971960783004761
+        },
+        {
+          "word": " I",
+          "start": 198.16,
+          "end": 198.92,
+          "probability": 0.6462262272834778
+        },
+        {
+          "word": " have",
+          "start": 198.92,
+          "end": 199.26,
+          "probability": 0.9329483509063721
+        },
+        {
+          "word": " learned",
+          "start": 199.26,
+          "end": 199.62,
+          "probability": 0.7533572316169739
+        },
+        {
+          "word": " to",
+          "start": 199.62,
+          "end": 201.3,
+          "probability": 0.9976451992988586
+        },
+        {
+          "word": " appreciate",
+          "start": 201.3,
+          "end": 202.28,
+          "probability": 0.9837157130241394
+        },
+        {
+          "word": " the",
+          "start": 202.28,
+          "end": 202.74,
+          "probability": 0.9918010830879211
+        },
+        {
+          "word": " sound",
+          "start": 202.74,
+          "end": 203.06,
+          "probability": 0.9739770293235779
+        },
+        {
+          "word": " of",
+          "start": 203.06,
+          "end": 203.5,
+          "probability": 0.9953137636184692
+        },
+        {
+          "word": " bells.",
+          "start": 203.5,
+          "end": 204.0,
+          "probability": 0.9232422709465027
+        },
+        {
+          "word": " I",
+          "start": 206.2,
+          "end": 207.22,
+          "probability": 0.9076266884803772
+        },
+        {
+          "word": " didn't",
+          "start": 207.22,
+          "end": 207.82,
+          "probability": 0.9829550385475159
+        },
+        {
+          "word": " used",
+          "start": 207.82,
+          "end": 208.32,
+          "probability": 0.8169307708740234
+        },
+        {
+          "word": " to",
+          "start": 208.32,
+          "end": 208.42,
+          "probability": 0.9983258843421936
+        },
+        {
+          "word": " like",
+          "start": 208.42,
+          "end": 208.8,
+          "probability": 0.996953010559082
+        },
+        {
+          "word": " the",
+          "start": 208.8,
+          "end": 209.39000000000001,
+          "probability": 0.9935031533241272
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 20939,
+      "start": 209.39,
+      "end": 224.95,
+      "text": " sound of bells, I used to find it annoying, maybe due to the association I had with it or the frequency, I don't know.",
+      "tokens": [
+        50364,
+        1626,
+        295,
+        25474,
+        11,
+        286,
+        1143,
+        281,
+        915,
+        309,
+        11304,
+        11,
+        1310,
+        3462,
+        281,
+        264,
+        14598,
+        286,
+        632,
+        365,
+        309,
+        420,
+        264,
+        7893,
+        11,
+        286,
+        500,
+        380,
+        458,
+        13,
+        51138
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29947101708614465,
+      "compression_ratio": 1.2040816326530612,
+      "no_speech_prob": 0.9574200510978699,
+      "words": [
+        {
+          "word": " sound",
+          "start": 209.39,
+          "end": 209.47,
+          "probability": 0.008151106536388397
+        },
+        {
+          "word": " of",
+          "start": 209.47,
+          "end": 209.87,
+          "probability": 0.9729858040809631
+        },
+        {
+          "word": " bells,",
+          "start": 209.87,
+          "end": 210.31,
+          "probability": 0.9775779247283936
+        },
+        {
+          "word": " I",
+          "start": 211.15,
+          "end": 211.45,
+          "probability": 0.8860693573951721
+        },
+        {
+          "word": " used",
+          "start": 211.45,
+          "end": 211.73,
+          "probability": 0.9575211405754089
+        },
+        {
+          "word": " to",
+          "start": 211.73,
+          "end": 212.05,
+          "probability": 0.997510552406311
+        },
+        {
+          "word": " find",
+          "start": 212.05,
+          "end": 212.29,
+          "probability": 0.997195839881897
+        },
+        {
+          "word": " it",
+          "start": 212.29,
+          "end": 212.63,
+          "probability": 0.9828062653541565
+        },
+        {
+          "word": " annoying,",
+          "start": 212.63,
+          "end": 213.31,
+          "probability": 0.9900223612785339
+        },
+        {
+          "word": " maybe",
+          "start": 214.41,
+          "end": 214.83,
+          "probability": 0.9740265607833862
+        },
+        {
+          "word": " due",
+          "start": 214.83,
+          "end": 215.21,
+          "probability": 0.9895281195640564
+        },
+        {
+          "word": " to",
+          "start": 215.21,
+          "end": 215.71,
+          "probability": 0.9901677370071411
+        },
+        {
+          "word": " the",
+          "start": 215.71,
+          "end": 217.55,
+          "probability": 0.9896596074104309
+        },
+        {
+          "word": " association",
+          "start": 217.55,
+          "end": 218.41,
+          "probability": 0.9759929776191711
+        },
+        {
+          "word": " I",
+          "start": 218.41,
+          "end": 218.63,
+          "probability": 0.9650528430938721
+        },
+        {
+          "word": " had",
+          "start": 218.63,
+          "end": 218.91,
+          "probability": 0.9898924827575684
+        },
+        {
+          "word": " with",
+          "start": 218.91,
+          "end": 219.21,
+          "probability": 0.9968882203102112
+        },
+        {
+          "word": " it",
+          "start": 219.21,
+          "end": 220.17,
+          "probability": 0.9928475618362427
+        },
+        {
+          "word": " or",
+          "start": 220.17,
+          "end": 221.89,
+          "probability": 0.2970239222049713
+        },
+        {
+          "word": " the",
+          "start": 221.89,
+          "end": 222.77,
+          "probability": 0.7300657629966736
+        },
+        {
+          "word": " frequency,",
+          "start": 222.77,
+          "end": 223.59,
+          "probability": 0.9896125197410583
+        },
+        {
+          "word": " I",
+          "start": 223.93,
+          "end": 223.93,
+          "probability": 0.9590274095535278
+        },
+        {
+          "word": " don't",
+          "start": 223.93,
+          "end": 224.07,
+          "probability": 0.9811415374279022
+        },
+        {
+          "word": " know.",
+          "start": 224.07,
+          "end": 224.95,
+          "probability": 0.9980757236480713
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 22495,
+      "start": 224.95,
+      "end": 242.69,
+      "text": " But since I've come to love the sound of bells, I have never, I didn't, I couldn't recreate that tune.",
+      "tokens": [
+        50364,
+        583,
+        1670,
+        286,
+        600,
+        808,
+        281,
+        959,
+        264,
+        1626,
+        295,
+        25474,
+        11,
+        286,
+        362,
+        1128,
+        11,
+        286,
+        994,
+        380,
+        11,
+        286,
+        2809,
+        380,
+        25833,
+        300,
+        10864,
+        13,
+        51288
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31794744922268775,
+      "compression_ratio": 1.1724137931034482,
+      "no_speech_prob": 0.5744470953941345,
+      "words": [
+        {
+          "word": " But",
+          "start": 224.95,
+          "end": 225.47,
+          "probability": 0.5219095349311829
+        },
+        {
+          "word": " since",
+          "start": 225.47,
+          "end": 227.39,
+          "probability": 0.8052157163619995
+        },
+        {
+          "word": " I've",
+          "start": 227.39,
+          "end": 228.79,
+          "probability": 0.8914206326007843
+        },
+        {
+          "word": " come",
+          "start": 228.79,
+          "end": 229.09,
+          "probability": 0.9914980530738831
+        },
+        {
+          "word": " to",
+          "start": 229.09,
+          "end": 231.47,
+          "probability": 0.9956175088882446
+        },
+        {
+          "word": " love",
+          "start": 231.47,
+          "end": 232.23,
+          "probability": 0.9578426480293274
+        },
+        {
+          "word": " the",
+          "start": 232.23,
+          "end": 232.55,
+          "probability": 0.9933119416236877
+        },
+        {
+          "word": " sound",
+          "start": 232.55,
+          "end": 232.83,
+          "probability": 0.9815830588340759
+        },
+        {
+          "word": " of",
+          "start": 232.83,
+          "end": 233.25,
+          "probability": 0.989618718624115
+        },
+        {
+          "word": " bells,",
+          "start": 233.25,
+          "end": 233.85,
+          "probability": 0.8442460894584656
+        },
+        {
+          "word": " I",
+          "start": 235.91,
+          "end": 236.03,
+          "probability": 0.7473781108856201
+        },
+        {
+          "word": " have",
+          "start": 236.03,
+          "end": 236.29,
+          "probability": 0.47352781891822815
+        },
+        {
+          "word": " never,",
+          "start": 236.29,
+          "end": 237.21,
+          "probability": 0.9987673759460449
+        },
+        {
+          "word": " I",
+          "start": 237.91,
+          "end": 238.89,
+          "probability": 0.9857581853866577
+        },
+        {
+          "word": " didn't,",
+          "start": 238.89,
+          "end": 239.55,
+          "probability": 0.8853968679904938
+        },
+        {
+          "word": " I",
+          "start": 239.77,
+          "end": 239.89,
+          "probability": 0.9900913238525391
+        },
+        {
+          "word": " couldn't",
+          "start": 239.89,
+          "end": 240.93,
+          "probability": 0.997244656085968
+        },
+        {
+          "word": " recreate",
+          "start": 240.93,
+          "end": 241.75,
+          "probability": 0.9378066062927246
+        },
+        {
+          "word": " that",
+          "start": 241.75,
+          "end": 242.23,
+          "probability": 0.9783093929290771
+        },
+        {
+          "word": " tune.",
+          "start": 242.23,
+          "end": 242.69,
+          "probability": 0.796954333782196
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 24269,
+      "start": 244.45000000000002,
+      "end": 265.17,
+      "text": " Maybe you could, or maybe you could add some bells to this and it will go echo, echo and here's a bell and the same one is ringing again.",
+      "tokens": [
+        50414,
+        2704,
+        291,
+        727,
+        11,
+        420,
+        1310,
+        291,
+        727,
+        909,
+        512,
+        25474,
+        281,
+        341,
+        293,
+        309,
+        486,
+        352,
+        14300,
+        11,
+        14300,
+        293,
+        510,
+        311,
+        257,
+        4549,
+        293,
+        264,
+        912,
+        472,
+        307,
+        18423,
+        797,
+        13,
+        51488
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27184125539418813,
+      "compression_ratio": 1.3431372549019607,
+      "no_speech_prob": 0.4327722191810608,
+      "words": [
+        {
+          "word": " Maybe",
+          "start": 244.45000000000002,
+          "end": 245.49,
+          "probability": 0.5759309530258179
+        },
+        {
+          "word": " you",
+          "start": 245.49,
+          "end": 245.91,
+          "probability": 0.9853105545043945
+        },
+        {
+          "word": " could,",
+          "start": 245.91,
+          "end": 246.67,
+          "probability": 0.9927541613578796
+        },
+        {
+          "word": " or",
+          "start": 247.99,
+          "end": 249.59,
+          "probability": 0.8442315459251404
+        },
+        {
+          "word": " maybe",
+          "start": 249.59,
+          "end": 251.79,
+          "probability": 0.6007919311523438
+        },
+        {
+          "word": " you",
+          "start": 251.79,
+          "end": 252.05,
+          "probability": 0.9957244396209717
+        },
+        {
+          "word": " could",
+          "start": 252.05,
+          "end": 252.45,
+          "probability": 0.9800305962562561
+        },
+        {
+          "word": " add",
+          "start": 252.45,
+          "end": 252.87,
+          "probability": 0.9926633834838867
+        },
+        {
+          "word": " some",
+          "start": 252.87,
+          "end": 254.03,
+          "probability": 0.9955797791481018
+        },
+        {
+          "word": " bells",
+          "start": 254.03,
+          "end": 254.71,
+          "probability": 0.9844270348548889
+        },
+        {
+          "word": " to",
+          "start": 254.71,
+          "end": 255.21,
+          "probability": 0.9953469634056091
+        },
+        {
+          "word": " this",
+          "start": 255.21,
+          "end": 256.23,
+          "probability": 0.9786146879196167
+        },
+        {
+          "word": " and",
+          "start": 256.23,
+          "end": 257.59,
+          "probability": 0.4434799551963806
+        },
+        {
+          "word": " it",
+          "start": 257.59,
+          "end": 257.81,
+          "probability": 0.9911407828330994
+        },
+        {
+          "word": " will",
+          "start": 257.81,
+          "end": 258.13,
+          "probability": 0.9040882587432861
+        },
+        {
+          "word": " go",
+          "start": 258.13,
+          "end": 258.37,
+          "probability": 0.9253464341163635
+        },
+        {
+          "word": " echo,",
+          "start": 258.37,
+          "end": 259.33,
+          "probability": 0.8200864195823669
+        },
+        {
+          "word": " echo",
+          "start": 260.09,
+          "end": 260.75,
+          "probability": 0.976123571395874
+        },
+        {
+          "word": " and",
+          "start": 260.75,
+          "end": 261.81,
+          "probability": 0.3659544289112091
+        },
+        {
+          "word": " here's",
+          "start": 261.81,
+          "end": 262.21,
+          "probability": 0.8092307150363922
+        },
+        {
+          "word": " a",
+          "start": 262.21,
+          "end": 262.39,
+          "probability": 0.9118835926055908
+        },
+        {
+          "word": " bell",
+          "start": 262.39,
+          "end": 262.81,
+          "probability": 0.9984909296035767
+        },
+        {
+          "word": " and",
+          "start": 262.81,
+          "end": 263.35,
+          "probability": 0.8325077891349792
+        },
+        {
+          "word": " the",
+          "start": 263.35,
+          "end": 263.49,
+          "probability": 0.950349748134613
+        },
+        {
+          "word": " same",
+          "start": 263.49,
+          "end": 263.79,
+          "probability": 0.9984437823295593
+        },
+        {
+          "word": " one",
+          "start": 263.79,
+          "end": 264.19,
+          "probability": 0.9605104923248291
+        },
+        {
+          "word": " is",
+          "start": 264.19,
+          "end": 264.41,
+          "probability": 0.7362391352653503
+        },
+        {
+          "word": " ringing",
+          "start": 264.41,
+          "end": 264.71,
+          "probability": 0.9867857098579407
+        },
+        {
+          "word": " again.",
+          "start": 264.71,
+          "end": 265.22999999999996,
+          "probability": 0.9973746538162231
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 26523,
+      "start": 268.53000000000003,
+      "end": 290.47,
+      "text": " It also reminds me of yet another dream I had, near that time I had the dream made out of bells, also a sonic dream but a lot more complex.",
+      "tokens": [
+        50414,
+        467,
+        611,
+        12025,
+        385,
+        295,
+        1939,
+        1071,
+        3055,
+        286,
+        632,
+        11,
+        2651,
+        300,
+        565,
+        286,
+        632,
+        264,
+        3055,
+        1027,
+        484,
+        295,
+        25474,
+        11,
+        611,
+        257,
+        48725,
+        3055,
+        457,
+        257,
+        688,
+        544,
+        3997,
+        13,
+        51638
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2016845264950314,
+      "compression_ratio": 1.3495145631067962,
+      "no_speech_prob": 0.5072986483573914,
+      "words": [
+        {
+          "word": " It",
+          "start": 268.53000000000003,
+          "end": 269.41,
+          "probability": 0.530251681804657
+        },
+        {
+          "word": " also",
+          "start": 269.41,
+          "end": 270.29,
+          "probability": 0.9673183560371399
+        },
+        {
+          "word": " reminds",
+          "start": 270.29,
+          "end": 271.91,
+          "probability": 0.7129206657409668
+        },
+        {
+          "word": " me",
+          "start": 271.91,
+          "end": 272.33,
+          "probability": 0.9911490678787231
+        },
+        {
+          "word": " of",
+          "start": 272.33,
+          "end": 273.55,
+          "probability": 0.9717485904693604
+        },
+        {
+          "word": " yet",
+          "start": 273.55,
+          "end": 274.03,
+          "probability": 0.8692585229873657
+        },
+        {
+          "word": " another",
+          "start": 274.03,
+          "end": 274.57,
+          "probability": 0.9983118772506714
+        },
+        {
+          "word": " dream",
+          "start": 274.57,
+          "end": 275.09,
+          "probability": 0.9959163069725037
+        },
+        {
+          "word": " I",
+          "start": 275.09,
+          "end": 275.17,
+          "probability": 0.8028278946876526
+        },
+        {
+          "word": " had,",
+          "start": 275.17,
+          "end": 275.85,
+          "probability": 0.995349109172821
+        },
+        {
+          "word": " near",
+          "start": 276.31,
+          "end": 276.51,
+          "probability": 0.907704770565033
+        },
+        {
+          "word": " that",
+          "start": 276.51,
+          "end": 276.93,
+          "probability": 0.9891267418861389
+        },
+        {
+          "word": " time",
+          "start": 276.93,
+          "end": 277.25,
+          "probability": 0.9982683658599854
+        },
+        {
+          "word": " I",
+          "start": 277.25,
+          "end": 277.59,
+          "probability": 0.7493236660957336
+        },
+        {
+          "word": " had",
+          "start": 277.59,
+          "end": 277.77,
+          "probability": 0.9968665242195129
+        },
+        {
+          "word": " the",
+          "start": 277.77,
+          "end": 279.51,
+          "probability": 0.8828650116920471
+        },
+        {
+          "word": " dream",
+          "start": 279.51,
+          "end": 279.81,
+          "probability": 0.9383286237716675
+        },
+        {
+          "word": " made",
+          "start": 279.81,
+          "end": 280.17,
+          "probability": 0.9625025391578674
+        },
+        {
+          "word": " out",
+          "start": 280.17,
+          "end": 280.53,
+          "probability": 0.9754335880279541
+        },
+        {
+          "word": " of",
+          "start": 280.53,
+          "end": 280.85,
+          "probability": 0.9965416789054871
+        },
+        {
+          "word": " bells,",
+          "start": 280.85,
+          "end": 281.39,
+          "probability": 0.99055415391922
+        },
+        {
+          "word": " also",
+          "start": 284.65,
+          "end": 284.93,
+          "probability": 0.7996135354042053
+        },
+        {
+          "word": " a",
+          "start": 284.93,
+          "end": 285.21,
+          "probability": 0.9921459555625916
+        },
+        {
+          "word": " sonic",
+          "start": 285.21,
+          "end": 285.63,
+          "probability": 0.9769477844238281
+        },
+        {
+          "word": " dream",
+          "start": 285.63,
+          "end": 286.67,
+          "probability": 0.9987760186195374
+        },
+        {
+          "word": " but",
+          "start": 286.67,
+          "end": 288.57,
+          "probability": 0.347425252199173
+        },
+        {
+          "word": " a",
+          "start": 288.57,
+          "end": 288.93,
+          "probability": 0.8881328105926514
+        },
+        {
+          "word": " lot",
+          "start": 288.93,
+          "end": 289.15,
+          "probability": 0.9979501366615295
+        },
+        {
+          "word": " more",
+          "start": 289.15,
+          "end": 289.59,
+          "probability": 0.9988024234771729
+        },
+        {
+          "word": " complex.",
+          "start": 289.59,
+          "end": 290.47,
+          "probability": 0.9983980059623718
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 29047,
+      "start": 290.47,
+      "end": 317.77,
+      "text": " I couldn't even begin to try to recall that tune that my mind made. It was like my whole being was embodied in that sound.",
+      "tokens": [
+        50414,
+        286,
+        2809,
+        380,
+        754,
+        1841,
+        281,
+        853,
+        281,
+        9901,
+        300,
+        10864,
+        300,
+        452,
+        1575,
+        1027,
+        13,
+        467,
+        390,
+        411,
+        452,
+        1379,
+        885,
+        390,
+        42046,
+        294,
+        300,
+        1626,
+        13,
+        51788
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13077806657360447,
+      "compression_ratio": 1.2448979591836735,
+      "no_speech_prob": 0.8353630304336548,
+      "words": [
+        {
+          "word": " I",
+          "start": 290.47,
+          "end": 292.29,
+          "probability": 0.6997547745704651
+        },
+        {
+          "word": " couldn't",
+          "start": 292.29,
+          "end": 292.65,
+          "probability": 0.9710147976875305
+        },
+        {
+          "word": " even",
+          "start": 292.65,
+          "end": 294.67,
+          "probability": 0.9940201044082642
+        },
+        {
+          "word": " begin",
+          "start": 294.67,
+          "end": 295.69,
+          "probability": 0.8769238591194153
+        },
+        {
+          "word": " to",
+          "start": 295.69,
+          "end": 296.33,
+          "probability": 0.9975990653038025
+        },
+        {
+          "word": " try",
+          "start": 296.33,
+          "end": 296.85,
+          "probability": 0.9347924590110779
+        },
+        {
+          "word": " to",
+          "start": 296.85,
+          "end": 299.17,
+          "probability": 0.8518033623695374
+        },
+        {
+          "word": " recall",
+          "start": 299.17,
+          "end": 299.97,
+          "probability": 0.9954513907432556
+        },
+        {
+          "word": " that",
+          "start": 299.97,
+          "end": 301.15,
+          "probability": 0.9855645298957825
+        },
+        {
+          "word": " tune",
+          "start": 301.15,
+          "end": 301.79,
+          "probability": 0.9305887222290039
+        },
+        {
+          "word": " that",
+          "start": 301.79,
+          "end": 303.23,
+          "probability": 0.9510354399681091
+        },
+        {
+          "word": " my",
+          "start": 303.23,
+          "end": 303.59,
+          "probability": 0.9975138902664185
+        },
+        {
+          "word": " mind",
+          "start": 303.59,
+          "end": 304.07,
+          "probability": 0.9994839429855347
+        },
+        {
+          "word": " made.",
+          "start": 304.07,
+          "end": 304.89,
+          "probability": 0.9961056113243103
+        },
+        {
+          "word": " It",
+          "start": 306.17,
+          "end": 306.67,
+          "probability": 0.9667233228683472
+        },
+        {
+          "word": " was",
+          "start": 306.67,
+          "end": 307.73,
+          "probability": 0.9987494945526123
+        },
+        {
+          "word": " like",
+          "start": 307.73,
+          "end": 309.07,
+          "probability": 0.9185804724693298
+        },
+        {
+          "word": " my",
+          "start": 309.07,
+          "end": 309.47,
+          "probability": 0.9825522899627686
+        },
+        {
+          "word": " whole",
+          "start": 309.47,
+          "end": 309.93,
+          "probability": 0.9980645775794983
+        },
+        {
+          "word": " being",
+          "start": 309.93,
+          "end": 310.37,
+          "probability": 0.9906063079833984
+        },
+        {
+          "word": " was",
+          "start": 310.37,
+          "end": 311.67,
+          "probability": 0.9921135902404785
+        },
+        {
+          "word": " embodied",
+          "start": 311.67,
+          "end": 312.39,
+          "probability": 0.9892716407775879
+        },
+        {
+          "word": " in",
+          "start": 312.39,
+          "end": 312.95,
+          "probability": 0.9944338202476501
+        },
+        {
+          "word": " that",
+          "start": 312.95,
+          "end": 314.39,
+          "probability": 0.9945108890533447
+        },
+        {
+          "word": " sound.",
+          "start": 314.39,
+          "end": 317.77,
+          "probability": 0.424809068441391
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 32047,
+      "start": 350.01,
+      "end": 350.21,
+      "text": " It was like my whole being was embodied in that sound.",
+      "tokens": [
+        50414,
+        467,
+        390,
+        411,
+        452,
+        1379,
+        885,
+        390,
+        42046,
+        294,
+        300,
+        1626,
+        13,
+        50588
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7313959121704101,
+      "compression_ratio": 0.9152542372881356,
+      "no_speech_prob": 0.9772107005119324,
+      "words": [
+        {
+          "word": " It",
+          "start": 350.01,
+          "end": 350.09,
+          "probability": 0.0023117081727832556
+        },
+        {
+          "word": " was",
+          "start": 350.09,
+          "end": 350.11,
+          "probability": 0.06098470464348793
+        },
+        {
+          "word": " like",
+          "start": 350.11,
+          "end": 350.11,
+          "probability": 0.018091948702931404
+        },
+        {
+          "word": " my",
+          "start": 350.11,
+          "end": 350.11,
+          "probability": 0.009132605977356434
+        },
+        {
+          "word": " whole",
+          "start": 350.11,
+          "end": 350.11,
+          "probability": 0.01187026035040617
+        },
+        {
+          "word": " being",
+          "start": 350.11,
+          "end": 350.15,
+          "probability": 0.008058490231633186
+        },
+        {
+          "word": " was",
+          "start": 350.15,
+          "end": 350.15,
+          "probability": 0.21030506491661072
+        },
+        {
+          "word": " embodied",
+          "start": 350.15,
+          "end": 350.15,
+          "probability": 7.806354005879257e-06
+        },
+        {
+          "word": " in",
+          "start": 350.15,
+          "end": 350.15,
+          "probability": 0.651983380317688
+        },
+        {
+          "word": " that",
+          "start": 350.15,
+          "end": 350.15,
+          "probability": 0.03379745036363602
+        },
+        {
+          "word": " sound.",
+          "start": 350.15,
+          "end": 350.21,
+          "probability": 0.0010809686500579119
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 35047,
+      "start": 378.99,
+      "end": 380.39,
+      "text": " It was like my whole being was embodied in that sound.",
+      "tokens": [
+        50414,
+        467,
+        390,
+        411,
+        452,
+        1379,
+        885,
+        390,
+        42046,
+        294,
+        300,
+        1626,
+        13,
+        50588
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3643459955851237,
+      "compression_ratio": 0.9152542372881356,
+      "no_speech_prob": 0.9937034249305725,
+      "words": [
+        {
+          "word": " It",
+          "start": 378.99,
+          "end": 380.39,
+          "probability": 0.002168793696910143
+        },
+        {
+          "word": " was",
+          "start": 380.39,
+          "end": 380.39,
+          "probability": 0.057202987372875214
+        },
+        {
+          "word": " like",
+          "start": 380.39,
+          "end": 380.39,
+          "probability": 0.019683489575982094
+        },
+        {
+          "word": " my",
+          "start": 380.39,
+          "end": 380.39,
+          "probability": 0.008909204974770546
+        },
+        {
+          "word": " whole",
+          "start": 380.39,
+          "end": 380.39,
+          "probability": 0.012793640606105328
+        },
+        {
+          "word": " being",
+          "start": 380.39,
+          "end": 380.39,
+          "probability": 0.010246416553854942
+        },
+        {
+          "word": " was",
+          "start": 380.39,
+          "end": 380.39,
+          "probability": 0.22362205386161804
+        },
+        {
+          "word": " embodied",
+          "start": 380.39,
+          "end": 380.39,
+          "probability": 8.446375431958586e-06
+        },
+        {
+          "word": " in",
+          "start": 380.39,
+          "end": 380.39,
+          "probability": 0.6543353796005249
+        },
+        {
+          "word": " that",
+          "start": 380.39,
+          "end": 380.39,
+          "probability": 0.03418950363993645
+        },
+        {
+          "word": " sound.",
+          "start": 380.39,
+          "end": 380.39,
+          "probability": 0.0014447213616222143
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 38047,
+      "start": 409.67,
+      "end": 410.09,
+      "text": " It was like my whole being was embodied in that sound.",
+      "tokens": [
+        50414,
+        467,
+        390,
+        411,
+        452,
+        1379,
+        885,
+        390,
+        42046,
+        294,
+        300,
+        1626,
+        13,
+        50588
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24316158294677734,
+      "compression_ratio": 0.9152542372881356,
+      "no_speech_prob": 0.9857078194618225,
+      "words": [
+        {
+          "word": " It",
+          "start": 409.67,
+          "end": 409.87,
+          "probability": 0.0021700465586036444
+        },
+        {
+          "word": " was",
+          "start": 409.87,
+          "end": 409.91,
+          "probability": 0.07046951353549957
+        },
+        {
+          "word": " like",
+          "start": 409.91,
+          "end": 409.95,
+          "probability": 0.019326817244291306
+        },
+        {
+          "word": " my",
+          "start": 409.95,
+          "end": 409.95,
+          "probability": 0.009471853263676167
+        },
+        {
+          "word": " whole",
+          "start": 409.95,
+          "end": 409.95,
+          "probability": 0.012878851033747196
+        },
+        {
+          "word": " being",
+          "start": 409.95,
+          "end": 409.95,
+          "probability": 0.010712897405028343
+        },
+        {
+          "word": " was",
+          "start": 409.95,
+          "end": 409.95,
+          "probability": 0.2198045402765274
+        },
+        {
+          "word": " embodied",
+          "start": 409.95,
+          "end": 410.09,
+          "probability": 7.980129339557607e-06
+        },
+        {
+          "word": " in",
+          "start": 410.09,
+          "end": 410.09,
+          "probability": 0.6696035861968994
+        },
+        {
+          "word": " that",
+          "start": 410.09,
+          "end": 410.09,
+          "probability": 0.03208564221858978
+        },
+        {
+          "word": " sound.",
+          "start": 410.09,
+          "end": 410.09,
+          "probability": 0.0009629686246626079
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 41047,
+      "start": 439.01000000000005,
+      "end": 440.41,
+      "text": " It was like my whole being was embodied in that sound.",
+      "tokens": [
+        50414,
+        467,
+        390,
+        411,
+        452,
+        1379,
+        885,
+        390,
+        42046,
+        294,
+        300,
+        1626,
+        13,
+        50588
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20947823524475098,
+      "compression_ratio": 0.9152542372881356,
+      "no_speech_prob": 0.9829004406929016,
+      "words": [
+        {
+          "word": " It",
+          "start": 439.01000000000005,
+          "end": 440.41,
+          "probability": 0.0017225689953193069
+        },
+        {
+          "word": " was",
+          "start": 440.41,
+          "end": 440.41,
+          "probability": 0.05199291929602623
+        },
+        {
+          "word": " like",
+          "start": 440.41,
+          "end": 440.41,
+          "probability": 0.01950031891465187
+        },
+        {
+          "word": " my",
+          "start": 440.41,
+          "end": 440.41,
+          "probability": 0.009297390468418598
+        },
+        {
+          "word": " whole",
+          "start": 440.41,
+          "end": 440.41,
+          "probability": 0.014642910100519657
+        },
+        {
+          "word": " being",
+          "start": 440.41,
+          "end": 440.41,
+          "probability": 0.016711808741092682
+        },
+        {
+          "word": " was",
+          "start": 440.41,
+          "end": 440.41,
+          "probability": 0.21896103024482727
+        },
+        {
+          "word": " embodied",
+          "start": 440.41,
+          "end": 440.41,
+          "probability": 1.1220780834264588e-05
+        },
+        {
+          "word": " in",
+          "start": 440.41,
+          "end": 440.41,
+          "probability": 0.6405626535415649
+        },
+        {
+          "word": " that",
+          "start": 440.41,
+          "end": 440.41,
+          "probability": 0.03394052013754845
+        },
+        {
+          "word": " sound.",
+          "start": 440.41,
+          "end": 440.41,
+          "probability": 0.0013523038942366838
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 44047,
+      "start": 466.05,
+      "end": 467.45,
+      "text": " It was like my whole being was embodied in that sound.",
+      "tokens": [
+        50414,
+        467,
+        390,
+        411,
+        452,
+        1379,
+        885,
+        390,
+        42046,
+        294,
+        300,
+        1626,
+        13,
+        50588
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20060906410217286,
+      "compression_ratio": 0.9152542372881356,
+      "no_speech_prob": 0.9717530012130737,
+      "words": [
+        {
+          "word": " It",
+          "start": 466.05,
+          "end": 467.45,
+          "probability": 0.0015735204797238111
+        },
+        {
+          "word": " was",
+          "start": 467.45,
+          "end": 467.45,
+          "probability": 0.08506061136722565
+        },
+        {
+          "word": " like",
+          "start": 467.45,
+          "end": 467.45,
+          "probability": 0.019404485821723938
+        },
+        {
+          "word": " my",
+          "start": 467.45,
+          "end": 467.45,
+          "probability": 0.009511051699519157
+        },
+        {
+          "word": " whole",
+          "start": 467.45,
+          "end": 467.45,
+          "probability": 0.013823624700307846
+        },
+        {
+          "word": " being",
+          "start": 467.45,
+          "end": 467.45,
+          "probability": 0.014560236595571041
+        },
+        {
+          "word": " was",
+          "start": 467.45,
+          "end": 467.45,
+          "probability": 0.17918600142002106
+        },
+        {
+          "word": " embodied",
+          "start": 467.45,
+          "end": 467.45,
+          "probability": 7.19329136700253e-06
+        },
+        {
+          "word": " in",
+          "start": 467.45,
+          "end": 467.45,
+          "probability": 0.6790608167648315
+        },
+        {
+          "word": " that",
+          "start": 467.45,
+          "end": 467.45,
+          "probability": 0.02954750321805477
+        },
+        {
+          "word": " sound.",
+          "start": 467.45,
+          "end": 467.45,
+          "probability": 0.0009871898218989372
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

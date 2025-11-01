@@ -1,0 +1,512 @@
+{
+  "text": " Seminar to change your life. Students left. Gave up. Oh, oh! I'm not sure. I need a breath. Come on, come on. Are you on a slump? Seminar to change your life. Leave the room for improvement. Jump through the window of opportunity.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 35.440000000000005,
+      "end": 42.0,
+      "text": " Seminar to change your life.",
+      "tokens": [
+        50364,
+        14421,
+        6470,
+        281,
+        1319,
+        428,
+        993,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6938825954090465,
+      "compression_ratio": 0.8666666666666667,
+      "no_speech_prob": 0.5740609765052795,
+      "words": [
+        {
+          "word": " Seminar",
+          "start": 35.440000000000005,
+          "end": 36.84,
+          "probability": 0.5077704731374979
+        },
+        {
+          "word": " to",
+          "start": 36.84,
+          "end": 37.5,
+          "probability": 0.5702522397041321
+        },
+        {
+          "word": " change",
+          "start": 37.5,
+          "end": 38.8,
+          "probability": 0.9229875206947327
+        },
+        {
+          "word": " your",
+          "start": 38.8,
+          "end": 40.48,
+          "probability": 0.7446030378341675
+        },
+        {
+          "word": " life.",
+          "start": 40.48,
+          "end": 42.0,
+          "probability": 0.4914078414440155
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 43.2,
+      "end": 46.24,
+      "text": " Students left.",
+      "tokens": [
+        50964,
+        17244,
+        1411,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6938825954090465,
+      "compression_ratio": 0.8666666666666667,
+      "no_speech_prob": 0.5740609765052795,
+      "words": [
+        {
+          "word": " Students",
+          "start": 43.2,
+          "end": 44.6,
+          "probability": 0.6966251730918884
+        },
+        {
+          "word": " left.",
+          "start": 44.6,
+          "end": 46.24,
+          "probability": 0.6739208698272705
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 50.2,
+      "end": 51.9,
+      "text": " Gave up.",
+      "tokens": [
+        51164,
+        460,
+        946,
+        493,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6938825954090465,
+      "compression_ratio": 0.8666666666666667,
+      "no_speech_prob": 0.5740609765052795,
+      "words": [
+        {
+          "word": " Gave",
+          "start": 50.2,
+          "end": 51.0,
+          "probability": 0.8497091233730316
+        },
+        {
+          "word": " up.",
+          "start": 51.0,
+          "end": 51.9,
+          "probability": 0.9930123686790466
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 5190,
+      "start": 57.0,
+      "end": 58.36,
+      "text": " Oh, oh!",
+      "tokens": [
+        50414,
+        876,
+        11,
+        1954,
+        0,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5809414046151298,
+      "compression_ratio": 1.1610169491525424,
+      "no_speech_prob": 0.2019854038953781,
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 57.0,
+          "end": 57.68,
+          "probability": 0.27755671739578247
+        },
+        {
+          "word": " oh!",
+          "start": 57.68,
+          "end": 58.36,
+          "probability": 0.8138961791992188
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 5190,
+      "start": 59.48,
+      "end": 60.38,
+      "text": " I'm not sure.",
+      "tokens": [
+        50714,
+        286,
+        478,
+        406,
+        988,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5809414046151298,
+      "compression_ratio": 1.1610169491525424,
+      "no_speech_prob": 0.2019854038953781,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 59.48,
+          "end": 59.76,
+          "probability": 0.6331316381692886
+        },
+        {
+          "word": " not",
+          "start": 59.76,
+          "end": 60.1,
+          "probability": 0.8902543187141418
+        },
+        {
+          "word": " sure.",
+          "start": 60.1,
+          "end": 60.38,
+          "probability": 0.3445785343647003
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 5190,
+      "start": 60.78,
+      "end": 63.16,
+      "text": " I need a breath.",
+      "tokens": [
+        50814,
+        286,
+        643,
+        257,
+        6045,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5809414046151298,
+      "compression_ratio": 1.1610169491525424,
+      "no_speech_prob": 0.2019854038953781,
+      "words": [
+        {
+          "word": " I",
+          "start": 60.78,
+          "end": 60.78,
+          "probability": 0.20070365071296692
+        },
+        {
+          "word": " need",
+          "start": 60.78,
+          "end": 62.82,
+          "probability": 0.30850112438201904
+        },
+        {
+          "word": " a",
+          "start": 62.82,
+          "end": 63.04,
+          "probability": 0.5660187602043152
+        },
+        {
+          "word": " breath.",
+          "start": 63.04,
+          "end": 63.16,
+          "probability": 0.6487073302268982
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 5190,
+      "start": 63.58,
+      "end": 64.4,
+      "text": " Come on, come on.",
+      "tokens": [
+        50914,
+        2492,
+        322,
+        11,
+        808,
+        322,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5809414046151298,
+      "compression_ratio": 1.1610169491525424,
+      "no_speech_prob": 0.2019854038953781,
+      "words": [
+        {
+          "word": " Come",
+          "start": 63.58,
+          "end": 63.82,
+          "probability": 0.6993104219436646
+        },
+        {
+          "word": " on,",
+          "start": 63.82,
+          "end": 63.98,
+          "probability": 0.990263819694519
+        },
+        {
+          "word": " come",
+          "start": 64.02,
+          "end": 64.32,
+          "probability": 0.9566339254379272
+        },
+        {
+          "word": " on.",
+          "start": 64.32,
+          "end": 64.4,
+          "probability": 0.9965912103652954
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5190,
+      "start": 64.6,
+      "end": 65.72,
+      "text": " Are you on a slump?",
+      "tokens": [
+        51014,
+        2014,
+        291,
+        322,
+        257,
+        1061,
+        1420,
+        30,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5809414046151298,
+      "compression_ratio": 1.1610169491525424,
+      "no_speech_prob": 0.2019854038953781,
+      "words": [
+        {
+          "word": " Are",
+          "start": 64.6,
+          "end": 64.72,
+          "probability": 0.2930801808834076
+        },
+        {
+          "word": " you",
+          "start": 64.72,
+          "end": 64.98,
+          "probability": 0.982581615447998
+        },
+        {
+          "word": " on",
+          "start": 64.98,
+          "end": 65.26,
+          "probability": 0.5912749767303467
+        },
+        {
+          "word": " a",
+          "start": 65.26,
+          "end": 65.42,
+          "probability": 0.42969077825546265
+        },
+        {
+          "word": " slump?",
+          "start": 65.42,
+          "end": 65.72,
+          "probability": 0.17880725860595703
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5190,
+      "start": 66.2,
+      "end": 68.56,
+      "text": " Seminar to change your life.",
+      "tokens": [
+        51114,
+        14421,
+        6470,
+        281,
+        1319,
+        428,
+        993,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5809414046151298,
+      "compression_ratio": 1.1610169491525424,
+      "no_speech_prob": 0.2019854038953781,
+      "words": [
+        {
+          "word": " Seminar",
+          "start": 66.2,
+          "end": 66.52,
+          "probability": 0.001114056991355028
+        },
+        {
+          "word": " to",
+          "start": 66.52,
+          "end": 67.78,
+          "probability": 0.00023957154189702123
+        },
+        {
+          "word": " change",
+          "start": 67.78,
+          "end": 68.56,
+          "probability": 3.85878884117119e-05
+        },
+        {
+          "word": " your",
+          "start": 68.56,
+          "end": 68.56,
+          "probability": 0.00996244978159666
+        },
+        {
+          "word": " life.",
+          "start": 68.56,
+          "end": 68.56,
+          "probability": 0.0994611531496048
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5190,
+      "start": 73.22000000000001,
+      "end": 76.92,
+      "text": " Leave the room for improvement.",
+      "tokens": [
+        51414,
+        9825,
+        264,
+        1808,
+        337,
+        10444,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5809414046151298,
+      "compression_ratio": 1.1610169491525424,
+      "no_speech_prob": 0.2019854038953781,
+      "words": [
+        {
+          "word": " Leave",
+          "start": 73.22000000000001,
+          "end": 73.9,
+          "probability": 0.374076247215271
+        },
+        {
+          "word": " the",
+          "start": 73.9,
+          "end": 74.52,
+          "probability": 0.9598469138145447
+        },
+        {
+          "word": " room",
+          "start": 74.52,
+          "end": 74.92,
+          "probability": 0.95339035987854
+        },
+        {
+          "word": " for",
+          "start": 74.92,
+          "end": 75.88,
+          "probability": 0.8771582245826721
+        },
+        {
+          "word": " improvement.",
+          "start": 75.88,
+          "end": 76.92,
+          "probability": 0.9955121874809265
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 7692,
+      "start": 76.92,
+      "end": 85.88,
+      "text": " Jump through the window of opportunity.",
+      "tokens": [
+        50414,
+        18697,
+        807,
+        264,
+        4910,
+        295,
+        2650,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21222031116485596,
+      "compression_ratio": 0.8666666666666667,
+      "no_speech_prob": 0.018143408000469208,
+      "words": [
+        {
+          "word": " Jump",
+          "start": 76.92,
+          "end": 79.66,
+          "probability": 0.250495970249176
+        },
+        {
+          "word": " through",
+          "start": 79.66,
+          "end": 80.82,
+          "probability": 0.8720898032188416
+        },
+        {
+          "word": " the",
+          "start": 80.82,
+          "end": 81.12,
+          "probability": 0.9936136603355408
+        },
+        {
+          "word": " window",
+          "start": 81.12,
+          "end": 82.1,
+          "probability": 0.923086941242218
+        },
+        {
+          "word": " of",
+          "start": 82.1,
+          "end": 84.84,
+          "probability": 0.7814128398895264
+        },
+        {
+          "word": " opportunity.",
+          "start": 84.84,
+          "end": 85.88,
+          "probability": 0.9939349293708801
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,2181 @@
+{
+  "text": " I just recorded this whole message and it's gone. In therapy, don't ask questions. You don't get asked questions. It's not what therapy is like at all. Inability therapy? If your therapist is any good, they're not supposed to ask questions as much as they can. Um... People ask questions. Friends ask questions. People you care ask questions. You don't like answering questions. But don't ask me questions. Yourself, okay? It makes me regret answering a question. I don't like living on that floor. I'm a good person. I can't get a good room. I can't get a good room. Okay. I just recorded this whole message and it's gone. In therapy, don't ask questions. You don't get asked questions. In therapy, don't ask questions. You don't get asked questions. Inability therapy? If your therapist is any good, they're not supposed to ask questions. In the largest they can. I'm full of questions. Friends ask questions. Yeah, the last question. You don't like answering them, you know? But don't ask me questions. Yourself, okay? It makes me regret answering any questions too. Because... I don't like living on a bad note. I can't make it good now, but... I can make it okay. If...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 5.399999999999999,
+      "end": 10.46,
+      "text": " I just recorded this whole message and it's gone.",
+      "tokens": [
+        50364,
+        286,
+        445,
+        8287,
+        341,
+        1379,
+        3636,
+        293,
+        309,
+        311,
+        2780,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.500946581363678,
+      "compression_ratio": 1.2150537634408602,
+      "no_speech_prob": 0.6869193911552429,
+      "words": [
+        {
+          "word": " I",
+          "start": 5.399999999999999,
+          "end": 6.359999999999999,
+          "probability": 0.23906223475933075
+        },
+        {
+          "word": " just",
+          "start": 6.359999999999999,
+          "end": 7.32,
+          "probability": 0.8915783166885376
+        },
+        {
+          "word": " recorded",
+          "start": 7.32,
+          "end": 7.98,
+          "probability": 0.8711944818496704
+        },
+        {
+          "word": " this",
+          "start": 7.98,
+          "end": 8.46,
+          "probability": 0.657687783241272
+        },
+        {
+          "word": " whole",
+          "start": 8.46,
+          "end": 8.74,
+          "probability": 0.281247615814209
+        },
+        {
+          "word": " message",
+          "start": 8.74,
+          "end": 9.16,
+          "probability": 0.49947887659072876
+        },
+        {
+          "word": " and",
+          "start": 9.16,
+          "end": 9.44,
+          "probability": 0.4267798364162445
+        },
+        {
+          "word": " it's",
+          "start": 9.44,
+          "end": 9.76,
+          "probability": 0.8862643837928772
+        },
+        {
+          "word": " gone.",
+          "start": 9.76,
+          "end": 10.46,
+          "probability": 0.8995305299758911
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 16.06,
+      "end": 22.96,
+      "text": " In therapy, don't ask questions. You don't get asked questions.",
+      "tokens": [
+        51164,
+        682,
+        9492,
+        11,
+        500,
+        380,
+        1029,
+        1651,
+        13,
+        509,
+        500,
+        380,
+        483,
+        2351,
+        1651,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.500946581363678,
+      "compression_ratio": 1.2150537634408602,
+      "no_speech_prob": 0.6869193911552429,
+      "words": [
+        {
+          "word": " In",
+          "start": 16.06,
+          "end": 16.98,
+          "probability": 0.5746983289718628
+        },
+        {
+          "word": " therapy,",
+          "start": 16.98,
+          "end": 17.9,
+          "probability": 0.9634782075881958
+        },
+        {
+          "word": " don't",
+          "start": 18.26,
+          "end": 18.66,
+          "probability": 0.6932817697525024
+        },
+        {
+          "word": " ask",
+          "start": 18.66,
+          "end": 19.0,
+          "probability": 0.9449945688247681
+        },
+        {
+          "word": " questions.",
+          "start": 19.0,
+          "end": 19.62,
+          "probability": 0.6655916571617126
+        },
+        {
+          "word": " You",
+          "start": 21.0,
+          "end": 21.16,
+          "probability": 0.8993518352508545
+        },
+        {
+          "word": " don't",
+          "start": 21.16,
+          "end": 21.38,
+          "probability": 0.9912199079990387
+        },
+        {
+          "word": " get",
+          "start": 21.38,
+          "end": 21.74,
+          "probability": 0.9939574003219604
+        },
+        {
+          "word": " asked",
+          "start": 21.74,
+          "end": 22.16,
+          "probability": 0.9335538744926453
+        },
+        {
+          "word": " questions.",
+          "start": 22.16,
+          "end": 22.96,
+          "probability": 0.9634629487991333
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2296,
+      "start": 25.059999999999995,
+      "end": 27.96,
+      "text": " It's not what therapy is like at all.",
+      "tokens": [
+        50364,
+        467,
+        311,
+        406,
+        437,
+        9492,
+        307,
+        411,
+        412,
+        439,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35499538694109234,
+      "compression_ratio": 1.2920353982300885,
+      "no_speech_prob": 0.09062701463699341,
+      "words": [
+        {
+          "word": " It's",
+          "start": 25.059999999999995,
+          "end": 25.74,
+          "probability": 0.5939238294959068
+        },
+        {
+          "word": " not",
+          "start": 25.74,
+          "end": 25.9,
+          "probability": 0.9731854200363159
+        },
+        {
+          "word": " what",
+          "start": 25.9,
+          "end": 26.28,
+          "probability": 0.8344754576683044
+        },
+        {
+          "word": " therapy",
+          "start": 26.28,
+          "end": 26.54,
+          "probability": 0.9582797288894653
+        },
+        {
+          "word": " is",
+          "start": 26.54,
+          "end": 26.96,
+          "probability": 0.9348911643028259
+        },
+        {
+          "word": " like",
+          "start": 26.96,
+          "end": 27.22,
+          "probability": 0.9566742777824402
+        },
+        {
+          "word": " at",
+          "start": 27.22,
+          "end": 27.5,
+          "probability": 0.9604687094688416
+        },
+        {
+          "word": " all.",
+          "start": 27.5,
+          "end": 27.96,
+          "probability": 0.9980779886245728
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2296,
+      "start": 33.599999999999994,
+      "end": 34.96,
+      "text": " Inability therapy?",
+      "tokens": [
+        50864,
+        682,
+        2310,
+        9492,
+        30,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35499538694109234,
+      "compression_ratio": 1.2920353982300885,
+      "no_speech_prob": 0.09062701463699341,
+      "words": [
+        {
+          "word": " Inability",
+          "start": 33.599999999999994,
+          "end": 34.28,
+          "probability": 0.07669146358966827
+        },
+        {
+          "word": " therapy?",
+          "start": 34.28,
+          "end": 34.96,
+          "probability": 0.8881674408912659
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2296,
+      "start": 36.4,
+      "end": 43.44,
+      "text": " If your therapist is any good, they're not supposed to ask questions as much as they can.",
+      "tokens": [
+        51014,
+        759,
+        428,
+        19830,
+        307,
+        604,
+        665,
+        11,
+        436,
+        434,
+        406,
+        3442,
+        281,
+        1029,
+        1651,
+        382,
+        709,
+        382,
+        436,
+        393,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35499538694109234,
+      "compression_ratio": 1.2920353982300885,
+      "no_speech_prob": 0.09062701463699341,
+      "words": [
+        {
+          "word": " If",
+          "start": 36.4,
+          "end": 36.5,
+          "probability": 0.09169075638055801
+        },
+        {
+          "word": " your",
+          "start": 36.5,
+          "end": 36.84,
+          "probability": 0.7933584451675415
+        },
+        {
+          "word": " therapist",
+          "start": 36.84,
+          "end": 37.38,
+          "probability": 0.9498810172080994
+        },
+        {
+          "word": " is",
+          "start": 37.38,
+          "end": 37.74,
+          "probability": 0.9869576692581177
+        },
+        {
+          "word": " any",
+          "start": 37.74,
+          "end": 38.06,
+          "probability": 0.9785626530647278
+        },
+        {
+          "word": " good,",
+          "start": 38.06,
+          "end": 38.38,
+          "probability": 0.9973873496055603
+        },
+        {
+          "word": " they're",
+          "start": 38.86,
+          "end": 38.98,
+          "probability": 0.854332447052002
+        },
+        {
+          "word": " not",
+          "start": 38.98,
+          "end": 39.26,
+          "probability": 0.9951905012130737
+        },
+        {
+          "word": " supposed",
+          "start": 39.26,
+          "end": 39.58,
+          "probability": 0.9684430360794067
+        },
+        {
+          "word": " to",
+          "start": 39.58,
+          "end": 39.9,
+          "probability": 0.9957194924354553
+        },
+        {
+          "word": " ask",
+          "start": 39.9,
+          "end": 40.14,
+          "probability": 0.994383692741394
+        },
+        {
+          "word": " questions",
+          "start": 40.14,
+          "end": 41.06,
+          "probability": 0.7239396572113037
+        },
+        {
+          "word": " as",
+          "start": 41.06,
+          "end": 42.2,
+          "probability": 0.3879060447216034
+        },
+        {
+          "word": " much",
+          "start": 42.2,
+          "end": 42.52,
+          "probability": 0.9935311675071716
+        },
+        {
+          "word": " as",
+          "start": 42.52,
+          "end": 42.7,
+          "probability": 0.9957956075668335
+        },
+        {
+          "word": " they",
+          "start": 42.7,
+          "end": 43.0,
+          "probability": 0.994080126285553
+        },
+        {
+          "word": " can.",
+          "start": 43.0,
+          "end": 43.44,
+          "probability": 0.9978392720222473
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4344,
+      "start": 46.5,
+      "end": 47.54,
+      "text": " Um...",
+      "tokens": [
+        50414,
+        3301,
+        485,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3111505889892578,
+      "compression_ratio": 1.5940594059405941,
+      "no_speech_prob": 0.10264365375041962,
+      "words": [
+        {
+          "word": " Um...",
+          "start": 46.5,
+          "end": 47.54,
+          "probability": 0.28524016588926315
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4344,
+      "start": 47.54,
+      "end": 49.82,
+      "text": " People ask questions.",
+      "tokens": [
+        50564,
+        3432,
+        1029,
+        1651,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3111505889892578,
+      "compression_ratio": 1.5940594059405941,
+      "no_speech_prob": 0.10264365375041962,
+      "words": [
+        {
+          "word": " People",
+          "start": 47.54,
+          "end": 48.18,
+          "probability": 0.7206601500511169
+        },
+        {
+          "word": " ask",
+          "start": 48.18,
+          "end": 48.66,
+          "probability": 0.9873599410057068
+        },
+        {
+          "word": " questions.",
+          "start": 48.66,
+          "end": 49.82,
+          "probability": 0.9802157282829285
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 4344,
+      "start": 51.52,
+      "end": 53.66,
+      "text": " Friends ask questions.",
+      "tokens": [
+        50714,
+        14042,
+        1029,
+        1651,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3111505889892578,
+      "compression_ratio": 1.5940594059405941,
+      "no_speech_prob": 0.10264365375041962,
+      "words": [
+        {
+          "word": " Friends",
+          "start": 51.52,
+          "end": 52.04,
+          "probability": 0.985323429107666
+        },
+        {
+          "word": " ask",
+          "start": 52.04,
+          "end": 52.52,
+          "probability": 0.9864002466201782
+        },
+        {
+          "word": " questions.",
+          "start": 52.52,
+          "end": 53.66,
+          "probability": 0.9971526861190796
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 4344,
+      "start": 54.44,
+      "end": 56.44,
+      "text": " People you care ask questions.",
+      "tokens": [
+        50864,
+        3432,
+        291,
+        1127,
+        1029,
+        1651,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3111505889892578,
+      "compression_ratio": 1.5940594059405941,
+      "no_speech_prob": 0.10264365375041962,
+      "words": [
+        {
+          "word": " People",
+          "start": 54.44,
+          "end": 54.8,
+          "probability": 0.9352236986160278
+        },
+        {
+          "word": " you",
+          "start": 54.8,
+          "end": 55.14,
+          "probability": 0.30553558468818665
+        },
+        {
+          "word": " care",
+          "start": 55.14,
+          "end": 55.56,
+          "probability": 0.9455432295799255
+        },
+        {
+          "word": " ask",
+          "start": 55.56,
+          "end": 56.36,
+          "probability": 0.6249261498451233
+        },
+        {
+          "word": " questions.",
+          "start": 56.36,
+          "end": 56.879999999999995,
+          "probability": 0.9946995973587036
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 4344,
+      "start": 59.92,
+      "end": 61.44,
+      "text": " You don't like answering questions.",
+      "tokens": [
+        51164,
+        509,
+        500,
+        380,
+        411,
+        13430,
+        1651,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3111505889892578,
+      "compression_ratio": 1.5940594059405941,
+      "no_speech_prob": 0.10264365375041962,
+      "words": [
+        {
+          "word": " You",
+          "start": 59.92,
+          "end": 60.16,
+          "probability": 0.6133305430412292
+        },
+        {
+          "word": " don't",
+          "start": 60.16,
+          "end": 60.4,
+          "probability": 0.9836012423038483
+        },
+        {
+          "word": " like",
+          "start": 60.4,
+          "end": 60.7,
+          "probability": 0.9817140102386475
+        },
+        {
+          "word": " answering",
+          "start": 60.7,
+          "end": 61.22,
+          "probability": 0.38148289918899536
+        },
+        {
+          "word": " questions.",
+          "start": 61.22,
+          "end": 61.739999999999995,
+          "probability": 0.257185161113739
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 4344,
+      "start": 64.94,
+      "end": 68.46,
+      "text": " But don't ask me questions.",
+      "tokens": [
+        51514,
+        583,
+        500,
+        380,
+        1029,
+        385,
+        1651,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3111505889892578,
+      "compression_ratio": 1.5940594059405941,
+      "no_speech_prob": 0.10264365375041962,
+      "words": [
+        {
+          "word": " But",
+          "start": 64.94,
+          "end": 65.97999999999999,
+          "probability": 0.7242966294288635
+        },
+        {
+          "word": " don't",
+          "start": 65.97999999999999,
+          "end": 67.02,
+          "probability": 0.9845277965068817
+        },
+        {
+          "word": " ask",
+          "start": 67.02,
+          "end": 67.46,
+          "probability": 0.9961029291152954
+        },
+        {
+          "word": " me",
+          "start": 67.46,
+          "end": 67.74,
+          "probability": 0.919971764087677
+        },
+        {
+          "word": " questions.",
+          "start": 67.74,
+          "end": 68.46,
+          "probability": 0.9931541681289673
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 4344,
+      "start": 70.66,
+      "end": 72.16,
+      "text": " Yourself, okay?",
+      "tokens": [
+        51714,
+        2260,
+        927,
+        11,
+        1392,
+        30,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3111505889892578,
+      "compression_ratio": 1.5940594059405941,
+      "no_speech_prob": 0.10264365375041962,
+      "words": [
+        {
+          "word": " Yourself,",
+          "start": 70.66,
+          "end": 71.7,
+          "probability": 0.49798369966447353
+        },
+        {
+          "word": " okay?",
+          "start": 71.94,
+          "end": 72.16,
+          "probability": 0.6991573572158813
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7344,
+      "start": 75.69999999999999,
+      "end": 80.44,
+      "text": " It makes me regret answering a question.",
+      "tokens": [
+        50414,
+        467,
+        1669,
+        385,
+        10879,
+        13430,
+        257,
+        1168,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.52446448802948,
+      "compression_ratio": 0.8518518518518519,
+      "no_speech_prob": 0.012317502871155739,
+      "words": [
+        {
+          "word": " It",
+          "start": 75.69999999999999,
+          "end": 77.1,
+          "probability": 0.1588636338710785
+        },
+        {
+          "word": " makes",
+          "start": 77.1,
+          "end": 77.34,
+          "probability": 0.9606447219848633
+        },
+        {
+          "word": " me",
+          "start": 77.34,
+          "end": 78.62,
+          "probability": 0.997234046459198
+        },
+        {
+          "word": " regret",
+          "start": 78.62,
+          "end": 79.14,
+          "probability": 0.844218373298645
+        },
+        {
+          "word": " answering",
+          "start": 79.14,
+          "end": 80.04,
+          "probability": 0.9548585414886475
+        },
+        {
+          "word": " a",
+          "start": 80.04,
+          "end": 80.4,
+          "probability": 0.167026549577713
+        },
+        {
+          "word": " question.",
+          "start": 80.4,
+          "end": 81.10000000000001,
+          "probability": 0.9555666446685791
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7344,
+      "start": 85.02,
+      "end": 85.02,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.52446448802948,
+      "compression_ratio": 0.8518518518518519,
+      "no_speech_prob": 0.012317502871155739,
+      "words": []
+    },
+    {
+      "id": 14,
+      "seek": 8502,
+      "start": 98.7,
+      "end": 104.12,
+      "text": " I don't like living on that floor.",
+      "tokens": [
+        50364,
+        286,
+        500,
+        380,
+        411,
+        2647,
+        322,
+        300,
+        4123,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6630483141132429,
+      "compression_ratio": 1.6842105263157894,
+      "no_speech_prob": 0.20378011465072632,
+      "words": [
+        {
+          "word": " I",
+          "start": 98.7,
+          "end": 99.72,
+          "probability": 0.6675863862037659
+        },
+        {
+          "word": " don't",
+          "start": 99.72,
+          "end": 100.04,
+          "probability": 0.9384808838367462
+        },
+        {
+          "word": " like",
+          "start": 100.04,
+          "end": 100.4,
+          "probability": 0.9859812259674072
+        },
+        {
+          "word": " living",
+          "start": 100.4,
+          "end": 100.72,
+          "probability": 0.5523330569267273
+        },
+        {
+          "word": " on",
+          "start": 100.72,
+          "end": 102.36,
+          "probability": 0.8253688216209412
+        },
+        {
+          "word": " that",
+          "start": 102.36,
+          "end": 102.78,
+          "probability": 0.48611220717430115
+        },
+        {
+          "word": " floor.",
+          "start": 102.78,
+          "end": 104.12,
+          "probability": 0.04834066331386566
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 8502,
+      "start": 106.46,
+      "end": 108.58,
+      "text": " I'm a good person.",
+      "tokens": [
+        50714,
+        286,
+        478,
+        257,
+        665,
+        954,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6630483141132429,
+      "compression_ratio": 1.6842105263157894,
+      "no_speech_prob": 0.20378011465072632,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 106.46,
+          "end": 106.94,
+          "probability": 0.4630776196718216
+        },
+        {
+          "word": " a",
+          "start": 106.94,
+          "end": 107.2,
+          "probability": 0.4244801104068756
+        },
+        {
+          "word": " good",
+          "start": 107.2,
+          "end": 107.74,
+          "probability": 0.9828481674194336
+        },
+        {
+          "word": " person.",
+          "start": 107.74,
+          "end": 108.58,
+          "probability": 0.15268002450466156
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8502,
+      "start": 112.58000000000001,
+      "end": 114.96,
+      "text": " I can't get a good room.",
+      "tokens": [
+        50964,
+        286,
+        393,
+        380,
+        483,
+        257,
+        665,
+        1808,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6630483141132429,
+      "compression_ratio": 1.6842105263157894,
+      "no_speech_prob": 0.20378011465072632,
+      "words": [
+        {
+          "word": " I",
+          "start": 112.58000000000001,
+          "end": 113.60000000000001,
+          "probability": 0.41706645488739014
+        },
+        {
+          "word": " can't",
+          "start": 113.60000000000001,
+          "end": 114.62,
+          "probability": 0.6530198007822037
+        },
+        {
+          "word": " get",
+          "start": 114.62,
+          "end": 114.8,
+          "probability": 0.28683167695999146
+        },
+        {
+          "word": " a",
+          "start": 114.8,
+          "end": 114.96,
+          "probability": 0.06756970286369324
+        },
+        {
+          "word": " good",
+          "start": 114.96,
+          "end": 114.96,
+          "probability": 0.41396695375442505
+        },
+        {
+          "word": " room.",
+          "start": 114.96,
+          "end": 114.96,
+          "probability": 0.07212173938751221
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8502,
+      "start": 114.96,
+      "end": 115.0,
+      "text": " I can't get a good room.",
+      "tokens": [
+        51264,
+        286,
+        393,
+        380,
+        483,
+        257,
+        665,
+        1808,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6630483141132429,
+      "compression_ratio": 1.6842105263157894,
+      "no_speech_prob": 0.20378011465072632,
+      "words": [
+        {
+          "word": " I",
+          "start": 114.96,
+          "end": 114.96,
+          "probability": 0.308889776468277
+        },
+        {
+          "word": " can't",
+          "start": 114.96,
+          "end": 114.96,
+          "probability": 0.6912556290626526
+        },
+        {
+          "word": " get",
+          "start": 114.96,
+          "end": 114.96,
+          "probability": 0.8920188546180725
+        },
+        {
+          "word": " a",
+          "start": 114.96,
+          "end": 115.0,
+          "probability": 0.8616963624954224
+        },
+        {
+          "word": " good",
+          "start": 115.0,
+          "end": 115.0,
+          "probability": 0.9485952258110046
+        },
+        {
+          "word": " room.",
+          "start": 115.0,
+          "end": 115.0,
+          "probability": 0.7629358172416687
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8502,
+      "start": 115.0,
+      "end": 115.0,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.6630483141132429,
+      "compression_ratio": 1.6842105263157894,
+      "no_speech_prob": 0.20378011465072632,
+      "words": []
+    },
+    {
+      "id": 19,
+      "seek": 11500,
+      "start": 115.0,
+      "end": 116.0,
+      "text": " Okay.",
+      "tokens": [
+        50364,
+        1033,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17599494833695262,
+      "compression_ratio": 1.19,
+      "no_speech_prob": 0.3919645845890045,
+      "words": [
+        {
+          "word": " Okay.",
+          "start": 115.0,
+          "end": 116.0,
+          "probability": 0.29363182187080383
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 11500,
+      "start": 124.26000000000002,
+      "end": 129.64,
+      "text": " I just recorded this whole message and it's gone.",
+      "tokens": [
+        50914,
+        286,
+        445,
+        8287,
+        341,
+        1379,
+        3636,
+        293,
+        309,
+        311,
+        2780,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17599494833695262,
+      "compression_ratio": 1.19,
+      "no_speech_prob": 0.3919645845890045,
+      "words": [
+        {
+          "word": " I",
+          "start": 124.26000000000002,
+          "end": 125.30000000000001,
+          "probability": 0.28423136472702026
+        },
+        {
+          "word": " just",
+          "start": 125.30000000000001,
+          "end": 126.34,
+          "probability": 0.9238225221633911
+        },
+        {
+          "word": " recorded",
+          "start": 126.34,
+          "end": 127.08,
+          "probability": 0.9843491911888123
+        },
+        {
+          "word": " this",
+          "start": 127.08,
+          "end": 127.58,
+          "probability": 0.0220279973000288
+        },
+        {
+          "word": " whole",
+          "start": 127.58,
+          "end": 127.76,
+          "probability": 0.8249770998954773
+        },
+        {
+          "word": " message",
+          "start": 127.76,
+          "end": 128.16,
+          "probability": 0.0008712042472325265
+        },
+        {
+          "word": " and",
+          "start": 128.16,
+          "end": 128.48,
+          "probability": 0.020752638578414917
+        },
+        {
+          "word": " it's",
+          "start": 128.48,
+          "end": 129.0,
+          "probability": 0.44859327375888824
+        },
+        {
+          "word": " gone.",
+          "start": 129.0,
+          "end": 129.64,
+          "probability": 0.2097330391407013
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 11500,
+      "start": 136.0,
+      "end": 138.82,
+      "text": " In therapy, don't ask questions.",
+      "tokens": [
+        51414,
+        682,
+        9492,
+        11,
+        500,
+        380,
+        1029,
+        1651,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17599494833695262,
+      "compression_ratio": 1.19,
+      "no_speech_prob": 0.3919645845890045,
+      "words": [
+        {
+          "word": " In",
+          "start": 135.57999999999998,
+          "end": 136.1,
+          "probability": 0.743848979473114
+        },
+        {
+          "word": " therapy,",
+          "start": 136.1,
+          "end": 136.82,
+          "probability": 0.995976984500885
+        },
+        {
+          "word": " don't",
+          "start": 137.24,
+          "end": 138.5,
+          "probability": 0.5158357750624418
+        },
+        {
+          "word": " ask",
+          "start": 138.5,
+          "end": 138.58,
+          "probability": 0.27064040303230286
+        },
+        {
+          "word": " questions.",
+          "start": 138.58,
+          "end": 138.82,
+          "probability": 0.08599931746721268
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 11500,
+      "start": 140.0,
+      "end": 142.34,
+      "text": " You don't get asked questions.",
+      "tokens": [
+        51614,
+        509,
+        500,
+        380,
+        483,
+        2351,
+        1651,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17599494833695262,
+      "compression_ratio": 1.19,
+      "no_speech_prob": 0.3919645845890045,
+      "words": [
+        {
+          "word": " You",
+          "start": 139.67999999999998,
+          "end": 140.2,
+          "probability": 0.7778280973434448
+        },
+        {
+          "word": " don't",
+          "start": 140.2,
+          "end": 140.4,
+          "probability": 0.9878607392311096
+        },
+        {
+          "word": " get",
+          "start": 140.4,
+          "end": 140.78,
+          "probability": 0.9970364570617676
+        },
+        {
+          "word": " asked",
+          "start": 140.78,
+          "end": 141.22,
+          "probability": 0.339756041765213
+        },
+        {
+          "word": " questions.",
+          "start": 141.22,
+          "end": 142.34,
+          "probability": 0.6799105405807495
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 14234,
+      "start": 142.34,
+      "end": 147.3,
+      "text": " In therapy, don't ask questions.",
+      "tokens": [
+        50414,
+        682,
+        9492,
+        11,
+        500,
+        380,
+        1029,
+        1651,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36593468983968097,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.10231871157884598,
+      "words": [
+        {
+          "word": " In",
+          "start": 142.34,
+          "end": 142.34,
+          "probability": 0.006473895162343979
+        },
+        {
+          "word": " therapy,",
+          "start": 142.34,
+          "end": 143.42,
+          "probability": 0.00046080141328275204
+        },
+        {
+          "word": " don't",
+          "start": 144.04,
+          "end": 146.52,
+          "probability": 0.48989045922644436
+        },
+        {
+          "word": " ask",
+          "start": 146.52,
+          "end": 147.24,
+          "probability": 0.02902003563940525
+        },
+        {
+          "word": " questions.",
+          "start": 147.24,
+          "end": 147.3,
+          "probability": 0.8301692008972168
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 14234,
+      "start": 148.48,
+      "end": 149.58,
+      "text": " You don't get asked questions.",
+      "tokens": [
+        50664,
+        509,
+        500,
+        380,
+        483,
+        2351,
+        1651,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36593468983968097,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.10231871157884598,
+      "words": [
+        {
+          "word": " You",
+          "start": 148.48,
+          "end": 148.9,
+          "probability": 0.07973712682723999
+        },
+        {
+          "word": " don't",
+          "start": 148.9,
+          "end": 149.14,
+          "probability": 0.5522504188120365
+        },
+        {
+          "word": " get",
+          "start": 149.14,
+          "end": 149.26,
+          "probability": 0.026179205626249313
+        },
+        {
+          "word": " asked",
+          "start": 149.26,
+          "end": 149.54,
+          "probability": 0.013127193786203861
+        },
+        {
+          "word": " questions.",
+          "start": 149.54,
+          "end": 149.58,
+          "probability": 0.7566476464271545
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 14234,
+      "start": 149.96,
+      "end": 152.16,
+      "text": " Inability therapy?",
+      "tokens": [
+        50864,
+        682,
+        2310,
+        9492,
+        30,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36593468983968097,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.10231871157884598,
+      "words": [
+        {
+          "word": " Inability",
+          "start": 149.96,
+          "end": 150.92,
+          "probability": 0.09121883436114331
+        },
+        {
+          "word": " therapy?",
+          "start": 150.92,
+          "end": 152.16,
+          "probability": 0.00483158091083169
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 14234,
+      "start": 155.46,
+      "end": 159.72,
+      "text": " If your therapist is any good, they're not supposed to ask questions.",
+      "tokens": [
+        51014,
+        759,
+        428,
+        19830,
+        307,
+        604,
+        665,
+        11,
+        436,
+        434,
+        406,
+        3442,
+        281,
+        1029,
+        1651,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36593468983968097,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.10231871157884598,
+      "words": [
+        {
+          "word": " If",
+          "start": 155.46,
+          "end": 155.82,
+          "probability": 0.0031800561118870974
+        },
+        {
+          "word": " your",
+          "start": 155.82,
+          "end": 155.84,
+          "probability": 0.0873120129108429
+        },
+        {
+          "word": " therapist",
+          "start": 155.84,
+          "end": 156.4,
+          "probability": 0.04919920861721039
+        },
+        {
+          "word": " is",
+          "start": 156.4,
+          "end": 157.5,
+          "probability": 0.32969164848327637
+        },
+        {
+          "word": " any",
+          "start": 157.5,
+          "end": 157.8,
+          "probability": 0.0733470618724823
+        },
+        {
+          "word": " good,",
+          "start": 157.8,
+          "end": 158.16,
+          "probability": 0.1869850754737854
+        },
+        {
+          "word": " they're",
+          "start": 158.16,
+          "end": 158.36,
+          "probability": 0.33593951165676117
+        },
+        {
+          "word": " not",
+          "start": 158.36,
+          "end": 158.36,
+          "probability": 0.06158129498362541
+        },
+        {
+          "word": " supposed",
+          "start": 158.36,
+          "end": 158.5,
+          "probability": 0.9712725281715393
+        },
+        {
+          "word": " to",
+          "start": 158.5,
+          "end": 159.06,
+          "probability": 0.9970780611038208
+        },
+        {
+          "word": " ask",
+          "start": 159.06,
+          "end": 159.06,
+          "probability": 0.9912344217300415
+        },
+        {
+          "word": " questions.",
+          "start": 159.06,
+          "end": 159.72,
+          "probability": 0.5461694598197937
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 14234,
+      "start": 160.24,
+      "end": 163.12,
+      "text": " In the largest they can.",
+      "tokens": [
+        51264,
+        682,
+        264,
+        6443,
+        436,
+        393,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36593468983968097,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.10231871157884598,
+      "words": [
+        {
+          "word": " In",
+          "start": 160.24,
+          "end": 161.06,
+          "probability": 0.5721333026885986
+        },
+        {
+          "word": " the",
+          "start": 161.06,
+          "end": 161.26,
+          "probability": 0.458327054977417
+        },
+        {
+          "word": " largest",
+          "start": 161.26,
+          "end": 161.6,
+          "probability": 0.35660120844841003
+        },
+        {
+          "word": " they",
+          "start": 161.6,
+          "end": 162.82,
+          "probability": 0.40564072132110596
+        },
+        {
+          "word": " can.",
+          "start": 162.82,
+          "end": 163.12,
+          "probability": 0.9872738122940063
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 14234,
+      "start": 163.42,
+      "end": 168.34,
+      "text": " I'm full of questions.",
+      "tokens": [
+        51564,
+        286,
+        478,
+        1577,
+        295,
+        1651,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36593468983968097,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.10231871157884598,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 163.42,
+          "end": 163.86,
+          "probability": 0.3533715307712555
+        },
+        {
+          "word": " full",
+          "start": 163.86,
+          "end": 163.86,
+          "probability": 0.4564290940761566
+        },
+        {
+          "word": " of",
+          "start": 163.86,
+          "end": 167.68,
+          "probability": 0.6891456842422485
+        },
+        {
+          "word": " questions.",
+          "start": 167.68,
+          "end": 168.34,
+          "probability": 0.9618668556213379
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 16834,
+      "start": 169.98,
+      "end": 172.62,
+      "text": " Friends ask questions.",
+      "tokens": [
+        50364,
+        14042,
+        1029,
+        1651,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.355822736566717,
+      "compression_ratio": 1.2941176470588236,
+      "no_speech_prob": 0.12433073669672012,
+      "words": [
+        {
+          "word": " Friends",
+          "start": 169.98,
+          "end": 171.1,
+          "probability": 0.0006508354563266039
+        },
+        {
+          "word": " ask",
+          "start": 171.1,
+          "end": 171.58,
+          "probability": 0.9258822798728943
+        },
+        {
+          "word": " questions.",
+          "start": 171.58,
+          "end": 172.62,
+          "probability": 0.5556014776229858
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 16834,
+      "start": 174.02,
+      "end": 175.78,
+      "text": " Yeah, the last question.",
+      "tokens": [
+        50614,
+        865,
+        11,
+        264,
+        1036,
+        1168,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.355822736566717,
+      "compression_ratio": 1.2941176470588236,
+      "no_speech_prob": 0.12433073669672012,
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 174.02,
+          "end": 174.44,
+          "probability": 0.3327626585960388
+        },
+        {
+          "word": " the",
+          "start": 175.1,
+          "end": 175.1,
+          "probability": 0.28885599970817566
+        },
+        {
+          "word": " last",
+          "start": 175.1,
+          "end": 175.3,
+          "probability": 0.03075404092669487
+        },
+        {
+          "word": " question.",
+          "start": 175.3,
+          "end": 175.78,
+          "probability": 0.2845124900341034
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 16834,
+      "start": 177.78,
+      "end": 181.38,
+      "text": " You don't like answering them, you know?",
+      "tokens": [
+        50864,
+        509,
+        500,
+        380,
+        411,
+        13430,
+        552,
+        11,
+        291,
+        458,
+        30,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.355822736566717,
+      "compression_ratio": 1.2941176470588236,
+      "no_speech_prob": 0.12433073669672012,
+      "words": [
+        {
+          "word": " You",
+          "start": 177.78,
+          "end": 177.98,
+          "probability": 0.6411381959915161
+        },
+        {
+          "word": " don't",
+          "start": 177.98,
+          "end": 179.44,
+          "probability": 0.9571031928062439
+        },
+        {
+          "word": " like",
+          "start": 179.44,
+          "end": 179.72,
+          "probability": 0.9674896001815796
+        },
+        {
+          "word": " answering",
+          "start": 179.72,
+          "end": 180.28,
+          "probability": 0.9526742100715637
+        },
+        {
+          "word": " them,",
+          "start": 180.28,
+          "end": 180.76,
+          "probability": 0.9788711667060852
+        },
+        {
+          "word": " you",
+          "start": 180.76,
+          "end": 181.32,
+          "probability": 0.9401174783706665
+        },
+        {
+          "word": " know?",
+          "start": 181.32,
+          "end": 181.38,
+          "probability": 0.9813209176063538
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 16834,
+      "start": 182.24,
+      "end": 187.28,
+      "text": " But don't ask me questions.",
+      "tokens": [
+        51214,
+        583,
+        500,
+        380,
+        1029,
+        385,
+        1651,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.355822736566717,
+      "compression_ratio": 1.2941176470588236,
+      "no_speech_prob": 0.12433073669672012,
+      "words": [
+        {
+          "word": " But",
+          "start": 182.24,
+          "end": 182.24,
+          "probability": 0.41745540499687195
+        },
+        {
+          "word": " don't",
+          "start": 182.24,
+          "end": 186.02,
+          "probability": 0.9806973338127136
+        },
+        {
+          "word": " ask",
+          "start": 186.02,
+          "end": 186.36,
+          "probability": 0.998264729976654
+        },
+        {
+          "word": " me",
+          "start": 186.36,
+          "end": 186.76,
+          "probability": 0.9821333289146423
+        },
+        {
+          "word": " questions.",
+          "start": 186.76,
+          "end": 187.28,
+          "probability": 0.9953476786613464
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 16834,
+      "start": 189.46,
+      "end": 191.44,
+      "text": " Yourself, okay?",
+      "tokens": [
+        51364,
+        2260,
+        927,
+        11,
+        1392,
+        30,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.355822736566717,
+      "compression_ratio": 1.2941176470588236,
+      "no_speech_prob": 0.12433073669672012,
+      "words": [
+        {
+          "word": " Yourself,",
+          "start": 189.46,
+          "end": 190.58,
+          "probability": 0.42106481408700347
+        },
+        {
+          "word": " okay?",
+          "start": 191.44,
+          "end": 191.44,
+          "probability": 0.7455220818519592
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 19144,
+      "start": 191.44,
+      "end": 201.68,
+      "text": " It makes me regret answering any questions too.",
+      "tokens": [
+        50364,
+        467,
+        1669,
+        385,
+        10879,
+        13430,
+        604,
+        1651,
+        886,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4183500730074369,
+      "compression_ratio": 0.8867924528301887,
+      "no_speech_prob": 0.0666799545288086,
+      "words": [
+        {
+          "word": " It",
+          "start": 191.44,
+          "end": 192.2,
+          "probability": 0.18507447838783264
+        },
+        {
+          "word": " makes",
+          "start": 192.2,
+          "end": 196.1,
+          "probability": 0.9306100010871887
+        },
+        {
+          "word": " me",
+          "start": 196.1,
+          "end": 197.54,
+          "probability": 0.9987549781799316
+        },
+        {
+          "word": " regret",
+          "start": 197.54,
+          "end": 198.22,
+          "probability": 0.9587130546569824
+        },
+        {
+          "word": " answering",
+          "start": 198.22,
+          "end": 199.04,
+          "probability": 0.9694756269454956
+        },
+        {
+          "word": " any",
+          "start": 199.04,
+          "end": 199.46,
+          "probability": 0.9855679273605347
+        },
+        {
+          "word": " questions",
+          "start": 199.46,
+          "end": 200.12,
+          "probability": 0.9823265671730042
+        },
+        {
+          "word": " too.",
+          "start": 200.12,
+          "end": 201.68,
+          "probability": 0.4648890197277069
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 20168,
+      "start": 210.32,
+      "end": 211.32,
+      "text": " Because...",
+      "tokens": [
+        50414,
+        1436,
+        485,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17951373396248654,
+      "compression_ratio": 1.0263157894736843,
+      "no_speech_prob": 0.420920193195343,
+      "words": [
+        {
+          "word": " Because...",
+          "start": 210.32,
+          "end": 211.32,
+          "probability": 0.31048180162906647
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 20168,
+      "start": 211.32,
+      "end": 222.58,
+      "text": " I don't like living on a bad note.",
+      "tokens": [
+        51214,
+        286,
+        500,
+        380,
+        411,
+        2647,
+        322,
+        257,
+        1578,
+        3637,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17951373396248654,
+      "compression_ratio": 1.0263157894736843,
+      "no_speech_prob": 0.420920193195343,
+      "words": [
+        {
+          "word": " I",
+          "start": 211.32,
+          "end": 211.32,
+          "probability": 0.12791669368743896
+        },
+        {
+          "word": " don't",
+          "start": 211.32,
+          "end": 218.98,
+          "probability": 0.9828431904315948
+        },
+        {
+          "word": " like",
+          "start": 218.98,
+          "end": 219.46,
+          "probability": 0.9970299005508423
+        },
+        {
+          "word": " living",
+          "start": 219.46,
+          "end": 220.1,
+          "probability": 0.837712824344635
+        },
+        {
+          "word": " on",
+          "start": 220.1,
+          "end": 221.34,
+          "probability": 0.9081542491912842
+        },
+        {
+          "word": " a",
+          "start": 221.34,
+          "end": 221.58,
+          "probability": 0.9834076762199402
+        },
+        {
+          "word": " bad",
+          "start": 221.58,
+          "end": 221.92,
+          "probability": 0.9988898634910583
+        },
+        {
+          "word": " note.",
+          "start": 221.92,
+          "end": 222.58,
+          "probability": 0.9880475997924805
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 20168,
+      "start": 224.96,
+      "end": 227.68,
+      "text": " I can't make it good now, but...",
+      "tokens": [
+        51514,
+        286,
+        393,
+        380,
+        652,
+        309,
+        665,
+        586,
+        11,
+        457,
+        485,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17951373396248654,
+      "compression_ratio": 1.0263157894736843,
+      "no_speech_prob": 0.420920193195343,
+      "words": [
+        {
+          "word": " I",
+          "start": 224.96,
+          "end": 225.42,
+          "probability": 0.5749680399894714
+        },
+        {
+          "word": " can't",
+          "start": 225.42,
+          "end": 225.86,
+          "probability": 0.9454920589923859
+        },
+        {
+          "word": " make",
+          "start": 225.86,
+          "end": 226.14,
+          "probability": 0.9924195408821106
+        },
+        {
+          "word": " it",
+          "start": 226.14,
+          "end": 226.34,
+          "probability": 0.9927045702934265
+        },
+        {
+          "word": " good",
+          "start": 226.34,
+          "end": 226.68,
+          "probability": 0.9742074608802795
+        },
+        {
+          "word": " now,",
+          "start": 226.68,
+          "end": 227.2,
+          "probability": 0.6689414381980896
+        },
+        {
+          "word": " but...",
+          "start": 227.2,
+          "end": 227.7,
+          "probability": 0.9394634962081909
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 23168,
+      "start": 232.68,
+      "end": 234.68,
+      "text": " I can make it okay.",
+      "tokens": [
+        50414,
+        286,
+        393,
+        652,
+        309,
+        1392,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21968419735248274,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.006031032186001539,
+      "words": [
+        {
+          "word": " I",
+          "start": 232.48000000000002,
+          "end": 233.18,
+          "probability": 0.8295295834541321
+        },
+        {
+          "word": " can",
+          "start": 233.18,
+          "end": 233.5,
+          "probability": 0.9817736744880676
+        },
+        {
+          "word": " make",
+          "start": 233.5,
+          "end": 233.66,
+          "probability": 0.9590778350830078
+        },
+        {
+          "word": " it",
+          "start": 233.66,
+          "end": 234.04,
+          "probability": 0.9968389272689819
+        },
+        {
+          "word": " okay.",
+          "start": 234.04,
+          "end": 234.73999999999998,
+          "probability": 0.5081467032432556
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 23168,
+      "start": 237.14,
+      "end": 237.68,
+      "text": " If...",
+      "tokens": [
+        50564,
+        759,
+        485,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21968419735248274,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.006031032186001539,
+      "words": [
+        {
+          "word": " If...",
+          "start": 237.14,
+          "end": 237.83999999999997,
+          "probability": 0.37486498802900314
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,516 @@
+{
+  "text": " Drugs, alcohol, work, lack of sleep, mum, night shoes, get by. Drugs, alcohol, work, lack of sleep, mum, night shoes, get by. Drugs, alcohol, work, lack of sleep, mum, night shoes, get by. Drugs, alcohol, work, lack of sleep, mum, night shoes, get by. Drugs, alcohol, work, lack of sleep, mum, night shoes, get by.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 5.5600000000000005,
+      "end": 21.06,
+      "text": " Drugs, alcohol, work, lack of sleep, mum, night shoes, get by.",
+      "tokens": [
+        50364,
+        2491,
+        14950,
+        11,
+        7658,
+        11,
+        589,
+        11,
+        5011,
+        295,
+        2817,
+        11,
+        14697,
+        11,
+        1818,
+        6654,
+        11,
+        483,
+        538,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47432182146155316,
+      "compression_ratio": 0.9117647058823529,
+      "no_speech_prob": 0.5198032855987549,
+      "words": [
+        {
+          "word": " Drugs,",
+          "start": 5.5600000000000005,
+          "end": 6.96,
+          "probability": 0.7143699526786804
+        },
+        {
+          "word": " alcohol,",
+          "start": 7.46,
+          "end": 8.16,
+          "probability": 0.8730815649032593
+        },
+        {
+          "word": " work,",
+          "start": 9.68,
+          "end": 10.24,
+          "probability": 0.9921327233314514
+        },
+        {
+          "word": " lack",
+          "start": 11.58,
+          "end": 11.96,
+          "probability": 0.9920952916145325
+        },
+        {
+          "word": " of",
+          "start": 11.96,
+          "end": 12.48,
+          "probability": 0.9978615641593933
+        },
+        {
+          "word": " sleep,",
+          "start": 12.48,
+          "end": 13.84,
+          "probability": 0.9969877600669861
+        },
+        {
+          "word": " mum,",
+          "start": 14.52,
+          "end": 14.96,
+          "probability": 0.812136709690094
+        },
+        {
+          "word": " night",
+          "start": 16.78,
+          "end": 17.14,
+          "probability": 0.6360697746276855
+        },
+        {
+          "word": " shoes,",
+          "start": 17.14,
+          "end": 18.42,
+          "probability": 0.5858705043792725
+        },
+        {
+          "word": " get",
+          "start": 19.6,
+          "end": 19.8,
+          "probability": 0.3763788044452667
+        },
+        {
+          "word": " by.",
+          "start": 19.8,
+          "end": 21.06,
+          "probability": 0.13520865142345428
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2106,
+      "start": 23.68,
+      "end": 40.76,
+      "text": " Drugs, alcohol, work, lack of sleep, mum, night shoes, get by.",
+      "tokens": [
+        50414,
+        2491,
+        14950,
+        11,
+        7658,
+        11,
+        589,
+        11,
+        5011,
+        295,
+        2817,
+        11,
+        14697,
+        11,
+        1818,
+        6654,
+        11,
+        483,
+        538,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17124104499816895,
+      "compression_ratio": 0.9117647058823529,
+      "no_speech_prob": 0.872565746307373,
+      "words": [
+        {
+          "word": " Drugs,",
+          "start": 23.68,
+          "end": 25.08,
+          "probability": 0.615239754319191
+        },
+        {
+          "word": " alcohol,",
+          "start": 25.54,
+          "end": 26.28,
+          "probability": 0.8747459650039673
+        },
+        {
+          "word": " work,",
+          "start": 27.98,
+          "end": 28.66,
+          "probability": 0.020113976672291756
+        },
+        {
+          "word": " lack",
+          "start": 29.98,
+          "end": 30.48,
+          "probability": 0.0010489075211808085
+        },
+        {
+          "word": " of",
+          "start": 30.48,
+          "end": 30.9,
+          "probability": 0.8304113745689392
+        },
+        {
+          "word": " sleep,",
+          "start": 30.9,
+          "end": 31.78,
+          "probability": 0.9932946562767029
+        },
+        {
+          "word": " mum,",
+          "start": 33.8,
+          "end": 34.16,
+          "probability": 2.077396129607223e-05
+        },
+        {
+          "word": " night",
+          "start": 35.98,
+          "end": 36.72,
+          "probability": 0.0071456823498010635
+        },
+        {
+          "word": " shoes,",
+          "start": 36.72,
+          "end": 38.12,
+          "probability": 0.0027634892612695694
+        },
+        {
+          "word": " get",
+          "start": 38.94,
+          "end": 39.6,
+          "probability": 0.0003796867677010596
+        },
+        {
+          "word": " by.",
+          "start": 39.6,
+          "end": 40.76,
+          "probability": 0.0003009613137692213
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 4076,
+      "start": 43.64,
+      "end": 59.8,
+      "text": " Drugs, alcohol, work, lack of sleep, mum, night shoes, get by.",
+      "tokens": [
+        50364,
+        2491,
+        14950,
+        11,
+        7658,
+        11,
+        589,
+        11,
+        5011,
+        295,
+        2817,
+        11,
+        14697,
+        11,
+        1818,
+        6654,
+        11,
+        483,
+        538,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11868079848911452,
+      "compression_ratio": 0.9117647058823529,
+      "no_speech_prob": 0.6616262793540955,
+      "words": [
+        {
+          "word": " Drugs,",
+          "start": 43.64,
+          "end": 45.04,
+          "probability": 0.5811478272080421
+        },
+        {
+          "word": " alcohol,",
+          "start": 45.6,
+          "end": 46.14,
+          "probability": 0.9321481585502625
+        },
+        {
+          "word": " work,",
+          "start": 46.64,
+          "end": 48.06,
+          "probability": 1.0437837772769853e-05
+        },
+        {
+          "word": " lack",
+          "start": 50.5,
+          "end": 51.26,
+          "probability": 0.12496529519557953
+        },
+        {
+          "word": " of",
+          "start": 51.26,
+          "end": 51.68,
+          "probability": 0.9833711385726929
+        },
+        {
+          "word": " sleep,",
+          "start": 51.68,
+          "end": 53.26,
+          "probability": 0.7411233186721802
+        },
+        {
+          "word": " mum,",
+          "start": 54.04,
+          "end": 54.46,
+          "probability": 0.00018136574362870306
+        },
+        {
+          "word": " night",
+          "start": 56.02,
+          "end": 56.78,
+          "probability": 0.37209656834602356
+        },
+        {
+          "word": " shoes,",
+          "start": 56.78,
+          "end": 58.04,
+          "probability": 0.0013452382991090417
+        },
+        {
+          "word": " get",
+          "start": 59.28,
+          "end": 59.44,
+          "probability": 0.030548125505447388
+        },
+        {
+          "word": " by.",
+          "start": 59.44,
+          "end": 59.8,
+          "probability": 0.00025178701616823673
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 5980,
+      "start": 64.05999999999999,
+      "end": 82.32,
+      "text": " Drugs, alcohol, work, lack of sleep, mum, night shoes, get by.",
+      "tokens": [
+        50364,
+        2491,
+        14950,
+        11,
+        7658,
+        11,
+        589,
+        11,
+        5011,
+        295,
+        2817,
+        11,
+        14697,
+        11,
+        1818,
+        6654,
+        11,
+        483,
+        538,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1559152603149414,
+      "compression_ratio": 0.9117647058823529,
+      "no_speech_prob": 0.8998395800590515,
+      "words": [
+        {
+          "word": " Drugs,",
+          "start": 64.05999999999999,
+          "end": 65.46,
+          "probability": 0.33320095809176564
+        },
+        {
+          "word": " alcohol,",
+          "start": 67.46,
+          "end": 67.46,
+          "probability": 0.6552653312683105
+        },
+        {
+          "word": " work,",
+          "start": 68.94,
+          "end": 69.54,
+          "probability": 0.2160063236951828
+        },
+        {
+          "word": " lack",
+          "start": 71.42,
+          "end": 71.56,
+          "probability": 0.00031763094011694193
+        },
+        {
+          "word": " of",
+          "start": 71.56,
+          "end": 74.0,
+          "probability": 0.09397006034851074
+        },
+        {
+          "word": " sleep,",
+          "start": 74.0,
+          "end": 74.86,
+          "probability": 0.15023210644721985
+        },
+        {
+          "word": " mum,",
+          "start": 76.82,
+          "end": 77.06,
+          "probability": 5.302534191287123e-06
+        },
+        {
+          "word": " night",
+          "start": 77.24,
+          "end": 77.24,
+          "probability": 0.0016435559373348951
+        },
+        {
+          "word": " shoes,",
+          "start": 77.24,
+          "end": 78.16,
+          "probability": 0.003301019547507167
+        },
+        {
+          "word": " get",
+          "start": 79.66,
+          "end": 79.98,
+          "probability": 0.09893068671226501
+        },
+        {
+          "word": " by.",
+          "start": 79.98,
+          "end": 82.32,
+          "probability": 0.002704264596104622
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 8232,
+      "start": 85.19999999999999,
+      "end": 101.22,
+      "text": " Drugs, alcohol, work, lack of sleep, mum, night shoes, get by.",
+      "tokens": [
+        50364,
+        2491,
+        14950,
+        11,
+        7658,
+        11,
+        589,
+        11,
+        5011,
+        295,
+        2817,
+        11,
+        14697,
+        11,
+        1818,
+        6654,
+        11,
+        483,
+        538,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09419368613849986,
+      "compression_ratio": 0.9117647058823529,
+      "no_speech_prob": 0.782036542892456,
+      "words": [
+        {
+          "word": " Drugs,",
+          "start": 85.19999999999999,
+          "end": 86.6,
+          "probability": 0.04999103769659996
+        },
+        {
+          "word": " alcohol,",
+          "start": 88.38,
+          "end": 88.38,
+          "probability": 0.6644052863121033
+        },
+        {
+          "word": " work,",
+          "start": 90.86,
+          "end": 90.86,
+          "probability": 0.07507743686437607
+        },
+        {
+          "word": " lack",
+          "start": 92.4,
+          "end": 92.52,
+          "probability": 0.6192405819892883
+        },
+        {
+          "word": " of",
+          "start": 92.52,
+          "end": 92.82,
+          "probability": 0.9417950510978699
+        },
+        {
+          "word": " sleep,",
+          "start": 92.82,
+          "end": 93.68,
+          "probability": 0.9881302118301392
+        },
+        {
+          "word": " mum,",
+          "start": 95.72,
+          "end": 95.72,
+          "probability": 0.0013772279489785433
+        },
+        {
+          "word": " night",
+          "start": 97.24,
+          "end": 97.56,
+          "probability": 0.12082281708717346
+        },
+        {
+          "word": " shoes,",
+          "start": 97.56,
+          "end": 98.26,
+          "probability": 0.11520599573850632
+        },
+        {
+          "word": " get",
+          "start": 100.1,
+          "end": 100.34,
+          "probability": 0.03048630617558956
+        },
+        {
+          "word": " by.",
+          "start": 100.34,
+          "end": 101.22,
+          "probability": 0.0025796040426939726
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

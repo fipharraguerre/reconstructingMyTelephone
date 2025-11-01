@@ -1,0 +1,2462 @@
+{
+  "text": " Yeah? Yeah? Yeah, yeah, yeah, yeah I'm on the train on my way home I want the song to be influenced by my experience of it, of the journey And my experience of it is influenced by my train journey The listening experience cannot be isolated The music sets the mood and the mood sets the music I'm facing backwards, rewinding myself back home There's nothing unusual about this journey Apart from that now it's an important part of this song And I just read your message where you said you made this song on the train And I made this song on the train too So it's meant to be There's a lot of train in this song I can hear it and you can hear it too I'm drawing away from fields and gravel A single horse, a small cemetery I wonder if there are as many people alive in this piece of land The train is pretty empty I could be singing over these brown fields Under hovering clouds reflected in ponds Cows hunched down, allotments, willow trees, straw fields, an orange strip of sky The sunset is almost completely grey How does water look so good in any light? Marshes, factories, windmills It's hard to separate myself from the landscape Someone keeps saying yeah I can hear my voice merging with the music The train's movement, the rattling of the empty baggage racks I'm enmeshed in the view The view is enmeshed with music I am the view I am the song I am the sky",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 6.4,
+      "end": 7.0,
+      "text": " Yeah?",
+      "tokens": [
+        50364,
+        865,
+        30,
+        50714
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7473516464233398,
+      "compression_ratio": 1.2941176470588236,
+      "no_speech_prob": 0.12776030600070953,
+      "words": [
+        {
+          "word": " Yeah?",
+          "start": 6.4,
+          "end": 7.1000000000000005,
+          "probability": 0.23783548176288605
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.62,
+      "end": 11.48,
+      "text": " Yeah?",
+      "tokens": [
+        50714,
+        865,
+        30,
+        50864
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7473516464233398,
+      "compression_ratio": 1.2941176470588236,
+      "no_speech_prob": 0.12776030600070953,
+      "words": [
+        {
+          "word": " Yeah?",
+          "start": 10.62,
+          "end": 11.48,
+          "probability": 0.34242770075798035
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.48,
+      "end": 15.44,
+      "text": " Yeah, yeah, yeah, yeah",
+      "tokens": [
+        50864,
+        865,
+        11,
+        1338,
+        11,
+        1338,
+        11,
+        1338,
+        51164
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7473516464233398,
+      "compression_ratio": 1.2941176470588236,
+      "no_speech_prob": 0.12776030600070953,
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 11.48,
+          "end": 11.48,
+          "probability": 0.3431997299194336
+        },
+        {
+          "word": " yeah,",
+          "start": 11.48,
+          "end": 12.18,
+          "probability": 0.8463875651359558
+        },
+        {
+          "word": " yeah,",
+          "start": 12.18,
+          "end": 13.54,
+          "probability": 0.9717980027198792
+        },
+        {
+          "word": " yeah",
+          "start": 13.54,
+          "end": 15.44,
+          "probability": 0.9648438096046448
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 20.0,
+      "end": 23.0,
+      "text": " I'm on the train on my way home",
+      "tokens": [
+        51364,
+        286,
+        478,
+        322,
+        264,
+        3847,
+        322,
+        452,
+        636,
+        1280,
+        51514
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7473516464233398,
+      "compression_ratio": 1.2941176470588236,
+      "no_speech_prob": 0.12776030600070953,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 20.0,
+          "end": 20.88,
+          "probability": 0.6059562712907791
+        },
+        {
+          "word": " on",
+          "start": 20.88,
+          "end": 21.04,
+          "probability": 0.986856997013092
+        },
+        {
+          "word": " the",
+          "start": 21.04,
+          "end": 21.4,
+          "probability": 0.9842104911804199
+        },
+        {
+          "word": " train",
+          "start": 21.4,
+          "end": 21.6,
+          "probability": 0.9966249465942383
+        },
+        {
+          "word": " on",
+          "start": 21.6,
+          "end": 21.86,
+          "probability": 0.9630284905433655
+        },
+        {
+          "word": " my",
+          "start": 21.86,
+          "end": 22.08,
+          "probability": 0.9418611526489258
+        },
+        {
+          "word": " way",
+          "start": 22.08,
+          "end": 22.4,
+          "probability": 0.9987843632698059
+        },
+        {
+          "word": " home",
+          "start": 22.4,
+          "end": 23.099999999999998,
+          "probability": 0.9966953992843628
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2310,
+      "start": 35.9,
+      "end": 42.72,
+      "text": " I want the song to be influenced by my experience of it, of the journey",
+      "tokens": [
+        50364,
+        286,
+        528,
+        264,
+        2153,
+        281,
+        312,
+        15269,
+        538,
+        452,
+        1752,
+        295,
+        309,
+        11,
+        295,
+        264,
+        4671,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3425485610961914,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.020727770403027534,
+      "words": [
+        {
+          "word": " I",
+          "start": 35.9,
+          "end": 36.68,
+          "probability": 0.4066963195800781
+        },
+        {
+          "word": " want",
+          "start": 36.68,
+          "end": 37.12,
+          "probability": 0.9447278380393982
+        },
+        {
+          "word": " the",
+          "start": 37.12,
+          "end": 37.54,
+          "probability": 0.9278424978256226
+        },
+        {
+          "word": " song",
+          "start": 37.54,
+          "end": 37.76,
+          "probability": 0.9948968291282654
+        },
+        {
+          "word": " to",
+          "start": 37.76,
+          "end": 38.1,
+          "probability": 0.9945401549339294
+        },
+        {
+          "word": " be",
+          "start": 38.1,
+          "end": 38.46,
+          "probability": 0.9969469904899597
+        },
+        {
+          "word": " influenced",
+          "start": 38.46,
+          "end": 39.06,
+          "probability": 0.9935408234596252
+        },
+        {
+          "word": " by",
+          "start": 39.06,
+          "end": 39.42,
+          "probability": 0.9841528534889221
+        },
+        {
+          "word": " my",
+          "start": 39.42,
+          "end": 39.88,
+          "probability": 0.9894947409629822
+        },
+        {
+          "word": " experience",
+          "start": 39.88,
+          "end": 40.7,
+          "probability": 0.9858279228210449
+        },
+        {
+          "word": " of",
+          "start": 40.7,
+          "end": 41.14,
+          "probability": 0.9833389520645142
+        },
+        {
+          "word": " it,",
+          "start": 41.14,
+          "end": 41.42,
+          "probability": 0.6950613260269165
+        },
+        {
+          "word": " of",
+          "start": 41.5,
+          "end": 41.78,
+          "probability": 0.9855952262878418
+        },
+        {
+          "word": " the",
+          "start": 41.78,
+          "end": 42.1,
+          "probability": 0.9897262454032898
+        },
+        {
+          "word": " journey",
+          "start": 42.1,
+          "end": 42.72,
+          "probability": 0.977288544178009
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4272,
+      "start": 42.72,
+      "end": 51.04,
+      "text": " And my experience of it is influenced by my train journey",
+      "tokens": [
+        50414,
+        400,
+        452,
+        1752,
+        295,
+        309,
+        307,
+        15269,
+        538,
+        452,
+        3847,
+        4671,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2484375290248705,
+      "compression_ratio": 1.2023809523809523,
+      "no_speech_prob": 0.05543381720781326,
+      "words": [
+        {
+          "word": " And",
+          "start": 42.72,
+          "end": 42.72,
+          "probability": 0.11416685581207275
+        },
+        {
+          "word": " my",
+          "start": 42.72,
+          "end": 45.78,
+          "probability": 0.9452706575393677
+        },
+        {
+          "word": " experience",
+          "start": 45.78,
+          "end": 46.68,
+          "probability": 0.9878906011581421
+        },
+        {
+          "word": " of",
+          "start": 46.68,
+          "end": 46.98,
+          "probability": 0.9632481336593628
+        },
+        {
+          "word": " it",
+          "start": 46.98,
+          "end": 47.26,
+          "probability": 0.9955703616142273
+        },
+        {
+          "word": " is",
+          "start": 47.26,
+          "end": 47.84,
+          "probability": 0.9725038409233093
+        },
+        {
+          "word": " influenced",
+          "start": 47.84,
+          "end": 48.42,
+          "probability": 0.9826556444168091
+        },
+        {
+          "word": " by",
+          "start": 48.42,
+          "end": 48.88,
+          "probability": 0.9954637885093689
+        },
+        {
+          "word": " my",
+          "start": 48.88,
+          "end": 49.4,
+          "probability": 0.9926822781562805
+        },
+        {
+          "word": " train",
+          "start": 49.4,
+          "end": 49.64,
+          "probability": 0.9885386824607849
+        },
+        {
+          "word": " journey",
+          "start": 49.64,
+          "end": 51.04,
+          "probability": 0.9920256733894348
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4272,
+      "start": 61.739999999999995,
+      "end": 66.72,
+      "text": " The listening experience cannot be isolated",
+      "tokens": [
+        51314,
+        440,
+        4764,
+        1752,
+        2644,
+        312,
+        14621,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2484375290248705,
+      "compression_ratio": 1.2023809523809523,
+      "no_speech_prob": 0.05543381720781326,
+      "words": [
+        {
+          "word": " The",
+          "start": 61.739999999999995,
+          "end": 62.9,
+          "probability": 0.14606961607933044
+        },
+        {
+          "word": " listening",
+          "start": 62.9,
+          "end": 63.4,
+          "probability": 0.986113965511322
+        },
+        {
+          "word": " experience",
+          "start": 63.4,
+          "end": 64.56,
+          "probability": 0.9928338527679443
+        },
+        {
+          "word": " cannot",
+          "start": 64.56,
+          "end": 65.26,
+          "probability": 0.9609466791152954
+        },
+        {
+          "word": " be",
+          "start": 65.26,
+          "end": 65.84,
+          "probability": 0.9984197616577148
+        },
+        {
+          "word": " isolated",
+          "start": 65.84,
+          "end": 66.72,
+          "probability": 0.9932264685630798
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6672,
+      "start": 68.12,
+      "end": 74.72,
+      "text": " The music sets the mood and the mood sets the music",
+      "tokens": [
+        50414,
+        440,
+        1318,
+        6352,
+        264,
+        9268,
+        293,
+        264,
+        9268,
+        6352,
+        264,
+        1318,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1505510895340531,
+      "compression_ratio": 1.2658227848101267,
+      "no_speech_prob": 0.04292282462120056,
+      "words": [
+        {
+          "word": " The",
+          "start": 68.12,
+          "end": 69.36,
+          "probability": 0.44079312682151794
+        },
+        {
+          "word": " music",
+          "start": 69.36,
+          "end": 69.98,
+          "probability": 0.9649297595024109
+        },
+        {
+          "word": " sets",
+          "start": 69.98,
+          "end": 70.5,
+          "probability": 0.9922142624855042
+        },
+        {
+          "word": " the",
+          "start": 70.5,
+          "end": 70.9,
+          "probability": 0.9969345331192017
+        },
+        {
+          "word": " mood",
+          "start": 70.9,
+          "end": 71.46,
+          "probability": 0.9989112615585327
+        },
+        {
+          "word": " and",
+          "start": 71.46,
+          "end": 72.22,
+          "probability": 0.5059982538223267
+        },
+        {
+          "word": " the",
+          "start": 72.22,
+          "end": 72.52,
+          "probability": 0.9729784727096558
+        },
+        {
+          "word": " mood",
+          "start": 72.52,
+          "end": 72.98,
+          "probability": 0.9985480904579163
+        },
+        {
+          "word": " sets",
+          "start": 72.98,
+          "end": 73.62,
+          "probability": 0.9939133524894714
+        },
+        {
+          "word": " the",
+          "start": 73.62,
+          "end": 73.96,
+          "probability": 0.9985941052436829
+        },
+        {
+          "word": " music",
+          "start": 73.96,
+          "end": 74.72,
+          "probability": 0.9976957440376282
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6672,
+      "start": 84.26,
+      "end": 90.14,
+      "text": " I'm facing backwards, rewinding myself back home",
+      "tokens": [
+        51214,
+        286,
+        478,
+        7170,
+        12204,
+        11,
+        319,
+        86,
+        9245,
+        2059,
+        646,
+        1280,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1505510895340531,
+      "compression_ratio": 1.2658227848101267,
+      "no_speech_prob": 0.04292282462120056,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 84.26,
+          "end": 85.5,
+          "probability": 0.5252229422330856
+        },
+        {
+          "word": " facing",
+          "start": 85.5,
+          "end": 86.02,
+          "probability": 0.9931386113166809
+        },
+        {
+          "word": " backwards,",
+          "start": 86.02,
+          "end": 87.04,
+          "probability": 0.8363497257232666
+        },
+        {
+          "word": " rewinding",
+          "start": 87.54,
+          "end": 88.28,
+          "probability": 0.867998739083608
+        },
+        {
+          "word": " myself",
+          "start": 88.28,
+          "end": 89.0,
+          "probability": 0.9930059909820557
+        },
+        {
+          "word": " back",
+          "start": 89.0,
+          "end": 89.44,
+          "probability": 0.9938144683837891
+        },
+        {
+          "word": " home",
+          "start": 89.44,
+          "end": 90.14,
+          "probability": 0.9958977103233337
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 9672,
+      "start": 97.03999999999999,
+      "end": 101.72,
+      "text": " There's nothing unusual about this journey",
+      "tokens": [
+        50364,
+        821,
+        311,
+        1825,
+        10901,
+        466,
+        341,
+        4671,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13958221258119094,
+      "compression_ratio": 1.4146341463414633,
+      "no_speech_prob": 0.02070165053009987,
+      "words": [
+        {
+          "word": " There's",
+          "start": 97.03999999999999,
+          "end": 97.88,
+          "probability": 0.3327477425336838
+        },
+        {
+          "word": " nothing",
+          "start": 97.88,
+          "end": 98.34,
+          "probability": 0.9159969091415405
+        },
+        {
+          "word": " unusual",
+          "start": 98.34,
+          "end": 99.34,
+          "probability": 0.9902541041374207
+        },
+        {
+          "word": " about",
+          "start": 99.34,
+          "end": 99.88,
+          "probability": 0.9904414415359497
+        },
+        {
+          "word": " this",
+          "start": 99.88,
+          "end": 100.34,
+          "probability": 0.9915345311164856
+        },
+        {
+          "word": " journey",
+          "start": 100.34,
+          "end": 101.72,
+          "probability": 0.9863801598548889
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 9672,
+      "start": 108.56,
+      "end": 113.38,
+      "text": " Apart from that now it's an important part of this song",
+      "tokens": [
+        50964,
+        24111,
+        490,
+        300,
+        586,
+        309,
+        311,
+        364,
+        1021,
+        644,
+        295,
+        341,
+        2153,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13958221258119094,
+      "compression_ratio": 1.4146341463414633,
+      "no_speech_prob": 0.02070165053009987,
+      "words": [
+        {
+          "word": " Apart",
+          "start": 108.56,
+          "end": 109.4,
+          "probability": 0.008672292344272137
+        },
+        {
+          "word": " from",
+          "start": 109.4,
+          "end": 110.02,
+          "probability": 0.9875937104225159
+        },
+        {
+          "word": " that",
+          "start": 110.02,
+          "end": 110.32,
+          "probability": 0.9547516107559204
+        },
+        {
+          "word": " now",
+          "start": 110.32,
+          "end": 110.88,
+          "probability": 0.6882918477058411
+        },
+        {
+          "word": " it's",
+          "start": 110.88,
+          "end": 111.28,
+          "probability": 0.7966981828212738
+        },
+        {
+          "word": " an",
+          "start": 111.28,
+          "end": 111.6,
+          "probability": 0.9816339612007141
+        },
+        {
+          "word": " important",
+          "start": 111.6,
+          "end": 111.94,
+          "probability": 0.9937906861305237
+        },
+        {
+          "word": " part",
+          "start": 111.94,
+          "end": 112.46,
+          "probability": 0.9947643280029297
+        },
+        {
+          "word": " of",
+          "start": 112.46,
+          "end": 112.76,
+          "probability": 0.9798691868782043
+        },
+        {
+          "word": " this",
+          "start": 112.76,
+          "end": 113.12,
+          "probability": 0.900762677192688
+        },
+        {
+          "word": " song",
+          "start": 113.12,
+          "end": 113.38,
+          "probability": 0.9879486560821533
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 9672,
+      "start": 115.3,
+      "end": 122.34,
+      "text": " And I just read your message where you said you made this song on the train",
+      "tokens": [
+        51314,
+        400,
+        286,
+        445,
+        1401,
+        428,
+        3636,
+        689,
+        291,
+        848,
+        291,
+        1027,
+        341,
+        2153,
+        322,
+        264,
+        3847,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13958221258119094,
+      "compression_ratio": 1.4146341463414633,
+      "no_speech_prob": 0.02070165053009987,
+      "words": [
+        {
+          "word": " And",
+          "start": 115.3,
+          "end": 116.14,
+          "probability": 0.5257843732833862
+        },
+        {
+          "word": " I",
+          "start": 116.14,
+          "end": 116.28,
+          "probability": 0.905077338218689
+        },
+        {
+          "word": " just",
+          "start": 116.28,
+          "end": 116.6,
+          "probability": 0.987484872341156
+        },
+        {
+          "word": " read",
+          "start": 116.6,
+          "end": 116.78,
+          "probability": 0.9952677488327026
+        },
+        {
+          "word": " your",
+          "start": 116.78,
+          "end": 117.04,
+          "probability": 0.9781216382980347
+        },
+        {
+          "word": " message",
+          "start": 117.04,
+          "end": 117.66,
+          "probability": 0.9904754757881165
+        },
+        {
+          "word": " where",
+          "start": 117.66,
+          "end": 117.96,
+          "probability": 0.8783232569694519
+        },
+        {
+          "word": " you",
+          "start": 117.96,
+          "end": 118.3,
+          "probability": 0.9887912273406982
+        },
+        {
+          "word": " said",
+          "start": 118.3,
+          "end": 118.58,
+          "probability": 0.9869922399520874
+        },
+        {
+          "word": " you",
+          "start": 118.58,
+          "end": 119.96,
+          "probability": 0.8211396336555481
+        },
+        {
+          "word": " made",
+          "start": 119.96,
+          "end": 120.48,
+          "probability": 0.6501035094261169
+        },
+        {
+          "word": " this",
+          "start": 120.48,
+          "end": 120.94,
+          "probability": 0.9402576088905334
+        },
+        {
+          "word": " song",
+          "start": 120.94,
+          "end": 121.3,
+          "probability": 0.9921080470085144
+        },
+        {
+          "word": " on",
+          "start": 121.3,
+          "end": 121.72,
+          "probability": 0.8543757796287537
+        },
+        {
+          "word": " the",
+          "start": 121.72,
+          "end": 121.9,
+          "probability": 0.857562780380249
+        },
+        {
+          "word": " train",
+          "start": 121.9,
+          "end": 122.34,
+          "probability": 0.992480993270874
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 12234,
+      "start": 123.57999999999998,
+      "end": 128.34,
+      "text": " And I made this song on the train too",
+      "tokens": [
+        50414,
+        400,
+        286,
+        1027,
+        341,
+        2153,
+        322,
+        264,
+        3847,
+        886,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1297532469034195,
+      "compression_ratio": 1.1772151898734178,
+      "no_speech_prob": 0.01745808869600296,
+      "words": [
+        {
+          "word": " And",
+          "start": 123.57999999999998,
+          "end": 124.33999999999999,
+          "probability": 0.4131679832935333
+        },
+        {
+          "word": " I",
+          "start": 124.33999999999999,
+          "end": 125.1,
+          "probability": 0.7505995035171509
+        },
+        {
+          "word": " made",
+          "start": 125.1,
+          "end": 125.44,
+          "probability": 0.9275736808776855
+        },
+        {
+          "word": " this",
+          "start": 125.44,
+          "end": 125.82,
+          "probability": 0.9278921484947205
+        },
+        {
+          "word": " song",
+          "start": 125.82,
+          "end": 126.26,
+          "probability": 0.9966403245925903
+        },
+        {
+          "word": " on",
+          "start": 126.26,
+          "end": 126.74,
+          "probability": 0.970177412033081
+        },
+        {
+          "word": " the",
+          "start": 126.74,
+          "end": 127.04,
+          "probability": 0.9786125421524048
+        },
+        {
+          "word": " train",
+          "start": 127.04,
+          "end": 127.3,
+          "probability": 0.9938819408416748
+        },
+        {
+          "word": " too",
+          "start": 127.3,
+          "end": 128.34,
+          "probability": 0.837419867515564
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 12234,
+      "start": 137.54000000000002,
+      "end": 139.98,
+      "text": " So it's meant to be",
+      "tokens": [
+        51114,
+        407,
+        309,
+        311,
+        4140,
+        281,
+        312,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1297532469034195,
+      "compression_ratio": 1.1772151898734178,
+      "no_speech_prob": 0.01745808869600296,
+      "words": [
+        {
+          "word": " So",
+          "start": 137.54000000000002,
+          "end": 138.3,
+          "probability": 0.22213084995746613
+        },
+        {
+          "word": " it's",
+          "start": 138.3,
+          "end": 139.06,
+          "probability": 0.8542859256267548
+        },
+        {
+          "word": " meant",
+          "start": 139.06,
+          "end": 139.38,
+          "probability": 0.9677911996841431
+        },
+        {
+          "word": " to",
+          "start": 139.38,
+          "end": 139.7,
+          "probability": 0.9983651041984558
+        },
+        {
+          "word": " be",
+          "start": 139.7,
+          "end": 139.98,
+          "probability": 0.9992330074310303
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 12234,
+      "start": 141.20000000000002,
+      "end": 144.34,
+      "text": " There's a lot of train in this song",
+      "tokens": [
+        51314,
+        821,
+        311,
+        257,
+        688,
+        295,
+        3847,
+        294,
+        341,
+        2153,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1297532469034195,
+      "compression_ratio": 1.1772151898734178,
+      "no_speech_prob": 0.01745808869600296,
+      "words": [
+        {
+          "word": " There's",
+          "start": 141.20000000000002,
+          "end": 141.96,
+          "probability": 0.5266269147396088
+        },
+        {
+          "word": " a",
+          "start": 141.96,
+          "end": 142.12,
+          "probability": 0.9904444813728333
+        },
+        {
+          "word": " lot",
+          "start": 142.12,
+          "end": 142.44,
+          "probability": 0.9989394545555115
+        },
+        {
+          "word": " of",
+          "start": 142.44,
+          "end": 142.86,
+          "probability": 0.9946856498718262
+        },
+        {
+          "word": " train",
+          "start": 142.86,
+          "end": 143.06,
+          "probability": 0.8709784746170044
+        },
+        {
+          "word": " in",
+          "start": 143.06,
+          "end": 143.44,
+          "probability": 0.9892725944519043
+        },
+        {
+          "word": " this",
+          "start": 143.44,
+          "end": 143.78,
+          "probability": 0.9338833093643188
+        },
+        {
+          "word": " song",
+          "start": 143.78,
+          "end": 144.34,
+          "probability": 0.9989318251609802
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 14434,
+      "start": 148.8,
+      "end": 158.78,
+      "text": " I can hear it and you can hear it too",
+      "tokens": [
+        50364,
+        286,
+        393,
+        1568,
+        309,
+        293,
+        291,
+        393,
+        1568,
+        309,
+        886,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29118504126866657,
+      "compression_ratio": 1.1,
+      "no_speech_prob": 0.013243232853710651,
+      "words": [
+        {
+          "word": " I",
+          "start": 148.8,
+          "end": 150.12,
+          "probability": 0.7476813793182373
+        },
+        {
+          "word": " can",
+          "start": 150.12,
+          "end": 150.48,
+          "probability": 0.9685285687446594
+        },
+        {
+          "word": " hear",
+          "start": 150.48,
+          "end": 150.86,
+          "probability": 0.9945076107978821
+        },
+        {
+          "word": " it",
+          "start": 150.86,
+          "end": 151.84,
+          "probability": 0.9912233352661133
+        },
+        {
+          "word": " and",
+          "start": 151.84,
+          "end": 153.38,
+          "probability": 0.3362550437450409
+        },
+        {
+          "word": " you",
+          "start": 153.38,
+          "end": 153.68,
+          "probability": 0.9855953454971313
+        },
+        {
+          "word": " can",
+          "start": 153.68,
+          "end": 154.12,
+          "probability": 0.9983752965927124
+        },
+        {
+          "word": " hear",
+          "start": 154.12,
+          "end": 154.48,
+          "probability": 0.989952027797699
+        },
+        {
+          "word": " it",
+          "start": 154.48,
+          "end": 154.92,
+          "probability": 0.9952353835105896
+        },
+        {
+          "word": " too",
+          "start": 154.92,
+          "end": 158.78,
+          "probability": 0.8914663195610046
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 14434,
+      "start": 163.0,
+      "end": 168.44,
+      "text": " I'm drawing away from fields and gravel",
+      "tokens": [
+        51264,
+        286,
+        478,
+        6316,
+        1314,
+        490,
+        7909,
+        293,
+        30001,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29118504126866657,
+      "compression_ratio": 1.1,
+      "no_speech_prob": 0.013243232853710651,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 163.0,
+          "end": 164.32,
+          "probability": 0.636923223733902
+        },
+        {
+          "word": " drawing",
+          "start": 164.32,
+          "end": 164.56,
+          "probability": 0.9759216904640198
+        },
+        {
+          "word": " away",
+          "start": 164.56,
+          "end": 165.22,
+          "probability": 0.9025229811668396
+        },
+        {
+          "word": " from",
+          "start": 165.22,
+          "end": 165.72,
+          "probability": 0.9891068339347839
+        },
+        {
+          "word": " fields",
+          "start": 165.72,
+          "end": 166.46,
+          "probability": 0.9774124622344971
+        },
+        {
+          "word": " and",
+          "start": 166.46,
+          "end": 167.34,
+          "probability": 0.8832576870918274
+        },
+        {
+          "word": " gravel",
+          "start": 167.34,
+          "end": 168.44,
+          "probability": 0.9941263198852539
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 16844,
+      "start": 168.44,
+      "end": 174.02,
+      "text": " A single horse, a small cemetery",
+      "tokens": [
+        50414,
+        316,
+        2167,
+        6832,
+        11,
+        257,
+        1359,
+        31176,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09812680412741269,
+      "compression_ratio": 1.2178217821782178,
+      "no_speech_prob": 0.011812199838459492,
+      "words": [
+        {
+          "word": " A",
+          "start": 168.44,
+          "end": 168.44,
+          "probability": 0.031231926754117012
+        },
+        {
+          "word": " single",
+          "start": 168.44,
+          "end": 170.72,
+          "probability": 0.9294776320457458
+        },
+        {
+          "word": " horse,",
+          "start": 170.72,
+          "end": 171.68,
+          "probability": 0.8946208953857422
+        },
+        {
+          "word": " a",
+          "start": 172.48,
+          "end": 172.78,
+          "probability": 0.9444559812545776
+        },
+        {
+          "word": " small",
+          "start": 172.78,
+          "end": 173.2,
+          "probability": 0.9984018206596375
+        },
+        {
+          "word": " cemetery",
+          "start": 173.2,
+          "end": 174.02,
+          "probability": 0.9618151187896729
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 16844,
+      "start": 175.12,
+      "end": 185.14,
+      "text": " I wonder if there are as many people alive in this piece of land",
+      "tokens": [
+        50714,
+        286,
+        2441,
+        498,
+        456,
+        366,
+        382,
+        867,
+        561,
+        5465,
+        294,
+        341,
+        2522,
+        295,
+        2117,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09812680412741269,
+      "compression_ratio": 1.2178217821782178,
+      "no_speech_prob": 0.011812199838459492,
+      "words": [
+        {
+          "word": " I",
+          "start": 175.12,
+          "end": 176.12,
+          "probability": 0.10799353569746017
+        },
+        {
+          "word": " wonder",
+          "start": 176.12,
+          "end": 176.58,
+          "probability": 0.9953843951225281
+        },
+        {
+          "word": " if",
+          "start": 176.58,
+          "end": 176.9,
+          "probability": 0.9839553236961365
+        },
+        {
+          "word": " there",
+          "start": 176.9,
+          "end": 177.12,
+          "probability": 0.9892772436141968
+        },
+        {
+          "word": " are",
+          "start": 177.12,
+          "end": 177.48,
+          "probability": 0.9444085359573364
+        },
+        {
+          "word": " as",
+          "start": 177.48,
+          "end": 177.68,
+          "probability": 0.966115415096283
+        },
+        {
+          "word": " many",
+          "start": 177.68,
+          "end": 177.98,
+          "probability": 0.9956933856010437
+        },
+        {
+          "word": " people",
+          "start": 177.98,
+          "end": 178.48,
+          "probability": 0.9943996071815491
+        },
+        {
+          "word": " alive",
+          "start": 178.48,
+          "end": 179.04,
+          "probability": 0.989569902420044
+        },
+        {
+          "word": " in",
+          "start": 179.04,
+          "end": 179.3,
+          "probability": 0.9794327020645142
+        },
+        {
+          "word": " this",
+          "start": 179.3,
+          "end": 179.84,
+          "probability": 0.9952453970909119
+        },
+        {
+          "word": " piece",
+          "start": 179.84,
+          "end": 180.22,
+          "probability": 0.951891303062439
+        },
+        {
+          "word": " of",
+          "start": 180.22,
+          "end": 185.14,
+          "probability": 0.9982313513755798
+        },
+        {
+          "word": " land",
+          "start": 185.14,
+          "end": 185.14,
+          "probability": 0.9959030747413635
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 16844,
+      "start": 189.66,
+      "end": 192.92,
+      "text": " The train is pretty empty",
+      "tokens": [
+        51414,
+        440,
+        3847,
+        307,
+        1238,
+        6707,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09812680412741269,
+      "compression_ratio": 1.2178217821782178,
+      "no_speech_prob": 0.011812199838459492,
+      "words": [
+        {
+          "word": " The",
+          "start": 189.66,
+          "end": 190.66,
+          "probability": 0.43278902769088745
+        },
+        {
+          "word": " train",
+          "start": 190.66,
+          "end": 191.2,
+          "probability": 0.9462939500808716
+        },
+        {
+          "word": " is",
+          "start": 191.2,
+          "end": 191.62,
+          "probability": 0.9965354204177856
+        },
+        {
+          "word": " pretty",
+          "start": 191.62,
+          "end": 192.12,
+          "probability": 0.9969109892845154
+        },
+        {
+          "word": " empty",
+          "start": 192.12,
+          "end": 192.92,
+          "probability": 0.9984191656112671
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 19292,
+      "start": 194.83999999999997,
+      "end": 200.08,
+      "text": " I could be singing over these brown fields",
+      "tokens": [
+        50414,
+        286,
+        727,
+        312,
+        6726,
+        670,
+        613,
+        6292,
+        7909,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18243215197608584,
+      "compression_ratio": 1.1066666666666667,
+      "no_speech_prob": 0.00826106034219265,
+      "words": [
+        {
+          "word": " I",
+          "start": 194.83999999999997,
+          "end": 196.14,
+          "probability": 0.4245443642139435
+        },
+        {
+          "word": " could",
+          "start": 196.14,
+          "end": 196.5,
+          "probability": 0.9314277768135071
+        },
+        {
+          "word": " be",
+          "start": 196.5,
+          "end": 197.0,
+          "probability": 0.9957171082496643
+        },
+        {
+          "word": " singing",
+          "start": 197.0,
+          "end": 197.38,
+          "probability": 0.9908316731452942
+        },
+        {
+          "word": " over",
+          "start": 197.38,
+          "end": 198.02,
+          "probability": 0.9943211078643799
+        },
+        {
+          "word": " these",
+          "start": 198.02,
+          "end": 198.44,
+          "probability": 0.9798396229743958
+        },
+        {
+          "word": " brown",
+          "start": 198.44,
+          "end": 199.04,
+          "probability": 0.9938904047012329
+        },
+        {
+          "word": " fields",
+          "start": 199.04,
+          "end": 200.08,
+          "probability": 0.9972116351127625
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 19292,
+      "start": 200.92,
+      "end": 205.92,
+      "text": " Under hovering clouds reflected in ponds",
+      "tokens": [
+        50764,
+        6974,
+        44923,
+        12193,
+        15502,
+        294,
+        280,
+        10166,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18243215197608584,
+      "compression_ratio": 1.1066666666666667,
+      "no_speech_prob": 0.00826106034219265,
+      "words": [
+        {
+          "word": " Under",
+          "start": 200.92,
+          "end": 201.86,
+          "probability": 0.22864852845668793
+        },
+        {
+          "word": " hovering",
+          "start": 201.86,
+          "end": 202.52,
+          "probability": 0.9127015471458435
+        },
+        {
+          "word": " clouds",
+          "start": 202.52,
+          "end": 203.72,
+          "probability": 0.9950690269470215
+        },
+        {
+          "word": " reflected",
+          "start": 203.72,
+          "end": 204.6,
+          "probability": 0.4761987030506134
+        },
+        {
+          "word": " in",
+          "start": 204.6,
+          "end": 205.18,
+          "probability": 0.9966185092926025
+        },
+        {
+          "word": " ponds",
+          "start": 205.18,
+          "end": 205.92,
+          "probability": 0.9556339085102081
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 20592,
+      "start": 216.57999999999998,
+      "end": 230.8,
+      "text": " Cows hunched down, allotments, willow trees, straw fields, an orange strip of sky",
+      "tokens": [
+        50364,
+        383,
+        1509,
+        47630,
+        292,
+        760,
+        11,
+        439,
+        310,
+        1117,
+        11,
+        486,
+        305,
+        5852,
+        11,
+        10099,
+        7909,
+        11,
+        364,
+        7671,
+        12828,
+        295,
+        5443,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1776297642634465,
+      "compression_ratio": 1.08,
+      "no_speech_prob": 0.05513116717338562,
+      "words": [
+        {
+          "word": " Cows",
+          "start": 216.57999999999998,
+          "end": 217.98,
+          "probability": 0.5112839657813311
+        },
+        {
+          "word": " hunched",
+          "start": 217.98,
+          "end": 219.16,
+          "probability": 0.8943926692008972
+        },
+        {
+          "word": " down,",
+          "start": 219.16,
+          "end": 219.44,
+          "probability": 0.9953728318214417
+        },
+        {
+          "word": " allotments,",
+          "start": 220.48,
+          "end": 221.9,
+          "probability": 0.9402732054392496
+        },
+        {
+          "word": " willow",
+          "start": 222.54,
+          "end": 223.02,
+          "probability": 0.8703834116458893
+        },
+        {
+          "word": " trees,",
+          "start": 223.02,
+          "end": 224.26,
+          "probability": 0.9857731461524963
+        },
+        {
+          "word": " straw",
+          "start": 225.4,
+          "end": 225.8,
+          "probability": 0.9971193075180054
+        },
+        {
+          "word": " fields,",
+          "start": 225.8,
+          "end": 226.94,
+          "probability": 0.9862240552902222
+        },
+        {
+          "word": " an",
+          "start": 228.36,
+          "end": 228.62,
+          "probability": 0.9341651797294617
+        },
+        {
+          "word": " orange",
+          "start": 228.62,
+          "end": 229.1,
+          "probability": 0.9951878786087036
+        },
+        {
+          "word": " strip",
+          "start": 229.1,
+          "end": 229.56,
+          "probability": 0.9877365231513977
+        },
+        {
+          "word": " of",
+          "start": 229.56,
+          "end": 230.0,
+          "probability": 0.998843789100647
+        },
+        {
+          "word": " sky",
+          "start": 230.0,
+          "end": 230.8,
+          "probability": 0.9847128391265869
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 23080,
+      "start": 231.8,
+      "end": 236.96,
+      "text": " The sunset is almost completely grey",
+      "tokens": [
+        50414,
+        440,
+        20142,
+        307,
+        1920,
+        2584,
+        16578,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13493573281072802,
+      "compression_ratio": 1.125,
+      "no_speech_prob": 0.016224989667534828,
+      "words": [
+        {
+          "word": " The",
+          "start": 231.8,
+          "end": 233.32,
+          "probability": 0.7362591028213501
+        },
+        {
+          "word": " sunset",
+          "start": 233.32,
+          "end": 233.76,
+          "probability": 0.918491005897522
+        },
+        {
+          "word": " is",
+          "start": 233.76,
+          "end": 234.22,
+          "probability": 0.9946618676185608
+        },
+        {
+          "word": " almost",
+          "start": 234.22,
+          "end": 234.68,
+          "probability": 0.9970182180404663
+        },
+        {
+          "word": " completely",
+          "start": 234.68,
+          "end": 235.66,
+          "probability": 0.9878637194633484
+        },
+        {
+          "word": " grey",
+          "start": 235.66,
+          "end": 236.96,
+          "probability": 0.6197549700737
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 23080,
+      "start": 243.0,
+      "end": 248.8,
+      "text": " How does water look so good in any light?",
+      "tokens": [
+        50964,
+        1012,
+        775,
+        1281,
+        574,
+        370,
+        665,
+        294,
+        604,
+        1442,
+        30,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13493573281072802,
+      "compression_ratio": 1.125,
+      "no_speech_prob": 0.016224989667534828,
+      "words": [
+        {
+          "word": " How",
+          "start": 243.0,
+          "end": 244.28,
+          "probability": 0.23207056522369385
+        },
+        {
+          "word": " does",
+          "start": 244.28,
+          "end": 244.74,
+          "probability": 0.9971598386764526
+        },
+        {
+          "word": " water",
+          "start": 244.74,
+          "end": 245.26,
+          "probability": 0.9858270883560181
+        },
+        {
+          "word": " look",
+          "start": 245.26,
+          "end": 245.7,
+          "probability": 0.9151103496551514
+        },
+        {
+          "word": " so",
+          "start": 245.7,
+          "end": 246.34,
+          "probability": 0.9960193037986755
+        },
+        {
+          "word": " good",
+          "start": 246.34,
+          "end": 246.66,
+          "probability": 0.9975395202636719
+        },
+        {
+          "word": " in",
+          "start": 246.66,
+          "end": 247.04,
+          "probability": 0.9868512749671936
+        },
+        {
+          "word": " any",
+          "start": 247.04,
+          "end": 247.42,
+          "probability": 0.9977750182151794
+        },
+        {
+          "word": " light?",
+          "start": 247.42,
+          "end": 248.8,
+          "probability": 0.9965721368789673
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 23080,
+      "start": 253.82,
+      "end": 259.24,
+      "text": " Marshes, factories, windmills",
+      "tokens": [
+        51464,
+        14443,
+        279,
+        11,
+        24813,
+        11,
+        2468,
+        76,
+        2565,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13493573281072802,
+      "compression_ratio": 1.125,
+      "no_speech_prob": 0.016224989667534828,
+      "words": [
+        {
+          "word": " Marshes,",
+          "start": 253.82,
+          "end": 255.1,
+          "probability": 0.8854094445705414
+        },
+        {
+          "word": " factories,",
+          "start": 255.28,
+          "end": 256.46,
+          "probability": 0.9526591897010803
+        },
+        {
+          "word": " windmills",
+          "start": 258.16,
+          "end": 259.24,
+          "probability": 0.971169670422872
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 26080,
+      "start": 260.8,
+      "end": 264.8,
+      "text": " It's hard to separate myself from the landscape",
+      "tokens": [
+        50364,
+        467,
+        311,
+        1152,
+        281,
+        4994,
+        2059,
+        490,
+        264,
+        9661,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.128599344297897,
+      "compression_ratio": 1.3383458646616542,
+      "no_speech_prob": 0.0018042146693915129,
+      "words": [
+        {
+          "word": " It's",
+          "start": 260.8,
+          "end": 261.34,
+          "probability": 0.9094893038272858
+        },
+        {
+          "word": " hard",
+          "start": 261.34,
+          "end": 261.66,
+          "probability": 0.9948238134384155
+        },
+        {
+          "word": " to",
+          "start": 261.66,
+          "end": 262.02,
+          "probability": 0.9988030195236206
+        },
+        {
+          "word": " separate",
+          "start": 262.02,
+          "end": 262.5,
+          "probability": 0.981090247631073
+        },
+        {
+          "word": " myself",
+          "start": 262.5,
+          "end": 263.14,
+          "probability": 0.975006639957428
+        },
+        {
+          "word": " from",
+          "start": 263.14,
+          "end": 263.48,
+          "probability": 0.9972952008247375
+        },
+        {
+          "word": " the",
+          "start": 263.48,
+          "end": 263.76,
+          "probability": 0.9978267550468445
+        },
+        {
+          "word": " landscape",
+          "start": 263.76,
+          "end": 264.8,
+          "probability": 0.993547260761261
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 26080,
+      "start": 269.8,
+      "end": 272.48,
+      "text": " Someone keeps saying yeah",
+      "tokens": [
+        50814,
+        8734,
+        5965,
+        1566,
+        1338,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.128599344297897,
+      "compression_ratio": 1.3383458646616542,
+      "no_speech_prob": 0.0018042146693915129,
+      "words": [
+        {
+          "word": " Someone",
+          "start": 269.53999999999996,
+          "end": 270.02,
+          "probability": 0.12086361646652222
+        },
+        {
+          "word": " keeps",
+          "start": 270.02,
+          "end": 270.62,
+          "probability": 0.8883640766143799
+        },
+        {
+          "word": " saying",
+          "start": 270.62,
+          "end": 271.18,
+          "probability": 0.9956666231155396
+        },
+        {
+          "word": " yeah",
+          "start": 271.18,
+          "end": 272.48,
+          "probability": 0.20284251868724823
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 26080,
+      "start": 277.34000000000003,
+      "end": 281.82,
+      "text": " I can hear my voice merging with the music",
+      "tokens": [
+        51214,
+        286,
+        393,
+        1568,
+        452,
+        3177,
+        44559,
+        365,
+        264,
+        1318,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.128599344297897,
+      "compression_ratio": 1.3383458646616542,
+      "no_speech_prob": 0.0018042146693915129,
+      "words": [
+        {
+          "word": " I",
+          "start": 277.34000000000003,
+          "end": 278.3,
+          "probability": 0.44947606325149536
+        },
+        {
+          "word": " can",
+          "start": 278.3,
+          "end": 278.7,
+          "probability": 0.9908772110939026
+        },
+        {
+          "word": " hear",
+          "start": 278.7,
+          "end": 278.96,
+          "probability": 0.9945321083068848
+        },
+        {
+          "word": " my",
+          "start": 278.96,
+          "end": 279.28,
+          "probability": 0.9571496844291687
+        },
+        {
+          "word": " voice",
+          "start": 279.28,
+          "end": 279.84,
+          "probability": 0.9983419179916382
+        },
+        {
+          "word": " merging",
+          "start": 279.84,
+          "end": 280.42,
+          "probability": 0.971255362033844
+        },
+        {
+          "word": " with",
+          "start": 280.42,
+          "end": 280.84,
+          "probability": 0.9975505471229553
+        },
+        {
+          "word": " the",
+          "start": 280.84,
+          "end": 281.04,
+          "probability": 0.956121563911438
+        },
+        {
+          "word": " music",
+          "start": 281.04,
+          "end": 281.82,
+          "probability": 0.9976558685302734
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 26080,
+      "start": 281.82,
+      "end": 287.5,
+      "text": " The train's movement, the rattling of the empty baggage racks",
+      "tokens": [
+        51464,
+        440,
+        3847,
+        311,
+        3963,
+        11,
+        264,
+        48822,
+        295,
+        264,
+        6707,
+        41567,
+        47063,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.128599344297897,
+      "compression_ratio": 1.3383458646616542,
+      "no_speech_prob": 0.0018042146693915129,
+      "words": [
+        {
+          "word": " The",
+          "start": 281.82,
+          "end": 282.78,
+          "probability": 0.3211256265640259
+        },
+        {
+          "word": " train's",
+          "start": 282.78,
+          "end": 283.42,
+          "probability": 0.8869226276874542
+        },
+        {
+          "word": " movement,",
+          "start": 283.42,
+          "end": 284.24,
+          "probability": 0.9744070768356323
+        },
+        {
+          "word": " the",
+          "start": 284.72,
+          "end": 284.82,
+          "probability": 0.8614014387130737
+        },
+        {
+          "word": " rattling",
+          "start": 284.82,
+          "end": 285.26,
+          "probability": 0.9692753553390503
+        },
+        {
+          "word": " of",
+          "start": 285.26,
+          "end": 285.56,
+          "probability": 0.9958337545394897
+        },
+        {
+          "word": " the",
+          "start": 285.56,
+          "end": 285.76,
+          "probability": 0.9816181063652039
+        },
+        {
+          "word": " empty",
+          "start": 285.76,
+          "end": 286.22,
+          "probability": 0.9975494742393494
+        },
+        {
+          "word": " baggage",
+          "start": 286.22,
+          "end": 286.66,
+          "probability": 0.9484544396400452
+        },
+        {
+          "word": " racks",
+          "start": 286.66,
+          "end": 287.5,
+          "probability": 0.8815580010414124
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 29080,
+      "start": 292.38,
+      "end": 295.58,
+      "text": " I'm enmeshed in the view",
+      "tokens": [
+        50414,
+        286,
+        478,
+        465,
+        5814,
+        27096,
+        294,
+        264,
+        1910,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19449728185480292,
+      "compression_ratio": 1.3548387096774193,
+      "no_speech_prob": 0.005263385828584433,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 292.38,
+          "end": 293.74,
+          "probability": 0.8062774240970612
+        },
+        {
+          "word": " enmeshed",
+          "start": 293.74,
+          "end": 294.3,
+          "probability": 0.9945240616798401
+        },
+        {
+          "word": " in",
+          "start": 294.3,
+          "end": 294.62,
+          "probability": 0.9940027594566345
+        },
+        {
+          "word": " the",
+          "start": 294.62,
+          "end": 294.86,
+          "probability": 0.9915643930435181
+        },
+        {
+          "word": " view",
+          "start": 294.86,
+          "end": 295.58,
+          "probability": 0.8503198027610779
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 29080,
+      "start": 295.58,
+      "end": 299.8,
+      "text": " The view is enmeshed with music",
+      "tokens": [
+        50614,
+        440,
+        1910,
+        307,
+        465,
+        5814,
+        27096,
+        365,
+        1318,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19449728185480292,
+      "compression_ratio": 1.3548387096774193,
+      "no_speech_prob": 0.005263385828584433,
+      "words": [
+        {
+          "word": " The",
+          "start": 295.58,
+          "end": 296.52,
+          "probability": 0.2568805515766144
+        },
+        {
+          "word": " view",
+          "start": 296.52,
+          "end": 296.82,
+          "probability": 0.9604132175445557
+        },
+        {
+          "word": " is",
+          "start": 296.82,
+          "end": 297.2,
+          "probability": 0.805898904800415
+        },
+        {
+          "word": " enmeshed",
+          "start": 297.2,
+          "end": 297.88,
+          "probability": 0.9981038769086202
+        },
+        {
+          "word": " with",
+          "start": 297.88,
+          "end": 298.32,
+          "probability": 0.9927197694778442
+        },
+        {
+          "word": " music",
+          "start": 298.32,
+          "end": 299.8,
+          "probability": 0.8614453077316284
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 29080,
+      "start": 306.96,
+      "end": 309.98,
+      "text": " I am the view",
+      "tokens": [
+        51164,
+        286,
+        669,
+        264,
+        1910,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19449728185480292,
+      "compression_ratio": 1.3548387096774193,
+      "no_speech_prob": 0.005263385828584433,
+      "words": [
+        {
+          "word": " I",
+          "start": 306.96,
+          "end": 308.32,
+          "probability": 0.8067485094070435
+        },
+        {
+          "word": " am",
+          "start": 308.32,
+          "end": 308.84,
+          "probability": 0.5446643829345703
+        },
+        {
+          "word": " the",
+          "start": 308.84,
+          "end": 309.36,
+          "probability": 0.9754775166511536
+        },
+        {
+          "word": " view",
+          "start": 309.36,
+          "end": 309.98,
+          "probability": 0.9309130311012268
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 29080,
+      "start": 313.8,
+      "end": 316.58,
+      "text": " I am the song",
+      "tokens": [
+        51514,
+        286,
+        669,
+        264,
+        2153,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19449728185480292,
+      "compression_ratio": 1.3548387096774193,
+      "no_speech_prob": 0.005263385828584433,
+      "words": [
+        {
+          "word": " I",
+          "start": 313.64,
+          "end": 314.32,
+          "probability": 0.874980628490448
+        },
+        {
+          "word": " am",
+          "start": 314.32,
+          "end": 315.0,
+          "probability": 0.9838347434997559
+        },
+        {
+          "word": " the",
+          "start": 315.0,
+          "end": 315.9,
+          "probability": 0.9704978466033936
+        },
+        {
+          "word": " song",
+          "start": 315.9,
+          "end": 316.58,
+          "probability": 0.6608828902244568
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 32080,
+      "start": 321.02000000000004,
+      "end": 323.9,
+      "text": " I am the sky",
+      "tokens": [
+        50364,
+        286,
+        669,
+        264,
+        5443,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3252692563193185,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.09215471148490906,
+      "words": [
+        {
+          "word": " I",
+          "start": 321.02000000000004,
+          "end": 322.42,
+          "probability": 0.3160015940666199
+        },
+        {
+          "word": " am",
+          "start": 322.42,
+          "end": 323.26,
+          "probability": 0.44971853494644165
+        },
+        {
+          "word": " the",
+          "start": 323.26,
+          "end": 323.26,
+          "probability": 0.19898322224617004
+        },
+        {
+          "word": " sky",
+          "start": 323.26,
+          "end": 323.9,
+          "probability": 0.014699980616569519
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

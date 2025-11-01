@@ -1,0 +1,1780 @@
+{
+  "text": " Because we're secretly crowd people sent to the surface world by the ghost of alien To break people's hearts and global economy What you want with this is what never Never And you're right with us Cross the sea and fall into black and white thinking club Only a sip deals in obsolescence Even if never were a sensible word to use It's a very broad category of potential presentations and corresponding behaviors Lots of different people doing lots of different stuff in lots of different ways Some of them even following through with it Some of it without wanting to validate the premise of the question Without wanting to validate the premise of the question Sometimes folks are wrecked to itself by another confidence failure Sometimes folks are generalizations based on myself and observation of others I've encountered As such they do not go for everyone Hope this helps I'm off to my habitat on the sea floor To eat two-third of a decomposing fish I started the other day but couldn't finish It's amazing how delightful if we call of me Mmm, it's the scuttle, scuttle, scuttle Scuttle, scuttle, scuttle",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 6.220000000000001,
+      "end": 15.200000000000001,
+      "text": " Because we're secretly crowd people sent to the surface world by the ghost of alien",
+      "tokens": [
+        50364,
+        1436,
+        321,
+        434,
+        22611,
+        6919,
+        561,
+        2279,
+        281,
+        264,
+        3753,
+        1002,
+        538,
+        264,
+        8359,
+        295,
+        12319,
+        51124
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5783728122711181,
+      "compression_ratio": 1.077922077922078,
+      "no_speech_prob": 0.42043665051460266,
+      "words": [
+        {
+          "word": " Because",
+          "start": 6.220000000000001,
+          "end": 7.220000000000001,
+          "probability": 0.20742063224315643
+        },
+        {
+          "word": " we're",
+          "start": 7.220000000000001,
+          "end": 8.22,
+          "probability": 0.506229929625988
+        },
+        {
+          "word": " secretly",
+          "start": 8.22,
+          "end": 8.88,
+          "probability": 0.8000009059906006
+        },
+        {
+          "word": " crowd",
+          "start": 8.88,
+          "end": 9.32,
+          "probability": 0.19283127784729004
+        },
+        {
+          "word": " people",
+          "start": 9.32,
+          "end": 10.02,
+          "probability": 0.7500891089439392
+        },
+        {
+          "word": " sent",
+          "start": 10.02,
+          "end": 10.38,
+          "probability": 0.8603326082229614
+        },
+        {
+          "word": " to",
+          "start": 10.38,
+          "end": 10.72,
+          "probability": 0.9843244552612305
+        },
+        {
+          "word": " the",
+          "start": 10.72,
+          "end": 11.0,
+          "probability": 0.9685718417167664
+        },
+        {
+          "word": " surface",
+          "start": 11.0,
+          "end": 11.3,
+          "probability": 0.4565977156162262
+        },
+        {
+          "word": " world",
+          "start": 11.3,
+          "end": 12.2,
+          "probability": 0.9870108366012573
+        },
+        {
+          "word": " by",
+          "start": 12.2,
+          "end": 13.76,
+          "probability": 0.40781453251838684
+        },
+        {
+          "word": " the",
+          "start": 13.76,
+          "end": 14.16,
+          "probability": 0.9422482252120972
+        },
+        {
+          "word": " ghost",
+          "start": 14.16,
+          "end": 14.66,
+          "probability": 0.788176417350769
+        },
+        {
+          "word": " of",
+          "start": 14.66,
+          "end": 15.06,
+          "probability": 0.8881357312202454
+        },
+        {
+          "word": " alien",
+          "start": 15.06,
+          "end": 15.56,
+          "probability": 0.9523443579673767
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 1556,
+      "start": 15.56,
+      "end": 21.64,
+      "text": " To break people's hearts and global economy",
+      "tokens": [
+        50364,
+        1407,
+        1821,
+        561,
+        311,
+        8852,
+        293,
+        4338,
+        5010,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5614038135694421,
+      "compression_ratio": 1.297709923664122,
+      "no_speech_prob": 0.7536638379096985,
+      "words": [
+        {
+          "word": " To",
+          "start": 15.56,
+          "end": 16.88,
+          "probability": 0.01676681824028492
+        },
+        {
+          "word": " break",
+          "start": 16.88,
+          "end": 17.68,
+          "probability": 0.608542263507843
+        },
+        {
+          "word": " people's",
+          "start": 17.68,
+          "end": 18.7,
+          "probability": 0.8839824199676514
+        },
+        {
+          "word": " hearts",
+          "start": 18.7,
+          "end": 19.14,
+          "probability": 0.5799014568328857
+        },
+        {
+          "word": " and",
+          "start": 19.14,
+          "end": 19.84,
+          "probability": 0.737927258014679
+        },
+        {
+          "word": " global",
+          "start": 19.84,
+          "end": 20.62,
+          "probability": 0.5955541133880615
+        },
+        {
+          "word": " economy",
+          "start": 20.62,
+          "end": 21.64,
+          "probability": 0.9834377765655518
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 1556,
+      "start": 21.64,
+      "end": 27.14,
+      "text": " What you want with this is what never",
+      "tokens": [
+        50664,
+        708,
+        291,
+        528,
+        365,
+        341,
+        307,
+        437,
+        1128,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5614038135694421,
+      "compression_ratio": 1.297709923664122,
+      "no_speech_prob": 0.7536638379096985,
+      "words": [
+        {
+          "word": " What",
+          "start": 21.64,
+          "end": 22.78,
+          "probability": 0.33161550760269165
+        },
+        {
+          "word": " you",
+          "start": 22.78,
+          "end": 23.1,
+          "probability": 0.7403725385665894
+        },
+        {
+          "word": " want",
+          "start": 23.1,
+          "end": 23.6,
+          "probability": 0.9890714883804321
+        },
+        {
+          "word": " with",
+          "start": 23.6,
+          "end": 23.96,
+          "probability": 0.5790969133377075
+        },
+        {
+          "word": " this",
+          "start": 23.96,
+          "end": 24.76,
+          "probability": 0.4453871250152588
+        },
+        {
+          "word": " is",
+          "start": 24.76,
+          "end": 25.54,
+          "probability": 0.3164128363132477
+        },
+        {
+          "word": " what",
+          "start": 25.54,
+          "end": 26.1,
+          "probability": 0.8757907748222351
+        },
+        {
+          "word": " never",
+          "start": 26.1,
+          "end": 27.14,
+          "probability": 0.7428755164146423
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 1556,
+      "start": 27.14,
+      "end": 29.4,
+      "text": " Never",
+      "tokens": [
+        50964,
+        7344,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5614038135694421,
+      "compression_ratio": 1.297709923664122,
+      "no_speech_prob": 0.7536638379096985,
+      "words": [
+        {
+          "word": " Never",
+          "start": 27.14,
+          "end": 29.4,
+          "probability": 0.41426950693130493
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 1556,
+      "start": 29.4,
+      "end": 31.86,
+      "text": " And you're right with us",
+      "tokens": [
+        51064,
+        400,
+        291,
+        434,
+        558,
+        365,
+        505,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5614038135694421,
+      "compression_ratio": 1.297709923664122,
+      "no_speech_prob": 0.7536638379096985,
+      "words": [
+        {
+          "word": " And",
+          "start": 29.4,
+          "end": 30.3,
+          "probability": 0.5091155171394348
+        },
+        {
+          "word": " you're",
+          "start": 30.3,
+          "end": 30.74,
+          "probability": 0.891029566526413
+        },
+        {
+          "word": " right",
+          "start": 30.74,
+          "end": 31.1,
+          "probability": 0.9950704574584961
+        },
+        {
+          "word": " with",
+          "start": 31.1,
+          "end": 31.5,
+          "probability": 0.5847470164299011
+        },
+        {
+          "word": " us",
+          "start": 31.5,
+          "end": 31.86,
+          "probability": 0.9108415246009827
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 1556,
+      "start": 31.86,
+      "end": 38.84,
+      "text": " Cross the sea and fall into black and white thinking club",
+      "tokens": [
+        51164,
+        11623,
+        264,
+        4158,
+        293,
+        2100,
+        666,
+        2211,
+        293,
+        2418,
+        1953,
+        6482,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5614038135694421,
+      "compression_ratio": 1.297709923664122,
+      "no_speech_prob": 0.7536638379096985,
+      "words": [
+        {
+          "word": " Cross",
+          "start": 31.86,
+          "end": 33.04,
+          "probability": 0.008324362337589264
+        },
+        {
+          "word": " the",
+          "start": 33.04,
+          "end": 33.66,
+          "probability": 0.4236634373664856
+        },
+        {
+          "word": " sea",
+          "start": 33.66,
+          "end": 34.04,
+          "probability": 0.4649809002876282
+        },
+        {
+          "word": " and",
+          "start": 34.04,
+          "end": 34.4,
+          "probability": 0.7563895583152771
+        },
+        {
+          "word": " fall",
+          "start": 34.4,
+          "end": 34.82,
+          "probability": 0.18086758255958557
+        },
+        {
+          "word": " into",
+          "start": 34.82,
+          "end": 35.24,
+          "probability": 0.2654518485069275
+        },
+        {
+          "word": " black",
+          "start": 35.24,
+          "end": 36.02,
+          "probability": 0.5334633588790894
+        },
+        {
+          "word": " and",
+          "start": 36.02,
+          "end": 36.9,
+          "probability": 0.7718870639801025
+        },
+        {
+          "word": " white",
+          "start": 36.9,
+          "end": 37.22,
+          "probability": 0.9968696236610413
+        },
+        {
+          "word": " thinking",
+          "start": 37.22,
+          "end": 37.84,
+          "probability": 0.34182727336883545
+        },
+        {
+          "word": " club",
+          "start": 37.84,
+          "end": 38.84,
+          "probability": 0.7813760042190552
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 3884,
+      "start": 38.84,
+      "end": 43.22,
+      "text": " Only a sip deals in obsolescence",
+      "tokens": [
+        50364,
+        5686,
+        257,
+        29668,
+        11215,
+        294,
+        3181,
+        7456,
+        25434,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19640928048353928,
+      "compression_ratio": 1.5695364238410596,
+      "no_speech_prob": 0.15910527110099792,
+      "words": [
+        {
+          "word": " Only",
+          "start": 38.84,
+          "end": 39.84,
+          "probability": 0.5893784165382385
+        },
+        {
+          "word": " a",
+          "start": 39.84,
+          "end": 40.04,
+          "probability": 0.2835947275161743
+        },
+        {
+          "word": " sip",
+          "start": 40.04,
+          "end": 40.3,
+          "probability": 0.21026261150836945
+        },
+        {
+          "word": " deals",
+          "start": 40.3,
+          "end": 41.0,
+          "probability": 0.7204186320304871
+        },
+        {
+          "word": " in",
+          "start": 41.0,
+          "end": 41.68,
+          "probability": 0.9521034955978394
+        },
+        {
+          "word": " obsolescence",
+          "start": 41.68,
+          "end": 43.22,
+          "probability": 0.8318050106366476
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 3884,
+      "start": 43.22,
+      "end": 48.62,
+      "text": " Even if never were a sensible word to use",
+      "tokens": [
+        50564,
+        2754,
+        498,
+        1128,
+        645,
+        257,
+        25380,
+        1349,
+        281,
+        764,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19640928048353928,
+      "compression_ratio": 1.5695364238410596,
+      "no_speech_prob": 0.15910527110099792,
+      "words": [
+        {
+          "word": " Even",
+          "start": 43.22,
+          "end": 44.12,
+          "probability": 0.23042230308055878
+        },
+        {
+          "word": " if",
+          "start": 44.12,
+          "end": 44.98,
+          "probability": 0.9573175311088562
+        },
+        {
+          "word": " never",
+          "start": 44.98,
+          "end": 45.6,
+          "probability": 0.6385461688041687
+        },
+        {
+          "word": " were",
+          "start": 45.6,
+          "end": 46.26,
+          "probability": 0.7520589828491211
+        },
+        {
+          "word": " a",
+          "start": 46.26,
+          "end": 46.44,
+          "probability": 0.6445655822753906
+        },
+        {
+          "word": " sensible",
+          "start": 46.44,
+          "end": 47.04,
+          "probability": 0.9894396662712097
+        },
+        {
+          "word": " word",
+          "start": 47.04,
+          "end": 47.46,
+          "probability": 0.9855033159255981
+        },
+        {
+          "word": " to",
+          "start": 47.46,
+          "end": 47.9,
+          "probability": 0.9931020736694336
+        },
+        {
+          "word": " use",
+          "start": 47.9,
+          "end": 48.62,
+          "probability": 0.9953131675720215
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 3884,
+      "start": 48.62,
+      "end": 57.38,
+      "text": " It's a very broad category of potential presentations and corresponding behaviors",
+      "tokens": [
+        50864,
+        467,
+        311,
+        257,
+        588,
+        4152,
+        7719,
+        295,
+        3995,
+        18964,
+        293,
+        11760,
+        15501,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19640928048353928,
+      "compression_ratio": 1.5695364238410596,
+      "no_speech_prob": 0.15910527110099792,
+      "words": [
+        {
+          "word": " It's",
+          "start": 48.62,
+          "end": 50.4,
+          "probability": 0.8411854803562164
+        },
+        {
+          "word": " a",
+          "start": 50.4,
+          "end": 50.5,
+          "probability": 0.9436209201812744
+        },
+        {
+          "word": " very",
+          "start": 50.5,
+          "end": 50.88,
+          "probability": 0.9874088764190674
+        },
+        {
+          "word": " broad",
+          "start": 50.88,
+          "end": 51.4,
+          "probability": 0.9991236329078674
+        },
+        {
+          "word": " category",
+          "start": 51.4,
+          "end": 52.04,
+          "probability": 0.9972936511039734
+        },
+        {
+          "word": " of",
+          "start": 52.04,
+          "end": 52.54,
+          "probability": 0.9649484753608704
+        },
+        {
+          "word": " potential",
+          "start": 52.54,
+          "end": 53.24,
+          "probability": 0.9898782968521118
+        },
+        {
+          "word": " presentations",
+          "start": 53.24,
+          "end": 54.48,
+          "probability": 0.9438532590866089
+        },
+        {
+          "word": " and",
+          "start": 54.48,
+          "end": 55.22,
+          "probability": 0.8192013502120972
+        },
+        {
+          "word": " corresponding",
+          "start": 55.22,
+          "end": 56.18,
+          "probability": 0.9952903985977173
+        },
+        {
+          "word": " behaviors",
+          "start": 56.18,
+          "end": 57.38,
+          "probability": 0.4006882905960083
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 3884,
+      "start": 57.38,
+      "end": 64.66,
+      "text": " Lots of different people doing lots of different stuff in lots of different ways",
+      "tokens": [
+        51314,
+        15908,
+        295,
+        819,
+        561,
+        884,
+        3195,
+        295,
+        819,
+        1507,
+        294,
+        3195,
+        295,
+        819,
+        2098,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19640928048353928,
+      "compression_ratio": 1.5695364238410596,
+      "no_speech_prob": 0.15910527110099792,
+      "words": [
+        {
+          "word": " Lots",
+          "start": 57.38,
+          "end": 58.72,
+          "probability": 0.34012216329574585
+        },
+        {
+          "word": " of",
+          "start": 58.72,
+          "end": 59.04,
+          "probability": 0.9988195300102234
+        },
+        {
+          "word": " different",
+          "start": 59.04,
+          "end": 59.38,
+          "probability": 0.9885989427566528
+        },
+        {
+          "word": " people",
+          "start": 59.38,
+          "end": 60.12,
+          "probability": 0.9987809062004089
+        },
+        {
+          "word": " doing",
+          "start": 60.12,
+          "end": 60.7,
+          "probability": 0.6093360781669617
+        },
+        {
+          "word": " lots",
+          "start": 60.7,
+          "end": 61.08,
+          "probability": 0.9852419495582581
+        },
+        {
+          "word": " of",
+          "start": 61.08,
+          "end": 61.3,
+          "probability": 0.9959371089935303
+        },
+        {
+          "word": " different",
+          "start": 61.3,
+          "end": 61.74,
+          "probability": 0.9919256567955017
+        },
+        {
+          "word": " stuff",
+          "start": 61.74,
+          "end": 62.32,
+          "probability": 0.9900572896003723
+        },
+        {
+          "word": " in",
+          "start": 62.32,
+          "end": 62.86,
+          "probability": 0.8392149209976196
+        },
+        {
+          "word": " lots",
+          "start": 62.86,
+          "end": 63.18,
+          "probability": 0.9901272058486938
+        },
+        {
+          "word": " of",
+          "start": 63.18,
+          "end": 63.4,
+          "probability": 0.9950408339500427
+        },
+        {
+          "word": " different",
+          "start": 63.4,
+          "end": 63.9,
+          "probability": 0.9975528120994568
+        },
+        {
+          "word": " ways",
+          "start": 63.9,
+          "end": 64.66,
+          "probability": 0.9967722296714783
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 6884,
+      "start": 69.7,
+      "end": 74.16,
+      "text": " Some of them even following through with it",
+      "tokens": [
+        50414,
+        2188,
+        295,
+        552,
+        754,
+        3480,
+        807,
+        365,
+        309,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19552698135375976,
+      "compression_ratio": 1.786259541984733,
+      "no_speech_prob": 0.08101633191108704,
+      "words": [
+        {
+          "word": " Some",
+          "start": 69.7,
+          "end": 70.94,
+          "probability": 0.10264676064252853
+        },
+        {
+          "word": " of",
+          "start": 70.94,
+          "end": 71.06,
+          "probability": 0.9120529294013977
+        },
+        {
+          "word": " them",
+          "start": 71.06,
+          "end": 71.24,
+          "probability": 0.9828727841377258
+        },
+        {
+          "word": " even",
+          "start": 71.24,
+          "end": 71.86,
+          "probability": 0.944121778011322
+        },
+        {
+          "word": " following",
+          "start": 71.86,
+          "end": 72.36,
+          "probability": 0.17448700964450836
+        },
+        {
+          "word": " through",
+          "start": 72.36,
+          "end": 73.04,
+          "probability": 0.2677951455116272
+        },
+        {
+          "word": " with",
+          "start": 73.04,
+          "end": 73.54,
+          "probability": 0.9838101863861084
+        },
+        {
+          "word": " it",
+          "start": 73.54,
+          "end": 74.16,
+          "probability": 0.9879176020622253
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 6884,
+      "start": 74.16,
+      "end": 81.56,
+      "text": " Some of it without wanting to validate the premise of the question",
+      "tokens": [
+        50614,
+        2188,
+        295,
+        309,
+        1553,
+        7935,
+        281,
+        29562,
+        264,
+        22045,
+        295,
+        264,
+        1168,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19552698135375976,
+      "compression_ratio": 1.786259541984733,
+      "no_speech_prob": 0.08101633191108704,
+      "words": [
+        {
+          "word": " Some",
+          "start": 74.16,
+          "end": 74.78,
+          "probability": 0.12131169438362122
+        },
+        {
+          "word": " of",
+          "start": 74.78,
+          "end": 75.02,
+          "probability": 0.9602235555648804
+        },
+        {
+          "word": " it",
+          "start": 75.02,
+          "end": 75.64,
+          "probability": 0.8774173259735107
+        },
+        {
+          "word": " without",
+          "start": 75.64,
+          "end": 76.16,
+          "probability": 0.5500800609588623
+        },
+        {
+          "word": " wanting",
+          "start": 76.16,
+          "end": 76.84,
+          "probability": 0.9797855019569397
+        },
+        {
+          "word": " to",
+          "start": 76.84,
+          "end": 77.32,
+          "probability": 0.9969141483306885
+        },
+        {
+          "word": " validate",
+          "start": 77.32,
+          "end": 78.4,
+          "probability": 0.98661869764328
+        },
+        {
+          "word": " the",
+          "start": 78.4,
+          "end": 79.68,
+          "probability": 0.8243799209594727
+        },
+        {
+          "word": " premise",
+          "start": 79.68,
+          "end": 80.1,
+          "probability": 0.9791016578674316
+        },
+        {
+          "word": " of",
+          "start": 80.1,
+          "end": 80.54,
+          "probability": 0.9936890602111816
+        },
+        {
+          "word": " the",
+          "start": 80.54,
+          "end": 80.6,
+          "probability": 0.9848765134811401
+        },
+        {
+          "word": " question",
+          "start": 80.6,
+          "end": 81.56,
+          "probability": 0.9882538318634033
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 6884,
+      "start": 81.56,
+      "end": 87.12,
+      "text": " Without wanting to validate the premise of the question",
+      "tokens": [
+        51014,
+        9129,
+        7935,
+        281,
+        29562,
+        264,
+        22045,
+        295,
+        264,
+        1168,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19552698135375976,
+      "compression_ratio": 1.786259541984733,
+      "no_speech_prob": 0.08101633191108704,
+      "words": [
+        {
+          "word": " Without",
+          "start": 81.56,
+          "end": 82.86,
+          "probability": 0.2247081995010376
+        },
+        {
+          "word": " wanting",
+          "start": 82.86,
+          "end": 83.5,
+          "probability": 0.9888898134231567
+        },
+        {
+          "word": " to",
+          "start": 83.5,
+          "end": 83.9,
+          "probability": 0.9988792538642883
+        },
+        {
+          "word": " validate",
+          "start": 83.9,
+          "end": 84.6,
+          "probability": 0.9980677962303162
+        },
+        {
+          "word": " the",
+          "start": 84.6,
+          "end": 84.92,
+          "probability": 0.9887873530387878
+        },
+        {
+          "word": " premise",
+          "start": 84.92,
+          "end": 85.46,
+          "probability": 0.9964051246643066
+        },
+        {
+          "word": " of",
+          "start": 85.46,
+          "end": 86.0,
+          "probability": 0.9960766434669495
+        },
+        {
+          "word": " the",
+          "start": 86.0,
+          "end": 86.12,
+          "probability": 0.9315069913864136
+        },
+        {
+          "word": " question",
+          "start": 86.12,
+          "end": 87.12,
+          "probability": 0.9940698146820068
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 6884,
+      "start": 87.12,
+      "end": 96.32,
+      "text": " Sometimes folks are wrecked to itself by another confidence failure",
+      "tokens": [
+        51264,
+        4803,
+        4024,
+        366,
+        21478,
+        292,
+        281,
+        2564,
+        538,
+        1071,
+        6687,
+        7763,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19552698135375976,
+      "compression_ratio": 1.786259541984733,
+      "no_speech_prob": 0.08101633191108704,
+      "words": [
+        {
+          "word": " Sometimes",
+          "start": 87.12,
+          "end": 89.02,
+          "probability": 0.8761396408081055
+        },
+        {
+          "word": " folks",
+          "start": 89.02,
+          "end": 89.98,
+          "probability": 0.9390782117843628
+        },
+        {
+          "word": " are",
+          "start": 89.98,
+          "end": 90.84,
+          "probability": 0.9756671786308289
+        },
+        {
+          "word": " wrecked",
+          "start": 90.84,
+          "end": 91.36,
+          "probability": 0.7115533500909805
+        },
+        {
+          "word": " to",
+          "start": 91.36,
+          "end": 91.5,
+          "probability": 0.46197542548179626
+        },
+        {
+          "word": " itself",
+          "start": 91.5,
+          "end": 92.18,
+          "probability": 0.4721638858318329
+        },
+        {
+          "word": " by",
+          "start": 92.18,
+          "end": 92.68,
+          "probability": 0.3985903859138489
+        },
+        {
+          "word": " another",
+          "start": 92.68,
+          "end": 93.48,
+          "probability": 0.2599813938140869
+        },
+        {
+          "word": " confidence",
+          "start": 93.48,
+          "end": 95.5,
+          "probability": 0.6404384970664978
+        },
+        {
+          "word": " failure",
+          "start": 95.5,
+          "end": 96.32,
+          "probability": 0.9468807578086853
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 9632,
+      "start": 96.32,
+      "end": 107.58,
+      "text": " Sometimes folks are generalizations based on myself and observation of others I've encountered",
+      "tokens": [
+        50364,
+        4803,
+        4024,
+        366,
+        2674,
+        14455,
+        2361,
+        322,
+        2059,
+        293,
+        14816,
+        295,
+        2357,
+        286,
+        600,
+        20381,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1986397715175853,
+      "compression_ratio": 1.2586206896551724,
+      "no_speech_prob": 0.019608158618211746,
+      "words": [
+        {
+          "word": " Sometimes",
+          "start": 96.32,
+          "end": 97.24,
+          "probability": 0.4447256326675415
+        },
+        {
+          "word": " folks",
+          "start": 97.24,
+          "end": 98.14,
+          "probability": 0.05821465328335762
+        },
+        {
+          "word": " are",
+          "start": 98.14,
+          "end": 99.7,
+          "probability": 0.714259922504425
+        },
+        {
+          "word": " generalizations",
+          "start": 99.7,
+          "end": 101.12,
+          "probability": 0.7856484353542328
+        },
+        {
+          "word": " based",
+          "start": 101.12,
+          "end": 101.82,
+          "probability": 0.9540197849273682
+        },
+        {
+          "word": " on",
+          "start": 101.82,
+          "end": 102.18,
+          "probability": 0.994316041469574
+        },
+        {
+          "word": " myself",
+          "start": 102.18,
+          "end": 103.06,
+          "probability": 0.6666816473007202
+        },
+        {
+          "word": " and",
+          "start": 103.06,
+          "end": 103.88,
+          "probability": 0.8899679183959961
+        },
+        {
+          "word": " observation",
+          "start": 103.88,
+          "end": 104.66,
+          "probability": 0.65488201379776
+        },
+        {
+          "word": " of",
+          "start": 104.66,
+          "end": 105.14,
+          "probability": 0.9662303328514099
+        },
+        {
+          "word": " others",
+          "start": 105.14,
+          "end": 105.68,
+          "probability": 0.993388295173645
+        },
+        {
+          "word": " I've",
+          "start": 105.68,
+          "end": 106.22,
+          "probability": 0.9286918640136719
+        },
+        {
+          "word": " encountered",
+          "start": 106.22,
+          "end": 107.58,
+          "probability": 0.9816846251487732
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 9632,
+      "start": 107.58,
+      "end": 113.88,
+      "text": " As such they do not go for everyone",
+      "tokens": [
+        50914,
+        1018,
+        1270,
+        436,
+        360,
+        406,
+        352,
+        337,
+        1518,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1986397715175853,
+      "compression_ratio": 1.2586206896551724,
+      "no_speech_prob": 0.019608158618211746,
+      "words": [
+        {
+          "word": " As",
+          "start": 107.58,
+          "end": 108.7,
+          "probability": 0.2707540988922119
+        },
+        {
+          "word": " such",
+          "start": 108.7,
+          "end": 109.68,
+          "probability": 0.9935624599456787
+        },
+        {
+          "word": " they",
+          "start": 109.68,
+          "end": 110.18,
+          "probability": 0.3125234544277191
+        },
+        {
+          "word": " do",
+          "start": 110.18,
+          "end": 110.52,
+          "probability": 0.8583859205245972
+        },
+        {
+          "word": " not",
+          "start": 110.52,
+          "end": 110.86,
+          "probability": 0.9492858052253723
+        },
+        {
+          "word": " go",
+          "start": 110.86,
+          "end": 111.52,
+          "probability": 0.9580550193786621
+        },
+        {
+          "word": " for",
+          "start": 111.52,
+          "end": 113.04,
+          "probability": 0.6324151754379272
+        },
+        {
+          "word": " everyone",
+          "start": 113.04,
+          "end": 113.88,
+          "probability": 0.9749098420143127
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 9632,
+      "start": 116.32,
+      "end": 118.28,
+      "text": " Hope this helps",
+      "tokens": [
+        51364,
+        6483,
+        341,
+        3665,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1986397715175853,
+      "compression_ratio": 1.2586206896551724,
+      "no_speech_prob": 0.019608158618211746,
+      "words": [
+        {
+          "word": " Hope",
+          "start": 116.14,
+          "end": 116.84,
+          "probability": 0.3493538796901703
+        },
+        {
+          "word": " this",
+          "start": 116.84,
+          "end": 117.32,
+          "probability": 0.994441568851471
+        },
+        {
+          "word": " helps",
+          "start": 117.32,
+          "end": 118.28,
+          "probability": 0.9974378347396851
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 11828,
+      "start": 118.28,
+      "end": 123.36,
+      "text": " I'm off to my habitat on the sea floor",
+      "tokens": [
+        50364,
+        286,
+        478,
+        766,
+        281,
+        452,
+        20110,
+        322,
+        264,
+        4158,
+        4123,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2507541511632219,
+      "compression_ratio": 1.5466666666666666,
+      "no_speech_prob": 0.5040476322174072,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 118.28,
+          "end": 119.76,
+          "probability": 0.8148581981658936
+        },
+        {
+          "word": " off",
+          "start": 119.76,
+          "end": 120.22,
+          "probability": 0.9851531982421875
+        },
+        {
+          "word": " to",
+          "start": 120.22,
+          "end": 120.48,
+          "probability": 0.9804872870445251
+        },
+        {
+          "word": " my",
+          "start": 120.48,
+          "end": 120.78,
+          "probability": 0.9942718744277954
+        },
+        {
+          "word": " habitat",
+          "start": 120.78,
+          "end": 121.6,
+          "probability": 0.9150335192680359
+        },
+        {
+          "word": " on",
+          "start": 121.6,
+          "end": 122.1,
+          "probability": 0.7923022508621216
+        },
+        {
+          "word": " the",
+          "start": 122.1,
+          "end": 122.3,
+          "probability": 0.8347780704498291
+        },
+        {
+          "word": " sea",
+          "start": 122.3,
+          "end": 122.62,
+          "probability": 0.38914117217063904
+        },
+        {
+          "word": " floor",
+          "start": 122.62,
+          "end": 123.36,
+          "probability": 0.9820828437805176
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 11828,
+      "start": 123.36,
+      "end": 128.44,
+      "text": " To eat two-third of a decomposing fish",
+      "tokens": [
+        50614,
+        1407,
+        1862,
+        732,
+        12,
+        25095,
+        295,
+        257,
+        22867,
+        6110,
+        3506,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2507541511632219,
+      "compression_ratio": 1.5466666666666666,
+      "no_speech_prob": 0.5040476322174072,
+      "words": [
+        {
+          "word": " To",
+          "start": 123.36,
+          "end": 124.54,
+          "probability": 0.3611874282360077
+        },
+        {
+          "word": " eat",
+          "start": 124.54,
+          "end": 125.0,
+          "probability": 0.9987402558326721
+        },
+        {
+          "word": " two",
+          "start": 125.0,
+          "end": 125.48,
+          "probability": 0.7607265710830688
+        },
+        {
+          "word": "-third",
+          "start": 125.48,
+          "end": 125.82,
+          "probability": 0.4919831305742264
+        },
+        {
+          "word": " of",
+          "start": 125.82,
+          "end": 126.24,
+          "probability": 0.9928105473518372
+        },
+        {
+          "word": " a",
+          "start": 126.24,
+          "end": 126.4,
+          "probability": 0.8447064161300659
+        },
+        {
+          "word": " decomposing",
+          "start": 126.4,
+          "end": 127.56,
+          "probability": 0.881980687379837
+        },
+        {
+          "word": " fish",
+          "start": 127.56,
+          "end": 128.44,
+          "probability": 0.9984050393104553
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 11828,
+      "start": 128.44,
+      "end": 132.06,
+      "text": " I started the other day but couldn't finish",
+      "tokens": [
+        50864,
+        286,
+        1409,
+        264,
+        661,
+        786,
+        457,
+        2809,
+        380,
+        2413,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2507541511632219,
+      "compression_ratio": 1.5466666666666666,
+      "no_speech_prob": 0.5040476322174072,
+      "words": [
+        {
+          "word": " I",
+          "start": 128.44,
+          "end": 129.06,
+          "probability": 0.8943626284599304
+        },
+        {
+          "word": " started",
+          "start": 129.06,
+          "end": 129.7,
+          "probability": 0.8416250944137573
+        },
+        {
+          "word": " the",
+          "start": 129.7,
+          "end": 130.08,
+          "probability": 0.9946921467781067
+        },
+        {
+          "word": " other",
+          "start": 130.08,
+          "end": 130.38,
+          "probability": 0.9636304378509521
+        },
+        {
+          "word": " day",
+          "start": 130.38,
+          "end": 130.62,
+          "probability": 0.9915169477462769
+        },
+        {
+          "word": " but",
+          "start": 130.62,
+          "end": 130.98,
+          "probability": 0.5081602931022644
+        },
+        {
+          "word": " couldn't",
+          "start": 130.98,
+          "end": 131.52,
+          "probability": 0.9642495512962341
+        },
+        {
+          "word": " finish",
+          "start": 131.52,
+          "end": 132.06,
+          "probability": 0.9889953136444092
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 11828,
+      "start": 132.06,
+      "end": 137.76,
+      "text": " It's amazing how delightful if we call of me",
+      "tokens": [
+        51064,
+        467,
+        311,
+        2243,
+        577,
+        35194,
+        498,
+        321,
+        818,
+        295,
+        385,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2507541511632219,
+      "compression_ratio": 1.5466666666666666,
+      "no_speech_prob": 0.5040476322174072,
+      "words": [
+        {
+          "word": " It's",
+          "start": 132.06,
+          "end": 132.54,
+          "probability": 0.5709707587957382
+        },
+        {
+          "word": " amazing",
+          "start": 132.54,
+          "end": 133.28,
+          "probability": 0.923551082611084
+        },
+        {
+          "word": " how",
+          "start": 133.28,
+          "end": 134.92,
+          "probability": 0.7989993095397949
+        },
+        {
+          "word": " delightful",
+          "start": 134.92,
+          "end": 135.6,
+          "probability": 0.8265846967697144
+        },
+        {
+          "word": " if",
+          "start": 135.6,
+          "end": 136.0,
+          "probability": 0.3731631636619568
+        },
+        {
+          "word": " we",
+          "start": 136.0,
+          "end": 136.28,
+          "probability": 0.37428760528564453
+        },
+        {
+          "word": " call",
+          "start": 136.28,
+          "end": 136.6,
+          "probability": 0.5134521126747131
+        },
+        {
+          "word": " of",
+          "start": 136.6,
+          "end": 136.86,
+          "probability": 0.3652227222919464
+        },
+        {
+          "word": " me",
+          "start": 136.86,
+          "end": 137.76,
+          "probability": 0.9806910753250122
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 11828,
+      "start": 137.76,
+      "end": 142.4,
+      "text": " Mmm, it's the scuttle, scuttle, scuttle",
+      "tokens": [
+        51314,
+        12146,
+        11,
+        309,
+        311,
+        264,
+        795,
+        325,
+        10972,
+        11,
+        795,
+        325,
+        10972,
+        11,
+        795,
+        325,
+        10972,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2507541511632219,
+      "compression_ratio": 1.5466666666666666,
+      "no_speech_prob": 0.5040476322174072,
+      "words": [
+        {
+          "word": " Mmm,",
+          "start": 137.76,
+          "end": 138.62,
+          "probability": 0.10276573151350021
+        },
+        {
+          "word": " it's",
+          "start": 139.18,
+          "end": 139.54,
+          "probability": 0.6682197451591492
+        },
+        {
+          "word": " the",
+          "start": 139.54,
+          "end": 139.72,
+          "probability": 0.5774560570716858
+        },
+        {
+          "word": " scuttle,",
+          "start": 139.72,
+          "end": 140.3,
+          "probability": 0.8202195962270101
+        },
+        {
+          "word": " scuttle,",
+          "start": 140.32,
+          "end": 141.02,
+          "probability": 0.9736196001370748
+        },
+        {
+          "word": " scuttle",
+          "start": 141.2,
+          "end": 142.4,
+          "probability": 0.9830901424090067
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 11828,
+      "start": 142.4,
+      "end": 145.48,
+      "text": " Scuttle, scuttle, scuttle",
+      "tokens": [
+        51564,
+        2747,
+        325,
+        10972,
+        11,
+        795,
+        325,
+        10972,
+        11,
+        795,
+        325,
+        10972,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2507541511632219,
+      "compression_ratio": 1.5466666666666666,
+      "no_speech_prob": 0.5040476322174072,
+      "words": [
+        {
+          "word": " Scuttle,",
+          "start": 142.4,
+          "end": 143.64,
+          "probability": 0.8215764661629995
+        },
+        {
+          "word": " scuttle,",
+          "start": 143.7,
+          "end": 144.3,
+          "probability": 0.9892804423967997
+        },
+        {
+          "word": " scuttle",
+          "start": 144.5,
+          "end": 145.48,
+          "probability": 0.9960719545682272
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

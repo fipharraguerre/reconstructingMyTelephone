@@ -1,0 +1,398 @@
+{
+  "text": " Mountain top, crumbling Golden ball, golden ball, golden ball Three, four, golden ball Held together with no string Nothing came apart at the seam No string, nothing Three, four, golden ball Three, four Golden ball",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 35.88,
+      "end": 52.8,
+      "text": " Mountain top, crumbling Golden ball, golden ball, golden ball",
+      "tokens": [
+        50364,
+        15586,
+        1192,
+        11,
+        941,
+        14188,
+        13410,
+        2594,
+        11,
+        9729,
+        2594,
+        11,
+        9729,
+        2594,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48082626567167397,
+      "compression_ratio": 1.2708333333333333,
+      "no_speech_prob": 0.36483317613601685,
+      "words": [
+        {
+          "word": " Mountain",
+          "start": 35.88,
+          "end": 37.28,
+          "probability": 0.4568463861942291
+        },
+        {
+          "word": " top,",
+          "start": 37.28,
+          "end": 38.68,
+          "probability": 0.8816366791725159
+        },
+        {
+          "word": " crumbling",
+          "start": 39.94,
+          "end": 43.88,
+          "probability": 0.929120808839798
+        },
+        {
+          "word": " Golden",
+          "start": 43.88,
+          "end": 46.46,
+          "probability": 0.8115209937095642
+        },
+        {
+          "word": " ball,",
+          "start": 46.46,
+          "end": 47.14,
+          "probability": 0.8422868847846985
+        },
+        {
+          "word": " golden",
+          "start": 47.24,
+          "end": 48.3,
+          "probability": 0.9234691262245178
+        },
+        {
+          "word": " ball,",
+          "start": 48.3,
+          "end": 49.46,
+          "probability": 0.994788408279419
+        },
+        {
+          "word": " golden",
+          "start": 49.46,
+          "end": 51.4,
+          "probability": 0.9802380800247192
+        },
+        {
+          "word": " ball",
+          "start": 51.4,
+          "end": 52.8,
+          "probability": 0.983525276184082
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 5280,
+      "start": 55.74,
+      "end": 62.28,
+      "text": " Three, four, golden ball",
+      "tokens": [
+        50414,
+        6244,
+        11,
+        1451,
+        11,
+        9729,
+        2594,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4258381260765923,
+      "compression_ratio": 0.8833333333333333,
+      "no_speech_prob": 0.05750064551830292,
+      "words": [
+        {
+          "word": " Three,",
+          "start": 55.74,
+          "end": 57.14,
+          "probability": 0.14692078530788422
+        },
+        {
+          "word": " four,",
+          "start": 57.14,
+          "end": 58.54,
+          "probability": 0.9615313410758972
+        },
+        {
+          "word": " golden",
+          "start": 58.82,
+          "end": 60.76,
+          "probability": 0.8786122798919678
+        },
+        {
+          "word": " ball",
+          "start": 60.76,
+          "end": 62.28,
+          "probability": 0.636646032333374
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 5280,
+      "start": 64.88,
+      "end": 70.8,
+      "text": " Held together with no string",
+      "tokens": [
+        50914,
+        389,
+        5957,
+        1214,
+        365,
+        572,
+        6798,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4258381260765923,
+      "compression_ratio": 0.8833333333333333,
+      "no_speech_prob": 0.05750064551830292,
+      "words": [
+        {
+          "word": " Held",
+          "start": 64.88,
+          "end": 66.28,
+          "probability": 0.5510155968368053
+        },
+        {
+          "word": " together",
+          "start": 66.28,
+          "end": 67.68,
+          "probability": 0.9938496947288513
+        },
+        {
+          "word": " with",
+          "start": 67.68,
+          "end": 69.46,
+          "probability": 0.792134165763855
+        },
+        {
+          "word": " no",
+          "start": 69.46,
+          "end": 70.28,
+          "probability": 0.9967592358589172
+        },
+        {
+          "word": " string",
+          "start": 70.28,
+          "end": 70.98,
+          "probability": 0.921388566493988
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 7098,
+      "start": 79.25999999999999,
+      "end": 87.98,
+      "text": " Nothing came apart at the seam",
+      "tokens": [
+        50364,
+        6693,
+        1361,
+        4936,
+        412,
+        264,
+        12337,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4463953018188477,
+      "compression_ratio": 0.7894736842105263,
+      "no_speech_prob": 0.0947456806898117,
+      "words": [
+        {
+          "word": " Nothing",
+          "start": 79.25999999999999,
+          "end": 80.66,
+          "probability": 0.5017300844192505
+        },
+        {
+          "word": " came",
+          "start": 80.66,
+          "end": 82.06,
+          "probability": 0.7246291637420654
+        },
+        {
+          "word": " apart",
+          "start": 82.06,
+          "end": 84.06,
+          "probability": 0.3359399735927582
+        },
+        {
+          "word": " at",
+          "start": 84.06,
+          "end": 86.76,
+          "probability": 0.8917761445045471
+        },
+        {
+          "word": " the",
+          "start": 86.76,
+          "end": 87.28,
+          "probability": 0.9884530901908875
+        },
+        {
+          "word": " seam",
+          "start": 87.28,
+          "end": 87.98,
+          "probability": 0.36392319202423096
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 8798,
+      "start": 91.85999999999999,
+      "end": 100.74,
+      "text": " No string, nothing",
+      "tokens": [
+        50364,
+        883,
+        6798,
+        11,
+        1825,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3942241072654724,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.12912459671497345,
+      "words": [
+        {
+          "word": " No",
+          "start": 91.85999999999999,
+          "end": 93.25999999999999,
+          "probability": 0.12892702221870422
+        },
+        {
+          "word": " string,",
+          "start": 93.25999999999999,
+          "end": 94.66,
+          "probability": 0.762866199016571
+        },
+        {
+          "word": " nothing",
+          "start": 100.72,
+          "end": 100.74,
+          "probability": 0.8556605577468872
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 10074,
+      "start": 102.97999999999999,
+      "end": 112.5,
+      "text": " Three, four, golden ball",
+      "tokens": [
+        50364,
+        6244,
+        11,
+        1451,
+        11,
+        9729,
+        2594,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25679523604256765,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.06866353005170822,
+      "words": [
+        {
+          "word": " Three,",
+          "start": 102.97999999999999,
+          "end": 104.38,
+          "probability": 0.003032485954463482
+        },
+        {
+          "word": " four,",
+          "start": 104.38,
+          "end": 105.78,
+          "probability": 0.8690148591995239
+        },
+        {
+          "word": " golden",
+          "start": 105.92,
+          "end": 109.72,
+          "probability": 0.020417025312781334
+        },
+        {
+          "word": " ball",
+          "start": 109.72,
+          "end": 112.5,
+          "probability": 0.17838415503501892
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 10074,
+      "start": 115.51999999999998,
+      "end": 118.32,
+      "text": " Three, four",
+      "tokens": [
+        51014,
+        6244,
+        11,
+        1451,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25679523604256765,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.06866353005170822,
+      "words": [
+        {
+          "word": " Three,",
+          "start": 115.51999999999998,
+          "end": 116.91999999999999,
+          "probability": 0.23909413814544678
+        },
+        {
+          "word": " four",
+          "start": 116.91999999999999,
+          "end": 118.32,
+          "probability": 0.9871375560760498
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 13074,
+      "start": 145.26,
+      "end": 147.34,
+      "text": " Golden ball",
+      "tokens": [
+        50364,
+        13410,
+        2594,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8932840347290039,
+      "compression_ratio": 0.5789473684210527,
+      "no_speech_prob": 0.821926474571228,
+      "words": [
+        {
+          "word": " Golden",
+          "start": 145.26,
+          "end": 146.66,
+          "probability": 3.7098802749824245e-06
+        },
+        {
+          "word": " ball",
+          "start": 146.66,
+          "end": 147.34,
+          "probability": 0.0023267020005732775
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

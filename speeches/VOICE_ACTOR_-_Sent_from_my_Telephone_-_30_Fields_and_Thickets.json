@@ -1,0 +1,543 @@
+{
+  "text": " Never go shopping in fields and thickets. For clothes to wear like a coat or sweater. They have habits. They think much better when jackets get tight. They don't need mothers or fathers or brothers to get them. Mothers, they shed their pinchy old coats with vigor and grow another. And this one with vigor. Never.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.0,
+      "text": " Never go shopping in fields and thickets.",
+      "tokens": [
+        50364,
+        7344,
+        352,
+        8688,
+        294,
+        7909,
+        293,
+        5060,
+        1385,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2980294942855835,
+      "compression_ratio": 1.2820512820512822,
+      "no_speech_prob": 0.29364779591560364,
+      "words": [
+        {
+          "word": " Never",
+          "start": 0.0,
+          "end": 1.64,
+          "probability": 0.4877152740955353
+        },
+        {
+          "word": " go",
+          "start": 1.64,
+          "end": 2.36,
+          "probability": 0.9691900014877319
+        },
+        {
+          "word": " shopping",
+          "start": 2.36,
+          "end": 3.14,
+          "probability": 0.9932286739349365
+        },
+        {
+          "word": " in",
+          "start": 3.14,
+          "end": 3.86,
+          "probability": 0.9772123694419861
+        },
+        {
+          "word": " fields",
+          "start": 3.86,
+          "end": 4.84,
+          "probability": 0.9727246165275574
+        },
+        {
+          "word": " and",
+          "start": 4.84,
+          "end": 6.38,
+          "probability": 0.44826892018318176
+        },
+        {
+          "word": " thickets.",
+          "start": 6.38,
+          "end": 8.0,
+          "probability": 0.8948919773101807
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.02,
+      "end": 15.42,
+      "text": " For clothes to wear like a coat or sweater.",
+      "tokens": [
+        50764,
+        1171,
+        5534,
+        281,
+        3728,
+        411,
+        257,
+        10690,
+        420,
+        26550,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2980294942855835,
+      "compression_ratio": 1.2820512820512822,
+      "no_speech_prob": 0.29364779591560364,
+      "words": [
+        {
+          "word": " For",
+          "start": 9.02,
+          "end": 9.78,
+          "probability": 0.6524977684020996
+        },
+        {
+          "word": " clothes",
+          "start": 9.78,
+          "end": 10.42,
+          "probability": 0.9602017998695374
+        },
+        {
+          "word": " to",
+          "start": 10.42,
+          "end": 11.0,
+          "probability": 0.9890185594558716
+        },
+        {
+          "word": " wear",
+          "start": 11.0,
+          "end": 11.78,
+          "probability": 0.9972469806671143
+        },
+        {
+          "word": " like",
+          "start": 11.78,
+          "end": 12.54,
+          "probability": 0.6191837787628174
+        },
+        {
+          "word": " a",
+          "start": 12.54,
+          "end": 12.8,
+          "probability": 0.7084596157073975
+        },
+        {
+          "word": " coat",
+          "start": 12.8,
+          "end": 13.54,
+          "probability": 0.9958584904670715
+        },
+        {
+          "word": " or",
+          "start": 13.54,
+          "end": 14.74,
+          "probability": 0.9503101110458374
+        },
+        {
+          "word": " sweater.",
+          "start": 14.74,
+          "end": 15.42,
+          "probability": 0.8914470076560974
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 16.34,
+      "end": 25.08,
+      "text": " They have habits. They think much better when jackets get tight.",
+      "tokens": [
+        51164,
+        814,
+        362,
+        14100,
+        13,
+        814,
+        519,
+        709,
+        1101,
+        562,
+        34612,
+        483,
+        4524,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2980294942855835,
+      "compression_ratio": 1.2820512820512822,
+      "no_speech_prob": 0.29364779591560364,
+      "words": [
+        {
+          "word": " They",
+          "start": 16.34,
+          "end": 16.74,
+          "probability": 0.974753737449646
+        },
+        {
+          "word": " have",
+          "start": 16.74,
+          "end": 17.36,
+          "probability": 0.9875932335853577
+        },
+        {
+          "word": " habits.",
+          "start": 17.36,
+          "end": 18.34,
+          "probability": 0.7083303332328796
+        },
+        {
+          "word": " They",
+          "start": 18.9,
+          "end": 19.3,
+          "probability": 0.9788981676101685
+        },
+        {
+          "word": " think",
+          "start": 19.3,
+          "end": 19.9,
+          "probability": 0.9981694221496582
+        },
+        {
+          "word": " much",
+          "start": 19.9,
+          "end": 20.42,
+          "probability": 0.9948083758354187
+        },
+        {
+          "word": " better",
+          "start": 20.42,
+          "end": 21.26,
+          "probability": 0.9979578256607056
+        },
+        {
+          "word": " when",
+          "start": 21.26,
+          "end": 22.94,
+          "probability": 0.8087178468704224
+        },
+        {
+          "word": " jackets",
+          "start": 22.94,
+          "end": 23.74,
+          "probability": 0.981264591217041
+        },
+        {
+          "word": " get",
+          "start": 23.74,
+          "end": 24.36,
+          "probability": 0.9965873956680298
+        },
+        {
+          "word": " tight.",
+          "start": 24.36,
+          "end": 25.08,
+          "probability": 0.9946275353431702
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2508,
+      "start": 25.08,
+      "end": 34.14,
+      "text": " They don't need mothers or fathers or brothers to get them.",
+      "tokens": [
+        50364,
+        814,
+        500,
+        380,
+        643,
+        17941,
+        420,
+        23450,
+        420,
+        8452,
+        281,
+        483,
+        552,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.33589326767694383,
+      "compression_ratio": 1.3716814159292035,
+      "no_speech_prob": 0.2594221234321594,
+      "words": [
+        {
+          "word": " They",
+          "start": 25.08,
+          "end": 26.38,
+          "probability": 0.6586444973945618
+        },
+        {
+          "word": " don't",
+          "start": 26.38,
+          "end": 26.94,
+          "probability": 0.9787330031394958
+        },
+        {
+          "word": " need",
+          "start": 26.94,
+          "end": 27.46,
+          "probability": 0.9888494610786438
+        },
+        {
+          "word": " mothers",
+          "start": 27.46,
+          "end": 28.44,
+          "probability": 0.9147480130195618
+        },
+        {
+          "word": " or",
+          "start": 28.44,
+          "end": 29.76,
+          "probability": 0.7094904780387878
+        },
+        {
+          "word": " fathers",
+          "start": 29.76,
+          "end": 30.54,
+          "probability": 0.9848388433456421
+        },
+        {
+          "word": " or",
+          "start": 30.54,
+          "end": 31.8,
+          "probability": 0.7999781966209412
+        },
+        {
+          "word": " brothers",
+          "start": 31.8,
+          "end": 32.48,
+          "probability": 0.9623526930809021
+        },
+        {
+          "word": " to",
+          "start": 32.48,
+          "end": 33.12,
+          "probability": 0.9528962969779968
+        },
+        {
+          "word": " get",
+          "start": 33.12,
+          "end": 33.5,
+          "probability": 0.9861245155334473
+        },
+        {
+          "word": " them.",
+          "start": 33.5,
+          "end": 34.14,
+          "probability": 0.9398122429847717
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2508,
+      "start": 34.24,
+      "end": 45.74,
+      "text": " Mothers, they shed their pinchy old coats with vigor and grow another.",
+      "tokens": [
+        50814,
+        376,
+        5750,
+        11,
+        436,
+        14951,
+        641,
+        14614,
+        88,
+        1331,
+        30036,
+        365,
+        42396,
+        293,
+        1852,
+        1071,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.33589326767694383,
+      "compression_ratio": 1.3716814159292035,
+      "no_speech_prob": 0.2594221234321594,
+      "words": [
+        {
+          "word": " Mothers,",
+          "start": 34.24,
+          "end": 35.3,
+          "probability": 0.9217963516712189
+        },
+        {
+          "word": " they",
+          "start": 35.3,
+          "end": 37.0,
+          "probability": 0.9489442110061646
+        },
+        {
+          "word": " shed",
+          "start": 37.0,
+          "end": 37.78,
+          "probability": 0.9570793509483337
+        },
+        {
+          "word": " their",
+          "start": 37.78,
+          "end": 38.3,
+          "probability": 0.9920853972434998
+        },
+        {
+          "word": " pinchy",
+          "start": 38.3,
+          "end": 39.08,
+          "probability": 0.9447258412837982
+        },
+        {
+          "word": " old",
+          "start": 39.08,
+          "end": 39.62,
+          "probability": 0.8921434283256531
+        },
+        {
+          "word": " coats",
+          "start": 39.62,
+          "end": 40.42,
+          "probability": 0.6540771722793579
+        },
+        {
+          "word": " with",
+          "start": 40.42,
+          "end": 41.54,
+          "probability": 0.9487830996513367
+        },
+        {
+          "word": " vigor",
+          "start": 41.54,
+          "end": 42.06,
+          "probability": 0.8047675490379333
+        },
+        {
+          "word": " and",
+          "start": 42.06,
+          "end": 44.22,
+          "probability": 0.8309168815612793
+        },
+        {
+          "word": " grow",
+          "start": 44.22,
+          "end": 44.76,
+          "probability": 0.9855037331581116
+        },
+        {
+          "word": " another.",
+          "start": 44.76,
+          "end": 45.74,
+          "probability": 0.97897869348526
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2508,
+      "start": 47.78,
+      "end": 50.52,
+      "text": " And this one with vigor.",
+      "tokens": [
+        51414,
+        400,
+        341,
+        472,
+        365,
+        42396,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.33589326767694383,
+      "compression_ratio": 1.3716814159292035,
+      "no_speech_prob": 0.2594221234321594,
+      "words": [
+        {
+          "word": " And",
+          "start": 47.78,
+          "end": 48.04,
+          "probability": 0.4450599253177643
+        },
+        {
+          "word": " this",
+          "start": 48.04,
+          "end": 48.26,
+          "probability": 0.9371939301490784
+        },
+        {
+          "word": " one",
+          "start": 48.26,
+          "end": 48.48,
+          "probability": 0.40024876594543457
+        },
+        {
+          "word": " with",
+          "start": 48.48,
+          "end": 48.78,
+          "probability": 0.17456959187984467
+        },
+        {
+          "word": " vigor.",
+          "start": 48.78,
+          "end": 50.52,
+          "probability": 0.9605348110198975
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 5508,
+      "start": 55.08,
+      "end": 56.44,
+      "text": " Never.",
+      "tokens": [
+        50364,
+        7344,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5705873701307509,
+      "compression_ratio": 0.7647058823529411,
+      "no_speech_prob": 0.7275689840316772,
+      "words": [
+        {
+          "word": " Never.",
+          "start": 55.08,
+          "end": 56.44,
+          "probability": 0.0018116667633876204
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5508,
+      "start": 58.9,
+      "end": 58.9,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.5705873701307509,
+      "compression_ratio": 0.7647058823529411,
+      "no_speech_prob": 0.7275689840316772,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

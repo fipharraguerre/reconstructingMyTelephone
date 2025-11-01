@@ -1,0 +1,404 @@
+{
+  "text": " When I was two, I saw through the window of the six o'clock floor And I will remain two I still get so anchored late at night I still get so anchored late at night I still get so anchored late at night",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 22.560000000000002,
+      "end": 29.44,
+      "text": " When I was two, I saw through the window of the six o'clock floor",
+      "tokens": [
+        50364,
+        1133,
+        286,
+        390,
+        732,
+        11,
+        286,
+        1866,
+        807,
+        264,
+        4910,
+        295,
+        264,
+        2309,
+        277,
+        6,
+        9023,
+        4123,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40024798257010324,
+      "compression_ratio": 0.9701492537313433,
+      "no_speech_prob": 0.2567453682422638,
+      "words": [
+        {
+          "word": " When",
+          "start": 22.560000000000002,
+          "end": 23.26,
+          "probability": 0.48373761773109436
+        },
+        {
+          "word": " I",
+          "start": 23.26,
+          "end": 23.5,
+          "probability": 0.9790464639663696
+        },
+        {
+          "word": " was",
+          "start": 23.5,
+          "end": 23.84,
+          "probability": 0.9990991353988647
+        },
+        {
+          "word": " two,",
+          "start": 23.84,
+          "end": 24.36,
+          "probability": 0.9151971936225891
+        },
+        {
+          "word": " I",
+          "start": 25.1,
+          "end": 25.46,
+          "probability": 0.9942532181739807
+        },
+        {
+          "word": " saw",
+          "start": 25.46,
+          "end": 25.68,
+          "probability": 0.6589428186416626
+        },
+        {
+          "word": " through",
+          "start": 25.68,
+          "end": 25.98,
+          "probability": 0.7338875532150269
+        },
+        {
+          "word": " the",
+          "start": 25.98,
+          "end": 26.22,
+          "probability": 0.9558428525924683
+        },
+        {
+          "word": " window",
+          "start": 26.22,
+          "end": 26.96,
+          "probability": 0.9959838390350342
+        },
+        {
+          "word": " of",
+          "start": 26.96,
+          "end": 27.6,
+          "probability": 0.7312436699867249
+        },
+        {
+          "word": " the",
+          "start": 27.6,
+          "end": 27.84,
+          "probability": 0.9795467257499695
+        },
+        {
+          "word": " six",
+          "start": 27.84,
+          "end": 28.22,
+          "probability": 0.63065505027771
+        },
+        {
+          "word": " o",
+          "start": 28.22,
+          "end": 28.56,
+          "probability": 0.6130848526954651
+        },
+        {
+          "word": "'clock",
+          "start": 28.56,
+          "end": 28.72,
+          "probability": 0.9552083611488342
+        },
+        {
+          "word": " floor",
+          "start": 28.72,
+          "end": 29.44,
+          "probability": 0.9265322685241699
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2944,
+      "start": 29.44,
+      "end": 32.18,
+      "text": " And I will remain two",
+      "tokens": [
+        50364,
+        400,
+        286,
+        486,
+        6222,
+        732,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5405466079711914,
+      "compression_ratio": 1.4923076923076923,
+      "no_speech_prob": 0.13816824555397034,
+      "words": [
+        {
+          "word": " And",
+          "start": 29.44,
+          "end": 30.7,
+          "probability": 0.09591376036405563
+        },
+        {
+          "word": " I",
+          "start": 30.7,
+          "end": 30.9,
+          "probability": 0.7052575945854187
+        },
+        {
+          "word": " will",
+          "start": 30.9,
+          "end": 31.14,
+          "probability": 0.37332773208618164
+        },
+        {
+          "word": " remain",
+          "start": 31.14,
+          "end": 31.58,
+          "probability": 0.05187034606933594
+        },
+        {
+          "word": " two",
+          "start": 31.58,
+          "end": 32.18,
+          "probability": 0.0433761402964592
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2944,
+      "start": 37.18,
+      "end": 41.8,
+      "text": " I still get so anchored late at night",
+      "tokens": [
+        50764,
+        286,
+        920,
+        483,
+        370,
+        12723,
+        2769,
+        3469,
+        412,
+        1818,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5405466079711914,
+      "compression_ratio": 1.4923076923076923,
+      "no_speech_prob": 0.13816824555397034,
+      "words": [
+        {
+          "word": " I",
+          "start": 37.18,
+          "end": 38.18,
+          "probability": 0.32668179273605347
+        },
+        {
+          "word": " still",
+          "start": 38.18,
+          "end": 38.7,
+          "probability": 0.749422550201416
+        },
+        {
+          "word": " get",
+          "start": 38.7,
+          "end": 39.16,
+          "probability": 0.969860851764679
+        },
+        {
+          "word": " so",
+          "start": 39.16,
+          "end": 39.42,
+          "probability": 0.4531259834766388
+        },
+        {
+          "word": " anchored",
+          "start": 39.42,
+          "end": 40.26,
+          "probability": 0.8627069294452667
+        },
+        {
+          "word": " late",
+          "start": 40.26,
+          "end": 40.66,
+          "probability": 0.39568066596984863
+        },
+        {
+          "word": " at",
+          "start": 40.66,
+          "end": 41.02,
+          "probability": 0.9922699928283691
+        },
+        {
+          "word": " night",
+          "start": 41.02,
+          "end": 41.8,
+          "probability": 0.9988566637039185
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2944,
+      "start": 47.44,
+      "end": 51.34,
+      "text": " I still get so anchored late at night",
+      "tokens": [
+        51264,
+        286,
+        920,
+        483,
+        370,
+        12723,
+        2769,
+        3469,
+        412,
+        1818,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5405466079711914,
+      "compression_ratio": 1.4923076923076923,
+      "no_speech_prob": 0.13816824555397034,
+      "words": [
+        {
+          "word": " I",
+          "start": 47.32,
+          "end": 47.82,
+          "probability": 0.8674256205558777
+        },
+        {
+          "word": " still",
+          "start": 47.82,
+          "end": 48.32,
+          "probability": 0.9961025714874268
+        },
+        {
+          "word": " get",
+          "start": 48.32,
+          "end": 48.86,
+          "probability": 0.9963208436965942
+        },
+        {
+          "word": " so",
+          "start": 48.86,
+          "end": 49.28,
+          "probability": 0.9985024929046631
+        },
+        {
+          "word": " anchored",
+          "start": 49.28,
+          "end": 50.02,
+          "probability": 0.9985784590244293
+        },
+        {
+          "word": " late",
+          "start": 50.02,
+          "end": 50.5,
+          "probability": 0.9820986986160278
+        },
+        {
+          "word": " at",
+          "start": 50.5,
+          "end": 50.8,
+          "probability": 0.9981037378311157
+        },
+        {
+          "word": " night",
+          "start": 50.8,
+          "end": 51.34,
+          "probability": 0.9996132254600525
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 5944,
+      "start": 78.82,
+      "end": 80.22,
+      "text": " I still get so anchored late at night",
+      "tokens": [
+        50364,
+        286,
+        920,
+        483,
+        370,
+        12723,
+        2769,
+        3469,
+        412,
+        1818,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4015844662984212,
+      "compression_ratio": 0.8222222222222222,
+      "no_speech_prob": 0.8966310024261475,
+      "words": [
+        {
+          "word": " I",
+          "start": 78.82,
+          "end": 80.22,
+          "probability": 0.004586291033774614
+        },
+        {
+          "word": " still",
+          "start": 80.22,
+          "end": 80.22,
+          "probability": 0.0011893659830093384
+        },
+        {
+          "word": " get",
+          "start": 80.22,
+          "end": 80.22,
+          "probability": 0.003516820492222905
+        },
+        {
+          "word": " so",
+          "start": 80.22,
+          "end": 80.22,
+          "probability": 0.0027035425882786512
+        },
+        {
+          "word": " anchored",
+          "start": 80.22,
+          "end": 80.22,
+          "probability": 0.4765659161298572
+        },
+        {
+          "word": " late",
+          "start": 80.22,
+          "end": 80.22,
+          "probability": 3.795310840359889e-05
+        },
+        {
+          "word": " at",
+          "start": 80.22,
+          "end": 80.22,
+          "probability": 0.46030163764953613
+        },
+        {
+          "word": " night",
+          "start": 80.22,
+          "end": 80.22,
+          "probability": 0.9860397577285767
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,537 @@
+{
+  "text": " Keep myself to myself, returning myself to myself, discerning It's done, no need to be keeping in place Keep myself to myself, myself to myself It's done, no need to be keeping in place Keep myself to myself, myself to myself It's done, no need to be keeping in place Keep myself to myself, myself to myself",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 4.98,
+      "end": 23.36,
+      "text": " Keep myself to myself, returning myself to myself, discerning",
+      "tokens": [
+        50364,
+        5527,
+        2059,
+        281,
+        2059,
+        11,
+        12678,
+        2059,
+        281,
+        2059,
+        11,
+        717,
+        1776,
+        773,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5539624270270852,
+      "compression_ratio": 1.4186046511627908,
+      "no_speech_prob": 0.4473211467266083,
+      "words": [
+        {
+          "word": " Keep",
+          "start": 4.98,
+          "end": 6.380000000000001,
+          "probability": 0.036778125911951065
+        },
+        {
+          "word": " myself",
+          "start": 6.380000000000001,
+          "end": 7.78,
+          "probability": 0.9366336464881897
+        },
+        {
+          "word": " to",
+          "start": 7.78,
+          "end": 8.16,
+          "probability": 0.94016033411026
+        },
+        {
+          "word": " myself,",
+          "start": 8.16,
+          "end": 10.78,
+          "probability": 0.9321562051773071
+        },
+        {
+          "word": " returning",
+          "start": 13.46,
+          "end": 13.46,
+          "probability": 0.9114185571670532
+        },
+        {
+          "word": " myself",
+          "start": 13.46,
+          "end": 16.36,
+          "probability": 0.4549048840999603
+        },
+        {
+          "word": " to",
+          "start": 16.36,
+          "end": 16.8,
+          "probability": 0.9858266711235046
+        },
+        {
+          "word": " myself,",
+          "start": 16.8,
+          "end": 19.44,
+          "probability": 0.9880753755569458
+        },
+        {
+          "word": " discerning",
+          "start": 21.68,
+          "end": 23.36,
+          "probability": 0.8009090224901835
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2336,
+      "start": 24.36,
+      "end": 31.58,
+      "text": " It's done, no need to be keeping in place",
+      "tokens": [
+        50414,
+        467,
+        311,
+        1096,
+        11,
+        572,
+        643,
+        281,
+        312,
+        5145,
+        294,
+        1081,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24413937330245972,
+      "compression_ratio": 1.2272727272727273,
+      "no_speech_prob": 0.20179234445095062,
+      "words": [
+        {
+          "word": " It's",
+          "start": 24.36,
+          "end": 25.62,
+          "probability": 0.6713080555200577
+        },
+        {
+          "word": " done,",
+          "start": 25.62,
+          "end": 26.18,
+          "probability": 0.9417774081230164
+        },
+        {
+          "word": " no",
+          "start": 26.66,
+          "end": 26.8,
+          "probability": 0.43623262643814087
+        },
+        {
+          "word": " need",
+          "start": 26.8,
+          "end": 27.06,
+          "probability": 0.998854398727417
+        },
+        {
+          "word": " to",
+          "start": 27.06,
+          "end": 27.76,
+          "probability": 0.9978512525558472
+        },
+        {
+          "word": " be",
+          "start": 27.76,
+          "end": 28.4,
+          "probability": 0.9970665574073792
+        },
+        {
+          "word": " keeping",
+          "start": 28.4,
+          "end": 29.16,
+          "probability": 0.9426407217979431
+        },
+        {
+          "word": " in",
+          "start": 29.16,
+          "end": 30.26,
+          "probability": 0.9588075280189514
+        },
+        {
+          "word": " place",
+          "start": 30.26,
+          "end": 31.58,
+          "probability": 0.9768908023834229
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2336,
+      "start": 32.36,
+      "end": 43.52,
+      "text": " Keep myself to myself, myself to myself",
+      "tokens": [
+        50814,
+        5527,
+        2059,
+        281,
+        2059,
+        11,
+        2059,
+        281,
+        2059,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24413937330245972,
+      "compression_ratio": 1.2272727272727273,
+      "no_speech_prob": 0.20179234445095062,
+      "words": [
+        {
+          "word": " Keep",
+          "start": 32.36,
+          "end": 33.7,
+          "probability": 0.5427044630050659
+        },
+        {
+          "word": " myself",
+          "start": 33.7,
+          "end": 35.14,
+          "probability": 0.9778649806976318
+        },
+        {
+          "word": " to",
+          "start": 35.14,
+          "end": 35.58,
+          "probability": 0.9766623973846436
+        },
+        {
+          "word": " myself,",
+          "start": 35.58,
+          "end": 37.4,
+          "probability": 0.9963443875312805
+        },
+        {
+          "word": " myself",
+          "start": 37.4,
+          "end": 40.88,
+          "probability": 0.8420132398605347
+        },
+        {
+          "word": " to",
+          "start": 40.88,
+          "end": 41.54,
+          "probability": 0.9951698184013367
+        },
+        {
+          "word": " myself",
+          "start": 41.54,
+          "end": 43.52,
+          "probability": 0.9860062599182129
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 5336,
+      "start": 62.98,
+      "end": 64.52,
+      "text": " It's done, no need to be keeping in place",
+      "tokens": [
+        50364,
+        467,
+        311,
+        1096,
+        11,
+        572,
+        643,
+        281,
+        312,
+        5145,
+        294,
+        1081,
+        50514
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.40751676356538813,
+      "compression_ratio": 2.295774647887324,
+      "no_speech_prob": 0.7942284345626831,
+      "words": [
+        {
+          "word": " It's",
+          "start": 62.98,
+          "end": 64.02,
+          "probability": 0.2998001682572067
+        },
+        {
+          "word": " done,",
+          "start": 64.02,
+          "end": 64.52,
+          "probability": 0.0017722670454531908
+        },
+        {
+          "word": " no",
+          "start": 64.52,
+          "end": 64.52,
+          "probability": 0.004053814336657524
+        },
+        {
+          "word": " need",
+          "start": 64.52,
+          "end": 64.52,
+          "probability": 0.05545850843191147
+        },
+        {
+          "word": " to",
+          "start": 64.52,
+          "end": 64.52,
+          "probability": 0.8678382635116577
+        },
+        {
+          "word": " be",
+          "start": 64.52,
+          "end": 64.52,
+          "probability": 0.015872042626142502
+        },
+        {
+          "word": " keeping",
+          "start": 64.52,
+          "end": 64.52,
+          "probability": 8.874314517015591e-05
+        },
+        {
+          "word": " in",
+          "start": 64.52,
+          "end": 64.52,
+          "probability": 0.005596109200268984
+        },
+        {
+          "word": " place",
+          "start": 64.52,
+          "end": 64.52,
+          "probability": 0.002968744607642293
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 5336,
+      "start": 64.52,
+      "end": 65.44,
+      "text": " Keep myself to myself, myself to myself",
+      "tokens": [
+        50664,
+        5527,
+        2059,
+        281,
+        2059,
+        11,
+        2059,
+        281,
+        2059,
+        50914
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.40751676356538813,
+      "compression_ratio": 2.295774647887324,
+      "no_speech_prob": 0.7942284345626831,
+      "words": [
+        {
+          "word": " Keep",
+          "start": 64.52,
+          "end": 64.52,
+          "probability": 0.0001051192739396356
+        },
+        {
+          "word": " myself",
+          "start": 64.52,
+          "end": 64.52,
+          "probability": 0.00010118375939782709
+        },
+        {
+          "word": " to",
+          "start": 64.52,
+          "end": 64.52,
+          "probability": 0.002762575400993228
+        },
+        {
+          "word": " myself,",
+          "start": 64.52,
+          "end": 64.52,
+          "probability": 0.037723708897829056
+        },
+        {
+          "word": " myself",
+          "start": 64.52,
+          "end": 64.52,
+          "probability": 9.448434866499156e-05
+        },
+        {
+          "word": " to",
+          "start": 64.52,
+          "end": 65.04,
+          "probability": 0.23127812147140503
+        },
+        {
+          "word": " myself",
+          "start": 65.04,
+          "end": 65.44,
+          "probability": 0.8999251127243042
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 5336,
+      "start": 65.44,
+      "end": 71.3,
+      "text": " It's done, no need to be keeping in place",
+      "tokens": [
+        51064,
+        467,
+        311,
+        1096,
+        11,
+        572,
+        643,
+        281,
+        312,
+        5145,
+        294,
+        1081,
+        51264
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.40751676356538813,
+      "compression_ratio": 2.295774647887324,
+      "no_speech_prob": 0.7942284345626831,
+      "words": [
+        {
+          "word": " It's",
+          "start": 65.44,
+          "end": 65.78,
+          "probability": 0.4848543778061867
+        },
+        {
+          "word": " done,",
+          "start": 65.78,
+          "end": 66.4,
+          "probability": 0.6768403053283691
+        },
+        {
+          "word": " no",
+          "start": 70.78,
+          "end": 71.28,
+          "probability": 0.6981417536735535
+        },
+        {
+          "word": " need",
+          "start": 71.28,
+          "end": 71.3,
+          "probability": 0.9773173332214355
+        },
+        {
+          "word": " to",
+          "start": 71.3,
+          "end": 71.3,
+          "probability": 0.9951204657554626
+        },
+        {
+          "word": " be",
+          "start": 71.3,
+          "end": 71.3,
+          "probability": 0.6482621431350708
+        },
+        {
+          "word": " keeping",
+          "start": 71.3,
+          "end": 71.3,
+          "probability": 0.9816708564758301
+        },
+        {
+          "word": " in",
+          "start": 71.3,
+          "end": 71.3,
+          "probability": 0.9854529500007629
+        },
+        {
+          "word": " place",
+          "start": 71.3,
+          "end": 71.3,
+          "probability": 0.9963372945785522
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 5336,
+      "start": 71.3,
+      "end": 74.68,
+      "text": " Keep myself to myself, myself to myself",
+      "tokens": [
+        51464,
+        5527,
+        2059,
+        281,
+        2059,
+        11,
+        2059,
+        281,
+        2059,
+        51714
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.40751676356538813,
+      "compression_ratio": 2.295774647887324,
+      "no_speech_prob": 0.7942284345626831,
+      "words": [
+        {
+          "word": " Keep",
+          "start": 71.3,
+          "end": 71.3,
+          "probability": 0.407259464263916
+        },
+        {
+          "word": " myself",
+          "start": 71.3,
+          "end": 71.3,
+          "probability": 0.8776000142097473
+        },
+        {
+          "word": " to",
+          "start": 71.3,
+          "end": 71.3,
+          "probability": 0.9820913672447205
+        },
+        {
+          "word": " myself,",
+          "start": 71.3,
+          "end": 71.3,
+          "probability": 0.9909939169883728
+        },
+        {
+          "word": " myself",
+          "start": 71.3,
+          "end": 72.74,
+          "probability": 0.9843542575836182
+        },
+        {
+          "word": " to",
+          "start": 72.74,
+          "end": 72.74,
+          "probability": 0.9930663108825684
+        },
+        {
+          "word": " myself",
+          "start": 72.74,
+          "end": 74.68,
+          "probability": 0.9960591793060303
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

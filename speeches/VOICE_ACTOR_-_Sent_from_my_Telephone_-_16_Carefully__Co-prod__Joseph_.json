@@ -1,0 +1,2108 @@
+{
+  "text": " A proof of me, that was enough for me Beginning of the end of another fantasy Warm really comes the death of me Just a baldy, making my journey sonically Tread carefully, tread carefully Beginning of the end of another fantasy Makes me stronger, makes me think more Makes me stronger, makes me think more Makes me stronger, makes me think more Makes me stronger, makes me think more It's like crossing into the looking glass, wonderland You go in there and you feel, you feel a hundred percent Right Because I never felt comfortable being poor I just don't Or even middle class doesn't suit me Do you want me to say one hand and all of that? Believe me, believe me, believe me But it's still a fame, it's a small fame I saw a nerve, I saw a nerve But it's still a fame, it's a small fame I have to make room for Pepa la Bexia, Pepa la Bexia Pepa la Bexia, give her some walking news Liz Taylor is famous Do you have to make room for Pepa la Bexia, Pepa la Bexia Pepa la Bexia, give her some walking news Liz Taylor is famous Do you have to make room for Pepa la Bexia, Pepa la Bexia Give away the fact that you're gay",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.0,
+      "text": " A proof of me, that was enough for me",
+      "tokens": [
+        50364,
+        316,
+        8177,
+        295,
+        385,
+        11,
+        300,
+        390,
+        1547,
+        337,
+        385,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39780861139297485,
+      "compression_ratio": 1.1935483870967742,
+      "no_speech_prob": 0.20602251589298248,
+      "words": [
+        {
+          "word": " A",
+          "start": 0.0,
+          "end": 1.5,
+          "probability": 0.01523126382380724
+        },
+        {
+          "word": " proof",
+          "start": 1.5,
+          "end": 1.9,
+          "probability": 0.2498922497034073
+        },
+        {
+          "word": " of",
+          "start": 1.9,
+          "end": 2.24,
+          "probability": 0.8433682918548584
+        },
+        {
+          "word": " me,",
+          "start": 2.24,
+          "end": 3.3,
+          "probability": 0.9783214926719666
+        },
+        {
+          "word": " that",
+          "start": 4.86,
+          "end": 5.08,
+          "probability": 0.8565454483032227
+        },
+        {
+          "word": " was",
+          "start": 5.08,
+          "end": 5.7,
+          "probability": 0.9793415665626526
+        },
+        {
+          "word": " enough",
+          "start": 5.7,
+          "end": 6.12,
+          "probability": 0.9945855736732483
+        },
+        {
+          "word": " for",
+          "start": 6.12,
+          "end": 6.66,
+          "probability": 0.9954083561897278
+        },
+        {
+          "word": " me",
+          "start": 6.66,
+          "end": 8.0,
+          "probability": 0.9993029832839966
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.56,
+      "end": 15.62,
+      "text": " Beginning of the end of another fantasy",
+      "tokens": [
+        50864,
+        45705,
+        295,
+        264,
+        917,
+        295,
+        1071,
+        13861,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39780861139297485,
+      "compression_ratio": 1.1935483870967742,
+      "no_speech_prob": 0.20602251589298248,
+      "words": [
+        {
+          "word": " Beginning",
+          "start": 9.56,
+          "end": 10.82,
+          "probability": 0.44628140330314636
+        },
+        {
+          "word": " of",
+          "start": 10.82,
+          "end": 11.38,
+          "probability": 0.9923422932624817
+        },
+        {
+          "word": " the",
+          "start": 11.38,
+          "end": 11.76,
+          "probability": 0.9951905012130737
+        },
+        {
+          "word": " end",
+          "start": 11.76,
+          "end": 12.4,
+          "probability": 0.9963831901550293
+        },
+        {
+          "word": " of",
+          "start": 12.4,
+          "end": 12.98,
+          "probability": 0.9159470796585083
+        },
+        {
+          "word": " another",
+          "start": 12.98,
+          "end": 13.72,
+          "probability": 0.9916043877601624
+        },
+        {
+          "word": " fantasy",
+          "start": 13.72,
+          "end": 15.62,
+          "probability": 0.9919987320899963
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 17.0,
+      "end": 22.92,
+      "text": " Warm really comes the death of me",
+      "tokens": [
+        51214,
+        40353,
+        534,
+        1487,
+        264,
+        2966,
+        295,
+        385,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39780861139297485,
+      "compression_ratio": 1.1935483870967742,
+      "no_speech_prob": 0.20602251589298248,
+      "words": [
+        {
+          "word": " Warm",
+          "start": 17.0,
+          "end": 18.1,
+          "probability": 0.33310118317604065
+        },
+        {
+          "word": " really",
+          "start": 18.1,
+          "end": 19.46,
+          "probability": 0.36586424708366394
+        },
+        {
+          "word": " comes",
+          "start": 19.46,
+          "end": 20.18,
+          "probability": 0.8197447657585144
+        },
+        {
+          "word": " the",
+          "start": 20.18,
+          "end": 20.44,
+          "probability": 0.9092066884040833
+        },
+        {
+          "word": " death",
+          "start": 20.44,
+          "end": 20.78,
+          "probability": 0.9713398814201355
+        },
+        {
+          "word": " of",
+          "start": 20.78,
+          "end": 21.34,
+          "probability": 0.9968938827514648
+        },
+        {
+          "word": " me",
+          "start": 21.34,
+          "end": 22.92,
+          "probability": 0.9982596039772034
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2292,
+      "start": 24.66,
+      "end": 33.92,
+      "text": " Just a baldy, making my journey sonically",
+      "tokens": [
+        50414,
+        1449,
+        257,
+        3119,
+        3173,
+        11,
+        1455,
+        452,
+        4671,
+        1872,
+        984,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2069223157821163,
+      "compression_ratio": 1.2391304347826086,
+      "no_speech_prob": 0.032522354274988174,
+      "words": [
+        {
+          "word": " Just",
+          "start": 24.66,
+          "end": 26.06,
+          "probability": 0.40608999133110046
+        },
+        {
+          "word": " a",
+          "start": 26.06,
+          "end": 26.64,
+          "probability": 0.9036622643470764
+        },
+        {
+          "word": " baldy,",
+          "start": 26.64,
+          "end": 28.96,
+          "probability": 0.48032519966363907
+        },
+        {
+          "word": " making",
+          "start": 29.68,
+          "end": 30.28,
+          "probability": 0.5350979566574097
+        },
+        {
+          "word": " my",
+          "start": 30.28,
+          "end": 30.8,
+          "probability": 0.9937545657157898
+        },
+        {
+          "word": " journey",
+          "start": 30.8,
+          "end": 32.44,
+          "probability": 0.9738543629646301
+        },
+        {
+          "word": " sonically",
+          "start": 32.44,
+          "end": 33.92,
+          "probability": 0.7814080119132996
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2292,
+      "start": 35.22,
+      "end": 41.92,
+      "text": " Tread carefully, tread carefully",
+      "tokens": [
+        50964,
+        314,
+        2538,
+        7500,
+        11,
+        28286,
+        7500,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2069223157821163,
+      "compression_ratio": 1.2391304347826086,
+      "no_speech_prob": 0.032522354274988174,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 35.22,
+          "end": 36.2,
+          "probability": 0.6886968612670898
+        },
+        {
+          "word": " carefully,",
+          "start": 36.2,
+          "end": 38.44,
+          "probability": 0.9479243159294128
+        },
+        {
+          "word": " tread",
+          "start": 39.04,
+          "end": 39.78,
+          "probability": 0.8879438638687134
+        },
+        {
+          "word": " carefully",
+          "start": 39.78,
+          "end": 41.92,
+          "probability": 0.998534083366394
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2292,
+      "start": 44.1,
+      "end": 49.68,
+      "text": " Beginning of the end of another fantasy",
+      "tokens": [
+        51414,
+        45705,
+        295,
+        264,
+        917,
+        295,
+        1071,
+        13861,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2069223157821163,
+      "compression_ratio": 1.2391304347826086,
+      "no_speech_prob": 0.032522354274988174,
+      "words": [
+        {
+          "word": " Beginning",
+          "start": 44.1,
+          "end": 45.5,
+          "probability": 0.6773143410682678
+        },
+        {
+          "word": " of",
+          "start": 45.5,
+          "end": 46.16,
+          "probability": 0.8175299167633057
+        },
+        {
+          "word": " the",
+          "start": 46.16,
+          "end": 46.52,
+          "probability": 0.994926929473877
+        },
+        {
+          "word": " end",
+          "start": 46.52,
+          "end": 47.16,
+          "probability": 0.9948363304138184
+        },
+        {
+          "word": " of",
+          "start": 47.16,
+          "end": 47.74,
+          "probability": 0.9635775089263916
+        },
+        {
+          "word": " another",
+          "start": 47.74,
+          "end": 48.42,
+          "probability": 0.9913695454597473
+        },
+        {
+          "word": " fantasy",
+          "start": 48.42,
+          "end": 49.68,
+          "probability": 0.9843904376029968
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4968,
+      "start": 49.68,
+      "end": 55.52,
+      "text": " Makes me stronger, makes me think more",
+      "tokens": [
+        50364,
+        25245,
+        385,
+        7249,
+        11,
+        1669,
+        385,
+        519,
+        544,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20747040058004446,
+      "compression_ratio": 2.2119205298013247,
+      "no_speech_prob": 0.04467809200286865,
+      "words": [
+        {
+          "word": " Makes",
+          "start": 49.68,
+          "end": 49.78,
+          "probability": 0.018642926588654518
+        },
+        {
+          "word": " me",
+          "start": 49.78,
+          "end": 53.28,
+          "probability": 0.9756070375442505
+        },
+        {
+          "word": " stronger,",
+          "start": 53.28,
+          "end": 53.72,
+          "probability": 0.9652959108352661
+        },
+        {
+          "word": " makes",
+          "start": 53.72,
+          "end": 54.54,
+          "probability": 0.951104998588562
+        },
+        {
+          "word": " me",
+          "start": 54.54,
+          "end": 54.8,
+          "probability": 0.9893961548805237
+        },
+        {
+          "word": " think",
+          "start": 54.8,
+          "end": 54.98,
+          "probability": 0.980961263179779
+        },
+        {
+          "word": " more",
+          "start": 54.98,
+          "end": 55.52,
+          "probability": 0.9856518507003784
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 4968,
+      "start": 55.52,
+      "end": 58.88,
+      "text": " Makes me stronger, makes me think more",
+      "tokens": [
+        50664,
+        25245,
+        385,
+        7249,
+        11,
+        1669,
+        385,
+        519,
+        544,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20747040058004446,
+      "compression_ratio": 2.2119205298013247,
+      "no_speech_prob": 0.04467809200286865,
+      "words": [
+        {
+          "word": " Makes",
+          "start": 55.52,
+          "end": 56.1,
+          "probability": 0.2232363224029541
+        },
+        {
+          "word": " me",
+          "start": 56.1,
+          "end": 56.4,
+          "probability": 0.9955065250396729
+        },
+        {
+          "word": " stronger,",
+          "start": 56.4,
+          "end": 57.06,
+          "probability": 0.9908372163772583
+        },
+        {
+          "word": " makes",
+          "start": 57.06,
+          "end": 57.68,
+          "probability": 0.9867021441459656
+        },
+        {
+          "word": " me",
+          "start": 57.68,
+          "end": 57.94,
+          "probability": 0.9973176121711731
+        },
+        {
+          "word": " think",
+          "start": 57.94,
+          "end": 58.1,
+          "probability": 0.9976699948310852
+        },
+        {
+          "word": " more",
+          "start": 58.1,
+          "end": 58.88,
+          "probability": 0.9993370175361633
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 4968,
+      "start": 58.88,
+      "end": 65.2,
+      "text": " Makes me stronger, makes me think more",
+      "tokens": [
+        50864,
+        25245,
+        385,
+        7249,
+        11,
+        1669,
+        385,
+        519,
+        544,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20747040058004446,
+      "compression_ratio": 2.2119205298013247,
+      "no_speech_prob": 0.04467809200286865,
+      "words": [
+        {
+          "word": " Makes",
+          "start": 58.88,
+          "end": 59.3,
+          "probability": 0.9456108808517456
+        },
+        {
+          "word": " me",
+          "start": 59.3,
+          "end": 59.56,
+          "probability": 0.9991639852523804
+        },
+        {
+          "word": " stronger,",
+          "start": 59.56,
+          "end": 63.36,
+          "probability": 0.9988263249397278
+        },
+        {
+          "word": " makes",
+          "start": 63.88,
+          "end": 63.98,
+          "probability": 0.9973124265670776
+        },
+        {
+          "word": " me",
+          "start": 63.98,
+          "end": 64.2,
+          "probability": 0.99826580286026
+        },
+        {
+          "word": " think",
+          "start": 64.2,
+          "end": 64.38,
+          "probability": 0.9990221261978149
+        },
+        {
+          "word": " more",
+          "start": 64.38,
+          "end": 65.2,
+          "probability": 0.999596893787384
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 4968,
+      "start": 65.2,
+      "end": 66.54,
+      "text": " Makes me stronger, makes me think more",
+      "tokens": [
+        51014,
+        25245,
+        385,
+        7249,
+        11,
+        1669,
+        385,
+        519,
+        544,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20747040058004446,
+      "compression_ratio": 2.2119205298013247,
+      "no_speech_prob": 0.04467809200286865,
+      "words": [
+        {
+          "word": " Makes",
+          "start": 65.2,
+          "end": 65.56,
+          "probability": 0.8923144340515137
+        },
+        {
+          "word": " me",
+          "start": 65.56,
+          "end": 65.8,
+          "probability": 0.9993044137954712
+        },
+        {
+          "word": " stronger,",
+          "start": 65.8,
+          "end": 66.28,
+          "probability": 0.9958434700965881
+        },
+        {
+          "word": " makes",
+          "start": 66.54,
+          "end": 66.54,
+          "probability": 0.9619931578636169
+        },
+        {
+          "word": " me",
+          "start": 66.54,
+          "end": 66.54,
+          "probability": 0.9961814880371094
+        },
+        {
+          "word": " think",
+          "start": 66.54,
+          "end": 66.54,
+          "probability": 0.9873732924461365
+        },
+        {
+          "word": " more",
+          "start": 66.54,
+          "end": 66.54,
+          "probability": 0.9917073845863342
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 4968,
+      "start": 66.54,
+      "end": 66.54,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.20747040058004446,
+      "compression_ratio": 2.2119205298013247,
+      "no_speech_prob": 0.04467809200286865,
+      "words": []
+    },
+    {
+      "id": 11,
+      "seek": 4968,
+      "start": 66.54,
+      "end": 69.12,
+      "text": " It's like crossing into the looking glass, wonderland",
+      "tokens": [
+        51214,
+        467,
+        311,
+        411,
+        14712,
+        666,
+        264,
+        1237,
+        4276,
+        11,
+        2441,
+        1661,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20747040058004446,
+      "compression_ratio": 2.2119205298013247,
+      "no_speech_prob": 0.04467809200286865,
+      "words": [
+        {
+          "word": " It's",
+          "start": 66.54,
+          "end": 66.64,
+          "probability": 0.5929863974452019
+        },
+        {
+          "word": " like",
+          "start": 66.64,
+          "end": 66.78,
+          "probability": 0.993229866027832
+        },
+        {
+          "word": " crossing",
+          "start": 66.78,
+          "end": 67.06,
+          "probability": 0.9787194132804871
+        },
+        {
+          "word": " into",
+          "start": 67.06,
+          "end": 67.34,
+          "probability": 0.9550828337669373
+        },
+        {
+          "word": " the",
+          "start": 67.34,
+          "end": 67.46,
+          "probability": 0.7702996730804443
+        },
+        {
+          "word": " looking",
+          "start": 67.46,
+          "end": 67.68,
+          "probability": 0.7811216711997986
+        },
+        {
+          "word": " glass,",
+          "start": 67.68,
+          "end": 68.2,
+          "probability": 0.9412184953689575
+        },
+        {
+          "word": " wonderland",
+          "start": 68.64,
+          "end": 69.12,
+          "probability": 0.6235273033380508
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 4968,
+      "start": 69.12,
+      "end": 72.74,
+      "text": " You go in there and you feel, you feel a hundred percent",
+      "tokens": [
+        51314,
+        509,
+        352,
+        294,
+        456,
+        293,
+        291,
+        841,
+        11,
+        291,
+        841,
+        257,
+        3262,
+        3043,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20747040058004446,
+      "compression_ratio": 2.2119205298013247,
+      "no_speech_prob": 0.04467809200286865,
+      "words": [
+        {
+          "word": " You",
+          "start": 69.12,
+          "end": 69.52,
+          "probability": 0.3056913912296295
+        },
+        {
+          "word": " go",
+          "start": 69.52,
+          "end": 69.78,
+          "probability": 0.887617826461792
+        },
+        {
+          "word": " in",
+          "start": 69.78,
+          "end": 69.9,
+          "probability": 0.9755674600601196
+        },
+        {
+          "word": " there",
+          "start": 69.9,
+          "end": 70.02,
+          "probability": 0.9880487322807312
+        },
+        {
+          "word": " and",
+          "start": 70.02,
+          "end": 70.14,
+          "probability": 0.8492655158042908
+        },
+        {
+          "word": " you",
+          "start": 70.14,
+          "end": 70.38,
+          "probability": 0.962796151638031
+        },
+        {
+          "word": " feel,",
+          "start": 70.38,
+          "end": 70.54,
+          "probability": 0.9670658707618713
+        },
+        {
+          "word": " you",
+          "start": 71.02,
+          "end": 71.38,
+          "probability": 0.8991672992706299
+        },
+        {
+          "word": " feel",
+          "start": 71.38,
+          "end": 71.88,
+          "probability": 0.9874318838119507
+        },
+        {
+          "word": " a",
+          "start": 71.88,
+          "end": 71.94,
+          "probability": 0.3651455342769623
+        },
+        {
+          "word": " hundred",
+          "start": 71.94,
+          "end": 72.2,
+          "probability": 0.8189619779586792
+        },
+        {
+          "word": " percent",
+          "start": 72.2,
+          "end": 72.74,
+          "probability": 0.9855785369873047
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 4968,
+      "start": 73.46,
+      "end": 74.02,
+      "text": " Right",
+      "tokens": [
+        51514,
+        1779,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20747040058004446,
+      "compression_ratio": 2.2119205298013247,
+      "no_speech_prob": 0.04467809200286865,
+      "words": [
+        {
+          "word": " Right",
+          "start": 73.46,
+          "end": 74.02,
+          "probability": 0.37299925088882446
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 4968,
+      "start": 74.68,
+      "end": 76.66,
+      "text": " Because I never felt comfortable being poor",
+      "tokens": [
+        51614,
+        1436,
+        286,
+        1128,
+        2762,
+        4619,
+        885,
+        4716,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20747040058004446,
+      "compression_ratio": 2.2119205298013247,
+      "no_speech_prob": 0.04467809200286865,
+      "words": [
+        {
+          "word": " Because",
+          "start": 74.68,
+          "end": 74.98,
+          "probability": 0.483509361743927
+        },
+        {
+          "word": " I",
+          "start": 74.98,
+          "end": 75.12,
+          "probability": 0.9896661043167114
+        },
+        {
+          "word": " never",
+          "start": 75.12,
+          "end": 75.36,
+          "probability": 0.9617575407028198
+        },
+        {
+          "word": " felt",
+          "start": 75.36,
+          "end": 75.62,
+          "probability": 0.9777335524559021
+        },
+        {
+          "word": " comfortable",
+          "start": 75.62,
+          "end": 76.04,
+          "probability": 0.9984924793243408
+        },
+        {
+          "word": " being",
+          "start": 76.04,
+          "end": 76.44,
+          "probability": 0.9143767952919006
+        },
+        {
+          "word": " poor",
+          "start": 76.44,
+          "end": 76.66,
+          "probability": 0.9898123145103455
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 7666,
+      "start": 76.66,
+      "end": 77.9,
+      "text": " I just don't",
+      "tokens": [
+        50364,
+        286,
+        445,
+        500,
+        380,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23156537431659122,
+      "compression_ratio": 1.127906976744186,
+      "no_speech_prob": 0.015154633671045303,
+      "words": [
+        {
+          "word": " I",
+          "start": 76.66,
+          "end": 77.02,
+          "probability": 0.7298672199249268
+        },
+        {
+          "word": " just",
+          "start": 77.02,
+          "end": 77.3,
+          "probability": 0.9768584966659546
+        },
+        {
+          "word": " don't",
+          "start": 77.3,
+          "end": 77.9,
+          "probability": 0.955973356962204
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 7666,
+      "start": 77.9,
+      "end": 80.66,
+      "text": " Or even middle class doesn't suit me",
+      "tokens": [
+        50414,
+        1610,
+        754,
+        2808,
+        1508,
+        1177,
+        380,
+        5722,
+        385,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23156537431659122,
+      "compression_ratio": 1.127906976744186,
+      "no_speech_prob": 0.015154633671045303,
+      "words": [
+        {
+          "word": " Or",
+          "start": 77.9,
+          "end": 78.38,
+          "probability": 0.0179551150649786
+        },
+        {
+          "word": " even",
+          "start": 78.38,
+          "end": 78.66,
+          "probability": 0.9801601767539978
+        },
+        {
+          "word": " middle",
+          "start": 78.66,
+          "end": 78.98,
+          "probability": 0.9740203619003296
+        },
+        {
+          "word": " class",
+          "start": 78.98,
+          "end": 79.26,
+          "probability": 0.8594299554824829
+        },
+        {
+          "word": " doesn't",
+          "start": 79.26,
+          "end": 80.08,
+          "probability": 0.967948317527771
+        },
+        {
+          "word": " suit",
+          "start": 80.08,
+          "end": 80.5,
+          "probability": 0.9028292298316956
+        },
+        {
+          "word": " me",
+          "start": 80.5,
+          "end": 80.8,
+          "probability": 0.9993234872817993
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 7666,
+      "start": 98.6,
+      "end": 101.66,
+      "text": " Do you want me to say one hand and all of that?",
+      "tokens": [
+        51464,
+        1144,
+        291,
+        528,
+        385,
+        281,
+        584,
+        472,
+        1011,
+        293,
+        439,
+        295,
+        300,
+        30,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23156537431659122,
+      "compression_ratio": 1.127906976744186,
+      "no_speech_prob": 0.015154633671045303,
+      "words": [
+        {
+          "word": " Do",
+          "start": 98.6,
+          "end": 99.2,
+          "probability": 0.4559159278869629
+        },
+        {
+          "word": " you",
+          "start": 99.2,
+          "end": 99.34,
+          "probability": 0.9947410821914673
+        },
+        {
+          "word": " want",
+          "start": 99.34,
+          "end": 99.42,
+          "probability": 0.9892160892486572
+        },
+        {
+          "word": " me",
+          "start": 99.42,
+          "end": 99.58,
+          "probability": 0.9930689334869385
+        },
+        {
+          "word": " to",
+          "start": 99.58,
+          "end": 99.68,
+          "probability": 0.9830020070075989
+        },
+        {
+          "word": " say",
+          "start": 99.68,
+          "end": 99.84,
+          "probability": 0.8169737458229065
+        },
+        {
+          "word": " one",
+          "start": 99.84,
+          "end": 100.28,
+          "probability": 0.5501440763473511
+        },
+        {
+          "word": " hand",
+          "start": 100.28,
+          "end": 100.58,
+          "probability": 0.1737072467803955
+        },
+        {
+          "word": " and",
+          "start": 100.58,
+          "end": 100.78,
+          "probability": 0.5763110518455505
+        },
+        {
+          "word": " all",
+          "start": 100.78,
+          "end": 101.04,
+          "probability": 0.4638873338699341
+        },
+        {
+          "word": " of",
+          "start": 101.04,
+          "end": 101.22,
+          "probability": 0.5006000995635986
+        },
+        {
+          "word": " that?",
+          "start": 101.22,
+          "end": 101.66,
+          "probability": 0.9734819531440735
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 10166,
+      "start": 105.92,
+      "end": 110.34,
+      "text": " Believe me, believe me, believe me",
+      "tokens": [
+        50364,
+        21486,
+        385,
+        11,
+        1697,
+        385,
+        11,
+        1697,
+        385,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28542810937632684,
+      "compression_ratio": 1.9191176470588236,
+      "no_speech_prob": 0.1229279413819313,
+      "words": [
+        {
+          "word": " Believe",
+          "start": 105.92,
+          "end": 106.5,
+          "probability": 0.06566374748945236
+        },
+        {
+          "word": " me,",
+          "start": 106.5,
+          "end": 107.08,
+          "probability": 0.8915600180625916
+        },
+        {
+          "word": " believe",
+          "start": 107.08,
+          "end": 108.34,
+          "probability": 0.8159128427505493
+        },
+        {
+          "word": " me,",
+          "start": 108.34,
+          "end": 109.74,
+          "probability": 0.9897986650466919
+        },
+        {
+          "word": " believe",
+          "start": 109.74,
+          "end": 110.28,
+          "probability": 0.9443530440330505
+        },
+        {
+          "word": " me",
+          "start": 110.28,
+          "end": 110.34,
+          "probability": 0.9278244972229004
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 10166,
+      "start": 110.34,
+      "end": 112.86,
+      "text": " But it's still a fame, it's a small fame",
+      "tokens": [
+        50764,
+        583,
+        309,
+        311,
+        920,
+        257,
+        16874,
+        11,
+        309,
+        311,
+        257,
+        1359,
+        16874,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28542810937632684,
+      "compression_ratio": 1.9191176470588236,
+      "no_speech_prob": 0.1229279413819313,
+      "words": [
+        {
+          "word": " But",
+          "start": 110.34,
+          "end": 110.56,
+          "probability": 0.23521630465984344
+        },
+        {
+          "word": " it's",
+          "start": 110.56,
+          "end": 110.74,
+          "probability": 0.9487189948558807
+        },
+        {
+          "word": " still",
+          "start": 110.74,
+          "end": 111.02,
+          "probability": 0.9937561750411987
+        },
+        {
+          "word": " a",
+          "start": 111.02,
+          "end": 111.28,
+          "probability": 0.951484203338623
+        },
+        {
+          "word": " fame,",
+          "start": 111.28,
+          "end": 111.62,
+          "probability": 0.7379412055015564
+        },
+        {
+          "word": " it's",
+          "start": 111.98,
+          "end": 112.24,
+          "probability": 0.8688735961914062
+        },
+        {
+          "word": " a",
+          "start": 112.24,
+          "end": 112.42,
+          "probability": 0.98438960313797
+        },
+        {
+          "word": " small",
+          "start": 112.42,
+          "end": 112.66,
+          "probability": 0.9976511597633362
+        },
+        {
+          "word": " fame",
+          "start": 112.66,
+          "end": 112.86,
+          "probability": 0.9275779724121094
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 10166,
+      "start": 112.86,
+      "end": 115.86,
+      "text": " I saw a nerve, I saw a nerve",
+      "tokens": [
+        50914,
+        286,
+        1866,
+        257,
+        16355,
+        11,
+        286,
+        1866,
+        257,
+        16355,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28542810937632684,
+      "compression_ratio": 1.9191176470588236,
+      "no_speech_prob": 0.1229279413819313,
+      "words": [
+        {
+          "word": " I",
+          "start": 112.86,
+          "end": 113.72,
+          "probability": 0.3342861831188202
+        },
+        {
+          "word": " saw",
+          "start": 113.72,
+          "end": 113.72,
+          "probability": 0.82186359167099
+        },
+        {
+          "word": " a",
+          "start": 113.72,
+          "end": 114.4,
+          "probability": 0.30758312344551086
+        },
+        {
+          "word": " nerve,",
+          "start": 114.4,
+          "end": 114.48,
+          "probability": 0.6822500824928284
+        },
+        {
+          "word": " I",
+          "start": 114.48,
+          "end": 114.48,
+          "probability": 0.745610773563385
+        },
+        {
+          "word": " saw",
+          "start": 114.48,
+          "end": 114.68,
+          "probability": 0.9447804093360901
+        },
+        {
+          "word": " a",
+          "start": 114.68,
+          "end": 114.74,
+          "probability": 0.9116663932800293
+        },
+        {
+          "word": " nerve",
+          "start": 114.74,
+          "end": 115.86,
+          "probability": 0.9958857893943787
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 10166,
+      "start": 115.86,
+      "end": 118.54,
+      "text": " But it's still a fame, it's a small fame",
+      "tokens": [
+        51014,
+        583,
+        309,
+        311,
+        920,
+        257,
+        16874,
+        11,
+        309,
+        311,
+        257,
+        1359,
+        16874,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28542810937632684,
+      "compression_ratio": 1.9191176470588236,
+      "no_speech_prob": 0.1229279413819313,
+      "words": [
+        {
+          "word": " But",
+          "start": 115.86,
+          "end": 115.86,
+          "probability": 0.12903033196926117
+        },
+        {
+          "word": " it's",
+          "start": 115.86,
+          "end": 116.52,
+          "probability": 0.9795069694519043
+        },
+        {
+          "word": " still",
+          "start": 116.52,
+          "end": 116.78,
+          "probability": 0.9874074459075928
+        },
+        {
+          "word": " a",
+          "start": 116.78,
+          "end": 117.0,
+          "probability": 0.9968107342720032
+        },
+        {
+          "word": " fame,",
+          "start": 117.0,
+          "end": 117.16,
+          "probability": 0.9981439113616943
+        },
+        {
+          "word": " it's",
+          "start": 117.88,
+          "end": 117.98,
+          "probability": 0.9866614639759064
+        },
+        {
+          "word": " a",
+          "start": 117.98,
+          "end": 118.42,
+          "probability": 0.9950723052024841
+        },
+        {
+          "word": " small",
+          "start": 118.42,
+          "end": 118.42,
+          "probability": 0.9986722469329834
+        },
+        {
+          "word": " fame",
+          "start": 118.42,
+          "end": 118.54,
+          "probability": 0.9968292117118835
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 10166,
+      "start": 118.54,
+      "end": 122.66,
+      "text": " I have to make room for Pepa la Bexia, Pepa la Bexia",
+      "tokens": [
+        51164,
+        286,
+        362,
+        281,
+        652,
+        1808,
+        337,
+        28637,
+        64,
+        635,
+        879,
+        87,
+        654,
+        11,
+        28637,
+        64,
+        635,
+        879,
+        87,
+        654,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28542810937632684,
+      "compression_ratio": 1.9191176470588236,
+      "no_speech_prob": 0.1229279413819313,
+      "words": [
+        {
+          "word": " I",
+          "start": 118.54,
+          "end": 118.54,
+          "probability": 0.41024112701416016
+        },
+        {
+          "word": " have",
+          "start": 118.54,
+          "end": 118.54,
+          "probability": 0.03984798863530159
+        },
+        {
+          "word": " to",
+          "start": 118.54,
+          "end": 118.54,
+          "probability": 0.9619764685630798
+        },
+        {
+          "word": " make",
+          "start": 118.54,
+          "end": 118.54,
+          "probability": 0.990649402141571
+        },
+        {
+          "word": " room",
+          "start": 118.54,
+          "end": 118.68,
+          "probability": 0.9982536435127258
+        },
+        {
+          "word": " for",
+          "start": 118.68,
+          "end": 119.52,
+          "probability": 0.988451361656189
+        },
+        {
+          "word": " Pepa",
+          "start": 119.52,
+          "end": 119.94,
+          "probability": 0.6270261257886887
+        },
+        {
+          "word": " la",
+          "start": 119.94,
+          "end": 120.26,
+          "probability": 0.23636846244335175
+        },
+        {
+          "word": " Bexia,",
+          "start": 120.26,
+          "end": 120.94,
+          "probability": 0.320121909181277
+        },
+        {
+          "word": " Pepa",
+          "start": 121.02,
+          "end": 122.02,
+          "probability": 0.9780756831169128
+        },
+        {
+          "word": " la",
+          "start": 122.02,
+          "end": 122.32,
+          "probability": 0.9484574198722839
+        },
+        {
+          "word": " Bexia",
+          "start": 122.32,
+          "end": 122.66,
+          "probability": 0.9903853138287863
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 10166,
+      "start": 123.48,
+      "end": 126.26,
+      "text": " Pepa la Bexia, give her some walking news",
+      "tokens": [
+        51414,
+        28637,
+        64,
+        635,
+        879,
+        87,
+        654,
+        11,
+        976,
+        720,
+        512,
+        4494,
+        2583,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28542810937632684,
+      "compression_ratio": 1.9191176470588236,
+      "no_speech_prob": 0.1229279413819313,
+      "words": [
+        {
+          "word": " Pepa",
+          "start": 123.48,
+          "end": 124.06,
+          "probability": 0.5158744994550943
+        },
+        {
+          "word": " la",
+          "start": 124.06,
+          "end": 124.4,
+          "probability": 0.9577412009239197
+        },
+        {
+          "word": " Bexia,",
+          "start": 124.4,
+          "end": 125.06,
+          "probability": 0.9881927768389384
+        },
+        {
+          "word": " give",
+          "start": 125.08,
+          "end": 125.3,
+          "probability": 0.7712881565093994
+        },
+        {
+          "word": " her",
+          "start": 125.3,
+          "end": 125.46,
+          "probability": 0.9661466479301453
+        },
+        {
+          "word": " some",
+          "start": 125.46,
+          "end": 125.68,
+          "probability": 0.9961041212081909
+        },
+        {
+          "word": " walking",
+          "start": 125.68,
+          "end": 125.98,
+          "probability": 0.5420937538146973
+        },
+        {
+          "word": " news",
+          "start": 125.98,
+          "end": 126.26,
+          "probability": 0.5689646601676941
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 10166,
+      "start": 126.26,
+      "end": 127.78,
+      "text": " Liz Taylor is famous",
+      "tokens": [
+        51564,
+        16480,
+        12060,
+        307,
+        4618,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28542810937632684,
+      "compression_ratio": 1.9191176470588236,
+      "no_speech_prob": 0.1229279413819313,
+      "words": [
+        {
+          "word": " Liz",
+          "start": 126.26,
+          "end": 126.54,
+          "probability": 0.021345529705286026
+        },
+        {
+          "word": " Taylor",
+          "start": 126.54,
+          "end": 126.96,
+          "probability": 0.9915145635604858
+        },
+        {
+          "word": " is",
+          "start": 126.96,
+          "end": 127.2,
+          "probability": 0.7769706845283508
+        },
+        {
+          "word": " famous",
+          "start": 127.2,
+          "end": 127.78,
+          "probability": 0.9922467470169067
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 12778,
+      "start": 127.78,
+      "end": 133.26,
+      "text": " Do you have to make room for Pepa la Bexia, Pepa la Bexia",
+      "tokens": [
+        50364,
+        1144,
+        291,
+        362,
+        281,
+        652,
+        1808,
+        337,
+        28637,
+        64,
+        635,
+        879,
+        87,
+        654,
+        11,
+        28637,
+        64,
+        635,
+        879,
+        87,
+        654,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13164048512776694,
+      "compression_ratio": 1.7603305785123966,
+      "no_speech_prob": 0.16097475588321686,
+      "words": [
+        {
+          "word": " Do",
+          "start": 127.78,
+          "end": 128.22,
+          "probability": 0.04661444202065468
+        },
+        {
+          "word": " you",
+          "start": 128.22,
+          "end": 128.38,
+          "probability": 0.9812774062156677
+        },
+        {
+          "word": " have",
+          "start": 128.38,
+          "end": 128.54,
+          "probability": 0.9492098689079285
+        },
+        {
+          "word": " to",
+          "start": 128.54,
+          "end": 128.68,
+          "probability": 0.968478798866272
+        },
+        {
+          "word": " make",
+          "start": 128.68,
+          "end": 128.9,
+          "probability": 0.9921033978462219
+        },
+        {
+          "word": " room",
+          "start": 128.9,
+          "end": 129.16,
+          "probability": 0.9968444108963013
+        },
+        {
+          "word": " for",
+          "start": 129.16,
+          "end": 129.48,
+          "probability": 0.9780929088592529
+        },
+        {
+          "word": " Pepa",
+          "start": 129.48,
+          "end": 130.32,
+          "probability": 0.6509228199720383
+        },
+        {
+          "word": " la",
+          "start": 130.32,
+          "end": 130.6,
+          "probability": 0.18904229998588562
+        },
+        {
+          "word": " Bexia,",
+          "start": 130.6,
+          "end": 131.38,
+          "probability": 0.1996008629600207
+        },
+        {
+          "word": " Pepa",
+          "start": 131.54,
+          "end": 132.34,
+          "probability": 0.899852067232132
+        },
+        {
+          "word": " la",
+          "start": 132.34,
+          "end": 132.68,
+          "probability": 0.9160299897193909
+        },
+        {
+          "word": " Bexia",
+          "start": 132.68,
+          "end": 133.26,
+          "probability": 0.9896821777025858
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 12778,
+      "start": 133.96,
+      "end": 136.8,
+      "text": " Pepa la Bexia, give her some walking news",
+      "tokens": [
+        50614,
+        28637,
+        64,
+        635,
+        879,
+        87,
+        654,
+        11,
+        976,
+        720,
+        512,
+        4494,
+        2583,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13164048512776694,
+      "compression_ratio": 1.7603305785123966,
+      "no_speech_prob": 0.16097475588321686,
+      "words": [
+        {
+          "word": " Pepa",
+          "start": 133.96,
+          "end": 134.5,
+          "probability": 0.5162320248782635
+        },
+        {
+          "word": " la",
+          "start": 134.5,
+          "end": 134.92,
+          "probability": 0.9656965136528015
+        },
+        {
+          "word": " Bexia,",
+          "start": 134.92,
+          "end": 135.42,
+          "probability": 0.9800980687141418
+        },
+        {
+          "word": " give",
+          "start": 135.5,
+          "end": 135.66,
+          "probability": 0.14997266232967377
+        },
+        {
+          "word": " her",
+          "start": 135.66,
+          "end": 135.84,
+          "probability": 0.6970788836479187
+        },
+        {
+          "word": " some",
+          "start": 135.84,
+          "end": 136.06,
+          "probability": 0.7717624306678772
+        },
+        {
+          "word": " walking",
+          "start": 136.06,
+          "end": 136.32,
+          "probability": 6.647000554949045e-05
+        },
+        {
+          "word": " news",
+          "start": 136.32,
+          "end": 136.8,
+          "probability": 0.004900059662759304
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 12778,
+      "start": 136.8,
+      "end": 137.78,
+      "text": " Liz Taylor is famous",
+      "tokens": [
+        50814,
+        16480,
+        12060,
+        307,
+        4618,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13164048512776694,
+      "compression_ratio": 1.7603305785123966,
+      "no_speech_prob": 0.16097475588321686,
+      "words": [
+        {
+          "word": " Liz",
+          "start": 136.8,
+          "end": 136.8,
+          "probability": 7.324569742195308e-05
+        },
+        {
+          "word": " Taylor",
+          "start": 136.8,
+          "end": 137.36,
+          "probability": 0.9836992025375366
+        },
+        {
+          "word": " is",
+          "start": 137.36,
+          "end": 137.62,
+          "probability": 0.6193262338638306
+        },
+        {
+          "word": " famous",
+          "start": 137.62,
+          "end": 137.89000000000001,
+          "probability": 0.9899253845214844
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 12778,
+      "start": 138.34,
+      "end": 143.92,
+      "text": " Do you have to make room for Pepa la Bexia, Pepa la Bexia",
+      "tokens": [
+        50864,
+        1144,
+        291,
+        362,
+        281,
+        652,
+        1808,
+        337,
+        28637,
+        64,
+        635,
+        879,
+        87,
+        654,
+        11,
+        28637,
+        64,
+        635,
+        879,
+        87,
+        654,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13164048512776694,
+      "compression_ratio": 1.7603305785123966,
+      "no_speech_prob": 0.16097475588321686,
+      "words": [
+        {
+          "word": " Do",
+          "start": 138.34,
+          "end": 138.62,
+          "probability": 0.5305233001708984
+        },
+        {
+          "word": " you",
+          "start": 138.62,
+          "end": 138.74,
+          "probability": 0.9986218214035034
+        },
+        {
+          "word": " have",
+          "start": 138.74,
+          "end": 138.94,
+          "probability": 0.9981579184532166
+        },
+        {
+          "word": " to",
+          "start": 138.94,
+          "end": 139.06,
+          "probability": 0.9975113868713379
+        },
+        {
+          "word": " make",
+          "start": 139.06,
+          "end": 139.36,
+          "probability": 0.9970498085021973
+        },
+        {
+          "word": " room",
+          "start": 139.36,
+          "end": 139.58,
+          "probability": 0.9963410496711731
+        },
+        {
+          "word": " for",
+          "start": 139.58,
+          "end": 140.06,
+          "probability": 0.9894930124282837
+        },
+        {
+          "word": " Pepa",
+          "start": 140.06,
+          "end": 140.58,
+          "probability": 0.9480157196521759
+        },
+        {
+          "word": " la",
+          "start": 140.58,
+          "end": 140.86,
+          "probability": 0.9271734952926636
+        },
+        {
+          "word": " Bexia,",
+          "start": 140.86,
+          "end": 140.86,
+          "probability": 0.9894858598709106
+        },
+        {
+          "word": " Pepa",
+          "start": 142.16,
+          "end": 142.32,
+          "probability": 0.859807699918747
+        },
+        {
+          "word": " la",
+          "start": 142.32,
+          "end": 143.04,
+          "probability": 0.9829150438308716
+        },
+        {
+          "word": " Bexia",
+          "start": 143.04,
+          "end": 143.92,
+          "probability": 0.9963216980298361
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 12778,
+      "start": 143.92,
+      "end": 145.74,
+      "text": " Give away the fact that you're gay",
+      "tokens": [
+        51114,
+        5303,
+        1314,
+        264,
+        1186,
+        300,
+        291,
+        434,
+        9049,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13164048512776694,
+      "compression_ratio": 1.7603305785123966,
+      "no_speech_prob": 0.16097475588321686,
+      "words": [
+        {
+          "word": " Give",
+          "start": 143.92,
+          "end": 144.18,
+          "probability": 0.06212468445301056
+        },
+        {
+          "word": " away",
+          "start": 144.18,
+          "end": 144.38,
+          "probability": 0.7707516551017761
+        },
+        {
+          "word": " the",
+          "start": 144.38,
+          "end": 144.6,
+          "probability": 0.9828213453292847
+        },
+        {
+          "word": " fact",
+          "start": 144.6,
+          "end": 144.78,
+          "probability": 0.9972168207168579
+        },
+        {
+          "word": " that",
+          "start": 144.78,
+          "end": 144.98,
+          "probability": 0.9909562468528748
+        },
+        {
+          "word": " you're",
+          "start": 144.98,
+          "end": 145.24,
+          "probability": 0.9504363834857941
+        },
+        {
+          "word": " gay",
+          "start": 145.24,
+          "end": 145.74,
+          "probability": 0.9928367733955383
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

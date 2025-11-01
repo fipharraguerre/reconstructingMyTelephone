@@ -1,0 +1,1169 @@
+{
+  "text": " you get me? Give, give, give but i stuck it out stuck it out and now i can see that i've seen both sides take, take, take and i remember how i felt remember how i felt take, take i remember exactly how i felt and i felt like nothing i felt like nothing and that's what i took from people because i felt that was the only way that was the only thing i could do take give, give, give give, give, give give, give take, take, take take, take, take take share, share, share share, share, share share",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.8200000000000003,
+      "end": 2.5,
+      "text": " you get me?",
+      "tokens": [
+        50364,
+        291,
+        483,
+        385,
+        30,
+        50464
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " you",
+          "start": 0.8200000000000003,
+          "end": 1.42,
+          "probability": 0.15794670581817627
+        },
+        {
+          "word": " get",
+          "start": 1.42,
+          "end": 1.62,
+          "probability": 0.9367716312408447
+        },
+        {
+          "word": " me?",
+          "start": 1.62,
+          "end": 2.5,
+          "probability": 0.9901385307312012
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.36,
+      "end": 5.4,
+      "text": " Give, give, give",
+      "tokens": [
+        50464,
+        5303,
+        11,
+        976,
+        11,
+        976,
+        50613
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " Give,",
+          "start": 3.36,
+          "end": 3.4,
+          "probability": 0.026980726048350334
+        },
+        {
+          "word": " give,",
+          "start": 3.4,
+          "end": 4.5,
+          "probability": 0.8805516362190247
+        },
+        {
+          "word": " give",
+          "start": 4.62,
+          "end": 5.4,
+          "probability": 0.9843572974205017
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.4,
+      "end": 6.66,
+      "text": " but i stuck it out",
+      "tokens": [
+        50613,
+        457,
+        741,
+        5541,
+        309,
+        484,
+        50713
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " but",
+          "start": 5.4,
+          "end": 5.7,
+          "probability": 0.15619035065174103
+        },
+        {
+          "word": " i",
+          "start": 5.7,
+          "end": 6.0,
+          "probability": 0.3640800416469574
+        },
+        {
+          "word": " stuck",
+          "start": 6.0,
+          "end": 6.12,
+          "probability": 0.8849323391914368
+        },
+        {
+          "word": " it",
+          "start": 6.12,
+          "end": 6.38,
+          "probability": 0.9922968745231628
+        },
+        {
+          "word": " out",
+          "start": 6.38,
+          "end": 6.66,
+          "probability": 0.9503527879714966
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 7.640000000000001,
+      "end": 9.2,
+      "text": " stuck it out",
+      "tokens": [
+        50713,
+        5541,
+        309,
+        484,
+        50813
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " stuck",
+          "start": 7.640000000000001,
+          "end": 8.24,
+          "probability": 0.1994217187166214
+        },
+        {
+          "word": " it",
+          "start": 8.24,
+          "end": 8.58,
+          "probability": 0.995352029800415
+        },
+        {
+          "word": " out",
+          "start": 8.58,
+          "end": 9.2,
+          "probability": 0.9734364151954651
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 9.2,
+      "end": 10.98,
+      "text": " and now i can see",
+      "tokens": [
+        50813,
+        293,
+        586,
+        741,
+        393,
+        536,
+        50913
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " and",
+          "start": 9.2,
+          "end": 10.22,
+          "probability": 0.8171073794364929
+        },
+        {
+          "word": " now",
+          "start": 10.22,
+          "end": 10.44,
+          "probability": 0.9828725457191467
+        },
+        {
+          "word": " i",
+          "start": 10.44,
+          "end": 10.56,
+          "probability": 0.9269437193870544
+        },
+        {
+          "word": " can",
+          "start": 10.56,
+          "end": 10.84,
+          "probability": 0.993463933467865
+        },
+        {
+          "word": " see",
+          "start": 10.84,
+          "end": 11.14,
+          "probability": 0.963715672492981
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 11.72,
+      "end": 13.92,
+      "text": " that i've seen both sides",
+      "tokens": [
+        50913,
+        300,
+        741,
+        600,
+        1612,
+        1293,
+        4881,
+        51013
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " that",
+          "start": 11.72,
+          "end": 12.04,
+          "probability": 0.8327096700668335
+        },
+        {
+          "word": " i've",
+          "start": 12.04,
+          "end": 12.7,
+          "probability": 0.7610550820827484
+        },
+        {
+          "word": " seen",
+          "start": 12.7,
+          "end": 13.02,
+          "probability": 0.9932661056518555
+        },
+        {
+          "word": " both",
+          "start": 13.02,
+          "end": 13.34,
+          "probability": 0.9964775443077087
+        },
+        {
+          "word": " sides",
+          "start": 13.34,
+          "end": 13.92,
+          "probability": 0.9954041242599487
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 13.92,
+      "end": 15.06,
+      "text": " take, take, take",
+      "tokens": [
+        51013,
+        747,
+        11,
+        747,
+        11,
+        747,
+        51113
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " take,",
+          "start": 13.92,
+          "end": 14.28,
+          "probability": 0.015014836564660072
+        },
+        {
+          "word": " take,",
+          "start": 14.9,
+          "end": 14.9,
+          "probability": 0.9014244079589844
+        },
+        {
+          "word": " take",
+          "start": 15.06,
+          "end": 15.06,
+          "probability": 0.8904889225959778
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 15.06,
+      "end": 16.2,
+      "text": " and i remember how i felt",
+      "tokens": [
+        51113,
+        293,
+        741,
+        1604,
+        577,
+        741,
+        2762,
+        51213
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " and",
+          "start": 15.06,
+          "end": 15.1,
+          "probability": 0.7505099177360535
+        },
+        {
+          "word": " i",
+          "start": 15.1,
+          "end": 15.24,
+          "probability": 0.9732902646064758
+        },
+        {
+          "word": " remember",
+          "start": 15.24,
+          "end": 15.48,
+          "probability": 0.9672525525093079
+        },
+        {
+          "word": " how",
+          "start": 15.48,
+          "end": 15.66,
+          "probability": 0.992071807384491
+        },
+        {
+          "word": " i",
+          "start": 15.66,
+          "end": 15.92,
+          "probability": 0.9878541827201843
+        },
+        {
+          "word": " felt",
+          "start": 15.92,
+          "end": 16.2,
+          "probability": 0.9384857416152954
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 17.32,
+      "end": 19.0,
+      "text": " remember how i felt",
+      "tokens": [
+        51213,
+        1604,
+        577,
+        741,
+        2762,
+        51313
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " remember",
+          "start": 17.32,
+          "end": 17.92,
+          "probability": 0.020879870280623436
+        },
+        {
+          "word": " how",
+          "start": 17.92,
+          "end": 18.18,
+          "probability": 0.9764912724494934
+        },
+        {
+          "word": " i",
+          "start": 18.18,
+          "end": 18.42,
+          "probability": 0.9947798252105713
+        },
+        {
+          "word": " felt",
+          "start": 18.42,
+          "end": 19.0,
+          "probability": 0.9578263759613037
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 19.0,
+      "end": 21.0,
+      "text": " take, take",
+      "tokens": [
+        51313,
+        747,
+        11,
+        747,
+        51413
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " take,",
+          "start": 19.0,
+          "end": 20.04,
+          "probability": 0.5065452456474304
+        },
+        {
+          "word": " take",
+          "start": 21.0,
+          "end": 21.0,
+          "probability": 0.9808603525161743
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 21.0,
+      "end": 22.68,
+      "text": " i remember exactly how i felt",
+      "tokens": [
+        51413,
+        741,
+        1604,
+        2293,
+        577,
+        741,
+        2762,
+        51513
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " i",
+          "start": 21.0,
+          "end": 21.24,
+          "probability": 0.20453351736068726
+        },
+        {
+          "word": " remember",
+          "start": 21.24,
+          "end": 21.64,
+          "probability": 0.9861541390419006
+        },
+        {
+          "word": " exactly",
+          "start": 21.64,
+          "end": 22.14,
+          "probability": 0.9657049775123596
+        },
+        {
+          "word": " how",
+          "start": 22.14,
+          "end": 22.34,
+          "probability": 0.9936891794204712
+        },
+        {
+          "word": " i",
+          "start": 22.34,
+          "end": 22.54,
+          "probability": 0.9927599430084229
+        },
+        {
+          "word": " felt",
+          "start": 22.54,
+          "end": 22.68,
+          "probability": 0.9595202803611755
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 22.68,
+      "end": 23.82,
+      "text": " and i felt like nothing",
+      "tokens": [
+        51513,
+        293,
+        741,
+        2762,
+        411,
+        1825,
+        51613
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " and",
+          "start": 22.68,
+          "end": 22.9,
+          "probability": 0.8455811142921448
+        },
+        {
+          "word": " i",
+          "start": 22.9,
+          "end": 23.06,
+          "probability": 0.9863020181655884
+        },
+        {
+          "word": " felt",
+          "start": 23.06,
+          "end": 23.2,
+          "probability": 0.9737160801887512
+        },
+        {
+          "word": " like",
+          "start": 23.2,
+          "end": 23.48,
+          "probability": 0.9908950328826904
+        },
+        {
+          "word": " nothing",
+          "start": 23.48,
+          "end": 23.82,
+          "probability": 0.9682949185371399
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 23.82,
+      "end": 25.68,
+      "text": " i felt like nothing",
+      "tokens": [
+        51613,
+        741,
+        2762,
+        411,
+        1825,
+        51713
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " i",
+          "start": 23.82,
+          "end": 24.48,
+          "probability": 0.3137423098087311
+        },
+        {
+          "word": " felt",
+          "start": 24.48,
+          "end": 24.94,
+          "probability": 0.9702402353286743
+        },
+        {
+          "word": " like",
+          "start": 24.94,
+          "end": 25.34,
+          "probability": 0.9950662851333618
+        },
+        {
+          "word": " nothing",
+          "start": 25.34,
+          "end": 25.68,
+          "probability": 0.9699704647064209
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 26.700000000000003,
+      "end": 28.74,
+      "text": " and that's what i took from people",
+      "tokens": [
+        51713,
+        293,
+        300,
+        311,
+        437,
+        741,
+        1890,
+        490,
+        561,
+        51813
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.2934515018655796,
+      "compression_ratio": 1.9261744966442953,
+      "no_speech_prob": 0.5648473501205444,
+      "words": [
+        {
+          "word": " and",
+          "start": 26.700000000000003,
+          "end": 27.3,
+          "probability": 0.6495730876922607
+        },
+        {
+          "word": " that's",
+          "start": 27.3,
+          "end": 27.54,
+          "probability": 0.8483528792858124
+        },
+        {
+          "word": " what",
+          "start": 27.54,
+          "end": 27.68,
+          "probability": 0.6194008588790894
+        },
+        {
+          "word": " i",
+          "start": 27.68,
+          "end": 27.88,
+          "probability": 0.9870997667312622
+        },
+        {
+          "word": " took",
+          "start": 27.88,
+          "end": 28.08,
+          "probability": 0.9965422749519348
+        },
+        {
+          "word": " from",
+          "start": 28.08,
+          "end": 28.28,
+          "probability": 0.9962610602378845
+        },
+        {
+          "word": " people",
+          "start": 28.28,
+          "end": 28.74,
+          "probability": 0.9932431578636169
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2874,
+      "start": 29.72,
+      "end": 32.28,
+      "text": " because i felt that was the only way",
+      "tokens": [
+        50413,
+        570,
+        741,
+        2762,
+        300,
+        390,
+        264,
+        787,
+        636,
+        50513
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23155773387235754,
+      "compression_ratio": 1.7692307692307692,
+      "no_speech_prob": 0.007580098696053028,
+      "words": [
+        {
+          "word": " because",
+          "start": 29.66,
+          "end": 30.16,
+          "probability": 0.3077247738838196
+        },
+        {
+          "word": " i",
+          "start": 30.16,
+          "end": 30.38,
+          "probability": 0.09114719182252884
+        },
+        {
+          "word": " felt",
+          "start": 30.38,
+          "end": 30.86,
+          "probability": 0.9906858801841736
+        },
+        {
+          "word": " that",
+          "start": 30.86,
+          "end": 31.28,
+          "probability": 0.926002562046051
+        },
+        {
+          "word": " was",
+          "start": 31.28,
+          "end": 31.5,
+          "probability": 0.9838497638702393
+        },
+        {
+          "word": " the",
+          "start": 31.5,
+          "end": 31.64,
+          "probability": 0.974298894405365
+        },
+        {
+          "word": " only",
+          "start": 31.64,
+          "end": 31.78,
+          "probability": 0.9985259175300598
+        },
+        {
+          "word": " way",
+          "start": 31.78,
+          "end": 32.28,
+          "probability": 0.9893041849136353
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2874,
+      "start": 32.28,
+      "end": 34.76,
+      "text": " that was the only thing i could do",
+      "tokens": [
+        50513,
+        300,
+        390,
+        264,
+        787,
+        551,
+        741,
+        727,
+        360,
+        50613
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23155773387235754,
+      "compression_ratio": 1.7692307692307692,
+      "no_speech_prob": 0.007580098696053028,
+      "words": [
+        {
+          "word": " that",
+          "start": 32.28,
+          "end": 33.34,
+          "probability": 0.5936504006385803
+        },
+        {
+          "word": " was",
+          "start": 33.34,
+          "end": 33.54,
+          "probability": 0.9752907156944275
+        },
+        {
+          "word": " the",
+          "start": 33.54,
+          "end": 33.66,
+          "probability": 0.9968181848526001
+        },
+        {
+          "word": " only",
+          "start": 33.66,
+          "end": 33.9,
+          "probability": 0.9987549781799316
+        },
+        {
+          "word": " thing",
+          "start": 33.9,
+          "end": 34.06,
+          "probability": 0.8759424090385437
+        },
+        {
+          "word": " i",
+          "start": 34.06,
+          "end": 34.22,
+          "probability": 0.8698523044586182
+        },
+        {
+          "word": " could",
+          "start": 34.22,
+          "end": 34.36,
+          "probability": 0.9943880438804626
+        },
+        {
+          "word": " do",
+          "start": 34.36,
+          "end": 34.76,
+          "probability": 0.9901891350746155
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2874,
+      "start": 34.76,
+      "end": 35.68,
+      "text": " take",
+      "tokens": [
+        50613,
+        747,
+        50713
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23155773387235754,
+      "compression_ratio": 1.7692307692307692,
+      "no_speech_prob": 0.007580098696053028,
+      "words": [
+        {
+          "word": " take",
+          "start": 34.76,
+          "end": 35.68,
+          "probability": 0.15094737708568573
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2874,
+      "start": 39.34,
+      "end": 43.22,
+      "text": " give, give, give",
+      "tokens": [
+        50813,
+        976,
+        11,
+        976,
+        11,
+        976,
+        51013
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23155773387235754,
+      "compression_ratio": 1.7692307692307692,
+      "no_speech_prob": 0.007580098696053028,
+      "words": [
+        {
+          "word": " give,",
+          "start": 39.34,
+          "end": 40.34,
+          "probability": 0.10455375909805298
+        },
+        {
+          "word": " give,",
+          "start": 40.34,
+          "end": 41.34,
+          "probability": 0.9443172216415405
+        },
+        {
+          "word": " give",
+          "start": 42.14,
+          "end": 43.22,
+          "probability": 0.9871383309364319
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2874,
+      "start": 43.22,
+      "end": 49.62,
+      "text": " give, give, give",
+      "tokens": [
+        51013,
+        976,
+        11,
+        976,
+        11,
+        976,
+        51213
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23155773387235754,
+      "compression_ratio": 1.7692307692307692,
+      "no_speech_prob": 0.007580098696053028,
+      "words": [
+        {
+          "word": " give,",
+          "start": 43.22,
+          "end": 44.52,
+          "probability": 0.08996265381574631
+        },
+        {
+          "word": " give,",
+          "start": 44.9,
+          "end": 46.86,
+          "probability": 0.9849777221679688
+        },
+        {
+          "word": " give",
+          "start": 46.86,
+          "end": 49.62,
+          "probability": 0.9801449775695801
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2874,
+      "start": 49.62,
+      "end": 53.02,
+      "text": " give, give",
+      "tokens": [
+        51213,
+        976,
+        11,
+        976,
+        51413
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23155773387235754,
+      "compression_ratio": 1.7692307692307692,
+      "no_speech_prob": 0.007580098696053028,
+      "words": [
+        {
+          "word": " give,",
+          "start": 49.62,
+          "end": 50.28,
+          "probability": 0.18003146350383759
+        },
+        {
+          "word": " give",
+          "start": 50.28,
+          "end": 53.02,
+          "probability": 0.6189802885055542
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 2874,
+      "start": 53.02,
+      "end": 56.72,
+      "text": " take, take, take",
+      "tokens": [
+        51563,
+        747,
+        11,
+        747,
+        11,
+        747,
+        51763
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23155773387235754,
+      "compression_ratio": 1.7692307692307692,
+      "no_speech_prob": 0.007580098696053028,
+      "words": [
+        {
+          "word": " take,",
+          "start": 53.02,
+          "end": 54.28,
+          "probability": 0.6327146887779236
+        },
+        {
+          "word": " take,",
+          "start": 54.72,
+          "end": 55.98,
+          "probability": 0.9955779314041138
+        },
+        {
+          "word": " take",
+          "start": 56.62,
+          "end": 57.12,
+          "probability": 0.9959670305252075
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5712,
+      "start": 57.12,
+      "end": 62.099999999999994,
+      "text": " take, take, take",
+      "tokens": [
+        50413,
+        747,
+        11,
+        747,
+        11,
+        747,
+        50613
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2840369769505092,
+      "compression_ratio": 2.392857142857143,
+      "no_speech_prob": 0.04329252988100052,
+      "words": [
+        {
+          "word": " take,",
+          "start": 57.12,
+          "end": 57.38,
+          "probability": 0.053267572075128555
+        },
+        {
+          "word": " take,",
+          "start": 57.38,
+          "end": 60.5,
+          "probability": 0.9516198635101318
+        },
+        {
+          "word": " take",
+          "start": 61.12,
+          "end": 62.099999999999994,
+          "probability": 0.9820907711982727
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 5712,
+      "start": 64.8,
+      "end": 65.1,
+      "text": " take",
+      "tokens": [
+        50663,
+        747,
+        50763
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2840369769505092,
+      "compression_ratio": 2.392857142857143,
+      "no_speech_prob": 0.04329252988100052,
+      "words": [
+        {
+          "word": " take",
+          "start": 64.8,
+          "end": 65.5,
+          "probability": 0.008140098303556442
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 5712,
+      "start": 66.2,
+      "end": 71.28,
+      "text": " share, share, share",
+      "tokens": [
+        50813,
+        2073,
+        11,
+        2073,
+        11,
+        2073,
+        51013
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2840369769505092,
+      "compression_ratio": 2.392857142857143,
+      "no_speech_prob": 0.04329252988100052,
+      "words": [
+        {
+          "word": " share,",
+          "start": 66.2,
+          "end": 67.56,
+          "probability": 0.081816665828228
+        },
+        {
+          "word": " share,",
+          "start": 68.38,
+          "end": 69.36,
+          "probability": 0.9979267120361328
+        },
+        {
+          "word": " share",
+          "start": 70.2,
+          "end": 71.28,
+          "probability": 0.9960796236991882
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 5712,
+      "start": 71.28,
+      "end": 78.46,
+      "text": " share, share, share",
+      "tokens": [
+        51063,
+        2073,
+        11,
+        2073,
+        11,
+        2073,
+        51313
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2840369769505092,
+      "compression_ratio": 2.392857142857143,
+      "no_speech_prob": 0.04329252988100052,
+      "words": [
+        {
+          "word": " share,",
+          "start": 71.28,
+          "end": 73.16,
+          "probability": 0.5352839827537537
+        },
+        {
+          "word": " share,",
+          "start": 75.8,
+          "end": 76.66,
+          "probability": 0.9970486760139465
+        },
+        {
+          "word": " share",
+          "start": 78.28,
+          "end": 78.46,
+          "probability": 0.9960732460021973
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 5712,
+      "start": 78.46,
+      "end": 79.1,
+      "text": " share",
+      "tokens": [
+        51363,
+        2073,
+        51463
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2840369769505092,
+      "compression_ratio": 2.392857142857143,
+      "no_speech_prob": 0.04329252988100052,
+      "words": [
+        {
+          "word": " share",
+          "start": 78.46,
+          "end": 79.16,
+          "probability": 0.2828046679496765
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,943 @@
+{
+  "text": " Just a real act It's the act you got sensation You start breaking I start breaking That's our photo Keep it all on the low You say yes I mean no We jam when you say so I'm a life work man and shit That's our photo Keep it all on the low You say yes I mean no We jam when you say so I'm a life work man and shit And a mental pick-up That's our photo It's the truth Keep it all on the low",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 31.9,
+      "text": " Just a real act",
+      "tokens": [
+        50364,
+        1449,
+        257,
+        957,
+        605,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7407869611467633,
+      "compression_ratio": 1.3457943925233644,
+      "no_speech_prob": 0.8969541788101196,
+      "words": [
+        {
+          "word": " Just",
+          "start": 30.0,
+          "end": 30.46,
+          "probability": 0.03736184537410736
+        },
+        {
+          "word": " a",
+          "start": 30.46,
+          "end": 30.76,
+          "probability": 0.6824772953987122
+        },
+        {
+          "word": " real",
+          "start": 30.76,
+          "end": 31.06,
+          "probability": 0.7185113430023193
+        },
+        {
+          "word": " act",
+          "start": 31.06,
+          "end": 31.9,
+          "probability": 0.08431617170572281
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 33.58,
+      "end": 36.76,
+      "text": " It's the act you got sensation",
+      "tokens": [
+        50564,
+        467,
+        311,
+        264,
+        605,
+        291,
+        658,
+        20069,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7407869611467633,
+      "compression_ratio": 1.3457943925233644,
+      "no_speech_prob": 0.8969541788101196,
+      "words": [
+        {
+          "word": " It's",
+          "start": 33.58,
+          "end": 34.62,
+          "probability": 0.5112285353243351
+        },
+        {
+          "word": " the",
+          "start": 34.62,
+          "end": 34.84,
+          "probability": 0.25855717062950134
+        },
+        {
+          "word": " act",
+          "start": 34.84,
+          "end": 35.14,
+          "probability": 0.1979624629020691
+        },
+        {
+          "word": " you",
+          "start": 35.14,
+          "end": 35.46,
+          "probability": 0.3812371492385864
+        },
+        {
+          "word": " got",
+          "start": 35.46,
+          "end": 35.66,
+          "probability": 0.24225333333015442
+        },
+        {
+          "word": " sensation",
+          "start": 35.66,
+          "end": 36.76,
+          "probability": 0.45095762610435486
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 38.0,
+      "end": 39.62,
+      "text": " You start breaking",
+      "tokens": [
+        50764,
+        509,
+        722,
+        7697,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7407869611467633,
+      "compression_ratio": 1.3457943925233644,
+      "no_speech_prob": 0.8969541788101196,
+      "words": [
+        {
+          "word": " You",
+          "start": 37.72,
+          "end": 38.24,
+          "probability": 0.6295886635780334
+        },
+        {
+          "word": " start",
+          "start": 38.24,
+          "end": 38.56,
+          "probability": 0.8533686399459839
+        },
+        {
+          "word": " breaking",
+          "start": 38.56,
+          "end": 39.62,
+          "probability": 0.25259333848953247
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 40.84,
+      "end": 44.36,
+      "text": " I start breaking",
+      "tokens": [
+        50914,
+        286,
+        722,
+        7697,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7407869611467633,
+      "compression_ratio": 1.3457943925233644,
+      "no_speech_prob": 0.8969541788101196,
+      "words": [
+        {
+          "word": " I",
+          "start": 40.84,
+          "end": 41.88,
+          "probability": 0.7796446084976196
+        },
+        {
+          "word": " start",
+          "start": 41.88,
+          "end": 42.4,
+          "probability": 0.9107314348220825
+        },
+        {
+          "word": " breaking",
+          "start": 42.4,
+          "end": 44.36,
+          "probability": 0.9600858688354492
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 46.300000000000004,
+      "end": 49.12,
+      "text": " That's our photo",
+      "tokens": [
+        51164,
+        663,
+        311,
+        527,
+        5052,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7407869611467633,
+      "compression_ratio": 1.3457943925233644,
+      "no_speech_prob": 0.8969541788101196,
+      "words": [
+        {
+          "word": " That's",
+          "start": 46.300000000000004,
+          "end": 47.34,
+          "probability": 0.3007880598306656
+        },
+        {
+          "word": " our",
+          "start": 47.34,
+          "end": 47.92,
+          "probability": 0.6256412863731384
+        },
+        {
+          "word": " photo",
+          "start": 47.92,
+          "end": 49.12,
+          "probability": 0.36394211649894714
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 50.0,
+      "end": 53.16,
+      "text": " Keep it all on the low",
+      "tokens": [
+        51364,
+        5527,
+        309,
+        439,
+        322,
+        264,
+        2295,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7407869611467633,
+      "compression_ratio": 1.3457943925233644,
+      "no_speech_prob": 0.8969541788101196,
+      "words": [
+        {
+          "word": " Keep",
+          "start": 50.0,
+          "end": 51.04,
+          "probability": 0.6505383253097534
+        },
+        {
+          "word": " it",
+          "start": 51.04,
+          "end": 51.44,
+          "probability": 0.9622289538383484
+        },
+        {
+          "word": " all",
+          "start": 51.44,
+          "end": 51.64,
+          "probability": 0.6054743528366089
+        },
+        {
+          "word": " on",
+          "start": 51.64,
+          "end": 52.16,
+          "probability": 0.20517854392528534
+        },
+        {
+          "word": " the",
+          "start": 52.16,
+          "end": 52.32,
+          "probability": 0.8076093196868896
+        },
+        {
+          "word": " low",
+          "start": 52.32,
+          "end": 53.16,
+          "probability": 0.6052706241607666
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 3000,
+      "start": 54.0,
+      "end": 57.4,
+      "text": " You say yes I mean no",
+      "tokens": [
+        51564,
+        509,
+        584,
+        2086,
+        286,
+        914,
+        572,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7407869611467633,
+      "compression_ratio": 1.3457943925233644,
+      "no_speech_prob": 0.8969541788101196,
+      "words": [
+        {
+          "word": " You",
+          "start": 54.0,
+          "end": 54.72,
+          "probability": 0.5341594815254211
+        },
+        {
+          "word": " say",
+          "start": 54.72,
+          "end": 55.14,
+          "probability": 0.38404160737991333
+        },
+        {
+          "word": " yes",
+          "start": 55.14,
+          "end": 55.62,
+          "probability": 0.42583802342414856
+        },
+        {
+          "word": " I",
+          "start": 55.62,
+          "end": 55.76,
+          "probability": 0.3655831217765808
+        },
+        {
+          "word": " mean",
+          "start": 55.76,
+          "end": 56.06,
+          "probability": 0.8744909763336182
+        },
+        {
+          "word": " no",
+          "start": 56.06,
+          "end": 57.4,
+          "probability": 0.9483155608177185
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5740,
+      "start": 57.4,
+      "end": 60.82,
+      "text": " We jam when you say so",
+      "tokens": [
+        50364,
+        492,
+        7872,
+        562,
+        291,
+        584,
+        370,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41269176146563363,
+      "compression_ratio": 1.1097560975609757,
+      "no_speech_prob": 0.06310226023197174,
+      "words": [
+        {
+          "word": " We",
+          "start": 57.4,
+          "end": 58.48,
+          "probability": 0.08441532403230667
+        },
+        {
+          "word": " jam",
+          "start": 58.48,
+          "end": 58.78,
+          "probability": 0.20678682625293732
+        },
+        {
+          "word": " when",
+          "start": 58.78,
+          "end": 59.1,
+          "probability": 0.36300861835479736
+        },
+        {
+          "word": " you",
+          "start": 59.1,
+          "end": 59.54,
+          "probability": 0.3818056285381317
+        },
+        {
+          "word": " say",
+          "start": 59.54,
+          "end": 59.86,
+          "probability": 0.9177350997924805
+        },
+        {
+          "word": " so",
+          "start": 59.86,
+          "end": 60.82,
+          "probability": 0.7211024165153503
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5740,
+      "start": 68.12,
+      "end": 71.4,
+      "text": " I'm a life work man and shit",
+      "tokens": [
+        50914,
+        286,
+        478,
+        257,
+        993,
+        589,
+        587,
+        293,
+        4611,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41269176146563363,
+      "compression_ratio": 1.1097560975609757,
+      "no_speech_prob": 0.06310226023197174,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 68.12,
+          "end": 69.04,
+          "probability": 0.5558970496058464
+        },
+        {
+          "word": " a",
+          "start": 69.04,
+          "end": 69.28,
+          "probability": 0.5418623089790344
+        },
+        {
+          "word": " life",
+          "start": 69.28,
+          "end": 69.58,
+          "probability": 0.36332494020462036
+        },
+        {
+          "word": " work",
+          "start": 69.58,
+          "end": 70.08,
+          "probability": 0.28634384274482727
+        },
+        {
+          "word": " man",
+          "start": 70.08,
+          "end": 70.86,
+          "probability": 0.2857394814491272
+        },
+        {
+          "word": " and",
+          "start": 70.86,
+          "end": 71.12,
+          "probability": 0.2296462208032608
+        },
+        {
+          "word": " shit",
+          "start": 71.12,
+          "end": 71.58,
+          "probability": 0.6032553911209106
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5740,
+      "start": 78.1,
+      "end": 80.9,
+      "text": " That's our photo",
+      "tokens": [
+        51414,
+        663,
+        311,
+        527,
+        5052,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41269176146563363,
+      "compression_ratio": 1.1097560975609757,
+      "no_speech_prob": 0.06310226023197174,
+      "words": [
+        {
+          "word": " That's",
+          "start": 78.1,
+          "end": 79.02,
+          "probability": 0.24671507626771927
+        },
+        {
+          "word": " our",
+          "start": 79.02,
+          "end": 79.62,
+          "probability": 0.21661800146102905
+        },
+        {
+          "word": " photo",
+          "start": 79.62,
+          "end": 80.9,
+          "probability": 0.050771329551935196
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5740,
+      "start": 82.02,
+      "end": 84.64,
+      "text": " Keep it all on the low",
+      "tokens": [
+        51614,
+        5527,
+        309,
+        439,
+        322,
+        264,
+        2295,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41269176146563363,
+      "compression_ratio": 1.1097560975609757,
+      "no_speech_prob": 0.06310226023197174,
+      "words": [
+        {
+          "word": " Keep",
+          "start": 82.02,
+          "end": 82.94,
+          "probability": 0.6835256218910217
+        },
+        {
+          "word": " it",
+          "start": 82.94,
+          "end": 83.34,
+          "probability": 0.9647678136825562
+        },
+        {
+          "word": " all",
+          "start": 83.34,
+          "end": 83.5,
+          "probability": 0.029560793191194534
+        },
+        {
+          "word": " on",
+          "start": 83.5,
+          "end": 83.98,
+          "probability": 0.021003732457756996
+        },
+        {
+          "word": " the",
+          "start": 83.98,
+          "end": 84.3,
+          "probability": 0.4271838665008545
+        },
+        {
+          "word": " low",
+          "start": 84.3,
+          "end": 84.64,
+          "probability": 0.2818068861961365
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 8464,
+      "start": 84.64,
+      "end": 89.34,
+      "text": " You say yes I mean no",
+      "tokens": [
+        50364,
+        509,
+        584,
+        2086,
+        286,
+        914,
+        572,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30209218694808637,
+      "compression_ratio": 1.1886792452830188,
+      "no_speech_prob": 0.08246094733476639,
+      "words": [
+        {
+          "word": " You",
+          "start": 84.64,
+          "end": 86.42,
+          "probability": 0.009924576617777348
+        },
+        {
+          "word": " say",
+          "start": 86.42,
+          "end": 86.74,
+          "probability": 0.021040599793195724
+        },
+        {
+          "word": " yes",
+          "start": 86.74,
+          "end": 87.32,
+          "probability": 0.0709066316485405
+        },
+        {
+          "word": " I",
+          "start": 87.32,
+          "end": 87.96,
+          "probability": 0.006064272485673428
+        },
+        {
+          "word": " mean",
+          "start": 87.96,
+          "end": 87.96,
+          "probability": 0.018023770302534103
+        },
+        {
+          "word": " no",
+          "start": 87.96,
+          "end": 89.34,
+          "probability": 0.5602193474769592
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 8464,
+      "start": 89.34,
+      "end": 92.94,
+      "text": " We jam when you say so",
+      "tokens": [
+        50564,
+        492,
+        7872,
+        562,
+        291,
+        584,
+        370,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30209218694808637,
+      "compression_ratio": 1.1886792452830188,
+      "no_speech_prob": 0.08246094733476639,
+      "words": [
+        {
+          "word": " We",
+          "start": 89.34,
+          "end": 90.4,
+          "probability": 0.018816180527210236
+        },
+        {
+          "word": " jam",
+          "start": 90.4,
+          "end": 90.74,
+          "probability": 0.003745374735444784
+        },
+        {
+          "word": " when",
+          "start": 90.74,
+          "end": 91.04,
+          "probability": 0.6591519117355347
+        },
+        {
+          "word": " you",
+          "start": 91.04,
+          "end": 91.48,
+          "probability": 0.78802490234375
+        },
+        {
+          "word": " say",
+          "start": 91.48,
+          "end": 91.74,
+          "probability": 0.9708372950553894
+        },
+        {
+          "word": " so",
+          "start": 91.74,
+          "end": 92.94,
+          "probability": 0.43128687143325806
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 8464,
+      "start": 96.03999999999999,
+      "end": 103.74,
+      "text": " I'm a life work man and shit",
+      "tokens": [
+        51164,
+        286,
+        478,
+        257,
+        993,
+        589,
+        587,
+        293,
+        4611,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30209218694808637,
+      "compression_ratio": 1.1886792452830188,
+      "no_speech_prob": 0.08246094733476639,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 96.03999999999999,
+          "end": 97.44,
+          "probability": 0.10976370051503181
+        },
+        {
+          "word": " a",
+          "start": 97.44,
+          "end": 98.84,
+          "probability": 0.04548271372914314
+        },
+        {
+          "word": " life",
+          "start": 98.84,
+          "end": 101.24,
+          "probability": 8.72368473210372e-05
+        },
+        {
+          "word": " work",
+          "start": 101.24,
+          "end": 102.18,
+          "probability": 0.0026352452114224434
+        },
+        {
+          "word": " man",
+          "start": 102.18,
+          "end": 102.7,
+          "probability": 0.2164863497018814
+        },
+        {
+          "word": " and",
+          "start": 102.7,
+          "end": 103.74,
+          "probability": 0.06478492170572281
+        },
+        {
+          "word": " shit",
+          "start": 103.74,
+          "end": 103.74,
+          "probability": 0.0005820444202981889
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 8464,
+      "start": 103.74,
+      "end": 106.44,
+      "text": " And a mental pick-up",
+      "tokens": [
+        51364,
+        400,
+        257,
+        4973,
+        1888,
+        12,
+        1010,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30209218694808637,
+      "compression_ratio": 1.1886792452830188,
+      "no_speech_prob": 0.08246094733476639,
+      "words": [
+        {
+          "word": " And",
+          "start": 103.74,
+          "end": 104.12,
+          "probability": 0.20078182220458984
+        },
+        {
+          "word": " a",
+          "start": 104.12,
+          "end": 104.3,
+          "probability": 0.14712555706501007
+        },
+        {
+          "word": " mental",
+          "start": 104.3,
+          "end": 104.98,
+          "probability": 0.9796125888824463
+        },
+        {
+          "word": " pick",
+          "start": 104.98,
+          "end": 105.7,
+          "probability": 0.5736482739448547
+        },
+        {
+          "word": "-up",
+          "start": 105.7,
+          "end": 106.44,
+          "probability": 0.6281594932079315
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 8464,
+      "start": 106.44,
+      "end": 108.74,
+      "text": " That's our photo",
+      "tokens": [
+        51514,
+        663,
+        311,
+        527,
+        5052,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30209218694808637,
+      "compression_ratio": 1.1886792452830188,
+      "no_speech_prob": 0.08246094733476639,
+      "words": [
+        {
+          "word": " That's",
+          "start": 106.44,
+          "end": 107.6,
+          "probability": 0.10023119673132896
+        },
+        {
+          "word": " our",
+          "start": 107.6,
+          "end": 107.82,
+          "probability": 0.0007059993222355843
+        },
+        {
+          "word": " photo",
+          "start": 107.82,
+          "end": 108.74,
+          "probability": 5.7432942412560806e-05
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8464,
+      "start": 110.64,
+      "end": 112.08,
+      "text": " It's the truth",
+      "tokens": [
+        51664,
+        467,
+        311,
+        264,
+        3494,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30209218694808637,
+      "compression_ratio": 1.1886792452830188,
+      "no_speech_prob": 0.08246094733476639,
+      "words": [
+        {
+          "word": " It's",
+          "start": 110.64,
+          "end": 111.5,
+          "probability": 0.47421111166477203
+        },
+        {
+          "word": " the",
+          "start": 111.5,
+          "end": 111.5,
+          "probability": 0.06727065145969391
+        },
+        {
+          "word": " truth",
+          "start": 111.5,
+          "end": 112.08,
+          "probability": 0.9116470813751221
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 11464,
+      "start": 126.14,
+      "end": 127.54,
+      "text": " Keep it all on the low",
+      "tokens": [
+        50364,
+        5527,
+        309,
+        439,
+        322,
+        264,
+        2295,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5033811463250054,
+      "compression_ratio": 0.7333333333333333,
+      "no_speech_prob": 0.7839694619178772,
+      "words": [
+        {
+          "word": " Keep",
+          "start": 126.14,
+          "end": 127.54,
+          "probability": 0.00014321977505460382
+        },
+        {
+          "word": " it",
+          "start": 127.54,
+          "end": 127.54,
+          "probability": 0.12821710109710693
+        },
+        {
+          "word": " all",
+          "start": 127.54,
+          "end": 127.54,
+          "probability": 0.0014131239149719477
+        },
+        {
+          "word": " on",
+          "start": 127.54,
+          "end": 127.54,
+          "probability": 0.031095702201128006
+        },
+        {
+          "word": " the",
+          "start": 127.54,
+          "end": 127.54,
+          "probability": 0.4942878782749176
+        },
+        {
+          "word": " low",
+          "start": 127.54,
+          "end": 127.54,
+          "probability": 0.002437533577904105
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

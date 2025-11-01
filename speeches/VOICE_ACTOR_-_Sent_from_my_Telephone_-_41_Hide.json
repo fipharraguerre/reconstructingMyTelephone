@@ -1,0 +1,881 @@
+{
+  "text": " Alone with you, not aligned with you Never mind if you say fine, you do know You do know Staring my being, losing my fleeting waking illusion Fucking solution, fucking solution Drinking memory, running rewind It's my turn to hide Alone with you, not aligned with you Never lied to you, bought a lie, you do know You do know Staring my being, losing my fleeting waking illusion Fucking solution Drinking memory, running rewind It's my turn to hide I'm fucking solution, you do know Staring my being, losing my fleeting waking illusion Fucking solution",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 31.299999999999997,
+      "end": 42.52,
+      "text": " Alone with you, not aligned with you Never mind if you say fine, you do know",
+      "tokens": [
+        50364,
+        42056,
+        365,
+        291,
+        11,
+        406,
+        17962,
+        365,
+        291,
+        7344,
+        1575,
+        498,
+        291,
+        584,
+        2489,
+        11,
+        291,
+        360,
+        458,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4037616517808702,
+      "compression_ratio": 1.1891891891891893,
+      "no_speech_prob": 0.7583484053611755,
+      "words": [
+        {
+          "word": " Alone",
+          "start": 31.299999999999997,
+          "end": 32.62,
+          "probability": 0.0016764873871579766
+        },
+        {
+          "word": " with",
+          "start": 32.62,
+          "end": 33.28,
+          "probability": 0.9509210586547852
+        },
+        {
+          "word": " you,",
+          "start": 33.28,
+          "end": 33.8,
+          "probability": 0.9860870242118835
+        },
+        {
+          "word": " not",
+          "start": 34.06,
+          "end": 34.5,
+          "probability": 0.9265979528427124
+        },
+        {
+          "word": " aligned",
+          "start": 34.5,
+          "end": 35.26,
+          "probability": 0.9167876839637756
+        },
+        {
+          "word": " with",
+          "start": 35.26,
+          "end": 35.78,
+          "probability": 0.9961776733398438
+        },
+        {
+          "word": " you",
+          "start": 35.78,
+          "end": 36.42,
+          "probability": 0.9975556135177612
+        },
+        {
+          "word": " Never",
+          "start": 36.42,
+          "end": 37.18,
+          "probability": 0.62910395860672
+        },
+        {
+          "word": " mind",
+          "start": 37.18,
+          "end": 37.76,
+          "probability": 0.7966902256011963
+        },
+        {
+          "word": " if",
+          "start": 37.76,
+          "end": 38.2,
+          "probability": 0.9474982023239136
+        },
+        {
+          "word": " you",
+          "start": 38.2,
+          "end": 38.88,
+          "probability": 0.9974053502082825
+        },
+        {
+          "word": " say",
+          "start": 38.88,
+          "end": 39.38,
+          "probability": 0.8945716619491577
+        },
+        {
+          "word": " fine,",
+          "start": 39.38,
+          "end": 40.06,
+          "probability": 0.35525667667388916
+        },
+        {
+          "word": " you",
+          "start": 40.3,
+          "end": 40.66,
+          "probability": 0.9749890565872192
+        },
+        {
+          "word": " do",
+          "start": 40.66,
+          "end": 41.42,
+          "probability": 0.968559205532074
+        },
+        {
+          "word": " know",
+          "start": 41.42,
+          "end": 42.52,
+          "probability": 0.9755841493606567
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 44.54,
+      "end": 49.0,
+      "text": " You do know",
+      "tokens": [
+        51114,
+        509,
+        360,
+        458,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4037616517808702,
+      "compression_ratio": 1.1891891891891893,
+      "no_speech_prob": 0.7583484053611755,
+      "words": [
+        {
+          "word": " You",
+          "start": 44.54,
+          "end": 45.86,
+          "probability": 0.784795880317688
+        },
+        {
+          "word": " do",
+          "start": 45.86,
+          "end": 46.92,
+          "probability": 0.9954633116722107
+        },
+        {
+          "word": " know",
+          "start": 46.92,
+          "end": 49.0,
+          "probability": 0.9970481991767883
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 4900,
+      "start": 55.42,
+      "end": 63.24,
+      "text": " Staring my being, losing my fleeting waking illusion",
+      "tokens": [
+        50364,
+        745,
+        1921,
+        452,
+        885,
+        11,
+        7027,
+        452,
+        7025,
+        9880,
+        20447,
+        18854,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3446999896656383,
+      "compression_ratio": 1.3181818181818181,
+      "no_speech_prob": 0.05495994910597801,
+      "words": [
+        {
+          "word": " Staring",
+          "start": 55.42,
+          "end": 56.82,
+          "probability": 0.44054167345166206
+        },
+        {
+          "word": " my",
+          "start": 56.82,
+          "end": 57.38,
+          "probability": 0.7095354795455933
+        },
+        {
+          "word": " being,",
+          "start": 57.38,
+          "end": 58.42,
+          "probability": 0.9340394139289856
+        },
+        {
+          "word": " losing",
+          "start": 58.88,
+          "end": 59.3,
+          "probability": 0.6237632632255554
+        },
+        {
+          "word": " my",
+          "start": 59.3,
+          "end": 59.74,
+          "probability": 0.6016479134559631
+        },
+        {
+          "word": " fleeting",
+          "start": 59.74,
+          "end": 60.92,
+          "probability": 0.7716799676418304
+        },
+        {
+          "word": " waking",
+          "start": 60.92,
+          "end": 61.92,
+          "probability": 0.572218656539917
+        },
+        {
+          "word": " illusion",
+          "start": 61.92,
+          "end": 63.24,
+          "probability": 0.9746609926223755
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4900,
+      "start": 63.24,
+      "end": 70.46,
+      "text": " Fucking solution, fucking solution",
+      "tokens": [
+        51064,
+        33342,
+        3827,
+        11,
+        5546,
+        3827,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3446999896656383,
+      "compression_ratio": 1.3181818181818181,
+      "no_speech_prob": 0.05495994910597801,
+      "words": [
+        {
+          "word": " Fucking",
+          "start": 63.24,
+          "end": 64.36,
+          "probability": 0.17937734723091125
+        },
+        {
+          "word": " solution,",
+          "start": 64.36,
+          "end": 66.14,
+          "probability": 0.7471469044685364
+        },
+        {
+          "word": " fucking",
+          "start": 67.94,
+          "end": 68.54,
+          "probability": 0.8729116916656494
+        },
+        {
+          "word": " solution",
+          "start": 68.54,
+          "end": 70.46,
+          "probability": 0.9932618737220764
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 7046,
+      "start": 77.89999999999999,
+      "end": 87.46,
+      "text": " Drinking memory, running rewind It's my turn to hide",
+      "tokens": [
+        50364,
+        2491,
+        12408,
+        4675,
+        11,
+        2614,
+        41458,
+        467,
+        311,
+        452,
+        1261,
+        281,
+        6479,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3842495381832123,
+      "compression_ratio": 0.9122807017543859,
+      "no_speech_prob": 0.048352502286434174,
+      "words": [
+        {
+          "word": " Drinking",
+          "start": 77.89999999999999,
+          "end": 79.3,
+          "probability": 0.13099373620934784
+        },
+        {
+          "word": " memory,",
+          "start": 79.3,
+          "end": 80.48,
+          "probability": 0.90973299741745
+        },
+        {
+          "word": " running",
+          "start": 80.76,
+          "end": 81.32,
+          "probability": 0.8714891672134399
+        },
+        {
+          "word": " rewind",
+          "start": 81.32,
+          "end": 82.24,
+          "probability": 0.6022738814353943
+        },
+        {
+          "word": " It's",
+          "start": 82.24,
+          "end": 83.24,
+          "probability": 0.7688168585300446
+        },
+        {
+          "word": " my",
+          "start": 83.24,
+          "end": 83.52,
+          "probability": 0.9962653517723083
+        },
+        {
+          "word": " turn",
+          "start": 83.52,
+          "end": 83.94,
+          "probability": 0.9471745491027832
+        },
+        {
+          "word": " to",
+          "start": 83.94,
+          "end": 86.64,
+          "probability": 0.9869028329849243
+        },
+        {
+          "word": " hide",
+          "start": 86.64,
+          "end": 87.46,
+          "probability": 0.9448500275611877
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 8746,
+      "start": 97.8,
+      "end": 108.7,
+      "text": " Alone with you, not aligned with you Never lied to you, bought a lie, you do know",
+      "tokens": [
+        50364,
+        42056,
+        365,
+        291,
+        11,
+        406,
+        17962,
+        365,
+        291,
+        7344,
+        20101,
+        281,
+        291,
+        11,
+        4243,
+        257,
+        4544,
+        11,
+        291,
+        360,
+        458,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2375244072505406,
+      "compression_ratio": 1.2567567567567568,
+      "no_speech_prob": 0.10542533546686172,
+      "words": [
+        {
+          "word": " Alone",
+          "start": 97.8,
+          "end": 98.88,
+          "probability": 0.024233615025877953
+        },
+        {
+          "word": " with",
+          "start": 98.88,
+          "end": 99.5,
+          "probability": 0.9781002402305603
+        },
+        {
+          "word": " you,",
+          "start": 99.5,
+          "end": 99.96,
+          "probability": 0.9904334545135498
+        },
+        {
+          "word": " not",
+          "start": 100.48,
+          "end": 100.8,
+          "probability": 0.9820278882980347
+        },
+        {
+          "word": " aligned",
+          "start": 100.8,
+          "end": 101.42,
+          "probability": 0.9896376132965088
+        },
+        {
+          "word": " with",
+          "start": 101.42,
+          "end": 101.96,
+          "probability": 0.9956783652305603
+        },
+        {
+          "word": " you",
+          "start": 101.96,
+          "end": 102.44,
+          "probability": 0.9957841038703918
+        },
+        {
+          "word": " Never",
+          "start": 102.44,
+          "end": 103.38,
+          "probability": 0.6133905053138733
+        },
+        {
+          "word": " lied",
+          "start": 103.38,
+          "end": 103.94,
+          "probability": 0.819888710975647
+        },
+        {
+          "word": " to",
+          "start": 103.94,
+          "end": 104.48,
+          "probability": 0.9972096085548401
+        },
+        {
+          "word": " you,",
+          "start": 104.48,
+          "end": 105.06,
+          "probability": 0.9950128197669983
+        },
+        {
+          "word": " bought",
+          "start": 105.3,
+          "end": 105.42,
+          "probability": 0.21507714688777924
+        },
+        {
+          "word": " a",
+          "start": 105.42,
+          "end": 105.78,
+          "probability": 0.8855050206184387
+        },
+        {
+          "word": " lie,",
+          "start": 105.78,
+          "end": 106.18,
+          "probability": 0.6053957939147949
+        },
+        {
+          "word": " you",
+          "start": 106.56,
+          "end": 106.86,
+          "probability": 0.9320736527442932
+        },
+        {
+          "word": " do",
+          "start": 106.86,
+          "end": 107.6,
+          "probability": 0.9375339150428772
+        },
+        {
+          "word": " know",
+          "start": 107.6,
+          "end": 108.7,
+          "probability": 0.8745340704917908
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 8746,
+      "start": 108.7,
+      "end": 112.46,
+      "text": " You do know",
+      "tokens": [
+        51414,
+        509,
+        360,
+        458,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2375244072505406,
+      "compression_ratio": 1.2567567567567568,
+      "no_speech_prob": 0.10542533546686172,
+      "words": [
+        {
+          "word": " You",
+          "start": 108.7,
+          "end": 110.5,
+          "probability": 0.7272979617118835
+        },
+        {
+          "word": " do",
+          "start": 110.5,
+          "end": 111.42,
+          "probability": 0.99029141664505
+        },
+        {
+          "word": " know",
+          "start": 111.42,
+          "end": 112.46,
+          "probability": 0.9928527474403381
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 11746,
+      "start": 121.44,
+      "end": 132.45999999999998,
+      "text": " Staring my being, losing my fleeting waking illusion Fucking solution",
+      "tokens": [
+        50364,
+        745,
+        1921,
+        452,
+        885,
+        11,
+        7027,
+        452,
+        7025,
+        9880,
+        20447,
+        18854,
+        33342,
+        3827,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2047275094424977,
+      "compression_ratio": 1.1311475409836065,
+      "no_speech_prob": 0.26099663972854614,
+      "words": [
+        {
+          "word": " Staring",
+          "start": 121.44,
+          "end": 122.84,
+          "probability": 0.3672894239425659
+        },
+        {
+          "word": " my",
+          "start": 122.84,
+          "end": 123.34,
+          "probability": 0.6452658176422119
+        },
+        {
+          "word": " being,",
+          "start": 123.34,
+          "end": 124.48,
+          "probability": 0.8938961029052734
+        },
+        {
+          "word": " losing",
+          "start": 124.54,
+          "end": 125.32,
+          "probability": 0.9106044769287109
+        },
+        {
+          "word": " my",
+          "start": 125.32,
+          "end": 125.96,
+          "probability": 0.00969986617565155
+        },
+        {
+          "word": " fleeting",
+          "start": 125.96,
+          "end": 126.9,
+          "probability": 0.9408138692378998
+        },
+        {
+          "word": " waking",
+          "start": 126.9,
+          "end": 127.86,
+          "probability": 0.7058169841766357
+        },
+        {
+          "word": " illusion",
+          "start": 127.86,
+          "end": 129.48,
+          "probability": 0.7591935396194458
+        },
+        {
+          "word": " Fucking",
+          "start": 129.48,
+          "end": 130.42,
+          "probability": 0.06204269826412201
+        },
+        {
+          "word": " solution",
+          "start": 130.42,
+          "end": 132.45999999999998,
+          "probability": 0.8712778091430664
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 13246,
+      "start": 141.6,
+      "end": 151.12,
+      "text": " Drinking memory, running rewind It's my turn to hide",
+      "tokens": [
+        50364,
+        2491,
+        12408,
+        4675,
+        11,
+        2614,
+        41458,
+        467,
+        311,
+        452,
+        1261,
+        281,
+        6479,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20662972331047058,
+      "compression_ratio": 0.9122807017543859,
+      "no_speech_prob": 0.2350320667028427,
+      "words": [
+        {
+          "word": " Drinking",
+          "start": 141.6,
+          "end": 143.0,
+          "probability": 0.006180518306791782
+        },
+        {
+          "word": " memory,",
+          "start": 143.0,
+          "end": 144.4,
+          "probability": 0.7882861495018005
+        },
+        {
+          "word": " running",
+          "start": 144.58,
+          "end": 145.1,
+          "probability": 0.9144372940063477
+        },
+        {
+          "word": " rewind",
+          "start": 145.1,
+          "end": 146.12,
+          "probability": 0.0006481962627731264
+        },
+        {
+          "word": " It's",
+          "start": 146.12,
+          "end": 147.12,
+          "probability": 0.7171992063522339
+        },
+        {
+          "word": " my",
+          "start": 147.12,
+          "end": 147.44,
+          "probability": 0.9872487187385559
+        },
+        {
+          "word": " turn",
+          "start": 147.44,
+          "end": 147.86,
+          "probability": 0.16032665967941284
+        },
+        {
+          "word": " to",
+          "start": 147.86,
+          "end": 150.62,
+          "probability": 0.9807522892951965
+        },
+        {
+          "word": " hide",
+          "start": 150.62,
+          "end": 151.12,
+          "probability": 0.832290530204773
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 15112,
+      "start": 161.48,
+      "end": 169.94,
+      "text": " I'm fucking solution, you do know",
+      "tokens": [
+        50364,
+        286,
+        478,
+        5546,
+        3827,
+        11,
+        291,
+        360,
+        458,
+        51314
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.793633287603205,
+      "compression_ratio": 0.8048780487804879,
+      "no_speech_prob": 0.19258493185043335,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 161.48,
+          "end": 162.88,
+          "probability": 0.026608471758663654
+        },
+        {
+          "word": " fucking",
+          "start": 162.88,
+          "end": 162.88,
+          "probability": 0.2345869243144989
+        },
+        {
+          "word": " solution,",
+          "start": 162.88,
+          "end": 164.46,
+          "probability": 0.6929786205291748
+        },
+        {
+          "word": " you",
+          "start": 167.46,
+          "end": 168.12,
+          "probability": 0.9338889718055725
+        },
+        {
+          "word": " do",
+          "start": 168.12,
+          "end": 168.78,
+          "probability": 0.10406118631362915
+        },
+        {
+          "word": " know",
+          "start": 168.78,
+          "end": 169.94,
+          "probability": 0.7333923578262329
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 18112,
+      "start": 191.46,
+      "end": 192.86,
+      "text": " Staring my being, losing my fleeting waking illusion Fucking solution",
+      "tokens": [
+        50364,
+        745,
+        1921,
+        452,
+        885,
+        11,
+        7027,
+        452,
+        7025,
+        9880,
+        20447,
+        18854,
+        33342,
+        3827,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32543259859085083,
+      "compression_ratio": 1.1311475409836065,
+      "no_speech_prob": 0.9501692056655884,
+      "words": [
+        {
+          "word": " Staring",
+          "start": 191.46,
+          "end": 192.86,
+          "probability": 0.003023872533958638
+        },
+        {
+          "word": " my",
+          "start": 192.86,
+          "end": 192.86,
+          "probability": 0.0003846900654025376
+        },
+        {
+          "word": " being,",
+          "start": 192.86,
+          "end": 192.86,
+          "probability": 0.00014277230366133153
+        },
+        {
+          "word": " losing",
+          "start": 192.86,
+          "end": 192.86,
+          "probability": 0.0005258929450064898
+        },
+        {
+          "word": " my",
+          "start": 192.86,
+          "end": 192.86,
+          "probability": 0.31446388363838196
+        },
+        {
+          "word": " fleeting",
+          "start": 192.86,
+          "end": 192.86,
+          "probability": 0.4088878851878235
+        },
+        {
+          "word": " waking",
+          "start": 192.86,
+          "end": 192.86,
+          "probability": 5.2119878091616556e-05
+        },
+        {
+          "word": " illusion",
+          "start": 192.86,
+          "end": 192.86,
+          "probability": 2.4046728867688216e-05
+        },
+        {
+          "word": " Fucking",
+          "start": 192.86,
+          "end": 192.86,
+          "probability": 1.2445441825548187e-05
+        },
+        {
+          "word": " solution",
+          "start": 192.86,
+          "end": 192.86,
+          "probability": 3.759809260373004e-05
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,466 @@
+{
+  "text": " She is barely there, thinks she's everywhere She was sighted on inside, blinded by the light She held her head above water, shedding the layer of light The prosthetic that triggered, flashing her ego, exposed Her disconnection, freed her direction, really poor Bonding objects, speaking of colors and forms",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 7.82,
+      "end": 16.1,
+      "text": " She is barely there, thinks she's everywhere",
+      "tokens": [
+        50364,
+        1240,
+        307,
+        10268,
+        456,
+        11,
+        7309,
+        750,
+        311,
+        5315,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46328045771672177,
+      "compression_ratio": 0.9166666666666666,
+      "no_speech_prob": 0.48561322689056396,
+      "words": [
+        {
+          "word": " She",
+          "start": 7.82,
+          "end": 9.22,
+          "probability": 0.2345365583896637
+        },
+        {
+          "word": " is",
+          "start": 9.22,
+          "end": 9.98,
+          "probability": 0.5381375551223755
+        },
+        {
+          "word": " barely",
+          "start": 9.98,
+          "end": 10.68,
+          "probability": 0.7699221968650818
+        },
+        {
+          "word": " there,",
+          "start": 10.68,
+          "end": 12.0,
+          "probability": 0.9975255131721497
+        },
+        {
+          "word": " thinks",
+          "start": 12.0,
+          "end": 13.66,
+          "probability": 0.6204812526702881
+        },
+        {
+          "word": " she's",
+          "start": 13.66,
+          "end": 14.6,
+          "probability": 0.9441450834274292
+        },
+        {
+          "word": " everywhere",
+          "start": 14.6,
+          "end": 16.1,
+          "probability": 0.9963288903236389
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 1610,
+      "start": 17.1,
+      "end": 30.62,
+      "text": " She was sighted on inside, blinded by the light",
+      "tokens": [
+        50414,
+        1240,
+        390,
+        7860,
+        292,
+        322,
+        1854,
+        11,
+        6865,
+        292,
+        538,
+        264,
+        1442,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4399886429309845,
+      "compression_ratio": 0.9215686274509803,
+      "no_speech_prob": 0.048646267503499985,
+      "words": [
+        {
+          "word": " She",
+          "start": 17.1,
+          "end": 18.16,
+          "probability": 0.0744585171341896
+        },
+        {
+          "word": " was",
+          "start": 18.16,
+          "end": 20.3,
+          "probability": 0.8527185916900635
+        },
+        {
+          "word": " sighted",
+          "start": 20.3,
+          "end": 24.0,
+          "probability": 0.6615667790174484
+        },
+        {
+          "word": " on",
+          "start": 24.0,
+          "end": 24.46,
+          "probability": 0.2818009853363037
+        },
+        {
+          "word": " inside,",
+          "start": 24.46,
+          "end": 25.92,
+          "probability": 0.4531457722187042
+        },
+        {
+          "word": " blinded",
+          "start": 27.52,
+          "end": 28.46,
+          "probability": 0.8585856854915619
+        },
+        {
+          "word": " by",
+          "start": 28.46,
+          "end": 28.72,
+          "probability": 0.958350419998169
+        },
+        {
+          "word": " the",
+          "start": 28.72,
+          "end": 29.28,
+          "probability": 0.6159819960594177
+        },
+        {
+          "word": " light",
+          "start": 29.28,
+          "end": 30.62,
+          "probability": 0.43515050411224365
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3062,
+      "start": 30.62,
+      "end": 47.58,
+      "text": " She held her head above water, shedding the layer of light",
+      "tokens": [
+        50364,
+        1240,
+        5167,
+        720,
+        1378,
+        3673,
+        1281,
+        11,
+        49934,
+        264,
+        4583,
+        295,
+        1442,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4889577329158783,
+      "compression_ratio": 0.9508196721311475,
+      "no_speech_prob": 0.038714952766895294,
+      "words": [
+        {
+          "word": " She",
+          "start": 30.62,
+          "end": 32.38,
+          "probability": 0.08464375883340836
+        },
+        {
+          "word": " held",
+          "start": 32.38,
+          "end": 34.08,
+          "probability": 0.1786540150642395
+        },
+        {
+          "word": " her",
+          "start": 34.08,
+          "end": 37.12,
+          "probability": 0.23931360244750977
+        },
+        {
+          "word": " head",
+          "start": 37.12,
+          "end": 37.32,
+          "probability": 0.25281715393066406
+        },
+        {
+          "word": " above",
+          "start": 37.32,
+          "end": 37.76,
+          "probability": 0.5724313855171204
+        },
+        {
+          "word": " water,",
+          "start": 37.76,
+          "end": 40.08,
+          "probability": 0.9878872632980347
+        },
+        {
+          "word": " shedding",
+          "start": 40.08,
+          "end": 41.58,
+          "probability": 0.8975813984870911
+        },
+        {
+          "word": " the",
+          "start": 41.58,
+          "end": 42.32,
+          "probability": 0.7698053121566772
+        },
+        {
+          "word": " layer",
+          "start": 42.32,
+          "end": 43.4,
+          "probability": 0.9067309498786926
+        },
+        {
+          "word": " of",
+          "start": 43.4,
+          "end": 45.92,
+          "probability": 0.9857909679412842
+        },
+        {
+          "word": " light",
+          "start": 45.92,
+          "end": 47.58,
+          "probability": 0.04688604176044464
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4758,
+      "start": 49.36,
+      "end": 62.5,
+      "text": " The prosthetic that triggered, flashing her ego, exposed",
+      "tokens": [
+        50414,
+        440,
+        39976,
+        3532,
+        300,
+        21710,
+        11,
+        31049,
+        720,
+        14495,
+        11,
+        9495,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5229395230611166,
+      "compression_ratio": 0.9180327868852459,
+      "no_speech_prob": 0.031209517270326614,
+      "words": [
+        {
+          "word": " The",
+          "start": 49.36,
+          "end": 50.76,
+          "probability": 0.2724955976009369
+        },
+        {
+          "word": " prosthetic",
+          "start": 50.76,
+          "end": 52.16,
+          "probability": 0.9011266827583313
+        },
+        {
+          "word": " that",
+          "start": 52.16,
+          "end": 52.6,
+          "probability": 0.34782934188842773
+        },
+        {
+          "word": " triggered,",
+          "start": 52.6,
+          "end": 54.68,
+          "probability": 0.1572074443101883
+        },
+        {
+          "word": " flashing",
+          "start": 55.9,
+          "end": 56.06,
+          "probability": 0.05067121982574463
+        },
+        {
+          "word": " her",
+          "start": 56.06,
+          "end": 56.74,
+          "probability": 0.04094802960753441
+        },
+        {
+          "word": " ego,",
+          "start": 56.74,
+          "end": 58.08,
+          "probability": 0.7136915326118469
+        },
+        {
+          "word": " exposed",
+          "start": 59.22,
+          "end": 62.5,
+          "probability": 0.34265705943107605
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 6250,
+      "start": 68.21999999999998,
+      "end": 77.96,
+      "text": " Her disconnection, freed her direction, really poor",
+      "tokens": [
+        50364,
+        3204,
+        14299,
+        313,
+        11,
+        21796,
+        720,
+        3513,
+        11,
+        534,
+        4716,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7331559998648507,
+      "compression_ratio": 1.0408163265306123,
+      "no_speech_prob": 0.021421240642666817,
+      "words": [
+        {
+          "word": " Her",
+          "start": 68.21999999999998,
+          "end": 69.61999999999999,
+          "probability": 0.042750854045152664
+        },
+        {
+          "word": " disconnection,",
+          "start": 69.61999999999999,
+          "end": 71.02,
+          "probability": 0.4880163430207176
+        },
+        {
+          "word": " freed",
+          "start": 71.9,
+          "end": 72.1,
+          "probability": 0.05366455018520355
+        },
+        {
+          "word": " her",
+          "start": 72.1,
+          "end": 72.48,
+          "probability": 0.12501859664916992
+        },
+        {
+          "word": " direction,",
+          "start": 72.48,
+          "end": 74.3,
+          "probability": 0.9695630073547363
+        },
+        {
+          "word": " really",
+          "start": 75.46,
+          "end": 76.36,
+          "probability": 0.09999027103185654
+        },
+        {
+          "word": " poor",
+          "start": 76.36,
+          "end": 77.96,
+          "probability": 0.14452394843101501
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 7796,
+      "start": 81.57999999999998,
+      "end": 91.66,
+      "text": " Bonding objects, speaking of colors and forms",
+      "tokens": [
+        50414,
+        363,
+        684,
+        278,
+        6565,
+        11,
+        4124,
+        295,
+        4577,
+        293,
+        6422,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4517379540663499,
+      "compression_ratio": 0.9,
+      "no_speech_prob": 0.03904205188155174,
+      "words": [
+        {
+          "word": " Bonding",
+          "start": 81.57999999999998,
+          "end": 82.97999999999999,
+          "probability": 0.440914049744606
+        },
+        {
+          "word": " objects,",
+          "start": 82.97999999999999,
+          "end": 84.38,
+          "probability": 0.48861557245254517
+        },
+        {
+          "word": " speaking",
+          "start": 85.46,
+          "end": 86.46,
+          "probability": 0.8281348943710327
+        },
+        {
+          "word": " of",
+          "start": 86.46,
+          "end": 87.08,
+          "probability": 0.9326989650726318
+        },
+        {
+          "word": " colors",
+          "start": 87.08,
+          "end": 88.3,
+          "probability": 0.5958194136619568
+        },
+        {
+          "word": " and",
+          "start": 88.3,
+          "end": 90.32,
+          "probability": 0.8635985851287842
+        },
+        {
+          "word": " forms",
+          "start": 90.32,
+          "end": 91.66,
+          "probability": 0.9287428855895996
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

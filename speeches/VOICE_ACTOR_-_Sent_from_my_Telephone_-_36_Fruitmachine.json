@@ -1,0 +1,1237 @@
+{
+  "text": " I feel like I'm really, really... ...furtively here. I could go again. What's funny? Maybe it's a long story. Maybe it's good news. Madness doesn't have to be bad. It can be cathartic. She's present. You can hear it. If being present is so great, then maybe madness can be great too. You can't always be both connected to yourself and express yourself calmly to your environment. If you allow yourself to lose control, then you are present. Madness doesn't have to be scary. You can look at it like an escape or a disconnection to reality. At least it's a reality now. That's how she feels. I wouldn't deny it ever. Madness doesn't have to be scary.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 22.260000000000005,
+      "end": 26.72,
+      "text": " I feel like I'm really, really...",
+      "tokens": [
+        50364,
+        286,
+        841,
+        411,
+        286,
+        478,
+        534,
+        11,
+        534,
+        485,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9869035720825196,
+      "compression_ratio": 0.9811320754716981,
+      "no_speech_prob": 0.41846582293510437,
+      "words": [
+        {
+          "word": " I",
+          "start": 22.260000000000005,
+          "end": 23.1,
+          "probability": 0.3992108404636383
+        },
+        {
+          "word": " feel",
+          "start": 23.1,
+          "end": 23.52,
+          "probability": 0.7734053134918213
+        },
+        {
+          "word": " like",
+          "start": 23.52,
+          "end": 23.86,
+          "probability": 0.7124090194702148
+        },
+        {
+          "word": " I'm",
+          "start": 23.86,
+          "end": 24.22,
+          "probability": 0.9415419697761536
+        },
+        {
+          "word": " really,",
+          "start": 24.22,
+          "end": 24.42,
+          "probability": 0.49553635716438293
+        },
+        {
+          "word": " really...",
+          "start": 25.04,
+          "end": 26.72,
+          "probability": 0.6671548038721085
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 26.72,
+      "end": 27.76,
+      "text": " ...furtively here.",
+      "tokens": [
+        50464,
+        1097,
+        69,
+        6224,
+        3413,
+        510,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9869035720825196,
+      "compression_ratio": 0.9811320754716981,
+      "no_speech_prob": 0.41846582293510437,
+      "words": [
+        {
+          "word": " ...furtively",
+          "start": 26.72,
+          "end": 27.38,
+          "probability": 0.2391791194677353
+        },
+        {
+          "word": " here.",
+          "start": 27.38,
+          "end": 27.76,
+          "probability": 0.3263839781284332
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 32.58,
+      "end": 35.0,
+      "text": " I could go again.",
+      "tokens": [
+        50414,
+        286,
+        727,
+        352,
+        797,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3581875096196714,
+      "compression_ratio": 0.9032258064516129,
+      "no_speech_prob": 0.14030715823173523,
+      "words": [
+        {
+          "word": " I",
+          "start": 32.58,
+          "end": 33.98,
+          "probability": 0.4263243079185486
+        },
+        {
+          "word": " could",
+          "start": 33.98,
+          "end": 34.36,
+          "probability": 0.9634921550750732
+        },
+        {
+          "word": " go",
+          "start": 34.36,
+          "end": 34.68,
+          "probability": 0.9756930470466614
+        },
+        {
+          "word": " again.",
+          "start": 34.68,
+          "end": 35.38,
+          "probability": 0.9957705140113831
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 47.0,
+      "end": 48.04,
+      "text": " What's funny?",
+      "tokens": [
+        51214,
+        708,
+        311,
+        4074,
+        30,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3581875096196714,
+      "compression_ratio": 0.9032258064516129,
+      "no_speech_prob": 0.14030715823173523,
+      "words": [
+        {
+          "word": " What's",
+          "start": 47.0,
+          "end": 47.78,
+          "probability": 0.8208242356777191
+        },
+        {
+          "word": " funny?",
+          "start": 47.78,
+          "end": 48.04,
+          "probability": 0.9837254881858826
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 55.9,
+      "end": 58.86,
+      "text": " Maybe it's a long story.",
+      "tokens": [
+        51664,
+        2704,
+        309,
+        311,
+        257,
+        938,
+        1657,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3581875096196714,
+      "compression_ratio": 0.9032258064516129,
+      "no_speech_prob": 0.14030715823173523,
+      "words": [
+        {
+          "word": " Maybe",
+          "start": 55.9,
+          "end": 57.3,
+          "probability": 0.9592801928520203
+        },
+        {
+          "word": " it's",
+          "start": 57.3,
+          "end": 57.86,
+          "probability": 0.985212653875351
+        },
+        {
+          "word": " a",
+          "start": 57.86,
+          "end": 57.86,
+          "probability": 0.8170347809791565
+        },
+        {
+          "word": " long",
+          "start": 57.86,
+          "end": 58.08,
+          "probability": 0.8052690029144287
+        },
+        {
+          "word": " story.",
+          "start": 58.08,
+          "end": 58.86,
+          "probability": 0.9978047013282776
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 6000,
+      "start": 61.3,
+      "end": 64.0,
+      "text": " Maybe it's good news.",
+      "tokens": [
+        50414,
+        2704,
+        309,
+        311,
+        665,
+        2583,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1526118101075638,
+      "compression_ratio": 1.1157894736842104,
+      "no_speech_prob": 0.009549728594720364,
+      "words": [
+        {
+          "word": " Maybe",
+          "start": 61.3,
+          "end": 62.58,
+          "probability": 0.44925135374069214
+        },
+        {
+          "word": " it's",
+          "start": 62.58,
+          "end": 63.12,
+          "probability": 0.940893143415451
+        },
+        {
+          "word": " good",
+          "start": 63.12,
+          "end": 63.48,
+          "probability": 0.9454404711723328
+        },
+        {
+          "word": " news.",
+          "start": 63.48,
+          "end": 64.11999999999999,
+          "probability": 0.9865923523902893
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 6000,
+      "start": 68.4,
+      "end": 71.0,
+      "text": " Madness doesn't have to be bad.",
+      "tokens": [
+        50714,
+        5326,
+        1287,
+        1177,
+        380,
+        362,
+        281,
+        312,
+        1578,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1526118101075638,
+      "compression_ratio": 1.1157894736842104,
+      "no_speech_prob": 0.009549728594720364,
+      "words": [
+        {
+          "word": " Madness",
+          "start": 68.4,
+          "end": 69.04,
+          "probability": 0.6478292495012283
+        },
+        {
+          "word": " doesn't",
+          "start": 69.04,
+          "end": 69.58,
+          "probability": 0.9876194000244141
+        },
+        {
+          "word": " have",
+          "start": 69.58,
+          "end": 70.08,
+          "probability": 0.9978304505348206
+        },
+        {
+          "word": " to",
+          "start": 70.08,
+          "end": 70.46,
+          "probability": 0.9983285069465637
+        },
+        {
+          "word": " be",
+          "start": 70.46,
+          "end": 70.86,
+          "probability": 0.9973165392875671
+        },
+        {
+          "word": " bad.",
+          "start": 70.86,
+          "end": 71.5,
+          "probability": 0.9837326407432556
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6000,
+      "start": 73.14,
+      "end": 76.14,
+      "text": " It can be cathartic.",
+      "tokens": [
+        51014,
+        467,
+        393,
+        312,
+        17763,
+        446,
+        299,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1526118101075638,
+      "compression_ratio": 1.1157894736842104,
+      "no_speech_prob": 0.009549728594720364,
+      "words": [
+        {
+          "word": " It",
+          "start": 73.14,
+          "end": 73.6,
+          "probability": 0.9759604930877686
+        },
+        {
+          "word": " can",
+          "start": 73.6,
+          "end": 74.1,
+          "probability": 0.9944118857383728
+        },
+        {
+          "word": " be",
+          "start": 74.1,
+          "end": 74.56,
+          "probability": 0.9890359044075012
+        },
+        {
+          "word": " cathartic.",
+          "start": 74.56,
+          "end": 76.14,
+          "probability": 0.9727443257967631
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6000,
+      "start": 77.14,
+      "end": 78.94,
+      "text": " She's present.",
+      "tokens": [
+        51214,
+        1240,
+        311,
+        1974,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1526118101075638,
+      "compression_ratio": 1.1157894736842104,
+      "no_speech_prob": 0.009549728594720364,
+      "words": [
+        {
+          "word": " She's",
+          "start": 77.14,
+          "end": 78.04,
+          "probability": 0.8250829875469208
+        },
+        {
+          "word": " present.",
+          "start": 78.04,
+          "end": 78.94,
+          "probability": 0.9713418483734131
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 6000,
+      "start": 80.5,
+      "end": 82.98,
+      "text": " You can hear it.",
+      "tokens": [
+        51364,
+        509,
+        393,
+        1568,
+        309,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1526118101075638,
+      "compression_ratio": 1.1157894736842104,
+      "no_speech_prob": 0.009549728594720364,
+      "words": [
+        {
+          "word": " You",
+          "start": 80.5,
+          "end": 80.98,
+          "probability": 0.9897679686546326
+        },
+        {
+          "word": " can",
+          "start": 80.98,
+          "end": 81.56,
+          "probability": 0.9981545805931091
+        },
+        {
+          "word": " hear",
+          "start": 81.56,
+          "end": 82.04,
+          "probability": 0.9735283851623535
+        },
+        {
+          "word": " it.",
+          "start": 82.04,
+          "end": 82.98,
+          "probability": 0.9977978467941284
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 8298,
+      "start": 88.44,
+      "end": 102.32,
+      "text": " If being present is so great, then maybe madness can be great too.",
+      "tokens": [
+        50364,
+        759,
+        885,
+        1974,
+        307,
+        370,
+        869,
+        11,
+        550,
+        1310,
+        28736,
+        393,
+        312,
+        869,
+        886,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4059788051404451,
+      "compression_ratio": 0.9850746268656716,
+      "no_speech_prob": 0.026664918288588524,
+      "words": [
+        {
+          "word": " If",
+          "start": 88.44,
+          "end": 89.84,
+          "probability": 0.21404428780078888
+        },
+        {
+          "word": " being",
+          "start": 89.84,
+          "end": 90.78,
+          "probability": 0.8660770058631897
+        },
+        {
+          "word": " present",
+          "start": 90.78,
+          "end": 91.96,
+          "probability": 0.9646729826927185
+        },
+        {
+          "word": " is",
+          "start": 91.96,
+          "end": 93.48,
+          "probability": 0.9190666675567627
+        },
+        {
+          "word": " so",
+          "start": 93.48,
+          "end": 94.22,
+          "probability": 0.9954745173454285
+        },
+        {
+          "word": " great,",
+          "start": 94.22,
+          "end": 95.2,
+          "probability": 0.9952136278152466
+        },
+        {
+          "word": " then",
+          "start": 96.18,
+          "end": 97.04,
+          "probability": 0.8543084263801575
+        },
+        {
+          "word": " maybe",
+          "start": 97.04,
+          "end": 98.18,
+          "probability": 0.9591082334518433
+        },
+        {
+          "word": " madness",
+          "start": 98.18,
+          "end": 99.14,
+          "probability": 0.07659634947776794
+        },
+        {
+          "word": " can",
+          "start": 99.14,
+          "end": 100.08,
+          "probability": 0.9934086799621582
+        },
+        {
+          "word": " be",
+          "start": 100.08,
+          "end": 100.64,
+          "probability": 0.9959213733673096
+        },
+        {
+          "word": " great",
+          "start": 100.64,
+          "end": 101.8,
+          "probability": 0.5134604573249817
+        },
+        {
+          "word": " too.",
+          "start": 101.8,
+          "end": 102.32,
+          "probability": 0.7207748293876648
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 10232,
+      "start": 106.33999999999999,
+      "end": 121.74,
+      "text": " You can't always be both connected to yourself and express yourself calmly to your environment.",
+      "tokens": [
+        50364,
+        509,
+        393,
+        380,
+        1009,
+        312,
+        1293,
+        4582,
+        281,
+        1803,
+        293,
+        5109,
+        1803,
+        39740,
+        281,
+        428,
+        2823,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27369835263206843,
+      "compression_ratio": 1.1875,
+      "no_speech_prob": 0.06467241048812866,
+      "words": [
+        {
+          "word": " You",
+          "start": 106.33999999999999,
+          "end": 107.74,
+          "probability": 0.3940255641937256
+        },
+        {
+          "word": " can't",
+          "start": 107.74,
+          "end": 108.66,
+          "probability": 0.8545620143413544
+        },
+        {
+          "word": " always",
+          "start": 108.66,
+          "end": 109.52,
+          "probability": 0.9866206645965576
+        },
+        {
+          "word": " be",
+          "start": 109.52,
+          "end": 110.7,
+          "probability": 0.9816323518753052
+        },
+        {
+          "word": " both",
+          "start": 110.7,
+          "end": 111.74,
+          "probability": 0.7553641200065613
+        },
+        {
+          "word": " connected",
+          "start": 111.74,
+          "end": 112.52,
+          "probability": 0.9805352091789246
+        },
+        {
+          "word": " to",
+          "start": 112.52,
+          "end": 113.04,
+          "probability": 0.9945770502090454
+        },
+        {
+          "word": " yourself",
+          "start": 113.04,
+          "end": 114.02,
+          "probability": 0.973270058631897
+        },
+        {
+          "word": " and",
+          "start": 114.02,
+          "end": 115.76,
+          "probability": 0.8251335620880127
+        },
+        {
+          "word": " express",
+          "start": 115.76,
+          "end": 116.82,
+          "probability": 0.45919138193130493
+        },
+        {
+          "word": " yourself",
+          "start": 116.82,
+          "end": 117.98,
+          "probability": 0.49220070242881775
+        },
+        {
+          "word": " calmly",
+          "start": 117.98,
+          "end": 118.82,
+          "probability": 0.9627717137336731
+        },
+        {
+          "word": " to",
+          "start": 118.82,
+          "end": 119.76,
+          "probability": 0.986973762512207
+        },
+        {
+          "word": " your",
+          "start": 119.76,
+          "end": 120.4,
+          "probability": 0.9945647716522217
+        },
+        {
+          "word": " environment.",
+          "start": 120.4,
+          "end": 121.74,
+          "probability": 0.9211044907569885
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 12174,
+      "start": 124.17999999999999,
+      "end": 135.0,
+      "text": " If you allow yourself to lose control, then you are present.",
+      "tokens": [
+        50414,
+        759,
+        291,
+        2089,
+        1803,
+        281,
+        3624,
+        1969,
+        11,
+        550,
+        291,
+        366,
+        1974,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16383772236960276,
+      "compression_ratio": 1.1058823529411765,
+      "no_speech_prob": 0.043671075254678726,
+      "words": [
+        {
+          "word": " If",
+          "start": 124.17999999999999,
+          "end": 125.58,
+          "probability": 0.2727868854999542
+        },
+        {
+          "word": " you",
+          "start": 125.58,
+          "end": 126.38,
+          "probability": 0.9840111136436462
+        },
+        {
+          "word": " allow",
+          "start": 126.38,
+          "end": 126.9,
+          "probability": 0.3195875883102417
+        },
+        {
+          "word": " yourself",
+          "start": 126.9,
+          "end": 127.98,
+          "probability": 0.9400297999382019
+        },
+        {
+          "word": " to",
+          "start": 127.98,
+          "end": 128.74,
+          "probability": 0.9567566514015198
+        },
+        {
+          "word": " lose",
+          "start": 128.74,
+          "end": 129.22,
+          "probability": 0.8896916508674622
+        },
+        {
+          "word": " control,",
+          "start": 129.22,
+          "end": 130.68,
+          "probability": 0.9934013485908508
+        },
+        {
+          "word": " then",
+          "start": 132.14,
+          "end": 132.76,
+          "probability": 0.8398858904838562
+        },
+        {
+          "word": " you",
+          "start": 132.76,
+          "end": 133.5,
+          "probability": 0.734871506690979
+        },
+        {
+          "word": " are",
+          "start": 133.5,
+          "end": 133.94,
+          "probability": 0.6262897253036499
+        },
+        {
+          "word": " present.",
+          "start": 133.94,
+          "end": 135.0,
+          "probability": 0.10595200210809708
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 12174,
+      "start": 136.98,
+      "end": 141.56,
+      "text": " Madness doesn't have to be scary.",
+      "tokens": [
+        51064,
+        5326,
+        1287,
+        1177,
+        380,
+        362,
+        281,
+        312,
+        6958,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16383772236960276,
+      "compression_ratio": 1.1058823529411765,
+      "no_speech_prob": 0.043671075254678726,
+      "words": [
+        {
+          "word": " Madness",
+          "start": 136.98,
+          "end": 138.02,
+          "probability": 0.5403165109455585
+        },
+        {
+          "word": " doesn't",
+          "start": 138.02,
+          "end": 139.24,
+          "probability": 0.9865561127662659
+        },
+        {
+          "word": " have",
+          "start": 139.24,
+          "end": 139.7,
+          "probability": 0.9851571321487427
+        },
+        {
+          "word": " to",
+          "start": 139.7,
+          "end": 140.16,
+          "probability": 0.9990795850753784
+        },
+        {
+          "word": " be",
+          "start": 140.16,
+          "end": 140.78,
+          "probability": 0.9992185831069946
+        },
+        {
+          "word": " scary.",
+          "start": 140.78,
+          "end": 141.56,
+          "probability": 0.9957612156867981
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 14156,
+      "start": 142.56,
+      "end": 152.64,
+      "text": " You can look at it like an escape or a disconnection to reality.",
+      "tokens": [
+        50414,
+        509,
+        393,
+        574,
+        412,
+        309,
+        411,
+        364,
+        7615,
+        420,
+        257,
+        14299,
+        313,
+        281,
+        4103,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20341777801513672,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.11152364313602448,
+      "words": [
+        {
+          "word": " You",
+          "start": 142.56,
+          "end": 144.0,
+          "probability": 0.5450553297996521
+        },
+        {
+          "word": " can",
+          "start": 144.0,
+          "end": 144.86,
+          "probability": 0.9093413949012756
+        },
+        {
+          "word": " look",
+          "start": 144.86,
+          "end": 145.14,
+          "probability": 0.608871340751648
+        },
+        {
+          "word": " at",
+          "start": 145.14,
+          "end": 145.52,
+          "probability": 0.9947819113731384
+        },
+        {
+          "word": " it",
+          "start": 145.52,
+          "end": 146.12,
+          "probability": 0.9909419417381287
+        },
+        {
+          "word": " like",
+          "start": 146.12,
+          "end": 147.0,
+          "probability": 0.9439144134521484
+        },
+        {
+          "word": " an",
+          "start": 147.0,
+          "end": 147.56,
+          "probability": 0.9296322464942932
+        },
+        {
+          "word": " escape",
+          "start": 147.56,
+          "end": 148.48,
+          "probability": 0.9963800311088562
+        },
+        {
+          "word": " or",
+          "start": 148.48,
+          "end": 149.54,
+          "probability": 0.6781164407730103
+        },
+        {
+          "word": " a",
+          "start": 149.54,
+          "end": 149.7,
+          "probability": 0.9555330276489258
+        },
+        {
+          "word": " disconnection",
+          "start": 149.7,
+          "end": 151.12,
+          "probability": 0.9701063334941864
+        },
+        {
+          "word": " to",
+          "start": 151.12,
+          "end": 151.5,
+          "probability": 0.9727670550346375
+        },
+        {
+          "word": " reality.",
+          "start": 151.5,
+          "end": 152.64,
+          "probability": 0.9183186888694763
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 14156,
+      "start": 154.32,
+      "end": 158.96,
+      "text": " At least it's a reality now.",
+      "tokens": [
+        50964,
+        1711,
+        1935,
+        309,
+        311,
+        257,
+        4103,
+        586,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20341777801513672,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.11152364313602448,
+      "words": [
+        {
+          "word": " At",
+          "start": 154.32,
+          "end": 154.78,
+          "probability": 0.6813066005706787
+        },
+        {
+          "word": " least",
+          "start": 154.78,
+          "end": 155.76,
+          "probability": 0.9715724587440491
+        },
+        {
+          "word": " it's",
+          "start": 155.76,
+          "end": 156.96,
+          "probability": 0.8329604268074036
+        },
+        {
+          "word": " a",
+          "start": 156.96,
+          "end": 157.12,
+          "probability": 0.5352004766464233
+        },
+        {
+          "word": " reality",
+          "start": 157.12,
+          "end": 157.86,
+          "probability": 0.9977060556411743
+        },
+        {
+          "word": " now.",
+          "start": 157.86,
+          "end": 158.96,
+          "probability": 0.9938994646072388
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 14156,
+      "start": 160.68,
+      "end": 162.78,
+      "text": " That's how she feels.",
+      "tokens": [
+        51264,
+        663,
+        311,
+        577,
+        750,
+        3417,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20341777801513672,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.11152364313602448,
+      "words": [
+        {
+          "word": " That's",
+          "start": 160.68,
+          "end": 161.26,
+          "probability": 0.6794027090072632
+        },
+        {
+          "word": " how",
+          "start": 161.26,
+          "end": 161.46,
+          "probability": 0.9975462555885315
+        },
+        {
+          "word": " she",
+          "start": 161.46,
+          "end": 161.98,
+          "probability": 0.9827238917350769
+        },
+        {
+          "word": " feels.",
+          "start": 161.98,
+          "end": 162.78,
+          "probability": 0.9877457022666931
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 14156,
+      "start": 164.08,
+      "end": 168.14,
+      "text": " I wouldn't deny it ever.",
+      "tokens": [
+        51464,
+        286,
+        2759,
+        380,
+        15744,
+        309,
+        1562,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20341777801513672,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.11152364313602448,
+      "words": [
+        {
+          "word": " I",
+          "start": 164.08,
+          "end": 164.36,
+          "probability": 0.9226836562156677
+        },
+        {
+          "word": " wouldn't",
+          "start": 164.36,
+          "end": 166.66,
+          "probability": 0.9357956349849701
+        },
+        {
+          "word": " deny",
+          "start": 166.66,
+          "end": 167.3,
+          "probability": 0.17554403841495514
+        },
+        {
+          "word": " it",
+          "start": 167.3,
+          "end": 167.66,
+          "probability": 0.580619752407074
+        },
+        {
+          "word": " ever.",
+          "start": 167.66,
+          "end": 168.14,
+          "probability": 0.5311422348022461
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 17156,
+      "start": 189.16,
+      "end": 190.56,
+      "text": " Madness doesn't have to be scary.",
+      "tokens": [
+        50414,
+        5326,
+        1287,
+        1177,
+        380,
+        362,
+        281,
+        312,
+        6958,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47443189376439804,
+      "compression_ratio": 1.19,
+      "no_speech_prob": 0.7143723368644714,
+      "words": [
+        {
+          "word": " Madness",
+          "start": 189.16,
+          "end": 190.56,
+          "probability": 0.16274120442517415
+        },
+        {
+          "word": " doesn't",
+          "start": 190.56,
+          "end": 190.56,
+          "probability": 0.4984743420500308
+        },
+        {
+          "word": " have",
+          "start": 190.56,
+          "end": 190.56,
+          "probability": 0.04465307295322418
+        },
+        {
+          "word": " to",
+          "start": 190.56,
+          "end": 190.56,
+          "probability": 0.19708922505378723
+        },
+        {
+          "word": " be",
+          "start": 190.56,
+          "end": 190.56,
+          "probability": 0.4690359830856323
+        },
+        {
+          "word": " scary.",
+          "start": 190.56,
+          "end": 190.56,
+          "probability": 0.0001403761561959982
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 17156,
+      "start": 190.56,
+      "end": 190.56,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.47443189376439804,
+      "compression_ratio": 1.19,
+      "no_speech_prob": 0.7143723368644714,
+      "words": []
+    },
+    {
+      "id": 20,
+      "seek": 17156,
+      "start": 190.56,
+      "end": 190.56,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.47443189376439804,
+      "compression_ratio": 1.19,
+      "no_speech_prob": 0.7143723368644714,
+      "words": []
+    },
+    {
+      "id": 21,
+      "seek": 19056,
+      "start": 190.56,
+      "end": 190.56,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.4292651017506917,
+      "compression_ratio": 0.8048780487804879,
+      "no_speech_prob": 0.9634097218513489,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

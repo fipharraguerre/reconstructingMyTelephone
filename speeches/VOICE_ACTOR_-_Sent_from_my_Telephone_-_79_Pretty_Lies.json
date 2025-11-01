@@ -1,0 +1,1014 @@
+{
+  "text": " How To Eliminate Crime Dr believably.com Film me over H slippery wall Brush it under turn her the other way boiling over flowing over when you realize there are only pretty lives only pretty lives just pretty lives boiling over flowing over when you realize there are only pretty lives only pretty lives just pretty lives dreaming our dreams projections on the wall screen when you realize there are only pretty lives only pretty lives just pretty, pretty lives just pretty, pretty lives",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 9.78,
+      "end": 17.32,
+      "text": " How To Eliminate Crime",
+      "tokens": [
+        50364,
+        1012,
+        1407,
+        2699,
+        4395,
+        473,
+        26140,
+        50519
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9579548835754395,
+      "compression_ratio": 1.0120481927710843,
+      "no_speech_prob": 0.485238254070282,
+      "words": [
+        {
+          "word": " How",
+          "start": 9.78,
+          "end": 11.18,
+          "probability": 0.0018820340046659112
+        },
+        {
+          "word": " To",
+          "start": 11.18,
+          "end": 11.18,
+          "probability": 0.09465207159519196
+        },
+        {
+          "word": " Eliminate",
+          "start": 11.18,
+          "end": 17.28,
+          "probability": 0.6144700009414615
+        },
+        {
+          "word": " Crime",
+          "start": 17.28,
+          "end": 17.32,
+          "probability": 0.0007389661041088402
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 17.32,
+      "end": 18.48,
+      "text": " Dr believably.com",
+      "tokens": [
+        50622,
+        2491,
+        1351,
+        85,
+        1188,
+        13,
+        1112,
+        50807
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9579548835754395,
+      "compression_ratio": 1.0120481927710843,
+      "no_speech_prob": 0.485238254070282,
+      "words": [
+        {
+          "word": " Dr",
+          "start": 17.32,
+          "end": 18.44,
+          "probability": 0.00030836008954793215
+        },
+        {
+          "word": " believably",
+          "start": 18.44,
+          "end": 18.48,
+          "probability": 0.2547061998496171
+        },
+        {
+          "word": ".com",
+          "start": 18.48,
+          "end": 18.48,
+          "probability": 0.14125982858240604
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.48,
+      "end": 21.52,
+      "text": " Film me over",
+      "tokens": [
+        51274,
+        13801,
+        385,
+        670,
+        51440
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9579548835754395,
+      "compression_ratio": 1.0120481927710843,
+      "no_speech_prob": 0.485238254070282,
+      "words": [
+        {
+          "word": " Film",
+          "start": 18.48,
+          "end": 18.48,
+          "probability": 0.00045102208969183266
+        },
+        {
+          "word": " me",
+          "start": 18.48,
+          "end": 19.44,
+          "probability": 0.4434049427509308
+        },
+        {
+          "word": " over",
+          "start": 19.44,
+          "end": 21.52,
+          "probability": 0.9609105587005615
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 22.12,
+      "end": 27.1,
+      "text": " H slippery wall",
+      "tokens": [
+        51555,
+        389,
+        28100,
+        2929,
+        51707
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9579548835754395,
+      "compression_ratio": 1.0120481927710843,
+      "no_speech_prob": 0.485238254070282,
+      "words": [
+        {
+          "word": " H",
+          "start": 22.12,
+          "end": 22.12,
+          "probability": 0.10642952471971512
+        },
+        {
+          "word": " slippery",
+          "start": 22.12,
+          "end": 25.48,
+          "probability": 2.132569716195576e-05
+        },
+        {
+          "word": " wall",
+          "start": 25.48,
+          "end": 27.1,
+          "probability": 0.0006600077031180263
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 27.84,
+      "end": 29.98,
+      "text": " Brush it under",
+      "tokens": [
+        51756,
+        33142,
+        309,
+        833,
+        51860
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9579548835754395,
+      "compression_ratio": 1.0120481927710843,
+      "no_speech_prob": 0.485238254070282,
+      "words": [
+        {
+          "word": " Brush",
+          "start": 27.84,
+          "end": 28.54,
+          "probability": 0.01156921312212944
+        },
+        {
+          "word": " it",
+          "start": 28.54,
+          "end": 29.22,
+          "probability": 0.5475303530693054
+        },
+        {
+          "word": " under",
+          "start": 29.22,
+          "end": 29.98,
+          "probability": 0.7805761694908142
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 36.0,
+      "text": " turn her the other way",
+      "tokens": [
+        50364,
+        1261,
+        720,
+        264,
+        661,
+        636,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39123605798791955,
+      "compression_ratio": 1.2077922077922079,
+      "no_speech_prob": 0.5659772753715515,
+      "words": [
+        {
+          "word": " turn",
+          "start": 30.0,
+          "end": 32.4,
+          "probability": 0.08139799535274506
+        },
+        {
+          "word": " her",
+          "start": 32.4,
+          "end": 33.54,
+          "probability": 0.7448939681053162
+        },
+        {
+          "word": " the",
+          "start": 33.54,
+          "end": 34.14,
+          "probability": 0.9309230446815491
+        },
+        {
+          "word": " other",
+          "start": 34.14,
+          "end": 35.12,
+          "probability": 0.9988333582878113
+        },
+        {
+          "word": " way",
+          "start": 35.12,
+          "end": 36.0,
+          "probability": 0.9947794675827026
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 3000,
+      "start": 40.18,
+      "end": 42.0,
+      "text": " boiling over",
+      "tokens": [
+        50664,
+        16208,
+        670,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39123605798791955,
+      "compression_ratio": 1.2077922077922079,
+      "no_speech_prob": 0.5659772753715515,
+      "words": [
+        {
+          "word": " boiling",
+          "start": 40.18,
+          "end": 41.58,
+          "probability": 0.719374418258667
+        },
+        {
+          "word": " over",
+          "start": 41.58,
+          "end": 42.28,
+          "probability": 0.9920769929885864
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 3000,
+      "start": 44.480000000000004,
+      "end": 47.28,
+      "text": " flowing over",
+      "tokens": [
+        50964,
+        13974,
+        670,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39123605798791955,
+      "compression_ratio": 1.2077922077922079,
+      "no_speech_prob": 0.5659772753715515,
+      "words": [
+        {
+          "word": " flowing",
+          "start": 44.480000000000004,
+          "end": 45.88,
+          "probability": 0.8089159727096558
+        },
+        {
+          "word": " over",
+          "start": 45.88,
+          "end": 47.28,
+          "probability": 0.9662662148475647
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 3000,
+      "start": 48.0,
+      "end": 55.94,
+      "text": " when you realize there are only pretty lives",
+      "tokens": [
+        51264,
+        562,
+        291,
+        4325,
+        456,
+        366,
+        787,
+        1238,
+        2909,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39123605798791955,
+      "compression_ratio": 1.2077922077922079,
+      "no_speech_prob": 0.5659772753715515,
+      "words": [
+        {
+          "word": " when",
+          "start": 48.0,
+          "end": 49.78,
+          "probability": 0.8385909199714661
+        },
+        {
+          "word": " you",
+          "start": 49.78,
+          "end": 50.3,
+          "probability": 0.9921990036964417
+        },
+        {
+          "word": " realize",
+          "start": 50.3,
+          "end": 51.28,
+          "probability": 0.6281046867370605
+        },
+        {
+          "word": " there",
+          "start": 51.28,
+          "end": 52.08,
+          "probability": 0.6328826546669006
+        },
+        {
+          "word": " are",
+          "start": 52.08,
+          "end": 52.44,
+          "probability": 0.41376855969429016
+        },
+        {
+          "word": " only",
+          "start": 52.44,
+          "end": 53.08,
+          "probability": 0.995988667011261
+        },
+        {
+          "word": " pretty",
+          "start": 53.08,
+          "end": 53.94,
+          "probability": 0.996887743473053
+        },
+        {
+          "word": " lives",
+          "start": 53.94,
+          "end": 55.94,
+          "probability": 0.228672593832016
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5594,
+      "start": 55.94,
+      "end": 61.08,
+      "text": " only pretty lives",
+      "tokens": [
+        50364,
+        787,
+        1238,
+        2909,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3043377161026001,
+      "compression_ratio": 1.22,
+      "no_speech_prob": 0.026750199496746063,
+      "words": [
+        {
+          "word": " only",
+          "start": 55.94,
+          "end": 57.72,
+          "probability": 0.06708670407533646
+        },
+        {
+          "word": " pretty",
+          "start": 57.72,
+          "end": 58.6,
+          "probability": 0.9716370701789856
+        },
+        {
+          "word": " lives",
+          "start": 58.6,
+          "end": 61.08,
+          "probability": 0.020437588915228844
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5594,
+      "start": 61.08,
+      "end": 65.94,
+      "text": " just pretty lives",
+      "tokens": [
+        50614,
+        445,
+        1238,
+        2909,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3043377161026001,
+      "compression_ratio": 1.22,
+      "no_speech_prob": 0.026750199496746063,
+      "words": [
+        {
+          "word": " just",
+          "start": 61.08,
+          "end": 62.88,
+          "probability": 0.5331169366836548
+        },
+        {
+          "word": " pretty",
+          "start": 62.88,
+          "end": 64.6,
+          "probability": 0.9924476146697998
+        },
+        {
+          "word": " lives",
+          "start": 64.6,
+          "end": 65.94,
+          "probability": 0.90622878074646
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5594,
+      "start": 74.03999999999999,
+      "end": 75.94,
+      "text": " boiling over",
+      "tokens": [
+        51114,
+        16208,
+        670,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3043377161026001,
+      "compression_ratio": 1.22,
+      "no_speech_prob": 0.026750199496746063,
+      "words": [
+        {
+          "word": " boiling",
+          "start": 74.03999999999999,
+          "end": 75.44,
+          "probability": 0.1981898993253708
+        },
+        {
+          "word": " over",
+          "start": 75.44,
+          "end": 76.14,
+          "probability": 0.9858781099319458
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5594,
+      "start": 79.75999999999999,
+      "end": 82.56,
+      "text": " flowing over",
+      "tokens": [
+        51464,
+        13974,
+        670,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3043377161026001,
+      "compression_ratio": 1.22,
+      "no_speech_prob": 0.026750199496746063,
+      "words": [
+        {
+          "word": " flowing",
+          "start": 79.75999999999999,
+          "end": 81.16,
+          "probability": 0.014431662857532501
+        },
+        {
+          "word": " over",
+          "start": 81.16,
+          "end": 82.56,
+          "probability": 0.9613067507743835
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 8256,
+      "start": 83.56,
+      "end": 91.5,
+      "text": " when you realize there are only pretty lives",
+      "tokens": [
+        50414,
+        562,
+        291,
+        4325,
+        456,
+        366,
+        787,
+        1238,
+        2909,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21730288752803095,
+      "compression_ratio": 1.3888888888888888,
+      "no_speech_prob": 0.010628045536577702,
+      "words": [
+        {
+          "word": " when",
+          "start": 83.56,
+          "end": 85.24,
+          "probability": 0.023486070334911346
+        },
+        {
+          "word": " you",
+          "start": 85.24,
+          "end": 85.76,
+          "probability": 0.9618825912475586
+        },
+        {
+          "word": " realize",
+          "start": 85.76,
+          "end": 86.76,
+          "probability": 0.6763779520988464
+        },
+        {
+          "word": " there",
+          "start": 86.76,
+          "end": 87.48,
+          "probability": 0.5731877088546753
+        },
+        {
+          "word": " are",
+          "start": 87.48,
+          "end": 87.92,
+          "probability": 0.45887693762779236
+        },
+        {
+          "word": " only",
+          "start": 87.92,
+          "end": 88.52,
+          "probability": 0.9715969562530518
+        },
+        {
+          "word": " pretty",
+          "start": 88.52,
+          "end": 89.28,
+          "probability": 0.9889405369758606
+        },
+        {
+          "word": " lives",
+          "start": 89.28,
+          "end": 91.5,
+          "probability": 0.29582417011260986
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 8256,
+      "start": 91.5,
+      "end": 96.84,
+      "text": " only pretty lives",
+      "tokens": [
+        50814,
+        787,
+        1238,
+        2909,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21730288752803095,
+      "compression_ratio": 1.3888888888888888,
+      "no_speech_prob": 0.010628045536577702,
+      "words": [
+        {
+          "word": " only",
+          "start": 91.5,
+          "end": 93.8,
+          "probability": 0.45367196202278137
+        },
+        {
+          "word": " pretty",
+          "start": 93.8,
+          "end": 94.54,
+          "probability": 0.992739737033844
+        },
+        {
+          "word": " lives",
+          "start": 94.54,
+          "end": 96.84,
+          "probability": 0.9511667490005493
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 8256,
+      "start": 99.43999999999998,
+      "end": 103.56,
+      "text": " just pretty lives",
+      "tokens": [
+        51164,
+        445,
+        1238,
+        2909,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21730288752803095,
+      "compression_ratio": 1.3888888888888888,
+      "no_speech_prob": 0.010628045536577702,
+      "words": [
+        {
+          "word": " just",
+          "start": 99.43999999999998,
+          "end": 100.83999999999999,
+          "probability": 0.8328220248222351
+        },
+        {
+          "word": " pretty",
+          "start": 100.83999999999999,
+          "end": 102.24,
+          "probability": 0.9817336797714233
+        },
+        {
+          "word": " lives",
+          "start": 102.24,
+          "end": 103.56,
+          "probability": 0.9466877579689026
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8256,
+      "start": 106.51999999999998,
+      "end": 110.56,
+      "text": " dreaming our dreams",
+      "tokens": [
+        51464,
+        21475,
+        527,
+        7505,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21730288752803095,
+      "compression_ratio": 1.3888888888888888,
+      "no_speech_prob": 0.010628045536577702,
+      "words": [
+        {
+          "word": " dreaming",
+          "start": 106.51999999999998,
+          "end": 107.91999999999999,
+          "probability": 0.8140338063240051
+        },
+        {
+          "word": " our",
+          "start": 107.91999999999999,
+          "end": 109.32,
+          "probability": 0.5793882608413696
+        },
+        {
+          "word": " dreams",
+          "start": 109.32,
+          "end": 110.56,
+          "probability": 0.996199905872345
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 11056,
+      "start": 113.05999999999999,
+      "end": 117.56,
+      "text": " projections on the wall screen",
+      "tokens": [
+        50414,
+        32371,
+        322,
+        264,
+        2929,
+        2568,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25869539578755696,
+      "compression_ratio": 1.4337349397590362,
+      "no_speech_prob": 0.009923039004206657,
+      "words": [
+        {
+          "word": " projections",
+          "start": 113.05999999999999,
+          "end": 114.46,
+          "probability": 0.11002685129642487
+        },
+        {
+          "word": " on",
+          "start": 114.46,
+          "end": 115.32,
+          "probability": 0.8375136852264404
+        },
+        {
+          "word": " the",
+          "start": 115.32,
+          "end": 115.78,
+          "probability": 0.781595766544342
+        },
+        {
+          "word": " wall",
+          "start": 115.78,
+          "end": 117.04,
+          "probability": 0.30021926760673523
+        },
+        {
+          "word": " screen",
+          "start": 117.04,
+          "end": 117.74000000000001,
+          "probability": 0.7872433662414551
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 11056,
+      "start": 118.2,
+      "end": 124.56,
+      "text": " when you realize there are only pretty lives",
+      "tokens": [
+        50764,
+        562,
+        291,
+        4325,
+        456,
+        366,
+        787,
+        1238,
+        2909,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25869539578755696,
+      "compression_ratio": 1.4337349397590362,
+      "no_speech_prob": 0.009923039004206657,
+      "words": [
+        {
+          "word": " when",
+          "start": 118.2,
+          "end": 119.48,
+          "probability": 0.5511600971221924
+        },
+        {
+          "word": " you",
+          "start": 119.48,
+          "end": 120.02,
+          "probability": 0.9346410632133484
+        },
+        {
+          "word": " realize",
+          "start": 120.02,
+          "end": 120.8,
+          "probability": 0.6130366921424866
+        },
+        {
+          "word": " there",
+          "start": 120.8,
+          "end": 121.52,
+          "probability": 0.8351517915725708
+        },
+        {
+          "word": " are",
+          "start": 121.52,
+          "end": 121.92,
+          "probability": 0.7549181580543518
+        },
+        {
+          "word": " only",
+          "start": 121.92,
+          "end": 122.52,
+          "probability": 0.97377610206604
+        },
+        {
+          "word": " pretty",
+          "start": 122.52,
+          "end": 123.28,
+          "probability": 0.9895933866500854
+        },
+        {
+          "word": " lives",
+          "start": 123.28,
+          "end": 124.56,
+          "probability": 0.2091844528913498
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 11056,
+      "start": 125.2,
+      "end": 129.56,
+      "text": " only pretty lives",
+      "tokens": [
+        51114,
+        787,
+        1238,
+        2909,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25869539578755696,
+      "compression_ratio": 1.4337349397590362,
+      "no_speech_prob": 0.009923039004206657,
+      "words": [
+        {
+          "word": " only",
+          "start": 125.2,
+          "end": 127.12,
+          "probability": 0.5567210912704468
+        },
+        {
+          "word": " pretty",
+          "start": 127.12,
+          "end": 128.02,
+          "probability": 0.995926022529602
+        },
+        {
+          "word": " lives",
+          "start": 128.02,
+          "end": 129.56,
+          "probability": 0.9713124632835388
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 11056,
+      "start": 131.22,
+      "end": 135.7,
+      "text": " just pretty, pretty lives",
+      "tokens": [
+        51364,
+        445,
+        1238,
+        11,
+        1238,
+        2909,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25869539578755696,
+      "compression_ratio": 1.4337349397590362,
+      "no_speech_prob": 0.009923039004206657,
+      "words": [
+        {
+          "word": " just",
+          "start": 131.22,
+          "end": 132.3,
+          "probability": 0.6890089511871338
+        },
+        {
+          "word": " pretty,",
+          "start": 132.3,
+          "end": 132.98,
+          "probability": 0.9396840929985046
+        },
+        {
+          "word": " pretty",
+          "start": 133.12,
+          "end": 134.18,
+          "probability": 0.6630340218544006
+        },
+        {
+          "word": " lives",
+          "start": 134.18,
+          "end": 135.7,
+          "probability": 0.9156544208526611
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 14056,
+      "start": 167.78,
+      "end": 169.2,
+      "text": " just pretty, pretty lives",
+      "tokens": [
+        50364,
+        445,
+        1238,
+        11,
+        1238,
+        2909,
+        50614
+      ],
+      "temperature": 0.8,
+      "avg_logprob": -0.7800171064293903,
+      "compression_ratio": 2.272727272727273,
+      "no_speech_prob": 0.32240206003189087,
+      "words": [
+        {
+          "word": " just",
+          "start": 167.78,
+          "end": 169.18,
+          "probability": 7.003927021287382e-05
+        },
+        {
+          "word": " pretty,",
+          "start": 169.18,
+          "end": 169.2,
+          "probability": 5.594374306383543e-05
+        },
+        {
+          "word": " pretty",
+          "start": 169.2,
+          "end": 169.2,
+          "probability": 0.23934195935726166
+        },
+        {
+          "word": " lives",
+          "start": 169.2,
+          "end": 169.2,
+          "probability": 4.701813304563984e-05
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 14056,
+      "start": 169.2,
+      "end": 169.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.8,
+      "avg_logprob": -0.7800171064293903,
+      "compression_ratio": 2.272727272727273,
+      "no_speech_prob": 0.32240206003189087,
+      "words": []
+    },
+    {
+      "id": 23,
+      "seek": 14056,
+      "start": 169.2,
+      "end": 169.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.8,
+      "avg_logprob": -0.7800171064293903,
+      "compression_ratio": 2.272727272727273,
+      "no_speech_prob": 0.32240206003189087,
+      "words": []
+    },
+    {
+      "id": 24,
+      "seek": 14056,
+      "start": 169.2,
+      "end": 169.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.8,
+      "avg_logprob": -0.7800171064293903,
+      "compression_ratio": 2.272727272727273,
+      "no_speech_prob": 0.32240206003189087,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

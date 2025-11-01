@@ -1,0 +1,1147 @@
+{
+  "text": " I stole some sweets and a can of pop from his local shop, and they call her parents. My friend's mum arrives, she's got bleached blonde hair and pink skin and this American accent. And I'm the devil in her light blue eyes. Her shoulder length hair is waving around, she's not happy. There's fury in her eyes, and all aimed at me. She screams at me. The shop assistant is satisfied, at least one of us got what she deserved. Then my mum arrives, she never really shouted at anyone, she's not gonna start now. Did she ever feel angry? She said Sophie's mum's shouting was enough and we can go home now. We walk home hand in hand, and I feel sorry for the shopkeeper, but my mum didn't shout too. That's the last time we shoplifted this shop.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 16.66,
+      "end": 24.44,
+      "text": " I stole some sweets and a can of pop from his local shop,",
+      "tokens": [
+        50364,
+        286,
+        16326,
+        512,
+        28680,
+        293,
+        257,
+        393,
+        295,
+        1665,
+        490,
+        702,
+        2654,
+        3945,
+        11,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7006444931030273,
+      "compression_ratio": 0.9344262295081968,
+      "no_speech_prob": 0.08107420802116394,
+      "words": [
+        {
+          "word": " I",
+          "start": 16.66,
+          "end": 17.78,
+          "probability": 0.06816066801548004
+        },
+        {
+          "word": " stole",
+          "start": 17.78,
+          "end": 18.28,
+          "probability": 0.9785847067832947
+        },
+        {
+          "word": " some",
+          "start": 18.28,
+          "end": 18.96,
+          "probability": 0.9736248850822449
+        },
+        {
+          "word": " sweets",
+          "start": 18.96,
+          "end": 19.68,
+          "probability": 0.9616559147834778
+        },
+        {
+          "word": " and",
+          "start": 19.68,
+          "end": 20.3,
+          "probability": 0.3961813449859619
+        },
+        {
+          "word": " a",
+          "start": 20.3,
+          "end": 20.62,
+          "probability": 0.7059038877487183
+        },
+        {
+          "word": " can",
+          "start": 20.62,
+          "end": 20.82,
+          "probability": 0.8458913564682007
+        },
+        {
+          "word": " of",
+          "start": 20.82,
+          "end": 21.12,
+          "probability": 0.9982213377952576
+        },
+        {
+          "word": " pop",
+          "start": 21.12,
+          "end": 21.6,
+          "probability": 0.2653709053993225
+        },
+        {
+          "word": " from",
+          "start": 21.6,
+          "end": 22.94,
+          "probability": 0.4881855249404907
+        },
+        {
+          "word": " his",
+          "start": 22.94,
+          "end": 23.26,
+          "probability": 0.42900168895721436
+        },
+        {
+          "word": " local",
+          "start": 23.26,
+          "end": 23.7,
+          "probability": 0.9928300976753235
+        },
+        {
+          "word": " shop,",
+          "start": 23.7,
+          "end": 24.44,
+          "probability": 0.9947651624679565
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2444,
+      "start": 24.44,
+      "end": 39.42,
+      "text": " and they call her parents. My friend's mum arrives, she's got bleached blonde hair and pink skin and this American accent.",
+      "tokens": [
+        50364,
+        293,
+        436,
+        818,
+        720,
+        3152,
+        13,
+        1222,
+        1277,
+        311,
+        14697,
+        20116,
+        11,
+        750,
+        311,
+        658,
+        5408,
+        15095,
+        30043,
+        2578,
+        293,
+        7022,
+        3178,
+        293,
+        341,
+        2665,
+        11982,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28340674984839653,
+      "compression_ratio": 1.161904761904762,
+      "no_speech_prob": 0.5762823820114136,
+      "words": [
+        {
+          "word": " and",
+          "start": 24.44,
+          "end": 25.76,
+          "probability": 0.294444739818573
+        },
+        {
+          "word": " they",
+          "start": 25.76,
+          "end": 26.14,
+          "probability": 0.9754067063331604
+        },
+        {
+          "word": " call",
+          "start": 26.14,
+          "end": 26.44,
+          "probability": 0.9942353367805481
+        },
+        {
+          "word": " her",
+          "start": 26.44,
+          "end": 26.78,
+          "probability": 0.9132785797119141
+        },
+        {
+          "word": " parents.",
+          "start": 26.78,
+          "end": 27.74,
+          "probability": 0.7728224992752075
+        },
+        {
+          "word": " My",
+          "start": 28.96,
+          "end": 29.22,
+          "probability": 0.9440672993659973
+        },
+        {
+          "word": " friend's",
+          "start": 29.22,
+          "end": 29.86,
+          "probability": 0.9527662098407745
+        },
+        {
+          "word": " mum",
+          "start": 29.86,
+          "end": 30.04,
+          "probability": 0.46018409729003906
+        },
+        {
+          "word": " arrives,",
+          "start": 30.04,
+          "end": 30.98,
+          "probability": 0.9027635455131531
+        },
+        {
+          "word": " she's",
+          "start": 32.02,
+          "end": 32.62,
+          "probability": 0.9405815899372101
+        },
+        {
+          "word": " got",
+          "start": 32.62,
+          "end": 32.98,
+          "probability": 0.9991157650947571
+        },
+        {
+          "word": " bleached",
+          "start": 32.98,
+          "end": 33.78,
+          "probability": 0.9863903224468231
+        },
+        {
+          "word": " blonde",
+          "start": 33.78,
+          "end": 34.38,
+          "probability": 0.7866376042366028
+        },
+        {
+          "word": " hair",
+          "start": 34.38,
+          "end": 34.96,
+          "probability": 0.9983166456222534
+        },
+        {
+          "word": " and",
+          "start": 34.96,
+          "end": 35.6,
+          "probability": 0.8038948178291321
+        },
+        {
+          "word": " pink",
+          "start": 35.6,
+          "end": 36.18,
+          "probability": 0.9975597858428955
+        },
+        {
+          "word": " skin",
+          "start": 36.18,
+          "end": 36.78,
+          "probability": 0.9973821043968201
+        },
+        {
+          "word": " and",
+          "start": 36.78,
+          "end": 37.64,
+          "probability": 0.7030232548713684
+        },
+        {
+          "word": " this",
+          "start": 37.64,
+          "end": 37.96,
+          "probability": 0.9818180203437805
+        },
+        {
+          "word": " American",
+          "start": 37.96,
+          "end": 38.58,
+          "probability": 0.9463409781455994
+        },
+        {
+          "word": " accent.",
+          "start": 38.58,
+          "end": 39.42,
+          "probability": 0.9961787462234497
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3942,
+      "start": 40.96,
+      "end": 56.86,
+      "text": " And I'm the devil in her light blue eyes. Her shoulder length hair is waving around, she's not happy.",
+      "tokens": [
+        50364,
+        400,
+        286,
+        478,
+        264,
+        13297,
+        294,
+        720,
+        1442,
+        3344,
+        2575,
+        13,
+        3204,
+        7948,
+        4641,
+        2578,
+        307,
+        35347,
+        926,
+        11,
+        750,
+        311,
+        406,
+        2055,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18866349969591414,
+      "compression_ratio": 1.0978260869565217,
+      "no_speech_prob": 0.7572546005249023,
+      "words": [
+        {
+          "word": " And",
+          "start": 40.96,
+          "end": 42.36,
+          "probability": 0.40089455246925354
+        },
+        {
+          "word": " I'm",
+          "start": 42.36,
+          "end": 43.46,
+          "probability": 0.8871996998786926
+        },
+        {
+          "word": " the",
+          "start": 43.46,
+          "end": 43.9,
+          "probability": 0.9861307740211487
+        },
+        {
+          "word": " devil",
+          "start": 43.9,
+          "end": 44.58,
+          "probability": 0.8682871460914612
+        },
+        {
+          "word": " in",
+          "start": 44.58,
+          "end": 45.32,
+          "probability": 0.9019726514816284
+        },
+        {
+          "word": " her",
+          "start": 45.32,
+          "end": 45.84,
+          "probability": 0.995233952999115
+        },
+        {
+          "word": " light",
+          "start": 45.84,
+          "end": 46.6,
+          "probability": 0.9916119575500488
+        },
+        {
+          "word": " blue",
+          "start": 46.6,
+          "end": 47.16,
+          "probability": 0.8719269633293152
+        },
+        {
+          "word": " eyes.",
+          "start": 47.16,
+          "end": 48.16,
+          "probability": 0.9984753727912903
+        },
+        {
+          "word": " Her",
+          "start": 49.64,
+          "end": 49.96,
+          "probability": 0.9717967510223389
+        },
+        {
+          "word": " shoulder",
+          "start": 49.96,
+          "end": 50.5,
+          "probability": 0.9887059926986694
+        },
+        {
+          "word": " length",
+          "start": 50.5,
+          "end": 51.04,
+          "probability": 0.5401894450187683
+        },
+        {
+          "word": " hair",
+          "start": 51.04,
+          "end": 51.66,
+          "probability": 0.8973093032836914
+        },
+        {
+          "word": " is",
+          "start": 51.66,
+          "end": 52.26,
+          "probability": 0.9849440455436707
+        },
+        {
+          "word": " waving",
+          "start": 52.26,
+          "end": 52.68,
+          "probability": 0.9662699699401855
+        },
+        {
+          "word": " around,",
+          "start": 52.68,
+          "end": 53.64,
+          "probability": 0.7373164892196655
+        },
+        {
+          "word": " she's",
+          "start": 54.78,
+          "end": 55.52,
+          "probability": 0.8417726457118988
+        },
+        {
+          "word": " not",
+          "start": 55.52,
+          "end": 56.0,
+          "probability": 0.9941839575767517
+        },
+        {
+          "word": " happy.",
+          "start": 56.0,
+          "end": 56.86,
+          "probability": 0.9987483024597168
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 5686,
+      "start": 57.86,
+      "end": 77.54,
+      "text": " There's fury in her eyes, and all aimed at me. She screams at me. The shop assistant is satisfied, at least one of us got what she deserved.",
+      "tokens": [
+        50414,
+        821,
+        311,
+        48887,
+        294,
+        720,
+        2575,
+        11,
+        293,
+        439,
+        20540,
+        412,
+        385,
+        13,
+        1240,
+        22832,
+        412,
+        385,
+        13,
+        440,
+        3945,
+        10994,
+        307,
+        11239,
+        11,
+        412,
+        1935,
+        472,
+        295,
+        505,
+        658,
+        437,
+        750,
+        27964,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20199448183963173,
+      "compression_ratio": 1.2844036697247707,
+      "no_speech_prob": 0.6277794241905212,
+      "words": [
+        {
+          "word": " There's",
+          "start": 57.86,
+          "end": 59.08,
+          "probability": 0.4187377393245697
+        },
+        {
+          "word": " fury",
+          "start": 59.08,
+          "end": 59.8,
+          "probability": 0.9832084774971008
+        },
+        {
+          "word": " in",
+          "start": 59.8,
+          "end": 60.22,
+          "probability": 0.9967250227928162
+        },
+        {
+          "word": " her",
+          "start": 60.22,
+          "end": 60.42,
+          "probability": 0.9877552390098572
+        },
+        {
+          "word": " eyes,",
+          "start": 60.42,
+          "end": 62.0,
+          "probability": 0.9980454444885254
+        },
+        {
+          "word": " and",
+          "start": 62.24,
+          "end": 62.62,
+          "probability": 0.6460342407226562
+        },
+        {
+          "word": " all",
+          "start": 62.62,
+          "end": 63.36,
+          "probability": 0.5841663479804993
+        },
+        {
+          "word": " aimed",
+          "start": 63.36,
+          "end": 63.76,
+          "probability": 0.9905456304550171
+        },
+        {
+          "word": " at",
+          "start": 63.76,
+          "end": 64.16,
+          "probability": 0.9964062571525574
+        },
+        {
+          "word": " me.",
+          "start": 64.16,
+          "end": 64.86,
+          "probability": 0.9978323578834534
+        },
+        {
+          "word": " She",
+          "start": 65.42,
+          "end": 66.26,
+          "probability": 0.9840552806854248
+        },
+        {
+          "word": " screams",
+          "start": 66.26,
+          "end": 66.9,
+          "probability": 0.8963222503662109
+        },
+        {
+          "word": " at",
+          "start": 66.9,
+          "end": 67.4,
+          "probability": 0.9772270917892456
+        },
+        {
+          "word": " me.",
+          "start": 67.4,
+          "end": 68.6,
+          "probability": 0.9969772100448608
+        },
+        {
+          "word": " The",
+          "start": 69.24,
+          "end": 69.98,
+          "probability": 0.830309271812439
+        },
+        {
+          "word": " shop",
+          "start": 69.98,
+          "end": 70.62,
+          "probability": 0.9682460427284241
+        },
+        {
+          "word": " assistant",
+          "start": 70.62,
+          "end": 71.38,
+          "probability": 0.9907482266426086
+        },
+        {
+          "word": " is",
+          "start": 71.38,
+          "end": 72.02,
+          "probability": 0.9941871166229248
+        },
+        {
+          "word": " satisfied,",
+          "start": 72.02,
+          "end": 73.02,
+          "probability": 0.990728497505188
+        },
+        {
+          "word": " at",
+          "start": 74.02,
+          "end": 74.14,
+          "probability": 0.930094838142395
+        },
+        {
+          "word": " least",
+          "start": 74.14,
+          "end": 74.78,
+          "probability": 0.9919261336326599
+        },
+        {
+          "word": " one",
+          "start": 74.78,
+          "end": 75.22,
+          "probability": 0.9539750814437866
+        },
+        {
+          "word": " of",
+          "start": 75.22,
+          "end": 75.32,
+          "probability": 0.9961798191070557
+        },
+        {
+          "word": " us",
+          "start": 75.32,
+          "end": 75.68,
+          "probability": 0.9970046877861023
+        },
+        {
+          "word": " got",
+          "start": 75.68,
+          "end": 76.02,
+          "probability": 0.8969650268554688
+        },
+        {
+          "word": " what",
+          "start": 76.02,
+          "end": 76.44,
+          "probability": 0.9978851675987244
+        },
+        {
+          "word": " she",
+          "start": 76.44,
+          "end": 76.88,
+          "probability": 0.9832397103309631
+        },
+        {
+          "word": " deserved.",
+          "start": 76.88,
+          "end": 77.54,
+          "probability": 0.9906561970710754
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 7754,
+      "start": 80.17999999999999,
+      "end": 94.82,
+      "text": " Then my mum arrives, she never really shouted at anyone, she's not gonna start now. Did she ever feel angry?",
+      "tokens": [
+        50364,
+        1396,
+        452,
+        14697,
+        20116,
+        11,
+        750,
+        1128,
+        534,
+        37310,
+        412,
+        2878,
+        11,
+        750,
+        311,
+        406,
+        799,
+        722,
+        586,
+        13,
+        2589,
+        750,
+        1562,
+        841,
+        6884,
+        30,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19727532616977034,
+      "compression_ratio": 1.148936170212766,
+      "no_speech_prob": 0.3291279077529907,
+      "words": [
+        {
+          "word": " Then",
+          "start": 80.17999999999999,
+          "end": 81.24,
+          "probability": 0.287800669670105
+        },
+        {
+          "word": " my",
+          "start": 81.24,
+          "end": 81.78,
+          "probability": 0.946286141872406
+        },
+        {
+          "word": " mum",
+          "start": 81.78,
+          "end": 82.1,
+          "probability": 0.22584469616413116
+        },
+        {
+          "word": " arrives,",
+          "start": 82.1,
+          "end": 82.9,
+          "probability": 0.9488541483879089
+        },
+        {
+          "word": " she",
+          "start": 84.26,
+          "end": 84.54,
+          "probability": 0.8824601769447327
+        },
+        {
+          "word": " never",
+          "start": 84.54,
+          "end": 85.0,
+          "probability": 0.8725555539131165
+        },
+        {
+          "word": " really",
+          "start": 85.0,
+          "end": 85.54,
+          "probability": 0.9925358295440674
+        },
+        {
+          "word": " shouted",
+          "start": 85.54,
+          "end": 85.96,
+          "probability": 0.9789857864379883
+        },
+        {
+          "word": " at",
+          "start": 85.96,
+          "end": 86.38,
+          "probability": 0.988916277885437
+        },
+        {
+          "word": " anyone,",
+          "start": 86.38,
+          "end": 87.0,
+          "probability": 0.9943569302558899
+        },
+        {
+          "word": " she's",
+          "start": 87.5,
+          "end": 88.02,
+          "probability": 0.8269733786582947
+        },
+        {
+          "word": " not",
+          "start": 88.02,
+          "end": 88.22,
+          "probability": 0.9944409728050232
+        },
+        {
+          "word": " gonna",
+          "start": 88.22,
+          "end": 88.52,
+          "probability": 0.8023654222488403
+        },
+        {
+          "word": " start",
+          "start": 88.52,
+          "end": 89.2,
+          "probability": 0.9921441078186035
+        },
+        {
+          "word": " now.",
+          "start": 89.2,
+          "end": 90.04,
+          "probability": 0.9882733821868896
+        },
+        {
+          "word": " Did",
+          "start": 92.24,
+          "end": 93.3,
+          "probability": 0.8231583833694458
+        },
+        {
+          "word": " she",
+          "start": 93.3,
+          "end": 93.56,
+          "probability": 0.9982656836509705
+        },
+        {
+          "word": " ever",
+          "start": 93.56,
+          "end": 93.98,
+          "probability": 0.995064914226532
+        },
+        {
+          "word": " feel",
+          "start": 93.98,
+          "end": 94.26,
+          "probability": 0.9956724643707275
+        },
+        {
+          "word": " angry?",
+          "start": 94.26,
+          "end": 94.82,
+          "probability": 0.9965654015541077
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 9482,
+      "start": 97.02000000000001,
+      "end": 115.16,
+      "text": " She said Sophie's mum's shouting was enough and we can go home now. We walk home hand in hand, and I feel sorry for the shopkeeper, but my mum didn't shout too.",
+      "tokens": [
+        50364,
+        1240,
+        848,
+        29645,
+        311,
+        14697,
+        311,
+        20382,
+        390,
+        1547,
+        293,
+        321,
+        393,
+        352,
+        1280,
+        586,
+        13,
+        492,
+        1792,
+        1280,
+        1011,
+        294,
+        1011,
+        11,
+        293,
+        286,
+        841,
+        2597,
+        337,
+        264,
+        3945,
+        23083,
+        11,
+        457,
+        452,
+        14697,
+        994,
+        380,
+        8043,
+        886,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13430115309628574,
+      "compression_ratio": 1.3008130081300813,
+      "no_speech_prob": 0.45804259181022644,
+      "words": [
+        {
+          "word": " She",
+          "start": 97.02000000000001,
+          "end": 97.98,
+          "probability": 0.8100831508636475
+        },
+        {
+          "word": " said",
+          "start": 97.98,
+          "end": 98.54,
+          "probability": 0.9966277480125427
+        },
+        {
+          "word": " Sophie's",
+          "start": 98.54,
+          "end": 99.34,
+          "probability": 0.9678914248943329
+        },
+        {
+          "word": " mum's",
+          "start": 99.34,
+          "end": 99.9,
+          "probability": 0.8342751264572144
+        },
+        {
+          "word": " shouting",
+          "start": 99.9,
+          "end": 100.34,
+          "probability": 0.9951884746551514
+        },
+        {
+          "word": " was",
+          "start": 100.34,
+          "end": 100.86,
+          "probability": 0.9902730584144592
+        },
+        {
+          "word": " enough",
+          "start": 100.86,
+          "end": 101.48,
+          "probability": 0.9865917563438416
+        },
+        {
+          "word": " and",
+          "start": 101.48,
+          "end": 101.96,
+          "probability": 0.7104088068008423
+        },
+        {
+          "word": " we",
+          "start": 101.96,
+          "end": 102.14,
+          "probability": 0.9662920236587524
+        },
+        {
+          "word": " can",
+          "start": 102.14,
+          "end": 102.46,
+          "probability": 0.9948254823684692
+        },
+        {
+          "word": " go",
+          "start": 102.46,
+          "end": 102.88,
+          "probability": 0.9957873225212097
+        },
+        {
+          "word": " home",
+          "start": 102.88,
+          "end": 103.26,
+          "probability": 0.9960339665412903
+        },
+        {
+          "word": " now.",
+          "start": 103.26,
+          "end": 103.68,
+          "probability": 0.9941300749778748
+        },
+        {
+          "word": " We",
+          "start": 104.76,
+          "end": 104.9,
+          "probability": 0.9844465851783752
+        },
+        {
+          "word": " walk",
+          "start": 104.9,
+          "end": 105.26,
+          "probability": 0.968772828578949
+        },
+        {
+          "word": " home",
+          "start": 105.26,
+          "end": 105.8,
+          "probability": 0.9984849095344543
+        },
+        {
+          "word": " hand",
+          "start": 105.8,
+          "end": 106.22,
+          "probability": 0.8702207803726196
+        },
+        {
+          "word": " in",
+          "start": 106.22,
+          "end": 106.38,
+          "probability": 0.8412684202194214
+        },
+        {
+          "word": " hand,",
+          "start": 106.38,
+          "end": 107.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " and",
+          "start": 107.42,
+          "end": 108.08,
+          "probability": 0.9614071249961853
+        },
+        {
+          "word": " I",
+          "start": 108.08,
+          "end": 108.78,
+          "probability": 0.9192824959754944
+        },
+        {
+          "word": " feel",
+          "start": 108.78,
+          "end": 109.2,
+          "probability": 0.9953416585922241
+        },
+        {
+          "word": " sorry",
+          "start": 109.2,
+          "end": 109.78,
+          "probability": 0.9968512654304504
+        },
+        {
+          "word": " for",
+          "start": 109.78,
+          "end": 110.18,
+          "probability": 0.9990118741989136
+        },
+        {
+          "word": " the",
+          "start": 110.18,
+          "end": 110.66,
+          "probability": 0.9906153678894043
+        },
+        {
+          "word": " shopkeeper,",
+          "start": 110.66,
+          "end": 111.62,
+          "probability": 0.9782819449901581
+        },
+        {
+          "word": " but",
+          "start": 112.42,
+          "end": 112.86,
+          "probability": 0.9433563947677612
+        },
+        {
+          "word": " my",
+          "start": 112.86,
+          "end": 113.22,
+          "probability": 0.9930707812309265
+        },
+        {
+          "word": " mum",
+          "start": 113.22,
+          "end": 113.48,
+          "probability": 0.9391692280769348
+        },
+        {
+          "word": " didn't",
+          "start": 113.48,
+          "end": 113.84,
+          "probability": 0.9984304010868073
+        },
+        {
+          "word": " shout",
+          "start": 113.84,
+          "end": 114.42,
+          "probability": 0.997307538986206
+        },
+        {
+          "word": " too.",
+          "start": 114.42,
+          "end": 115.16,
+          "probability": 0.8995570540428162
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 11516,
+      "start": 118.16000000000001,
+      "end": 123.96,
+      "text": " That's the last time we shoplifted this shop.",
+      "tokens": [
+        50414,
+        663,
+        311,
+        264,
+        1036,
+        565,
+        321,
+        3945,
+        29814,
+        292,
+        341,
+        3945,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18991317749023437,
+      "compression_ratio": 0.9375,
+      "no_speech_prob": 0.14010745286941528,
+      "words": [
+        {
+          "word": " That's",
+          "start": 118.16000000000001,
+          "end": 119.4,
+          "probability": 0.8717357218265533
+        },
+        {
+          "word": " the",
+          "start": 119.4,
+          "end": 120.14,
+          "probability": 0.9919303059577942
+        },
+        {
+          "word": " last",
+          "start": 120.14,
+          "end": 120.76,
+          "probability": 0.8936673402786255
+        },
+        {
+          "word": " time",
+          "start": 120.76,
+          "end": 121.22,
+          "probability": 0.9991008043289185
+        },
+        {
+          "word": " we",
+          "start": 121.22,
+          "end": 121.72,
+          "probability": 0.9935046434402466
+        },
+        {
+          "word": " shoplifted",
+          "start": 121.72,
+          "end": 123.06,
+          "probability": 0.9163411458333334
+        },
+        {
+          "word": " this",
+          "start": 123.06,
+          "end": 123.52,
+          "probability": 0.9595115184783936
+        },
+        {
+          "word": " shop.",
+          "start": 123.52,
+          "end": 123.96,
+          "probability": 0.9589897990226746
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

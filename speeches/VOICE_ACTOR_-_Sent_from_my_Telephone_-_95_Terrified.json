@@ -1,0 +1,533 @@
+{
+  "text": " It's a thing to say at dinner Before you pull the trigger It's your unpredictability Mirror to infinity It's real, it's a thing I give, you take It's all in your head, I'm not leaving Self-terrified But I'm not leaving Self-terrified Thanks for watching!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.8,
+      "text": " It's a thing to say at dinner",
+      "tokens": [
+        50364,
+        467,
+        311,
+        257,
+        551,
+        281,
+        584,
+        412,
+        6148,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45981982446485953,
+      "compression_ratio": 1.1573033707865168,
+      "no_speech_prob": 0.47465255856513977,
+      "words": [
+        {
+          "word": " It's",
+          "start": 0.0,
+          "end": 1.38,
+          "probability": 0.7063789069652557
+        },
+        {
+          "word": " a",
+          "start": 1.38,
+          "end": 1.6,
+          "probability": 0.5307345390319824
+        },
+        {
+          "word": " thing",
+          "start": 1.6,
+          "end": 2.06,
+          "probability": 0.15868009626865387
+        },
+        {
+          "word": " to",
+          "start": 2.06,
+          "end": 2.6,
+          "probability": 0.3277144134044647
+        },
+        {
+          "word": " say",
+          "start": 2.6,
+          "end": 3.22,
+          "probability": 0.87587970495224
+        },
+        {
+          "word": " at",
+          "start": 3.22,
+          "end": 3.82,
+          "probability": 0.4216247797012329
+        },
+        {
+          "word": " dinner",
+          "start": 3.82,
+          "end": 4.8,
+          "probability": 0.31871989369392395
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.0,
+      "end": 10.84,
+      "text": " Before you pull the trigger",
+      "tokens": [
+        50664,
+        4546,
+        291,
+        2235,
+        264,
+        7875,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45981982446485953,
+      "compression_ratio": 1.1573033707865168,
+      "no_speech_prob": 0.47465255856513977,
+      "words": [
+        {
+          "word": " Before",
+          "start": 6.0,
+          "end": 7.26,
+          "probability": 0.6190823316574097
+        },
+        {
+          "word": " you",
+          "start": 7.26,
+          "end": 8.22,
+          "probability": 0.9918680787086487
+        },
+        {
+          "word": " pull",
+          "start": 8.22,
+          "end": 8.74,
+          "probability": 0.9812886714935303
+        },
+        {
+          "word": " the",
+          "start": 8.74,
+          "end": 9.2,
+          "probability": 0.8830898404121399
+        },
+        {
+          "word": " trigger",
+          "start": 9.2,
+          "end": 10.84,
+          "probability": 0.9997084736824036
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.0,
+      "end": 17.5,
+      "text": " It's your unpredictability",
+      "tokens": [
+        50964,
+        467,
+        311,
+        428,
+        28341,
+        2310,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45981982446485953,
+      "compression_ratio": 1.1573033707865168,
+      "no_speech_prob": 0.47465255856513977,
+      "words": [
+        {
+          "word": " It's",
+          "start": 11.940000000000001,
+          "end": 12.64,
+          "probability": 0.9669930338859558
+        },
+        {
+          "word": " your",
+          "start": 12.64,
+          "end": 13.26,
+          "probability": 0.9907867312431335
+        },
+        {
+          "word": " unpredictability",
+          "start": 13.26,
+          "end": 17.5,
+          "probability": 0.9911224544048309
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.5,
+      "end": 23.24,
+      "text": " Mirror to infinity",
+      "tokens": [
+        51264,
+        34452,
+        281,
+        13202,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45981982446485953,
+      "compression_ratio": 1.1573033707865168,
+      "no_speech_prob": 0.47465255856513977,
+      "words": [
+        {
+          "word": " Mirror",
+          "start": 17.5,
+          "end": 19.4,
+          "probability": 0.3606925904750824
+        },
+        {
+          "word": " to",
+          "start": 19.4,
+          "end": 20.18,
+          "probability": 0.9863616228103638
+        },
+        {
+          "word": " infinity",
+          "start": 20.18,
+          "end": 23.24,
+          "probability": 0.7637296319007874
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2324,
+      "start": 26.0,
+      "end": 31.5,
+      "text": " It's real, it's a thing",
+      "tokens": [
+        50364,
+        467,
+        311,
+        957,
+        11,
+        309,
+        311,
+        257,
+        551,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38283687829971313,
+      "compression_ratio": 1.0675675675675675,
+      "no_speech_prob": 0.030898146331310272,
+      "words": [
+        {
+          "word": " It's",
+          "start": 26.0,
+          "end": 27.4,
+          "probability": 0.5044729579240084
+        },
+        {
+          "word": " real,",
+          "start": 27.4,
+          "end": 27.88,
+          "probability": 0.364815890789032
+        },
+        {
+          "word": " it's",
+          "start": 28.46,
+          "end": 30.46,
+          "probability": 0.7873697578907013
+        },
+        {
+          "word": " a",
+          "start": 30.46,
+          "end": 30.8,
+          "probability": 0.376896470785141
+        },
+        {
+          "word": " thing",
+          "start": 30.8,
+          "end": 31.5,
+          "probability": 0.17967450618743896
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2324,
+      "start": 32.239999999999995,
+      "end": 37.239999999999995,
+      "text": " I give, you take",
+      "tokens": [
+        50814,
+        286,
+        976,
+        11,
+        291,
+        747,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38283687829971313,
+      "compression_ratio": 1.0675675675675675,
+      "no_speech_prob": 0.030898146331310272,
+      "words": [
+        {
+          "word": " I",
+          "start": 32.239999999999995,
+          "end": 33.62,
+          "probability": 0.3957775831222534
+        },
+        {
+          "word": " give,",
+          "start": 33.62,
+          "end": 34.44,
+          "probability": 0.6036465764045715
+        },
+        {
+          "word": " you",
+          "start": 36.62,
+          "end": 36.9,
+          "probability": 0.5125007033348083
+        },
+        {
+          "word": " take",
+          "start": 36.9,
+          "end": 37.6,
+          "probability": 0.8447878360748291
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2324,
+      "start": 37.88,
+      "end": 45.46,
+      "text": " It's all in your head, I'm not leaving",
+      "tokens": [
+        51114,
+        467,
+        311,
+        439,
+        294,
+        428,
+        1378,
+        11,
+        286,
+        478,
+        406,
+        5012,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38283687829971313,
+      "compression_ratio": 1.0675675675675675,
+      "no_speech_prob": 0.030898146331310272,
+      "words": [
+        {
+          "word": " It's",
+          "start": 37.88,
+          "end": 39.78,
+          "probability": 0.7878463864326477
+        },
+        {
+          "word": " all",
+          "start": 39.78,
+          "end": 40.46,
+          "probability": 0.5362681150436401
+        },
+        {
+          "word": " in",
+          "start": 40.46,
+          "end": 41.12,
+          "probability": 0.9890350103378296
+        },
+        {
+          "word": " your",
+          "start": 41.12,
+          "end": 41.94,
+          "probability": 0.9961496591567993
+        },
+        {
+          "word": " head,",
+          "start": 41.94,
+          "end": 42.66,
+          "probability": 0.7368428707122803
+        },
+        {
+          "word": " I'm",
+          "start": 42.7,
+          "end": 43.34,
+          "probability": 0.7230451107025146
+        },
+        {
+          "word": " not",
+          "start": 43.34,
+          "end": 43.8,
+          "probability": 0.8043902516365051
+        },
+        {
+          "word": " leaving",
+          "start": 43.8,
+          "end": 45.46,
+          "probability": 0.22279880940914154
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 4546,
+      "start": 49.6,
+      "end": 51.46,
+      "text": " Self-terrified",
+      "tokens": [
+        50414,
+        16348,
+        12,
+        391,
+        81,
+        2587,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21092486381530762,
+      "compression_ratio": 1.065217391304348,
+      "no_speech_prob": 0.013273501768708229,
+      "words": [
+        {
+          "word": " Self",
+          "start": 49.6,
+          "end": 51.0,
+          "probability": 0.15300990641117096
+        },
+        {
+          "word": "-terrified",
+          "start": 51.0,
+          "end": 51.7,
+          "probability": 0.8178262710571289
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 4546,
+      "start": 52.4,
+      "end": 56.72,
+      "text": " But I'm not leaving",
+      "tokens": [
+        50714,
+        583,
+        286,
+        478,
+        406,
+        5012,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21092486381530762,
+      "compression_ratio": 1.065217391304348,
+      "no_speech_prob": 0.013273501768708229,
+      "words": [
+        {
+          "word": " But",
+          "start": 52.4,
+          "end": 53.6,
+          "probability": 0.2825685739517212
+        },
+        {
+          "word": " I'm",
+          "start": 53.6,
+          "end": 54.38,
+          "probability": 0.9207248091697693
+        },
+        {
+          "word": " not",
+          "start": 54.38,
+          "end": 55.04,
+          "probability": 0.9955543875694275
+        },
+        {
+          "word": " leaving",
+          "start": 55.04,
+          "end": 56.72,
+          "probability": 0.5877861976623535
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 4546,
+      "start": 61.260000000000005,
+      "end": 64.06,
+      "text": " Self-terrified",
+      "tokens": [
+        51064,
+        16348,
+        12,
+        391,
+        81,
+        2587,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21092486381530762,
+      "compression_ratio": 1.065217391304348,
+      "no_speech_prob": 0.013273501768708229,
+      "words": [
+        {
+          "word": " Self",
+          "start": 61.260000000000005,
+          "end": 62.660000000000004,
+          "probability": 0.8044643998146057
+        },
+        {
+          "word": "-terrified",
+          "start": 62.660000000000004,
+          "end": 64.06,
+          "probability": 0.9928608238697052
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 7546,
+      "start": 76.02,
+      "end": 78.64,
+      "text": " Thanks for watching!",
+      "tokens": [
+        50364,
+        2561,
+        337,
+        1976,
+        0,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7783731733049665,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.9126223921775818,
+      "words": [
+        {
+          "word": " Thanks",
+          "start": 76.02,
+          "end": 77.42,
+          "probability": 0.011381431482732296
+        },
+        {
+          "word": " for",
+          "start": 77.42,
+          "end": 78.62,
+          "probability": 0.8536251187324524
+        },
+        {
+          "word": " watching!",
+          "start": 78.62,
+          "end": 78.64,
+          "probability": 0.9438657760620117
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

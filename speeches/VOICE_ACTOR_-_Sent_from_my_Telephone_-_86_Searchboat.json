@@ -1,0 +1,825 @@
+{
+  "text": " The search boat is here. Now find her. I know there will. It's like a can of pop that never goes flat. And each bubble rises to the top of your gums and tickles you under your teeth. I know there will. I know there will. I know there will. I know there will. I know there will. I know there will. I know there will. I know there will. I know there will. I know there will.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 22.580000000000002,
+      "end": 26.52,
+      "text": " The search boat is here.",
+      "tokens": [
+        50364,
+        440,
+        3164,
+        6582,
+        307,
+        510,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7033112525939942,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.14878244698047638,
+      "words": [
+        {
+          "word": " The",
+          "start": 22.580000000000002,
+          "end": 23.98,
+          "probability": 0.7542493939399719
+        },
+        {
+          "word": " search",
+          "start": 23.98,
+          "end": 24.34,
+          "probability": 0.8984687328338623
+        },
+        {
+          "word": " boat",
+          "start": 24.34,
+          "end": 24.66,
+          "probability": 0.9375125169754028
+        },
+        {
+          "word": " is",
+          "start": 24.66,
+          "end": 25.06,
+          "probability": 0.9960687160491943
+        },
+        {
+          "word": " here.",
+          "start": 25.06,
+          "end": 26.52,
+          "probability": 0.9981167316436768
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2652,
+      "start": 26.52,
+      "end": 29.6,
+      "text": " Now find her.",
+      "tokens": [
+        50364,
+        823,
+        915,
+        720,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4565661975315639,
+      "compression_ratio": 0.8648648648648649,
+      "no_speech_prob": 0.1300244927406311,
+      "words": [
+        {
+          "word": " Now",
+          "start": 26.52,
+          "end": 27.72,
+          "probability": 0.4282793402671814
+        },
+        {
+          "word": " find",
+          "start": 27.72,
+          "end": 28.2,
+          "probability": 0.9240962266921997
+        },
+        {
+          "word": " her.",
+          "start": 28.2,
+          "end": 29.6,
+          "probability": 0.9967871904373169
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2652,
+      "start": 33.98,
+      "end": 35.46,
+      "text": " I know there will.",
+      "tokens": [
+        50714,
+        286,
+        458,
+        456,
+        486,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4565661975315639,
+      "compression_ratio": 0.8648648648648649,
+      "no_speech_prob": 0.1300244927406311,
+      "words": [
+        {
+          "word": " I",
+          "start": 33.98,
+          "end": 34.36,
+          "probability": 0.9735894203186035
+        },
+        {
+          "word": " know",
+          "start": 34.36,
+          "end": 34.6,
+          "probability": 0.9942270517349243
+        },
+        {
+          "word": " there",
+          "start": 34.6,
+          "end": 34.92,
+          "probability": 0.604168176651001
+        },
+        {
+          "word": " will.",
+          "start": 34.92,
+          "end": 35.46,
+          "probability": 0.9156960248947144
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 5652,
+      "start": 79.46,
+      "end": 86.5,
+      "text": " It's like a can of pop that never goes flat.",
+      "tokens": [
+        50364,
+        467,
+        311,
+        411,
+        257,
+        393,
+        295,
+        1665,
+        300,
+        1128,
+        1709,
+        4962,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31684499979019165,
+      "compression_ratio": 0.8461538461538461,
+      "no_speech_prob": 0.5991113781929016,
+      "words": [
+        {
+          "word": " It's",
+          "start": 79.46,
+          "end": 80.72,
+          "probability": 0.8357851803302765
+        },
+        {
+          "word": " like",
+          "start": 80.72,
+          "end": 81.5,
+          "probability": 0.9954158067703247
+        },
+        {
+          "word": " a",
+          "start": 81.5,
+          "end": 82.14,
+          "probability": 0.8438530564308167
+        },
+        {
+          "word": " can",
+          "start": 82.14,
+          "end": 82.54,
+          "probability": 0.9423385262489319
+        },
+        {
+          "word": " of",
+          "start": 82.54,
+          "end": 83.02,
+          "probability": 0.9985472559928894
+        },
+        {
+          "word": " pop",
+          "start": 83.02,
+          "end": 83.64,
+          "probability": 0.9469314217567444
+        },
+        {
+          "word": " that",
+          "start": 83.64,
+          "end": 84.64,
+          "probability": 0.6955828666687012
+        },
+        {
+          "word": " never",
+          "start": 84.64,
+          "end": 85.1,
+          "probability": 0.9978669285774231
+        },
+        {
+          "word": " goes",
+          "start": 85.1,
+          "end": 85.72,
+          "probability": 0.9978785514831543
+        },
+        {
+          "word": " flat.",
+          "start": 85.72,
+          "end": 86.5,
+          "probability": 0.9978039860725403
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 8650,
+      "start": 88.26,
+      "end": 99.94,
+      "text": " And each bubble rises to the top of your gums and tickles you under your teeth.",
+      "tokens": [
+        50364,
+        400,
+        1184,
+        12212,
+        21373,
+        281,
+        264,
+        1192,
+        295,
+        428,
+        290,
+        8099,
+        293,
+        5204,
+        904,
+        291,
+        833,
+        428,
+        7798,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.175533854443094,
+      "compression_ratio": 1.0533333333333332,
+      "no_speech_prob": 0.13532699644565582,
+      "words": [
+        {
+          "word": " And",
+          "start": 88.26,
+          "end": 89.54,
+          "probability": 0.4266432225704193
+        },
+        {
+          "word": " each",
+          "start": 89.54,
+          "end": 90.18,
+          "probability": 0.9909507036209106
+        },
+        {
+          "word": " bubble",
+          "start": 90.18,
+          "end": 91.06,
+          "probability": 0.9895422458648682
+        },
+        {
+          "word": " rises",
+          "start": 91.06,
+          "end": 92.08,
+          "probability": 0.9890850186347961
+        },
+        {
+          "word": " to",
+          "start": 92.08,
+          "end": 92.52,
+          "probability": 0.9906259775161743
+        },
+        {
+          "word": " the",
+          "start": 92.52,
+          "end": 92.82,
+          "probability": 0.9955565333366394
+        },
+        {
+          "word": " top",
+          "start": 92.82,
+          "end": 93.16,
+          "probability": 0.989367663860321
+        },
+        {
+          "word": " of",
+          "start": 93.16,
+          "end": 93.42,
+          "probability": 0.9920222759246826
+        },
+        {
+          "word": " your",
+          "start": 93.42,
+          "end": 93.78,
+          "probability": 0.9921504259109497
+        },
+        {
+          "word": " gums",
+          "start": 93.78,
+          "end": 95.34,
+          "probability": 0.9188318252563477
+        },
+        {
+          "word": " and",
+          "start": 95.34,
+          "end": 96.5,
+          "probability": 0.5564360618591309
+        },
+        {
+          "word": " tickles",
+          "start": 96.5,
+          "end": 97.18,
+          "probability": 0.8998546898365021
+        },
+        {
+          "word": " you",
+          "start": 97.18,
+          "end": 97.54,
+          "probability": 0.9870308041572571
+        },
+        {
+          "word": " under",
+          "start": 97.54,
+          "end": 98.06,
+          "probability": 0.9595836400985718
+        },
+        {
+          "word": " your",
+          "start": 98.06,
+          "end": 98.48,
+          "probability": 0.9912512898445129
+        },
+        {
+          "word": " teeth.",
+          "start": 98.48,
+          "end": 99.94,
+          "probability": 0.9984765648841858
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 9994,
+      "start": 110.19999999999999,
+      "end": 114.52,
+      "text": " I know there will.",
+      "tokens": [
+        50364,
+        286,
+        458,
+        456,
+        486,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4359610080718994,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.7449435591697693,
+      "words": [
+        {
+          "word": " I",
+          "start": 110.19999999999999,
+          "end": 111.6,
+          "probability": 0.07297591865062714
+        },
+        {
+          "word": " know",
+          "start": 111.6,
+          "end": 112.66,
+          "probability": 0.16145016252994537
+        },
+        {
+          "word": " there",
+          "start": 112.66,
+          "end": 113.56,
+          "probability": 0.015777908265590668
+        },
+        {
+          "word": " will.",
+          "start": 113.56,
+          "end": 114.52,
+          "probability": 0.017245609313249588
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 9994,
+      "start": 118.02,
+      "end": 121.32,
+      "text": " I know there will.",
+      "tokens": [
+        50864,
+        286,
+        458,
+        456,
+        486,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4359610080718994,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.7449435591697693,
+      "words": [
+        {
+          "word": " I",
+          "start": 118.02,
+          "end": 119.42,
+          "probability": 0.8248043060302734
+        },
+        {
+          "word": " know",
+          "start": 119.42,
+          "end": 120.28,
+          "probability": 0.9508033394813538
+        },
+        {
+          "word": " there",
+          "start": 120.28,
+          "end": 121.12,
+          "probability": 0.7956072688102722
+        },
+        {
+          "word": " will.",
+          "start": 121.12,
+          "end": 121.32,
+          "probability": 0.9760815501213074
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 12132,
+      "start": 121.32,
+      "end": 138.36,
+      "text": " I know there will.",
+      "tokens": [
+        50364,
+        286,
+        458,
+        456,
+        486,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42013657093048096,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.9299106001853943,
+      "words": [
+        {
+          "word": " I",
+          "start": 121.32,
+          "end": 121.32,
+          "probability": 0.01429057028144598
+        },
+        {
+          "word": " know",
+          "start": 121.32,
+          "end": 121.4,
+          "probability": 0.013118275441229343
+        },
+        {
+          "word": " there",
+          "start": 121.4,
+          "end": 138.24,
+          "probability": 0.005928917322307825
+        },
+        {
+          "word": " will.",
+          "start": 138.24,
+          "end": 138.36,
+          "probability": 0.017184194177389145
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 12132,
+      "start": 151.06,
+      "end": 151.3,
+      "text": " I know there will.",
+      "tokens": [
+        50714,
+        286,
+        458,
+        456,
+        486,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42013657093048096,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.9299106001853943,
+      "words": [
+        {
+          "word": " I",
+          "start": 151.06,
+          "end": 151.3,
+          "probability": 0.23805014789104462
+        },
+        {
+          "word": " know",
+          "start": 151.3,
+          "end": 151.3,
+          "probability": 0.5327935218811035
+        },
+        {
+          "word": " there",
+          "start": 151.3,
+          "end": 151.3,
+          "probability": 0.4096975326538086
+        },
+        {
+          "word": " will.",
+          "start": 151.3,
+          "end": 151.3,
+          "probability": 0.872460126876831
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 15130,
+      "start": 151.3,
+      "end": 152.22,
+      "text": " I know there will.",
+      "tokens": [
+        50364,
+        286,
+        458,
+        456,
+        486,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41587525606155396,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.9400591850280762,
+      "words": [
+        {
+          "word": " I",
+          "start": 151.3,
+          "end": 151.32,
+          "probability": 0.01655764877796173
+        },
+        {
+          "word": " know",
+          "start": 151.32,
+          "end": 151.42,
+          "probability": 0.015004102140665054
+        },
+        {
+          "word": " there",
+          "start": 151.42,
+          "end": 151.42,
+          "probability": 0.004511642269790173
+        },
+        {
+          "word": " will.",
+          "start": 151.42,
+          "end": 152.22,
+          "probability": 0.016455335542559624
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 15130,
+      "start": 152.22,
+      "end": 165.08,
+      "text": " I know there will.",
+      "tokens": [
+        50714,
+        286,
+        458,
+        456,
+        486,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41587525606155396,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.9400591850280762,
+      "words": [
+        {
+          "word": " I",
+          "start": 152.22,
+          "end": 152.42,
+          "probability": 0.27138328552246094
+        },
+        {
+          "word": " know",
+          "start": 152.42,
+          "end": 156.3,
+          "probability": 0.5702273845672607
+        },
+        {
+          "word": " there",
+          "start": 156.3,
+          "end": 163.4,
+          "probability": 0.38410037755966187
+        },
+        {
+          "word": " will.",
+          "start": 163.4,
+          "end": 165.08,
+          "probability": 0.8661150336265564
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 16508,
+      "start": 165.08,
+      "end": 166.32,
+      "text": " I know there will.",
+      "tokens": [
+        50364,
+        286,
+        458,
+        456,
+        486,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.393334166208903,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.9304448366165161,
+      "words": [
+        {
+          "word": " I",
+          "start": 165.08,
+          "end": 165.08,
+          "probability": 0.007258254569023848
+        },
+        {
+          "word": " know",
+          "start": 165.08,
+          "end": 165.74,
+          "probability": 0.016037262976169586
+        },
+        {
+          "word": " there",
+          "start": 165.74,
+          "end": 165.78,
+          "probability": 0.005371084436774254
+        },
+        {
+          "word": " will.",
+          "start": 165.78,
+          "end": 166.32,
+          "probability": 0.017066681757569313
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 16508,
+      "start": 166.32,
+      "end": 194.94,
+      "text": " I know there will.",
+      "tokens": [
+        50714,
+        286,
+        458,
+        456,
+        486,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.393334166208903,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.9304448366165161,
+      "words": [
+        {
+          "word": " I",
+          "start": 166.32,
+          "end": 166.32,
+          "probability": 0.22296151518821716
+        },
+        {
+          "word": " know",
+          "start": 166.32,
+          "end": 193.08,
+          "probability": 0.43964919447898865
+        },
+        {
+          "word": " there",
+          "start": 193.08,
+          "end": 194.74,
+          "probability": 0.27916333079338074
+        },
+        {
+          "word": " will.",
+          "start": 194.74,
+          "end": 194.94,
+          "probability": 0.815210223197937
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 19508,
+      "start": 219.17999999999998,
+      "end": 224.72,
+      "text": " I know there will.",
+      "tokens": [
+        50364,
+        286,
+        458,
+        456,
+        486,
+        13,
+        50964
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.49675851398044163,
+      "compression_ratio": 0.6923076923076923,
+      "no_speech_prob": 0.9501370787620544,
+      "words": [
+        {
+          "word": " I",
+          "start": 219.17999999999998,
+          "end": 220.57999999999998,
+          "probability": 0.008926352486014366
+        },
+        {
+          "word": " know",
+          "start": 220.57999999999998,
+          "end": 221.98,
+          "probability": 0.01261313259601593
+        },
+        {
+          "word": " there",
+          "start": 221.98,
+          "end": 224.56,
+          "probability": 0.007571160793304443
+        },
+        {
+          "word": " will.",
+          "start": 224.56,
+          "end": 224.72,
+          "probability": 0.016980493441224098
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 22472,
+      "start": 224.72,
+      "end": 226.12,
+      "text": " I know there will.",
+      "tokens": [
+        50364,
+        286,
+        458,
+        456,
+        486,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3119557201862335,
+      "compression_ratio": 0.6923076923076923,
+      "no_speech_prob": 0.9839401245117188,
+      "words": [
+        {
+          "word": " I",
+          "start": 224.72,
+          "end": 224.72,
+          "probability": 0.0069360616616904736
+        },
+        {
+          "word": " know",
+          "start": 224.72,
+          "end": 225.32,
+          "probability": 0.009249490685760975
+        },
+        {
+          "word": " there",
+          "start": 225.32,
+          "end": 226.1,
+          "probability": 0.007329802960157394
+        },
+        {
+          "word": " will.",
+          "start": 226.1,
+          "end": 226.12,
+          "probability": 0.025132082402706146
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

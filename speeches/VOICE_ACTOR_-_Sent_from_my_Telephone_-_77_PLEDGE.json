@@ -1,0 +1,1117 @@
+{
+  "text": " The strangers that come every night Wrapped in a space suit It's still dark outside The strangers that come every night Tentacles, tracks, reaching out, contracting, bending Blinded, wrapped in space suit It's still dark outside Sweeping myself in Through dry terrain I wander With ever end With ever end With ever end I wander With ever end With ever end I wander With ever end With ever end With ever end With ever end With ever end With ever end With ever end With ever end With ever end",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 31.660000000000004,
+      "end": 40.0,
+      "text": " The strangers that come every night",
+      "tokens": [
+        50364,
+        440,
+        22724,
+        300,
+        808,
+        633,
+        1818,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3650806500361516,
+      "compression_ratio": 1.0506329113924051,
+      "no_speech_prob": 0.7616830468177795,
+      "words": [
+        {
+          "word": " The",
+          "start": 31.660000000000004,
+          "end": 33.06,
+          "probability": 0.07871546596288681
+        },
+        {
+          "word": " strangers",
+          "start": 33.06,
+          "end": 34.46,
+          "probability": 0.7800164818763733
+        },
+        {
+          "word": " that",
+          "start": 34.46,
+          "end": 35.14,
+          "probability": 0.9154497981071472
+        },
+        {
+          "word": " come",
+          "start": 35.14,
+          "end": 36.1,
+          "probability": 0.984394371509552
+        },
+        {
+          "word": " every",
+          "start": 36.1,
+          "end": 38.16,
+          "probability": 0.5629584789276123
+        },
+        {
+          "word": " night",
+          "start": 38.16,
+          "end": 40.0,
+          "probability": 0.9971146583557129
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 46.68,
+      "end": 51.0,
+      "text": " Wrapped in a space suit",
+      "tokens": [
+        51164,
+        343,
+        424,
+        3320,
+        294,
+        257,
+        1901,
+        5722,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3650806500361516,
+      "compression_ratio": 1.0506329113924051,
+      "no_speech_prob": 0.7616830468177795,
+      "words": [
+        {
+          "word": " Wrapped",
+          "start": 46.68,
+          "end": 48.08,
+          "probability": 0.9010564486185709
+        },
+        {
+          "word": " in",
+          "start": 48.08,
+          "end": 48.88,
+          "probability": 0.9950241446495056
+        },
+        {
+          "word": " a",
+          "start": 48.88,
+          "end": 49.12,
+          "probability": 0.7814159393310547
+        },
+        {
+          "word": " space",
+          "start": 49.12,
+          "end": 49.76,
+          "probability": 0.38158005475997925
+        },
+        {
+          "word": " suit",
+          "start": 49.76,
+          "end": 51.0,
+          "probability": 0.9143008589744568
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 52.14,
+      "end": 56.0,
+      "text": " It's still dark outside",
+      "tokens": [
+        51464,
+        467,
+        311,
+        920,
+        2877,
+        2380,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3650806500361516,
+      "compression_ratio": 1.0506329113924051,
+      "no_speech_prob": 0.7616830468177795,
+      "words": [
+        {
+          "word": " It's",
+          "start": 52.14,
+          "end": 53.44,
+          "probability": 0.7283279299736023
+        },
+        {
+          "word": " still",
+          "start": 53.44,
+          "end": 53.88,
+          "probability": 0.9629539847373962
+        },
+        {
+          "word": " dark",
+          "start": 53.88,
+          "end": 54.4,
+          "probability": 0.9983239769935608
+        },
+        {
+          "word": " outside",
+          "start": 54.4,
+          "end": 56.0,
+          "probability": 0.998396098613739
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 5600,
+      "start": 57.0,
+      "end": 67.0,
+      "text": " The strangers that come every night",
+      "tokens": [
+        50414,
+        440,
+        22724,
+        300,
+        808,
+        633,
+        1818,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2753222584724426,
+      "compression_ratio": 1.1125,
+      "no_speech_prob": 0.059786226600408554,
+      "words": [
+        {
+          "word": " The",
+          "start": 57.0,
+          "end": 58.5,
+          "probability": 0.06122799217700958
+        },
+        {
+          "word": " strangers",
+          "start": 58.5,
+          "end": 60.34,
+          "probability": 0.8605102300643921
+        },
+        {
+          "word": " that",
+          "start": 60.34,
+          "end": 61.04,
+          "probability": 0.9496799111366272
+        },
+        {
+          "word": " come",
+          "start": 61.04,
+          "end": 62.0,
+          "probability": 0.9516789317131042
+        },
+        {
+          "word": " every",
+          "start": 62.0,
+          "end": 65.26,
+          "probability": 0.30479004979133606
+        },
+        {
+          "word": " night",
+          "start": 65.26,
+          "end": 67.0,
+          "probability": 0.9978196620941162
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 5600,
+      "start": 74.69999999999999,
+      "end": 81.0,
+      "text": " Tentacles, tracks, reaching out, contracting, bending",
+      "tokens": [
+        51264,
+        314,
+        317,
+        9918,
+        11,
+        10218,
+        11,
+        9906,
+        484,
+        11,
+        36095,
+        11,
+        22487,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2753222584724426,
+      "compression_ratio": 1.1125,
+      "no_speech_prob": 0.059786226600408554,
+      "words": [
+        {
+          "word": " Tentacles,",
+          "start": 74.69999999999999,
+          "end": 76.1,
+          "probability": 0.9207510550816854
+        },
+        {
+          "word": " tracks,",
+          "start": 76.3,
+          "end": 77.04,
+          "probability": 0.6435089111328125
+        },
+        {
+          "word": " reaching",
+          "start": 77.24,
+          "end": 77.8,
+          "probability": 0.9913637638092041
+        },
+        {
+          "word": " out,",
+          "start": 77.8,
+          "end": 78.46,
+          "probability": 0.9242869019508362
+        },
+        {
+          "word": " contracting,",
+          "start": 78.9,
+          "end": 79.86,
+          "probability": 0.9927505254745483
+        },
+        {
+          "word": " bending",
+          "start": 80.8,
+          "end": 81.5,
+          "probability": 0.2532474994659424
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 8150,
+      "start": 81.5,
+      "end": 85.48,
+      "text": " Blinded, wrapped in space suit",
+      "tokens": [
+        50364,
+        34126,
+        292,
+        11,
+        14226,
+        294,
+        1901,
+        5722,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32225636432045385,
+      "compression_ratio": 1.1153846153846154,
+      "no_speech_prob": 0.03724871575832367,
+      "words": [
+        {
+          "word": " Blinded,",
+          "start": 81.5,
+          "end": 83.28,
+          "probability": 0.4916359595954418
+        },
+        {
+          "word": " wrapped",
+          "start": 83.5,
+          "end": 83.78,
+          "probability": 0.9582026600837708
+        },
+        {
+          "word": " in",
+          "start": 83.78,
+          "end": 84.38,
+          "probability": 0.9376739263534546
+        },
+        {
+          "word": " space",
+          "start": 84.38,
+          "end": 84.94,
+          "probability": 0.30698534846305847
+        },
+        {
+          "word": " suit",
+          "start": 84.94,
+          "end": 85.48,
+          "probability": 0.7995675206184387
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 8150,
+      "start": 85.48,
+      "end": 87.5,
+      "text": " It's still dark outside",
+      "tokens": [
+        50564,
+        467,
+        311,
+        920,
+        2877,
+        2380,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32225636432045385,
+      "compression_ratio": 1.1153846153846154,
+      "no_speech_prob": 0.03724871575832367,
+      "words": [
+        {
+          "word": " It's",
+          "start": 85.48,
+          "end": 86.32,
+          "probability": 0.8078879415988922
+        },
+        {
+          "word": " still",
+          "start": 86.32,
+          "end": 86.64,
+          "probability": 0.9896962642669678
+        },
+        {
+          "word": " dark",
+          "start": 86.64,
+          "end": 87.26,
+          "probability": 0.7516289949417114
+        },
+        {
+          "word": " outside",
+          "start": 87.26,
+          "end": 87.96000000000001,
+          "probability": 0.9647555947303772
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 8150,
+      "start": 88.16,
+      "end": 91.5,
+      "text": " Sweeping myself in",
+      "tokens": [
+        50714,
+        29918,
+        10921,
+        2059,
+        294,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32225636432045385,
+      "compression_ratio": 1.1153846153846154,
+      "no_speech_prob": 0.03724871575832367,
+      "words": [
+        {
+          "word": " Sweeping",
+          "start": 88.16,
+          "end": 90.26,
+          "probability": 0.7877626717090607
+        },
+        {
+          "word": " myself",
+          "start": 90.26,
+          "end": 91.28,
+          "probability": 0.7287159562110901
+        },
+        {
+          "word": " in",
+          "start": 91.28,
+          "end": 91.98,
+          "probability": 0.23384393751621246
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 8150,
+      "start": 94.02,
+      "end": 97.5,
+      "text": " Through dry terrain",
+      "tokens": [
+        51014,
+        8927,
+        4016,
+        17674,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32225636432045385,
+      "compression_ratio": 1.1153846153846154,
+      "no_speech_prob": 0.03724871575832367,
+      "words": [
+        {
+          "word": " Through",
+          "start": 94.02,
+          "end": 95.42,
+          "probability": 0.8262211680412292
+        },
+        {
+          "word": " dry",
+          "start": 95.42,
+          "end": 95.96,
+          "probability": 0.9193541407585144
+        },
+        {
+          "word": " terrain",
+          "start": 95.96,
+          "end": 97.5,
+          "probability": 0.996242880821228
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 8150,
+      "start": 100.13999999999999,
+      "end": 102.94,
+      "text": " I wander",
+      "tokens": [
+        51314,
+        286,
+        27541,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32225636432045385,
+      "compression_ratio": 1.1153846153846154,
+      "no_speech_prob": 0.03724871575832367,
+      "words": [
+        {
+          "word": " I",
+          "start": 100.13999999999999,
+          "end": 101.53999999999999,
+          "probability": 0.9432985782623291
+        },
+        {
+          "word": " wander",
+          "start": 101.53999999999999,
+          "end": 102.94,
+          "probability": 0.5689345598220825
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 8150,
+      "start": 103.5,
+      "end": 106.5,
+      "text": " With ever end",
+      "tokens": [
+        51464,
+        2022,
+        1562,
+        917,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32225636432045385,
+      "compression_ratio": 1.1153846153846154,
+      "no_speech_prob": 0.03724871575832367,
+      "words": [
+        {
+          "word": " With",
+          "start": 103.5,
+          "end": 104.84,
+          "probability": 0.3319246768951416
+        },
+        {
+          "word": " ever",
+          "start": 104.84,
+          "end": 105.9,
+          "probability": 0.23788250982761383
+        },
+        {
+          "word": " end",
+          "start": 105.9,
+          "end": 106.60000000000001,
+          "probability": 0.8455206155776978
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 10660,
+      "start": 108.55999999999999,
+      "end": 113.26,
+      "text": " With ever end",
+      "tokens": [
+        50364,
+        2022,
+        1562,
+        917,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5201232035954794,
+      "compression_ratio": 1.08,
+      "no_speech_prob": 0.1140955239534378,
+      "words": [
+        {
+          "word": " With",
+          "start": 108.55999999999999,
+          "end": 109.96,
+          "probability": 0.012363884598016739
+        },
+        {
+          "word": " ever",
+          "start": 109.96,
+          "end": 111.04,
+          "probability": 0.0037493084091693163
+        },
+        {
+          "word": " end",
+          "start": 111.04,
+          "end": 113.26,
+          "probability": 0.026788553223013878
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 10660,
+      "start": 113.26,
+      "end": 118.12,
+      "text": " With ever end",
+      "tokens": [
+        50564,
+        2022,
+        1562,
+        917,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5201232035954794,
+      "compression_ratio": 1.08,
+      "no_speech_prob": 0.1140955239534378,
+      "words": [
+        {
+          "word": " With",
+          "start": 113.26,
+          "end": 114.5,
+          "probability": 0.31590428948402405
+        },
+        {
+          "word": " ever",
+          "start": 114.5,
+          "end": 115.5,
+          "probability": 0.9864054322242737
+        },
+        {
+          "word": " end",
+          "start": 115.5,
+          "end": 118.12,
+          "probability": 0.9898775219917297
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 11812,
+      "start": 124.83999999999999,
+      "end": 126.24,
+      "text": " I wander",
+      "tokens": [
+        50364,
+        286,
+        27541,
+        50464
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.5282458941141764,
+      "compression_ratio": 2.1470588235294117,
+      "no_speech_prob": 0.2689913511276245,
+      "words": [
+        {
+          "word": " I",
+          "start": 124.83999999999999,
+          "end": 126.24,
+          "probability": 0.0071233464404940605
+        },
+        {
+          "word": " wander",
+          "start": 126.24,
+          "end": 126.24,
+          "probability": 7.6189708124729805e-06
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 11812,
+      "start": 129.35999999999999,
+      "end": 131.62,
+      "text": " With ever end",
+      "tokens": [
+        50664,
+        2022,
+        1562,
+        917,
+        50814
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.5282458941141764,
+      "compression_ratio": 2.1470588235294117,
+      "no_speech_prob": 0.2689913511276245,
+      "words": [
+        {
+          "word": " With",
+          "start": 129.35999999999999,
+          "end": 130.76,
+          "probability": 0.000170005441759713
+        },
+        {
+          "word": " ever",
+          "start": 130.76,
+          "end": 131.62,
+          "probability": 0.0002681014302652329
+        },
+        {
+          "word": " end",
+          "start": 131.62,
+          "end": 131.62,
+          "probability": 0.0004866762610618025
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 11812,
+      "start": 131.62,
+      "end": 134.12,
+      "text": " With ever end",
+      "tokens": [
+        50964,
+        2022,
+        1562,
+        917,
+        51164
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.5282458941141764,
+      "compression_ratio": 2.1470588235294117,
+      "no_speech_prob": 0.2689913511276245,
+      "words": [
+        {
+          "word": " With",
+          "start": 131.62,
+          "end": 131.62,
+          "probability": 0.002216137247160077
+        },
+        {
+          "word": " ever",
+          "start": 131.62,
+          "end": 132.4,
+          "probability": 0.8551069498062134
+        },
+        {
+          "word": " end",
+          "start": 132.4,
+          "end": 134.12,
+          "probability": 0.9161765575408936
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 11812,
+      "start": 134.96,
+      "end": 136.44,
+      "text": " I wander",
+      "tokens": [
+        51214,
+        286,
+        27541,
+        51314
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.5282458941141764,
+      "compression_ratio": 2.1470588235294117,
+      "no_speech_prob": 0.2689913511276245,
+      "words": [
+        {
+          "word": " I",
+          "start": 134.96,
+          "end": 136.44,
+          "probability": 0.17664648592472076
+        },
+        {
+          "word": " wander",
+          "start": 136.44,
+          "end": 136.44,
+          "probability": 0.7338701486587524
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 11812,
+      "start": 139.34,
+      "end": 141.12,
+      "text": " With ever end",
+      "tokens": [
+        51364,
+        2022,
+        1562,
+        917,
+        51514
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.5282458941141764,
+      "compression_ratio": 2.1470588235294117,
+      "no_speech_prob": 0.2689913511276245,
+      "words": [
+        {
+          "word": " With",
+          "start": 139.34,
+          "end": 140.74,
+          "probability": 0.3782239854335785
+        },
+        {
+          "word": " ever",
+          "start": 140.74,
+          "end": 140.8,
+          "probability": 0.969420850276947
+        },
+        {
+          "word": " end",
+          "start": 140.8,
+          "end": 141.5,
+          "probability": 0.9801161289215088
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 11812,
+      "start": 143.48,
+      "end": 145.12,
+      "text": " With ever end",
+      "tokens": [
+        51564,
+        2022,
+        1562,
+        917,
+        51714
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.5282458941141764,
+      "compression_ratio": 2.1470588235294117,
+      "no_speech_prob": 0.2689913511276245,
+      "words": [
+        {
+          "word": " With",
+          "start": 143.48,
+          "end": 143.48,
+          "probability": 0.24202358722686768
+        },
+        {
+          "word": " ever",
+          "start": 143.48,
+          "end": 143.48,
+          "probability": 0.9880920648574829
+        },
+        {
+          "word": " end",
+          "start": 143.48,
+          "end": 145.12,
+          "probability": 0.9828421473503113
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 14512,
+      "start": 154.0,
+      "end": 155.4,
+      "text": " With ever end",
+      "tokens": [
+        50414,
+        2022,
+        1562,
+        917,
+        50614
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.30600933498806426,
+      "compression_ratio": 3.026315789473684,
+      "no_speech_prob": 0.09096033871173859,
+      "words": [
+        {
+          "word": " With",
+          "start": 154.0,
+          "end": 155.4,
+          "probability": 0.00013454972940962762
+        },
+        {
+          "word": " ever",
+          "start": 155.4,
+          "end": 155.4,
+          "probability": 0.00012974660785403103
+        },
+        {
+          "word": " end",
+          "start": 155.4,
+          "end": 155.4,
+          "probability": 0.0003359134425409138
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 14512,
+      "start": 155.4,
+      "end": 155.4,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -0.30600933498806426,
+      "compression_ratio": 3.026315789473684,
+      "no_speech_prob": 0.09096033871173859,
+      "words": []
+    },
+    {
+      "id": 21,
+      "seek": 14512,
+      "start": 155.4,
+      "end": 155.6,
+      "text": " With ever end",
+      "tokens": [
+        50864,
+        2022,
+        1562,
+        917,
+        50964
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.30600933498806426,
+      "compression_ratio": 3.026315789473684,
+      "no_speech_prob": 0.09096033871173859,
+      "words": [
+        {
+          "word": " With",
+          "start": 155.4,
+          "end": 155.4,
+          "probability": 0.002176150679588318
+        },
+        {
+          "word": " ever",
+          "start": 155.4,
+          "end": 155.54,
+          "probability": 0.9044512510299683
+        },
+        {
+          "word": " end",
+          "start": 155.54,
+          "end": 155.6,
+          "probability": 0.9220011234283447
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 14512,
+      "start": 157.94,
+      "end": 160.68,
+      "text": " With ever end",
+      "tokens": [
+        51014,
+        2022,
+        1562,
+        917,
+        51114
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.30600933498806426,
+      "compression_ratio": 3.026315789473684,
+      "no_speech_prob": 0.09096033871173859,
+      "words": [
+        {
+          "word": " With",
+          "start": 157.94,
+          "end": 159.34,
+          "probability": 0.005256494507193565
+        },
+        {
+          "word": " ever",
+          "start": 159.34,
+          "end": 160.36,
+          "probability": 0.9554316997528076
+        },
+        {
+          "word": " end",
+          "start": 160.36,
+          "end": 160.68,
+          "probability": 0.9492078423500061
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 14512,
+      "start": 160.68,
+      "end": 160.68,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -0.30600933498806426,
+      "compression_ratio": 3.026315789473684,
+      "no_speech_prob": 0.09096033871173859,
+      "words": []
+    },
+    {
+      "id": 24,
+      "seek": 14512,
+      "start": 160.68,
+      "end": 164.98,
+      "text": " With ever end",
+      "tokens": [
+        51264,
+        2022,
+        1562,
+        917,
+        51364
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.30600933498806426,
+      "compression_ratio": 3.026315789473684,
+      "no_speech_prob": 0.09096033871173859,
+      "words": [
+        {
+          "word": " With",
+          "start": 160.68,
+          "end": 162.54,
+          "probability": 0.7936381101608276
+        },
+        {
+          "word": " ever",
+          "start": 162.54,
+          "end": 163.68,
+          "probability": 0.9884123206138611
+        },
+        {
+          "word": " end",
+          "start": 163.68,
+          "end": 164.98,
+          "probability": 0.9931544065475464
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 14512,
+      "start": 164.98,
+      "end": 166.16,
+      "text": " With ever end",
+      "tokens": [
+        51414,
+        2022,
+        1562,
+        917,
+        51514
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.30600933498806426,
+      "compression_ratio": 3.026315789473684,
+      "no_speech_prob": 0.09096033871173859,
+      "words": [
+        {
+          "word": " With",
+          "start": 164.98,
+          "end": 165.72,
+          "probability": 0.6610502600669861
+        },
+        {
+          "word": " ever",
+          "start": 165.72,
+          "end": 165.84,
+          "probability": 0.9870880842208862
+        },
+        {
+          "word": " end",
+          "start": 165.84,
+          "end": 166.16,
+          "probability": 0.9922673106193542
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 14512,
+      "start": 166.16,
+      "end": 167.78,
+      "text": " With ever end",
+      "tokens": [
+        51564,
+        2022,
+        1562,
+        917,
+        51664
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.30600933498806426,
+      "compression_ratio": 3.026315789473684,
+      "no_speech_prob": 0.09096033871173859,
+      "words": [
+        {
+          "word": " With",
+          "start": 166.16,
+          "end": 166.56,
+          "probability": 0.6695599555969238
+        },
+        {
+          "word": " ever",
+          "start": 166.56,
+          "end": 167.52,
+          "probability": 0.9868583679199219
+        },
+        {
+          "word": " end",
+          "start": 167.52,
+          "end": 167.78,
+          "probability": 0.9929158687591553
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 14512,
+      "start": 167.78,
+      "end": 172.28,
+      "text": " With ever end",
+      "tokens": [
+        51714,
+        2022,
+        1562,
+        917,
+        51764
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.30600933498806426,
+      "compression_ratio": 3.026315789473684,
+      "no_speech_prob": 0.09096033871173859,
+      "words": [
+        {
+          "word": " With",
+          "start": 167.78,
+          "end": 169.64,
+          "probability": 0.8027883768081665
+        },
+        {
+          "word": " ever",
+          "start": 169.64,
+          "end": 169.94,
+          "probability": 0.9879339933395386
+        },
+        {
+          "word": " end",
+          "start": 169.94,
+          "end": 172.28,
+          "probability": 0.9938924312591553
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

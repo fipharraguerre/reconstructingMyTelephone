@@ -1,0 +1,2038 @@
+{
+  "text": " I drove that we're going on vacation. We're on the deck of a ship. It looks like a cruise ship. We're watching the land disappear. The birds are you view as if we're on a plane. There's a mountain in the distance. It looks like the content face of someone who's not in a hurry. Waiting patiently for us to return. It's midday, there are no shadows. It gets smaller and smaller. There are ants walking on that mountain. We know who the best ants are. There are people we know. Shadowless ants. We didn't pack anything. We don't need anything. Dusk is setting. We have no shadows to indicate the position of the sun. The ocean looks like an airport conveyor belt. Husky sounds are coming from above. And you explain to me that it's all our songs played at once. And that's what's producing this purple haze that's coloring the water. This hazy river is enveloping our ears. Mixing with the earth. The sun is setting. It's getting dark. And the sun is setting. The sun is setting. And the sun is setting. And the sun is setting. The sun is setting. The sun is setting. The sun is setting.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 2.3600000000000003,
+      "end": 5.92,
+      "text": " I drove that we're going on vacation.",
+      "tokens": [
+        50364,
+        286,
+        13226,
+        300,
+        321,
+        434,
+        516,
+        322,
+        12830,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.279523631982636,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.41989466547966003,
+      "words": [
+        {
+          "word": " I",
+          "start": 2.3600000000000003,
+          "end": 3.04,
+          "probability": 0.8025807738304138
+        },
+        {
+          "word": " drove",
+          "start": 3.04,
+          "end": 3.32,
+          "probability": 0.3945292532444
+        },
+        {
+          "word": " that",
+          "start": 3.32,
+          "end": 3.66,
+          "probability": 0.7945373058319092
+        },
+        {
+          "word": " we're",
+          "start": 3.66,
+          "end": 3.9,
+          "probability": 0.7247863113880157
+        },
+        {
+          "word": " going",
+          "start": 3.9,
+          "end": 4.28,
+          "probability": 0.9961513876914978
+        },
+        {
+          "word": " on",
+          "start": 4.28,
+          "end": 4.56,
+          "probability": 0.9981058835983276
+        },
+        {
+          "word": " vacation.",
+          "start": 4.56,
+          "end": 5.92,
+          "probability": 0.9708016514778137
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.98,
+      "end": 8.7,
+      "text": " We're on the deck of a ship.",
+      "tokens": [
+        50664,
+        492,
+        434,
+        322,
+        264,
+        9341,
+        295,
+        257,
+        5374,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.279523631982636,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.41989466547966003,
+      "words": [
+        {
+          "word": " We're",
+          "start": 6.98,
+          "end": 7.16,
+          "probability": 0.9294931292533875
+        },
+        {
+          "word": " on",
+          "start": 7.16,
+          "end": 7.36,
+          "probability": 0.9149033427238464
+        },
+        {
+          "word": " the",
+          "start": 7.36,
+          "end": 7.7,
+          "probability": 0.9105187058448792
+        },
+        {
+          "word": " deck",
+          "start": 7.7,
+          "end": 7.78,
+          "probability": 0.9937781095504761
+        },
+        {
+          "word": " of",
+          "start": 7.78,
+          "end": 8.08,
+          "probability": 0.9820441007614136
+        },
+        {
+          "word": " a",
+          "start": 8.08,
+          "end": 8.22,
+          "probability": 0.9659696817398071
+        },
+        {
+          "word": " ship.",
+          "start": 8.22,
+          "end": 8.7,
+          "probability": 0.9982983469963074
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.94,
+      "end": 13.02,
+      "text": " It looks like a cruise ship.",
+      "tokens": [
+        50814,
+        467,
+        1542,
+        411,
+        257,
+        17754,
+        5374,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.279523631982636,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.41989466547966003,
+      "words": [
+        {
+          "word": " It",
+          "start": 9.94,
+          "end": 10.36,
+          "probability": 0.9775835275650024
+        },
+        {
+          "word": " looks",
+          "start": 10.36,
+          "end": 10.8,
+          "probability": 0.9915540814399719
+        },
+        {
+          "word": " like",
+          "start": 10.8,
+          "end": 11.46,
+          "probability": 0.9974628686904907
+        },
+        {
+          "word": " a",
+          "start": 11.46,
+          "end": 11.68,
+          "probability": 0.9829697608947754
+        },
+        {
+          "word": " cruise",
+          "start": 11.68,
+          "end": 12.06,
+          "probability": 0.9904025793075562
+        },
+        {
+          "word": " ship.",
+          "start": 12.06,
+          "end": 13.02,
+          "probability": 0.9979350566864014
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.34,
+      "end": 16.78,
+      "text": " We're watching the land disappear.",
+      "tokens": [
+        51014,
+        492,
+        434,
+        1976,
+        264,
+        2117,
+        11596,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.279523631982636,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.41989466547966003,
+      "words": [
+        {
+          "word": " We're",
+          "start": 14.34,
+          "end": 14.62,
+          "probability": 0.9842644035816193
+        },
+        {
+          "word": " watching",
+          "start": 14.62,
+          "end": 15.1,
+          "probability": 0.9978057742118835
+        },
+        {
+          "word": " the",
+          "start": 15.1,
+          "end": 15.5,
+          "probability": 0.9959595799446106
+        },
+        {
+          "word": " land",
+          "start": 15.5,
+          "end": 15.76,
+          "probability": 0.9948063492774963
+        },
+        {
+          "word": " disappear.",
+          "start": 15.76,
+          "end": 16.78,
+          "probability": 0.9932396411895752
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.5,
+      "end": 22.02,
+      "text": " The birds are you view as if we're on a plane.",
+      "tokens": [
+        51214,
+        440,
+        9009,
+        366,
+        291,
+        1910,
+        382,
+        498,
+        321,
+        434,
+        322,
+        257,
+        5720,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.279523631982636,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.41989466547966003,
+      "words": [
+        {
+          "word": " The",
+          "start": 18.5,
+          "end": 18.7,
+          "probability": 0.7115517258644104
+        },
+        {
+          "word": " birds",
+          "start": 18.7,
+          "end": 19.02,
+          "probability": 0.9679949879646301
+        },
+        {
+          "word": " are",
+          "start": 19.02,
+          "end": 19.32,
+          "probability": 0.9583513140678406
+        },
+        {
+          "word": " you",
+          "start": 19.32,
+          "end": 19.6,
+          "probability": 0.3816860020160675
+        },
+        {
+          "word": " view",
+          "start": 19.6,
+          "end": 19.82,
+          "probability": 0.8497573137283325
+        },
+        {
+          "word": " as",
+          "start": 19.82,
+          "end": 20.16,
+          "probability": 0.5593067407608032
+        },
+        {
+          "word": " if",
+          "start": 20.16,
+          "end": 20.46,
+          "probability": 0.916222333908081
+        },
+        {
+          "word": " we're",
+          "start": 20.46,
+          "end": 20.66,
+          "probability": 0.9555294215679169
+        },
+        {
+          "word": " on",
+          "start": 20.66,
+          "end": 20.94,
+          "probability": 0.9662335515022278
+        },
+        {
+          "word": " a",
+          "start": 20.94,
+          "end": 21.08,
+          "probability": 0.9908780455589294
+        },
+        {
+          "word": " plane.",
+          "start": 21.08,
+          "end": 22.02,
+          "probability": 0.978174090385437
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2202,
+      "start": 24.06,
+      "end": 27.64,
+      "text": " There's a mountain in the distance.",
+      "tokens": [
+        50414,
+        821,
+        311,
+        257,
+        6937,
+        294,
+        264,
+        4560,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15497414588928224,
+      "compression_ratio": 1.3076923076923077,
+      "no_speech_prob": 0.033380310982465744,
+      "words": [
+        {
+          "word": " There's",
+          "start": 24.06,
+          "end": 25.0,
+          "probability": 0.713315486907959
+        },
+        {
+          "word": " a",
+          "start": 25.0,
+          "end": 25.34,
+          "probability": 0.9841826558113098
+        },
+        {
+          "word": " mountain",
+          "start": 25.34,
+          "end": 25.9,
+          "probability": 0.9718526005744934
+        },
+        {
+          "word": " in",
+          "start": 25.9,
+          "end": 26.38,
+          "probability": 0.9900463223457336
+        },
+        {
+          "word": " the",
+          "start": 26.38,
+          "end": 26.44,
+          "probability": 0.998336672782898
+        },
+        {
+          "word": " distance.",
+          "start": 26.44,
+          "end": 27.64,
+          "probability": 0.9988382458686829
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2202,
+      "start": 30.18,
+      "end": 36.019999999999996,
+      "text": " It looks like the content face of someone who's not in a hurry.",
+      "tokens": [
+        50764,
+        467,
+        1542,
+        411,
+        264,
+        2701,
+        1851,
+        295,
+        1580,
+        567,
+        311,
+        406,
+        294,
+        257,
+        11025,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15497414588928224,
+      "compression_ratio": 1.3076923076923077,
+      "no_speech_prob": 0.033380310982465744,
+      "words": [
+        {
+          "word": " It",
+          "start": 30.18,
+          "end": 31.06,
+          "probability": 0.9764947891235352
+        },
+        {
+          "word": " looks",
+          "start": 31.06,
+          "end": 31.54,
+          "probability": 0.9949682354927063
+        },
+        {
+          "word": " like",
+          "start": 31.54,
+          "end": 31.98,
+          "probability": 0.9975415468215942
+        },
+        {
+          "word": " the",
+          "start": 31.98,
+          "end": 32.38,
+          "probability": 0.9872660636901855
+        },
+        {
+          "word": " content",
+          "start": 32.38,
+          "end": 32.84,
+          "probability": 0.9790695309638977
+        },
+        {
+          "word": " face",
+          "start": 32.84,
+          "end": 33.54,
+          "probability": 0.9576502442359924
+        },
+        {
+          "word": " of",
+          "start": 33.54,
+          "end": 33.94,
+          "probability": 0.9796847105026245
+        },
+        {
+          "word": " someone",
+          "start": 33.94,
+          "end": 34.3,
+          "probability": 0.6552098989486694
+        },
+        {
+          "word": " who's",
+          "start": 34.3,
+          "end": 34.82,
+          "probability": 0.8249334096908569
+        },
+        {
+          "word": " not",
+          "start": 34.82,
+          "end": 35.18,
+          "probability": 0.9972031116485596
+        },
+        {
+          "word": " in",
+          "start": 35.18,
+          "end": 35.52,
+          "probability": 0.9984074234962463
+        },
+        {
+          "word": " a",
+          "start": 35.52,
+          "end": 35.7,
+          "probability": 0.9916109442710876
+        },
+        {
+          "word": " hurry.",
+          "start": 35.7,
+          "end": 36.17,
+          "probability": 0.9997128844261169
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2202,
+      "start": 37.02,
+      "end": 40.24,
+      "text": " Waiting patiently for us to return.",
+      "tokens": [
+        51064,
+        37291,
+        49001,
+        337,
+        505,
+        281,
+        2736,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15497414588928224,
+      "compression_ratio": 1.3076923076923077,
+      "no_speech_prob": 0.033380310982465744,
+      "words": [
+        {
+          "word": " Waiting",
+          "start": 37.02,
+          "end": 37.58,
+          "probability": 0.9241132736206055
+        },
+        {
+          "word": " patiently",
+          "start": 37.58,
+          "end": 38.5,
+          "probability": 0.993012011051178
+        },
+        {
+          "word": " for",
+          "start": 38.5,
+          "end": 38.92,
+          "probability": 0.9949576258659363
+        },
+        {
+          "word": " us",
+          "start": 38.92,
+          "end": 39.28,
+          "probability": 0.9991807341575623
+        },
+        {
+          "word": " to",
+          "start": 39.28,
+          "end": 39.54,
+          "probability": 0.9989822506904602
+        },
+        {
+          "word": " return.",
+          "start": 39.54,
+          "end": 40.24,
+          "probability": 0.9960877895355225
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2202,
+      "start": 42.8,
+      "end": 46.42,
+      "text": " It's midday, there are no shadows.",
+      "tokens": [
+        51364,
+        467,
+        311,
+        2062,
+        810,
+        11,
+        456,
+        366,
+        572,
+        14740,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15497414588928224,
+      "compression_ratio": 1.3076923076923077,
+      "no_speech_prob": 0.033380310982465744,
+      "words": [
+        {
+          "word": " It's",
+          "start": 42.8,
+          "end": 43.739999999999995,
+          "probability": 0.9824487864971161
+        },
+        {
+          "word": " midday,",
+          "start": 43.739999999999995,
+          "end": 44.68,
+          "probability": 0.9162158370018005
+        },
+        {
+          "word": " there",
+          "start": 44.92,
+          "end": 45.32,
+          "probability": 0.8910087943077087
+        },
+        {
+          "word": " are",
+          "start": 45.32,
+          "end": 45.4,
+          "probability": 0.9675960540771484
+        },
+        {
+          "word": " no",
+          "start": 45.4,
+          "end": 45.7,
+          "probability": 0.9989088773727417
+        },
+        {
+          "word": " shadows.",
+          "start": 45.7,
+          "end": 46.42,
+          "probability": 0.9889770150184631
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 4642,
+      "start": 47.959999999999994,
+      "end": 65.42,
+      "text": " It gets smaller and smaller.",
+      "tokens": [
+        50414,
+        467,
+        2170,
+        4356,
+        293,
+        4356,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16501571337381998,
+      "compression_ratio": 1.1764705882352942,
+      "no_speech_prob": 0.016320524737238884,
+      "words": [
+        {
+          "word": " It",
+          "start": 47.959999999999994,
+          "end": 49.08,
+          "probability": 0.6933852434158325
+        },
+        {
+          "word": " gets",
+          "start": 49.08,
+          "end": 49.48,
+          "probability": 0.9757378697395325
+        },
+        {
+          "word": " smaller",
+          "start": 49.48,
+          "end": 50.12,
+          "probability": 0.9853292107582092
+        },
+        {
+          "word": " and",
+          "start": 50.12,
+          "end": 65.42,
+          "probability": 0.9344251155853271
+        },
+        {
+          "word": " smaller.",
+          "start": 65.42,
+          "end": 65.42,
+          "probability": 0.9972099661827087
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 4642,
+      "start": 66.26,
+      "end": 69.8,
+      "text": " There are ants walking on that mountain.",
+      "tokens": [
+        51314,
+        821,
+        366,
+        23355,
+        4494,
+        322,
+        300,
+        6937,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16501571337381998,
+      "compression_ratio": 1.1764705882352942,
+      "no_speech_prob": 0.016320524737238884,
+      "words": [
+        {
+          "word": " There",
+          "start": 66.26,
+          "end": 66.46,
+          "probability": 0.7818058729171753
+        },
+        {
+          "word": " are",
+          "start": 66.46,
+          "end": 67.02,
+          "probability": 0.23560336232185364
+        },
+        {
+          "word": " ants",
+          "start": 67.02,
+          "end": 67.56,
+          "probability": 0.9561757445335388
+        },
+        {
+          "word": " walking",
+          "start": 67.56,
+          "end": 68.22,
+          "probability": 0.9848971962928772
+        },
+        {
+          "word": " on",
+          "start": 68.22,
+          "end": 68.62,
+          "probability": 0.981711745262146
+        },
+        {
+          "word": " that",
+          "start": 68.62,
+          "end": 68.88,
+          "probability": 0.982370138168335
+        },
+        {
+          "word": " mountain.",
+          "start": 68.88,
+          "end": 69.8,
+          "probability": 0.9971684813499451
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 4642,
+      "start": 71.34,
+      "end": 74.1,
+      "text": " We know who the best ants are.",
+      "tokens": [
+        51564,
+        492,
+        458,
+        567,
+        264,
+        1151,
+        23355,
+        366,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16501571337381998,
+      "compression_ratio": 1.1764705882352942,
+      "no_speech_prob": 0.016320524737238884,
+      "words": [
+        {
+          "word": " We",
+          "start": 71.34,
+          "end": 71.92,
+          "probability": 0.9912402033805847
+        },
+        {
+          "word": " know",
+          "start": 71.92,
+          "end": 72.36,
+          "probability": 0.9399046897888184
+        },
+        {
+          "word": " who",
+          "start": 72.36,
+          "end": 72.6,
+          "probability": 0.8263267278671265
+        },
+        {
+          "word": " the",
+          "start": 72.6,
+          "end": 72.78,
+          "probability": 0.42056822776794434
+        },
+        {
+          "word": " best",
+          "start": 72.78,
+          "end": 73.04,
+          "probability": 0.7265270948410034
+        },
+        {
+          "word": " ants",
+          "start": 73.04,
+          "end": 73.46,
+          "probability": 0.9979656934738159
+        },
+        {
+          "word": " are.",
+          "start": 73.46,
+          "end": 74.1,
+          "probability": 0.9991937279701233
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7410,
+      "start": 75.1,
+      "end": 78.1,
+      "text": " There are people we know.",
+      "tokens": [
+        50414,
+        821,
+        366,
+        561,
+        321,
+        458,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21392433459942156,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.006837795488536358,
+      "words": [
+        {
+          "word": " There",
+          "start": 75.1,
+          "end": 75.86,
+          "probability": 0.446930855512619
+        },
+        {
+          "word": " are",
+          "start": 75.86,
+          "end": 76.24,
+          "probability": 0.9585654139518738
+        },
+        {
+          "word": " people",
+          "start": 76.24,
+          "end": 76.84,
+          "probability": 0.939028799533844
+        },
+        {
+          "word": " we",
+          "start": 76.84,
+          "end": 77.22,
+          "probability": 0.9795879125595093
+        },
+        {
+          "word": " know.",
+          "start": 77.22,
+          "end": 78.1,
+          "probability": 0.5598095059394836
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7410,
+      "start": 79.1,
+      "end": 80.92,
+      "text": " Shadowless ants.",
+      "tokens": [
+        50564,
+        19036,
+        1832,
+        23355,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21392433459942156,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.006837795488536358,
+      "words": [
+        {
+          "word": " Shadowless",
+          "start": 79.1,
+          "end": 80.26,
+          "probability": 0.42615126073360443
+        },
+        {
+          "word": " ants.",
+          "start": 80.26,
+          "end": 80.92,
+          "probability": 0.11473266035318375
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 7410,
+      "start": 85.56,
+      "end": 87.62,
+      "text": " We didn't pack anything.",
+      "tokens": [
+        50914,
+        492,
+        994,
+        380,
+        2844,
+        1340,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21392433459942156,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.006837795488536358,
+      "words": [
+        {
+          "word": " We",
+          "start": 85.56,
+          "end": 85.7,
+          "probability": 0.987776517868042
+        },
+        {
+          "word": " didn't",
+          "start": 85.7,
+          "end": 86.14,
+          "probability": 0.9820877313613892
+        },
+        {
+          "word": " pack",
+          "start": 86.14,
+          "end": 86.56,
+          "probability": 0.9950698614120483
+        },
+        {
+          "word": " anything.",
+          "start": 86.56,
+          "end": 87.62,
+          "probability": 0.9974387884140015
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 7410,
+      "start": 89.42,
+      "end": 91.46,
+      "text": " We don't need anything.",
+      "tokens": [
+        51114,
+        492,
+        500,
+        380,
+        643,
+        1340,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21392433459942156,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.006837795488536358,
+      "words": [
+        {
+          "word": " We",
+          "start": 89.42,
+          "end": 89.7,
+          "probability": 0.9913528561592102
+        },
+        {
+          "word": " don't",
+          "start": 89.7,
+          "end": 89.98,
+          "probability": 0.9952734112739563
+        },
+        {
+          "word": " need",
+          "start": 89.98,
+          "end": 90.36,
+          "probability": 0.9990837574005127
+        },
+        {
+          "word": " anything.",
+          "start": 90.36,
+          "end": 91.46,
+          "probability": 0.9970787763595581
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 7410,
+      "start": 95.52,
+      "end": 97.06,
+      "text": " Dusk is setting.",
+      "tokens": [
+        51414,
+        17916,
+        74,
+        307,
+        3287,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21392433459942156,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.006837795488536358,
+      "words": [
+        {
+          "word": " Dusk",
+          "start": 95.52,
+          "end": 96.18,
+          "probability": 0.8387227356433868
+        },
+        {
+          "word": " is",
+          "start": 96.18,
+          "end": 96.46,
+          "probability": 0.986404299736023
+        },
+        {
+          "word": " setting.",
+          "start": 96.46,
+          "end": 97.06,
+          "probability": 0.9962849617004395
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 9706,
+      "start": 98.06,
+      "end": 103.88,
+      "text": " We have no shadows to indicate the position of the sun.",
+      "tokens": [
+        50414,
+        492,
+        362,
+        572,
+        14740,
+        281,
+        13330,
+        264,
+        2535,
+        295,
+        264,
+        3295,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11012180501764471,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.022054223343729973,
+      "words": [
+        {
+          "word": " We",
+          "start": 97.72000000000001,
+          "end": 98.18,
+          "probability": 0.10604158788919449
+        },
+        {
+          "word": " have",
+          "start": 98.18,
+          "end": 99.46,
+          "probability": 0.9492619633674622
+        },
+        {
+          "word": " no",
+          "start": 99.46,
+          "end": 99.82,
+          "probability": 0.9886101484298706
+        },
+        {
+          "word": " shadows",
+          "start": 99.82,
+          "end": 100.52,
+          "probability": 0.9769754409790039
+        },
+        {
+          "word": " to",
+          "start": 100.52,
+          "end": 100.9,
+          "probability": 0.9730029702186584
+        },
+        {
+          "word": " indicate",
+          "start": 100.9,
+          "end": 101.52,
+          "probability": 0.9942533373832703
+        },
+        {
+          "word": " the",
+          "start": 101.52,
+          "end": 101.76,
+          "probability": 0.990373969078064
+        },
+        {
+          "word": " position",
+          "start": 101.76,
+          "end": 102.36,
+          "probability": 0.9912298917770386
+        },
+        {
+          "word": " of",
+          "start": 102.36,
+          "end": 102.78,
+          "probability": 0.9922258853912354
+        },
+        {
+          "word": " the",
+          "start": 102.78,
+          "end": 103.02,
+          "probability": 0.996070146560669
+        },
+        {
+          "word": " sun.",
+          "start": 103.02,
+          "end": 103.88,
+          "probability": 0.8198109269142151
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 9706,
+      "start": 105.72,
+      "end": 110.4,
+      "text": " The ocean looks like an airport conveyor belt.",
+      "tokens": [
+        50764,
+        440,
+        7810,
+        1542,
+        411,
+        364,
+        10155,
+        18053,
+        2454,
+        10750,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11012180501764471,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.022054223343729973,
+      "words": [
+        {
+          "word": " The",
+          "start": 105.72,
+          "end": 106.06,
+          "probability": 0.97407066822052
+        },
+        {
+          "word": " ocean",
+          "start": 106.06,
+          "end": 106.7,
+          "probability": 0.991376519203186
+        },
+        {
+          "word": " looks",
+          "start": 106.7,
+          "end": 107.36,
+          "probability": 0.9941198825836182
+        },
+        {
+          "word": " like",
+          "start": 107.36,
+          "end": 107.74,
+          "probability": 0.9964319467544556
+        },
+        {
+          "word": " an",
+          "start": 107.74,
+          "end": 108.16,
+          "probability": 0.9830296635627747
+        },
+        {
+          "word": " airport",
+          "start": 108.16,
+          "end": 108.7,
+          "probability": 0.9841046929359436
+        },
+        {
+          "word": " conveyor",
+          "start": 108.7,
+          "end": 109.52,
+          "probability": 0.9861770272254944
+        },
+        {
+          "word": " belt.",
+          "start": 109.52,
+          "end": 110.4,
+          "probability": 0.9967771172523499
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 9706,
+      "start": 113.6,
+      "end": 116.3,
+      "text": " Husky sounds are coming from above.",
+      "tokens": [
+        51164,
+        21282,
+        4133,
+        3263,
+        366,
+        1348,
+        490,
+        3673,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11012180501764471,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.022054223343729973,
+      "words": [
+        {
+          "word": " Husky",
+          "start": 113.6,
+          "end": 114.06,
+          "probability": 0.9559441208839417
+        },
+        {
+          "word": " sounds",
+          "start": 114.06,
+          "end": 114.52,
+          "probability": 0.9171376824378967
+        },
+        {
+          "word": " are",
+          "start": 114.52,
+          "end": 114.92,
+          "probability": 0.9789137840270996
+        },
+        {
+          "word": " coming",
+          "start": 114.92,
+          "end": 115.24,
+          "probability": 0.9976227879524231
+        },
+        {
+          "word": " from",
+          "start": 115.24,
+          "end": 115.62,
+          "probability": 0.9958945512771606
+        },
+        {
+          "word": " above.",
+          "start": 115.62,
+          "end": 116.3,
+          "probability": 0.47453010082244873
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 9706,
+      "start": 118.38,
+      "end": 123.46,
+      "text": " And you explain to me that it's all our songs played at once.",
+      "tokens": [
+        51414,
+        400,
+        291,
+        2903,
+        281,
+        385,
+        300,
+        309,
+        311,
+        439,
+        527,
+        5781,
+        3737,
+        412,
+        1564,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11012180501764471,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.022054223343729973,
+      "words": [
+        {
+          "word": " And",
+          "start": 118.38,
+          "end": 118.6,
+          "probability": 0.7519749402999878
+        },
+        {
+          "word": " you",
+          "start": 118.6,
+          "end": 118.96,
+          "probability": 0.8430132269859314
+        },
+        {
+          "word": " explain",
+          "start": 118.96,
+          "end": 119.22,
+          "probability": 0.6771013140678406
+        },
+        {
+          "word": " to",
+          "start": 119.22,
+          "end": 119.48,
+          "probability": 0.9906937479972839
+        },
+        {
+          "word": " me",
+          "start": 119.48,
+          "end": 119.84,
+          "probability": 0.9987043142318726
+        },
+        {
+          "word": " that",
+          "start": 119.84,
+          "end": 120.18,
+          "probability": 0.9448027610778809
+        },
+        {
+          "word": " it's",
+          "start": 120.18,
+          "end": 120.64,
+          "probability": 0.9567030370235443
+        },
+        {
+          "word": " all",
+          "start": 120.64,
+          "end": 120.88,
+          "probability": 0.9902302622795105
+        },
+        {
+          "word": " our",
+          "start": 120.88,
+          "end": 121.26,
+          "probability": 0.9699764847755432
+        },
+        {
+          "word": " songs",
+          "start": 121.26,
+          "end": 121.82,
+          "probability": 0.8402754664421082
+        },
+        {
+          "word": " played",
+          "start": 121.82,
+          "end": 122.32,
+          "probability": 0.9351190328598022
+        },
+        {
+          "word": " at",
+          "start": 122.32,
+          "end": 122.76,
+          "probability": 0.9980798959732056
+        },
+        {
+          "word": " once.",
+          "start": 122.76,
+          "end": 123.46,
+          "probability": 0.9824520349502563
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 12346,
+      "start": 124.46,
+      "end": 131.68,
+      "text": " And that's what's producing this purple haze that's coloring the water.",
+      "tokens": [
+        50414,
+        400,
+        300,
+        311,
+        437,
+        311,
+        10501,
+        341,
+        9656,
+        324,
+        1381,
+        300,
+        311,
+        23198,
+        264,
+        1281,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1352090591039413,
+      "compression_ratio": 1.2641509433962264,
+      "no_speech_prob": 0.020134691148996353,
+      "words": [
+        {
+          "word": " And",
+          "start": 124.46,
+          "end": 125.68,
+          "probability": 0.3673838973045349
+        },
+        {
+          "word": " that's",
+          "start": 125.68,
+          "end": 126.28,
+          "probability": 0.9741382002830505
+        },
+        {
+          "word": " what's",
+          "start": 126.28,
+          "end": 126.74,
+          "probability": 0.9749821424484253
+        },
+        {
+          "word": " producing",
+          "start": 126.74,
+          "end": 127.26,
+          "probability": 0.9962416887283325
+        },
+        {
+          "word": " this",
+          "start": 127.26,
+          "end": 127.8,
+          "probability": 0.9584831595420837
+        },
+        {
+          "word": " purple",
+          "start": 127.8,
+          "end": 128.32,
+          "probability": 0.9738485813140869
+        },
+        {
+          "word": " haze",
+          "start": 128.32,
+          "end": 129.0,
+          "probability": 0.9993151128292084
+        },
+        {
+          "word": " that's",
+          "start": 129.0,
+          "end": 130.16,
+          "probability": 0.9297464787960052
+        },
+        {
+          "word": " coloring",
+          "start": 130.16,
+          "end": 130.5,
+          "probability": 0.407693475484848
+        },
+        {
+          "word": " the",
+          "start": 130.5,
+          "end": 130.96,
+          "probability": 0.9836845397949219
+        },
+        {
+          "word": " water.",
+          "start": 130.96,
+          "end": 131.68,
+          "probability": 0.9925610423088074
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 12346,
+      "start": 133.14,
+      "end": 137.45999999999998,
+      "text": " This hazy river is enveloping our ears.",
+      "tokens": [
+        50814,
+        639,
+        324,
+        1229,
+        6810,
+        307,
+        33860,
+        278,
+        527,
+        8798,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1352090591039413,
+      "compression_ratio": 1.2641509433962264,
+      "no_speech_prob": 0.020134691148996353,
+      "words": [
+        {
+          "word": " This",
+          "start": 133.14,
+          "end": 133.52,
+          "probability": 0.935986340045929
+        },
+        {
+          "word": " hazy",
+          "start": 133.52,
+          "end": 134.32,
+          "probability": 0.9987439811229706
+        },
+        {
+          "word": " river",
+          "start": 134.32,
+          "end": 135.38,
+          "probability": 0.992388904094696
+        },
+        {
+          "word": " is",
+          "start": 135.38,
+          "end": 135.82,
+          "probability": 0.6047422289848328
+        },
+        {
+          "word": " enveloping",
+          "start": 135.82,
+          "end": 136.88,
+          "probability": 0.9773700535297394
+        },
+        {
+          "word": " our",
+          "start": 136.88,
+          "end": 137.32,
+          "probability": 0.9631947875022888
+        },
+        {
+          "word": " ears.",
+          "start": 137.32,
+          "end": 138.0,
+          "probability": 0.959347128868103
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 12346,
+      "start": 141.02,
+      "end": 143.6,
+      "text": " Mixing with the earth.",
+      "tokens": [
+        51214,
+        12769,
+        278,
+        365,
+        264,
+        4120,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1352090591039413,
+      "compression_ratio": 1.2641509433962264,
+      "no_speech_prob": 0.020134691148996353,
+      "words": [
+        {
+          "word": " Mixing",
+          "start": 141.02,
+          "end": 141.82,
+          "probability": 0.9818482398986816
+        },
+        {
+          "word": " with",
+          "start": 141.82,
+          "end": 142.18,
+          "probability": 0.9618762135505676
+        },
+        {
+          "word": " the",
+          "start": 142.18,
+          "end": 142.84,
+          "probability": 0.9906030893325806
+        },
+        {
+          "word": " earth.",
+          "start": 142.84,
+          "end": 143.6,
+          "probability": 0.7418815493583679
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 18346,
+      "start": 183.84,
+      "end": 186.08,
+      "text": " The sun is setting.",
+      "tokens": [
+        50364,
+        440,
+        3295,
+        307,
+        3287,
+        13,
+        50514
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.9030073449966756,
+      "compression_ratio": 2.280701754385965,
+      "no_speech_prob": 0.7286088466644287,
+      "words": [
+        {
+          "word": " The",
+          "start": 183.84,
+          "end": 184.84,
+          "probability": 0.0076118879951536655
+        },
+        {
+          "word": " sun",
+          "start": 184.84,
+          "end": 185.84,
+          "probability": 0.0007191885961219668
+        },
+        {
+          "word": " is",
+          "start": 185.84,
+          "end": 185.92,
+          "probability": 0.19949495792388916
+        },
+        {
+          "word": " setting.",
+          "start": 185.92,
+          "end": 186.08,
+          "probability": 0.059650976210832596
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 18346,
+      "start": 188.06,
+      "end": 189.98,
+      "text": " It's getting dark.",
+      "tokens": [
+        50614,
+        467,
+        311,
+        1242,
+        2877,
+        13,
+        50764
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.9030073449966756,
+      "compression_ratio": 2.280701754385965,
+      "no_speech_prob": 0.7286088466644287,
+      "words": [
+        {
+          "word": " It's",
+          "start": 188.06,
+          "end": 189.06,
+          "probability": 0.37321096658706665
+        },
+        {
+          "word": " getting",
+          "start": 189.06,
+          "end": 189.96,
+          "probability": 0.0772375836968422
+        },
+        {
+          "word": " dark.",
+          "start": 189.96,
+          "end": 189.98,
+          "probability": 0.2947443425655365
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 18346,
+      "start": 190.08,
+      "end": 191.08,
+      "text": " And the sun is setting.",
+      "tokens": [
+        50814,
+        400,
+        264,
+        3295,
+        307,
+        3287,
+        13,
+        50964
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.9030073449966756,
+      "compression_ratio": 2.280701754385965,
+      "no_speech_prob": 0.7286088466644287,
+      "words": [
+        {
+          "word": " And",
+          "start": 190.08,
+          "end": 191.08,
+          "probability": 0.019808264449238777
+        },
+        {
+          "word": " the",
+          "start": 191.08,
+          "end": 191.08,
+          "probability": 0.16979068517684937
+        },
+        {
+          "word": " sun",
+          "start": 191.08,
+          "end": 191.08,
+          "probability": 0.21161094307899475
+        },
+        {
+          "word": " is",
+          "start": 191.08,
+          "end": 191.08,
+          "probability": 0.731881320476532
+        },
+        {
+          "word": " setting.",
+          "start": 191.08,
+          "end": 191.08,
+          "probability": 0.314308762550354
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 18346,
+      "start": 191.08,
+      "end": 193.28,
+      "text": " The sun is setting.",
+      "tokens": [
+        51014,
+        440,
+        3295,
+        307,
+        3287,
+        13,
+        51214
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.9030073449966756,
+      "compression_ratio": 2.280701754385965,
+      "no_speech_prob": 0.7286088466644287,
+      "words": [
+        {
+          "word": " The",
+          "start": 191.08,
+          "end": 191.58,
+          "probability": 0.11551496386528015
+        },
+        {
+          "word": " sun",
+          "start": 191.58,
+          "end": 192.94,
+          "probability": 0.6350640058517456
+        },
+        {
+          "word": " is",
+          "start": 192.94,
+          "end": 192.94,
+          "probability": 0.9232380390167236
+        },
+        {
+          "word": " setting.",
+          "start": 192.94,
+          "end": 193.28,
+          "probability": 0.7724736332893372
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 18346,
+      "start": 196.68,
+      "end": 197.68,
+      "text": " And the sun is setting.",
+      "tokens": [
+        51264,
+        400,
+        264,
+        3295,
+        307,
+        3287,
+        13,
+        51414
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.9030073449966756,
+      "compression_ratio": 2.280701754385965,
+      "no_speech_prob": 0.7286088466644287,
+      "words": [
+        {
+          "word": " And",
+          "start": 196.68,
+          "end": 197.68,
+          "probability": 0.17025446891784668
+        },
+        {
+          "word": " the",
+          "start": 197.68,
+          "end": 197.68,
+          "probability": 0.7495245933532715
+        },
+        {
+          "word": " sun",
+          "start": 197.68,
+          "end": 197.68,
+          "probability": 0.8614774942398071
+        },
+        {
+          "word": " is",
+          "start": 197.68,
+          "end": 197.68,
+          "probability": 0.9676613807678223
+        },
+        {
+          "word": " setting.",
+          "start": 197.68,
+          "end": 197.68,
+          "probability": 0.8682462573051453
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 18346,
+      "start": 197.68,
+      "end": 200.14,
+      "text": " And the sun is setting.",
+      "tokens": [
+        51464,
+        400,
+        264,
+        3295,
+        307,
+        3287,
+        13,
+        51614
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.9030073449966756,
+      "compression_ratio": 2.280701754385965,
+      "no_speech_prob": 0.7286088466644287,
+      "words": [
+        {
+          "word": " And",
+          "start": 197.68,
+          "end": 197.68,
+          "probability": 0.5385696291923523
+        },
+        {
+          "word": " the",
+          "start": 197.68,
+          "end": 198.12,
+          "probability": 0.893761157989502
+        },
+        {
+          "word": " sun",
+          "start": 198.12,
+          "end": 199.62,
+          "probability": 0.9475156664848328
+        },
+        {
+          "word": " is",
+          "start": 199.62,
+          "end": 200.14,
+          "probability": 0.9807449579238892
+        },
+        {
+          "word": " setting.",
+          "start": 200.14,
+          "end": 200.14,
+          "probability": 0.9480515122413635
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 20014,
+      "start": 200.14,
+      "end": 201.86,
+      "text": " The sun is setting.",
+      "tokens": [
+        50364,
+        440,
+        3295,
+        307,
+        3287,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4210381941361861,
+      "compression_ratio": 1.903225806451613,
+      "no_speech_prob": 0.8698603510856628,
+      "words": [
+        {
+          "word": " The",
+          "start": 200.14,
+          "end": 201.6,
+          "probability": 0.0062841386534273624
+        },
+        {
+          "word": " sun",
+          "start": 201.6,
+          "end": 201.86,
+          "probability": 0.00040317309321835637
+        },
+        {
+          "word": " is",
+          "start": 201.86,
+          "end": 201.86,
+          "probability": 0.19836214184761047
+        },
+        {
+          "word": " setting.",
+          "start": 201.86,
+          "end": 201.86,
+          "probability": 0.04763930290937424
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 20014,
+      "start": 201.86,
+      "end": 202.04,
+      "text": " The sun is setting.",
+      "tokens": [
+        50564,
+        440,
+        3295,
+        307,
+        3287,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4210381941361861,
+      "compression_ratio": 1.903225806451613,
+      "no_speech_prob": 0.8698603510856628,
+      "words": [
+        {
+          "word": " The",
+          "start": 201.86,
+          "end": 201.88,
+          "probability": 0.16155602037906647
+        },
+        {
+          "word": " sun",
+          "start": 201.88,
+          "end": 201.9,
+          "probability": 0.3109165132045746
+        },
+        {
+          "word": " is",
+          "start": 201.9,
+          "end": 202.02,
+          "probability": 0.8849999904632568
+        },
+        {
+          "word": " setting.",
+          "start": 202.02,
+          "end": 202.04,
+          "probability": 0.6207849383354187
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 20014,
+      "start": 203.24,
+      "end": 208.68,
+      "text": " The sun is setting.",
+      "tokens": [
+        50764,
+        440,
+        3295,
+        307,
+        3287,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4210381941361861,
+      "compression_ratio": 1.903225806451613,
+      "no_speech_prob": 0.8698603510856628,
+      "words": [
+        {
+          "word": " The",
+          "start": 203.24,
+          "end": 204.08,
+          "probability": 0.41773921251296997
+        },
+        {
+          "word": " sun",
+          "start": 204.08,
+          "end": 204.5,
+          "probability": 0.8935081362724304
+        },
+        {
+          "word": " is",
+          "start": 204.5,
+          "end": 208.68,
+          "probability": 0.9661844968795776
+        },
+        {
+          "word": " setting.",
+          "start": 208.68,
+          "end": 208.68,
+          "probability": 0.917679488658905
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

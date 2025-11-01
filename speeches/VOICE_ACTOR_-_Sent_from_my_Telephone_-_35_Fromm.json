@@ -1,0 +1,548 @@
+{
+  "text": " Oh I Sent you the song so I thought you'd recognize it. It's also in your new mix in the 99 problems, you know the Song is also there Should I ruin the surprise I guess it is always going to be a surprise if you if you don't recognize it Oh Oh",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 31.2,
+      "text": " Oh",
+      "tokens": [
+        50364,
+        876,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9427579045295715,
+      "compression_ratio": 0.2,
+      "no_speech_prob": 0.941153347492218,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 30.0,
+          "end": 31.2,
+          "probability": 0.01898915506899357
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 6000,
+      "start": 69.72,
+      "end": 70.58,
+      "text": " I",
+      "tokens": [
+        50364,
+        286,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31212904236533423,
+      "compression_ratio": 1.2745098039215685,
+      "no_speech_prob": 0.03429866582155228,
+      "words": [
+        {
+          "word": " I",
+          "start": 69.72,
+          "end": 70.58,
+          "probability": 0.1673544943332672
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 6000,
+      "start": 71.44,
+      "end": 77.52,
+      "text": " Sent you the song so I thought you'd recognize it. It's also in your new",
+      "tokens": [
+        50936,
+        23652,
+        291,
+        264,
+        2153,
+        370,
+        286,
+        1194,
+        291,
+        1116,
+        5521,
+        309,
+        13,
+        467,
+        311,
+        611,
+        294,
+        428,
+        777,
+        51240
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31212904236533423,
+      "compression_ratio": 1.2745098039215685,
+      "no_speech_prob": 0.03429866582155228,
+      "words": [
+        {
+          "word": " Sent",
+          "start": 71.44,
+          "end": 72.04,
+          "probability": 0.0218344796448946
+        },
+        {
+          "word": " you",
+          "start": 72.04,
+          "end": 72.24,
+          "probability": 0.9801581501960754
+        },
+        {
+          "word": " the",
+          "start": 72.24,
+          "end": 72.54,
+          "probability": 0.8722004890441895
+        },
+        {
+          "word": " song",
+          "start": 72.54,
+          "end": 73.12,
+          "probability": 0.9910740256309509
+        },
+        {
+          "word": " so",
+          "start": 73.12,
+          "end": 73.62,
+          "probability": 0.6620442271232605
+        },
+        {
+          "word": " I",
+          "start": 73.62,
+          "end": 73.84,
+          "probability": 0.8582310676574707
+        },
+        {
+          "word": " thought",
+          "start": 73.84,
+          "end": 73.84,
+          "probability": 0.9873325228691101
+        },
+        {
+          "word": " you'd",
+          "start": 73.84,
+          "end": 74.12,
+          "probability": 0.8819435834884644
+        },
+        {
+          "word": " recognize",
+          "start": 74.12,
+          "end": 74.48,
+          "probability": 0.9287723898887634
+        },
+        {
+          "word": " it.",
+          "start": 74.48,
+          "end": 75.18,
+          "probability": 0.9874518513679504
+        },
+        {
+          "word": " It's",
+          "start": 75.4,
+          "end": 75.76,
+          "probability": 0.9943446815013885
+        },
+        {
+          "word": " also",
+          "start": 75.76,
+          "end": 76.08,
+          "probability": 0.9979178309440613
+        },
+        {
+          "word": " in",
+          "start": 76.08,
+          "end": 76.3,
+          "probability": 0.9710733294487
+        },
+        {
+          "word": " your",
+          "start": 76.3,
+          "end": 77.16,
+          "probability": 0.9609293937683105
+        },
+        {
+          "word": " new",
+          "start": 77.16,
+          "end": 77.59,
+          "probability": 0.9242881536483765
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 6000,
+      "start": 78.18,
+      "end": 80.3,
+      "text": " mix in the 99",
+      "tokens": [
+        51276,
+        2890,
+        294,
+        264,
+        11803,
+        51376
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31212904236533423,
+      "compression_ratio": 1.2745098039215685,
+      "no_speech_prob": 0.03429866582155228,
+      "words": [
+        {
+          "word": " mix",
+          "start": 78.18,
+          "end": 79.06,
+          "probability": 0.8717203736305237
+        },
+        {
+          "word": " in",
+          "start": 79.06,
+          "end": 79.44,
+          "probability": 0.8786432147026062
+        },
+        {
+          "word": " the",
+          "start": 79.44,
+          "end": 79.84,
+          "probability": 0.8782133460044861
+        },
+        {
+          "word": " 99",
+          "start": 79.84,
+          "end": 80.3,
+          "probability": 0.9451364874839783
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 6000,
+      "start": 81.0,
+      "end": 83.0,
+      "text": " problems, you know the",
+      "tokens": [
+        51414,
+        2740,
+        11,
+        291,
+        458,
+        264,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31212904236533423,
+      "compression_ratio": 1.2745098039215685,
+      "no_speech_prob": 0.03429866582155228,
+      "words": [
+        {
+          "word": " problems,",
+          "start": 81.0,
+          "end": 81.7,
+          "probability": 0.738208532333374
+        },
+        {
+          "word": " you",
+          "start": 81.7,
+          "end": 82.0,
+          "probability": 0.9782146215438843
+        },
+        {
+          "word": " know",
+          "start": 82.0,
+          "end": 82.68,
+          "probability": 0.9991827607154846
+        },
+        {
+          "word": " the",
+          "start": 82.68,
+          "end": 83.11000000000001,
+          "probability": 0.5759466886520386
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 6000,
+      "start": 84.1,
+      "end": 86.4,
+      "text": " Song is also there",
+      "tokens": [
+        51572,
+        11862,
+        307,
+        611,
+        456,
+        51672
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31212904236533423,
+      "compression_ratio": 1.2745098039215685,
+      "no_speech_prob": 0.03429866582155228,
+      "words": [
+        {
+          "word": " Song",
+          "start": 84.1,
+          "end": 84.78,
+          "probability": 0.3879240155220032
+        },
+        {
+          "word": " is",
+          "start": 84.78,
+          "end": 85.0,
+          "probability": 0.7096223831176758
+        },
+        {
+          "word": " also",
+          "start": 85.0,
+          "end": 85.26,
+          "probability": 0.9788405895233154
+        },
+        {
+          "word": " there",
+          "start": 85.26,
+          "end": 86.4,
+          "probability": 0.9908872842788696
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 8640,
+      "start": 87.22,
+      "end": 94.24,
+      "text": " Should I ruin the surprise I guess it is always going to be a surprise if you if you don't recognize it",
+      "tokens": [
+        50402,
+        6454,
+        286,
+        15514,
+        264,
+        6365,
+        286,
+        2041,
+        309,
+        307,
+        1009,
+        516,
+        281,
+        312,
+        257,
+        6365,
+        498,
+        291,
+        498,
+        291,
+        500,
+        380,
+        5521,
+        309,
+        50734
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18066101807814378,
+      "compression_ratio": 1.2117647058823529,
+      "no_speech_prob": 0.00670904153957963,
+      "words": [
+        {
+          "word": " Should",
+          "start": 87.22,
+          "end": 87.72,
+          "probability": 0.6768577694892883
+        },
+        {
+          "word": " I",
+          "start": 87.72,
+          "end": 88.0,
+          "probability": 0.9415733814239502
+        },
+        {
+          "word": " ruin",
+          "start": 88.0,
+          "end": 88.16,
+          "probability": 0.985665500164032
+        },
+        {
+          "word": " the",
+          "start": 88.16,
+          "end": 88.38,
+          "probability": 0.9397880434989929
+        },
+        {
+          "word": " surprise",
+          "start": 88.38,
+          "end": 89.0,
+          "probability": 0.994814932346344
+        },
+        {
+          "word": " I",
+          "start": 89.0,
+          "end": 89.42,
+          "probability": 0.00817087385803461
+        },
+        {
+          "word": " guess",
+          "start": 89.42,
+          "end": 89.6,
+          "probability": 0.9867340326309204
+        },
+        {
+          "word": " it",
+          "start": 89.6,
+          "end": 89.88,
+          "probability": 0.968610405921936
+        },
+        {
+          "word": " is",
+          "start": 89.88,
+          "end": 90.78,
+          "probability": 0.9696176052093506
+        },
+        {
+          "word": " always",
+          "start": 90.78,
+          "end": 91.22,
+          "probability": 0.6311561465263367
+        },
+        {
+          "word": " going",
+          "start": 91.22,
+          "end": 91.38,
+          "probability": 0.992968738079071
+        },
+        {
+          "word": " to",
+          "start": 91.38,
+          "end": 91.6,
+          "probability": 0.999005138874054
+        },
+        {
+          "word": " be",
+          "start": 91.6,
+          "end": 91.7,
+          "probability": 0.9853678345680237
+        },
+        {
+          "word": " a",
+          "start": 91.7,
+          "end": 91.82,
+          "probability": 0.9271605014801025
+        },
+        {
+          "word": " surprise",
+          "start": 91.82,
+          "end": 92.22,
+          "probability": 0.9950980544090271
+        },
+        {
+          "word": " if",
+          "start": 92.22,
+          "end": 92.48,
+          "probability": 0.9039782285690308
+        },
+        {
+          "word": " you",
+          "start": 92.48,
+          "end": 92.64,
+          "probability": 0.991523027420044
+        },
+        {
+          "word": " if",
+          "start": 92.64,
+          "end": 92.88,
+          "probability": 0.3665009140968323
+        },
+        {
+          "word": " you",
+          "start": 92.88,
+          "end": 93.06,
+          "probability": 0.9982720613479614
+        },
+        {
+          "word": " don't",
+          "start": 93.06,
+          "end": 93.3,
+          "probability": 0.9945032596588135
+        },
+        {
+          "word": " recognize",
+          "start": 93.3,
+          "end": 93.7,
+          "probability": 0.8831579089164734
+        },
+        {
+          "word": " it",
+          "start": 93.7,
+          "end": 94.24,
+          "probability": 0.9881000518798828
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 11640,
+      "start": 143.32,
+      "end": 144.72,
+      "text": " Oh",
+      "tokens": [
+        50364,
+        876,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7178773283958435,
+      "compression_ratio": 0.2,
+      "no_speech_prob": 0.879266619682312,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 143.32,
+          "end": 144.72,
+          "probability": 0.005761533509939909
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 14640,
+      "start": 160.4,
+      "end": 161.8,
+      "text": " Oh",
+      "tokens": [
+        50364,
+        876,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7046098709106445,
+      "compression_ratio": 0.2,
+      "no_speech_prob": 0.5866072177886963,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 160.4,
+          "end": 161.8,
+          "probability": 0.017392488196492195
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 17640,
+      "start": 176.4,
+      "end": 176.4,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.6520352363586426,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.34433504939079285,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

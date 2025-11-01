@@ -1,0 +1,66 @@
+{
+  "text": " I get you, I be you",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 30.64,
+      "end": 34.0,
+      "text": " I get you, I be you",
+      "tokens": [
+        50364,
+        286,
+        483,
+        291,
+        11,
+        286,
+        312,
+        291,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5590068340301514,
+      "compression_ratio": 0.7916666666666666,
+      "no_speech_prob": 0.4773481488227844,
+      "words": [
+        {
+          "word": " I",
+          "start": 30.64,
+          "end": 31.6,
+          "probability": 0.5765448808670044
+        },
+        {
+          "word": " get",
+          "start": 31.6,
+          "end": 32.08,
+          "probability": 0.8317316770553589
+        },
+        {
+          "word": " you,",
+          "start": 32.08,
+          "end": 32.66,
+          "probability": 0.9815453886985779
+        },
+        {
+          "word": " I",
+          "start": 32.84,
+          "end": 33.18,
+          "probability": 0.9723103046417236
+        },
+        {
+          "word": " be",
+          "start": 33.18,
+          "end": 33.48,
+          "probability": 0.7221682071685791
+        },
+        {
+          "word": " you",
+          "start": 33.48,
+          "end": 34.0,
+          "probability": 0.9823404550552368
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

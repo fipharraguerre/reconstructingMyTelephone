@@ -1,0 +1,1129 @@
+{
+  "text": " My beautiful burglar, snaking into my flat. Right this way, here's the key. I pretend I don't see. Easier this way. He puts a lot of effort into his appearance. I respect that. I notice his side parts look back. My burglar brings an order into my life. I buy a longelonko and handmaid. Off a rough trade. He won't settle for less. He needs to advance his economic process. He's got an excellent show. That he won't touch. He respects me too much. He's got an excellent show. That he won't settle for less. He's got an excellent show. He's got an excellent show.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 7.140000000000001,
+      "end": 14.08,
+      "text": " My beautiful burglar, snaking into my flat.",
+      "tokens": [
+        50364,
+        1222,
+        2238,
+        41000,
+        2200,
+        11,
+        2406,
+        2456,
+        666,
+        452,
+        4962,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32772927167938976,
+      "compression_ratio": 1.116504854368932,
+      "no_speech_prob": 0.31409934163093567,
+      "words": [
+        {
+          "word": " My",
+          "start": 7.140000000000001,
+          "end": 8.3,
+          "probability": 0.4308607578277588
+        },
+        {
+          "word": " beautiful",
+          "start": 8.3,
+          "end": 9.1,
+          "probability": 0.9851164221763611
+        },
+        {
+          "word": " burglar,",
+          "start": 9.1,
+          "end": 11.08,
+          "probability": 0.9674817323684692
+        },
+        {
+          "word": " snaking",
+          "start": 11.76,
+          "end": 12.16,
+          "probability": 0.6462056189775467
+        },
+        {
+          "word": " into",
+          "start": 12.16,
+          "end": 12.74,
+          "probability": 0.9883407354354858
+        },
+        {
+          "word": " my",
+          "start": 12.74,
+          "end": 13.2,
+          "probability": 0.9946241974830627
+        },
+        {
+          "word": " flat.",
+          "start": 13.2,
+          "end": 14.08,
+          "probability": 0.9420090913772583
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 17.3,
+      "end": 21.66,
+      "text": " Right this way, here's the key.",
+      "tokens": [
+        51214,
+        1779,
+        341,
+        636,
+        11,
+        510,
+        311,
+        264,
+        2141,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32772927167938976,
+      "compression_ratio": 1.116504854368932,
+      "no_speech_prob": 0.31409934163093567,
+      "words": [
+        {
+          "word": " Right",
+          "start": 17.3,
+          "end": 17.74,
+          "probability": 0.9742428660392761
+        },
+        {
+          "word": " this",
+          "start": 17.74,
+          "end": 18.34,
+          "probability": 0.9945619702339172
+        },
+        {
+          "word": " way,",
+          "start": 18.34,
+          "end": 19.18,
+          "probability": 0.9992232322692871
+        },
+        {
+          "word": " here's",
+          "start": 20.58,
+          "end": 20.88,
+          "probability": 0.8918251395225525
+        },
+        {
+          "word": " the",
+          "start": 20.88,
+          "end": 21.22,
+          "probability": 0.9979931116104126
+        },
+        {
+          "word": " key.",
+          "start": 21.22,
+          "end": 21.66,
+          "probability": 0.9921567440032959
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 23.18,
+      "end": 25.52,
+      "text": " I pretend I don't see.",
+      "tokens": [
+        51514,
+        286,
+        11865,
+        286,
+        500,
+        380,
+        536,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32772927167938976,
+      "compression_ratio": 1.116504854368932,
+      "no_speech_prob": 0.31409934163093567,
+      "words": [
+        {
+          "word": " I",
+          "start": 23.18,
+          "end": 23.64,
+          "probability": 0.9893100261688232
+        },
+        {
+          "word": " pretend",
+          "start": 23.64,
+          "end": 24.08,
+          "probability": 0.9816330671310425
+        },
+        {
+          "word": " I",
+          "start": 24.08,
+          "end": 24.4,
+          "probability": 0.9811697602272034
+        },
+        {
+          "word": " don't",
+          "start": 24.4,
+          "end": 24.88,
+          "probability": 0.9966833293437958
+        },
+        {
+          "word": " see.",
+          "start": 24.88,
+          "end": 25.52,
+          "probability": 0.9987758994102478
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 27.42,
+      "end": 29.22,
+      "text": " Easier this way.",
+      "tokens": [
+        51714,
+        46879,
+        811,
+        341,
+        636,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32772927167938976,
+      "compression_ratio": 1.116504854368932,
+      "no_speech_prob": 0.31409934163093567,
+      "words": [
+        {
+          "word": " Easier",
+          "start": 27.42,
+          "end": 28.0,
+          "probability": 0.9584749341011047
+        },
+        {
+          "word": " this",
+          "start": 28.0,
+          "end": 28.44,
+          "probability": 0.9934693574905396
+        },
+        {
+          "word": " way.",
+          "start": 28.44,
+          "end": 29.22,
+          "probability": 0.9997513890266418
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 31.1,
+      "end": 35.46,
+      "text": " He puts a lot of effort into his appearance.",
+      "tokens": [
+        50414,
+        634,
+        8137,
+        257,
+        688,
+        295,
+        4630,
+        666,
+        702,
+        8967,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3696467876434326,
+      "compression_ratio": 1.330708661417323,
+      "no_speech_prob": 0.03866663947701454,
+      "words": [
+        {
+          "word": " He",
+          "start": 31.1,
+          "end": 32.02,
+          "probability": 0.1541953980922699
+        },
+        {
+          "word": " puts",
+          "start": 32.02,
+          "end": 32.52,
+          "probability": 0.9530061483383179
+        },
+        {
+          "word": " a",
+          "start": 32.52,
+          "end": 32.56,
+          "probability": 0.9793367385864258
+        },
+        {
+          "word": " lot",
+          "start": 32.56,
+          "end": 32.92,
+          "probability": 0.9975365400314331
+        },
+        {
+          "word": " of",
+          "start": 32.92,
+          "end": 33.24,
+          "probability": 0.987877368927002
+        },
+        {
+          "word": " effort",
+          "start": 33.24,
+          "end": 33.68,
+          "probability": 0.9955578446388245
+        },
+        {
+          "word": " into",
+          "start": 33.68,
+          "end": 34.1,
+          "probability": 0.9699907302856445
+        },
+        {
+          "word": " his",
+          "start": 34.1,
+          "end": 34.54,
+          "probability": 0.995320737361908
+        },
+        {
+          "word": " appearance.",
+          "start": 34.54,
+          "end": 35.46,
+          "probability": 0.941922128200531
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 37.38,
+      "end": 39.18,
+      "text": " I respect that.",
+      "tokens": [
+        50664,
+        286,
+        3104,
+        300,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3696467876434326,
+      "compression_ratio": 1.330708661417323,
+      "no_speech_prob": 0.03866663947701454,
+      "words": [
+        {
+          "word": " I",
+          "start": 37.38,
+          "end": 37.48,
+          "probability": 0.9833893179893494
+        },
+        {
+          "word": " respect",
+          "start": 37.48,
+          "end": 38.26,
+          "probability": 0.9958274960517883
+        },
+        {
+          "word": " that.",
+          "start": 38.26,
+          "end": 39.18,
+          "probability": 0.998807430267334
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 3000,
+      "start": 42.2,
+      "end": 45.0,
+      "text": " I notice his side parts look back.",
+      "tokens": [
+        50914,
+        286,
+        3449,
+        702,
+        1252,
+        3166,
+        574,
+        646,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3696467876434326,
+      "compression_ratio": 1.330708661417323,
+      "no_speech_prob": 0.03866663947701454,
+      "words": [
+        {
+          "word": " I",
+          "start": 42.2,
+          "end": 42.44,
+          "probability": 0.9877638220787048
+        },
+        {
+          "word": " notice",
+          "start": 42.44,
+          "end": 42.9,
+          "probability": 0.8204411864280701
+        },
+        {
+          "word": " his",
+          "start": 42.9,
+          "end": 43.36,
+          "probability": 0.7712395787239075
+        },
+        {
+          "word": " side",
+          "start": 43.36,
+          "end": 43.72,
+          "probability": 0.9924877882003784
+        },
+        {
+          "word": " parts",
+          "start": 43.72,
+          "end": 44.26,
+          "probability": 0.7540867924690247
+        },
+        {
+          "word": " look",
+          "start": 44.26,
+          "end": 44.8,
+          "probability": 0.6447457075119019
+        },
+        {
+          "word": " back.",
+          "start": 44.8,
+          "end": 45.26,
+          "probability": 0.6325518488883972
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 3000,
+      "start": 46.72,
+      "end": 49.88,
+      "text": " My burglar brings an order into my life.",
+      "tokens": [
+        51164,
+        1222,
+        41000,
+        2200,
+        5607,
+        364,
+        1668,
+        666,
+        452,
+        993,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3696467876434326,
+      "compression_ratio": 1.330708661417323,
+      "no_speech_prob": 0.03866663947701454,
+      "words": [
+        {
+          "word": " My",
+          "start": 46.72,
+          "end": 47.04,
+          "probability": 0.8665996193885803
+        },
+        {
+          "word": " burglar",
+          "start": 47.04,
+          "end": 47.6,
+          "probability": 0.9438127279281616
+        },
+        {
+          "word": " brings",
+          "start": 47.6,
+          "end": 48.1,
+          "probability": 0.8507344722747803
+        },
+        {
+          "word": " an",
+          "start": 48.1,
+          "end": 48.36,
+          "probability": 0.40316906571388245
+        },
+        {
+          "word": " order",
+          "start": 48.36,
+          "end": 48.72,
+          "probability": 0.9341177344322205
+        },
+        {
+          "word": " into",
+          "start": 48.72,
+          "end": 49.18,
+          "probability": 0.7278909087181091
+        },
+        {
+          "word": " my",
+          "start": 49.18,
+          "end": 49.48,
+          "probability": 0.4476637542247772
+        },
+        {
+          "word": " life.",
+          "start": 49.48,
+          "end": 49.88,
+          "probability": 0.9874480366706848
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 3000,
+      "start": 51.76,
+      "end": 55.0,
+      "text": " I buy a longelonko and handmaid.",
+      "tokens": [
+        51414,
+        286,
+        2256,
+        257,
+        938,
+        338,
+        266,
+        4093,
+        293,
+        1011,
+        1696,
+        327,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3696467876434326,
+      "compression_ratio": 1.330708661417323,
+      "no_speech_prob": 0.03866663947701454,
+      "words": [
+        {
+          "word": " I",
+          "start": 51.76,
+          "end": 52.68,
+          "probability": 0.9871800541877747
+        },
+        {
+          "word": " buy",
+          "start": 52.68,
+          "end": 53.04,
+          "probability": 0.9955998659133911
+        },
+        {
+          "word": " a",
+          "start": 53.04,
+          "end": 53.34,
+          "probability": 0.6015216708183289
+        },
+        {
+          "word": " longelonko",
+          "start": 53.34,
+          "end": 54.4,
+          "probability": 0.1532725766301155
+        },
+        {
+          "word": " and",
+          "start": 54.4,
+          "end": 54.72,
+          "probability": 0.719624936580658
+        },
+        {
+          "word": " handmaid.",
+          "start": 54.72,
+          "end": 55.18,
+          "probability": 0.4547063161929448
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5518,
+      "start": 58.199999999999996,
+      "end": 60.18,
+      "text": " Off a rough trade.",
+      "tokens": [
+        50364,
+        6318,
+        257,
+        5903,
+        4923,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32563883463541665,
+      "compression_ratio": 1.2616822429906542,
+      "no_speech_prob": 0.0298626571893692,
+      "words": [
+        {
+          "word": " Off",
+          "start": 58.199999999999996,
+          "end": 59.12,
+          "probability": 0.06452129781246185
+        },
+        {
+          "word": " a",
+          "start": 59.12,
+          "end": 59.52,
+          "probability": 0.46288084983825684
+        },
+        {
+          "word": " rough",
+          "start": 59.52,
+          "end": 59.76,
+          "probability": 0.9929365515708923
+        },
+        {
+          "word": " trade.",
+          "start": 59.76,
+          "end": 60.22,
+          "probability": 0.7481734156608582
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5518,
+      "start": 64.74,
+      "end": 66.72,
+      "text": " He won't settle for less.",
+      "tokens": [
+        50764,
+        634,
+        1582,
+        380,
+        11852,
+        337,
+        1570,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32563883463541665,
+      "compression_ratio": 1.2616822429906542,
+      "no_speech_prob": 0.0298626571893692,
+      "words": [
+        {
+          "word": " He",
+          "start": 64.74,
+          "end": 64.84,
+          "probability": 0.7852435111999512
+        },
+        {
+          "word": " won't",
+          "start": 64.84,
+          "end": 65.46,
+          "probability": 0.9004952013492584
+        },
+        {
+          "word": " settle",
+          "start": 65.46,
+          "end": 65.84,
+          "probability": 0.974557638168335
+        },
+        {
+          "word": " for",
+          "start": 65.84,
+          "end": 66.26,
+          "probability": 0.9838879704475403
+        },
+        {
+          "word": " less.",
+          "start": 66.26,
+          "end": 66.72,
+          "probability": 0.9483159780502319
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5518,
+      "start": 67.92,
+      "end": 71.44,
+      "text": " He needs to advance his economic process.",
+      "tokens": [
+        50964,
+        634,
+        2203,
+        281,
+        7295,
+        702,
+        4836,
+        1399,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32563883463541665,
+      "compression_ratio": 1.2616822429906542,
+      "no_speech_prob": 0.0298626571893692,
+      "words": [
+        {
+          "word": " He",
+          "start": 67.92,
+          "end": 68.0,
+          "probability": 0.9814783334732056
+        },
+        {
+          "word": " needs",
+          "start": 68.0,
+          "end": 68.4,
+          "probability": 0.9900206327438354
+        },
+        {
+          "word": " to",
+          "start": 68.4,
+          "end": 68.86,
+          "probability": 0.9986811280250549
+        },
+        {
+          "word": " advance",
+          "start": 68.86,
+          "end": 69.32,
+          "probability": 0.9954187870025635
+        },
+        {
+          "word": " his",
+          "start": 69.32,
+          "end": 69.74,
+          "probability": 0.9871669411659241
+        },
+        {
+          "word": " economic",
+          "start": 69.74,
+          "end": 70.4,
+          "probability": 0.9852373003959656
+        },
+        {
+          "word": " process.",
+          "start": 70.4,
+          "end": 71.44,
+          "probability": 0.8288574814796448
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5518,
+      "start": 75.54,
+      "end": 77.72,
+      "text": " He's got an excellent show.",
+      "tokens": [
+        51314,
+        634,
+        311,
+        658,
+        364,
+        7103,
+        855,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32563883463541665,
+      "compression_ratio": 1.2616822429906542,
+      "no_speech_prob": 0.0298626571893692,
+      "words": [
+        {
+          "word": " He's",
+          "start": 75.54,
+          "end": 75.92,
+          "probability": 0.6406661570072174
+        },
+        {
+          "word": " got",
+          "start": 75.92,
+          "end": 76.26,
+          "probability": 0.9680639505386353
+        },
+        {
+          "word": " an",
+          "start": 76.26,
+          "end": 76.62,
+          "probability": 0.9470281600952148
+        },
+        {
+          "word": " excellent",
+          "start": 76.62,
+          "end": 77.14,
+          "probability": 0.29168620705604553
+        },
+        {
+          "word": " show.",
+          "start": 77.14,
+          "end": 77.72,
+          "probability": 0.12176607549190521
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5518,
+      "start": 79.72,
+      "end": 81.62,
+      "text": " That he won't touch.",
+      "tokens": [
+        51564,
+        663,
+        415,
+        1582,
+        380,
+        2557,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32563883463541665,
+      "compression_ratio": 1.2616822429906542,
+      "no_speech_prob": 0.0298626571893692,
+      "words": [
+        {
+          "word": " That",
+          "start": 79.72,
+          "end": 80.58,
+          "probability": 0.5464320182800293
+        },
+        {
+          "word": " he",
+          "start": 80.58,
+          "end": 80.84,
+          "probability": 0.902880847454071
+        },
+        {
+          "word": " won't",
+          "start": 80.84,
+          "end": 81.4,
+          "probability": 0.9871925115585327
+        },
+        {
+          "word": " touch.",
+          "start": 81.4,
+          "end": 81.62,
+          "probability": 0.9919782876968384
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 8162,
+      "start": 83.55999999999999,
+      "end": 86.62,
+      "text": " He respects me too much.",
+      "tokens": [
+        50414,
+        634,
+        24126,
+        385,
+        886,
+        709,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5125223265753852,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.04126201197504997,
+      "words": [
+        {
+          "word": " He",
+          "start": 83.55999999999999,
+          "end": 84.96,
+          "probability": 0.0031663153786212206
+        },
+        {
+          "word": " respects",
+          "start": 84.96,
+          "end": 85.4,
+          "probability": 0.0361710749566555
+        },
+        {
+          "word": " me",
+          "start": 85.4,
+          "end": 85.94,
+          "probability": 0.2888827621936798
+        },
+        {
+          "word": " too",
+          "start": 85.94,
+          "end": 86.44,
+          "probability": 0.9060712456703186
+        },
+        {
+          "word": " much.",
+          "start": 86.44,
+          "end": 87.14,
+          "probability": 0.9958351850509644
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 11162,
+      "start": 111.62,
+      "end": 118.1,
+      "text": " He's got an excellent show.",
+      "tokens": [
+        50414,
+        634,
+        311,
+        658,
+        364,
+        7103,
+        855,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3531269540592116,
+      "compression_ratio": 2.101449275362319,
+      "no_speech_prob": 0.5934200882911682,
+      "words": [
+        {
+          "word": " He's",
+          "start": 111.62,
+          "end": 111.62,
+          "probability": 0.12038340126309777
+        },
+        {
+          "word": " got",
+          "start": 111.62,
+          "end": 111.88,
+          "probability": 0.021156122907996178
+        },
+        {
+          "word": " an",
+          "start": 111.88,
+          "end": 118.1,
+          "probability": 0.02007368952035904
+        },
+        {
+          "word": " excellent",
+          "start": 118.1,
+          "end": 118.1,
+          "probability": 0.005693172104656696
+        },
+        {
+          "word": " show.",
+          "start": 118.1,
+          "end": 118.1,
+          "probability": 0.003450376447290182
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 11162,
+      "start": 118.1,
+      "end": 118.1,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.3531269540592116,
+      "compression_ratio": 2.101449275362319,
+      "no_speech_prob": 0.5934200882911682,
+      "words": []
+    },
+    {
+      "id": 17,
+      "seek": 11162,
+      "start": 118.1,
+      "end": 118.1,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.3531269540592116,
+      "compression_ratio": 2.101449275362319,
+      "no_speech_prob": 0.5934200882911682,
+      "words": []
+    },
+    {
+      "id": 18,
+      "seek": 11162,
+      "start": 118.1,
+      "end": 118.14,
+      "text": " That he won't settle for less.",
+      "tokens": [
+        51164,
+        663,
+        415,
+        1582,
+        380,
+        11852,
+        337,
+        1570,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3531269540592116,
+      "compression_ratio": 2.101449275362319,
+      "no_speech_prob": 0.5934200882911682,
+      "words": [
+        {
+          "word": " That",
+          "start": 118.1,
+          "end": 118.14,
+          "probability": 0.5663866400718689
+        },
+        {
+          "word": " he",
+          "start": 118.14,
+          "end": 118.14,
+          "probability": 0.9462581872940063
+        },
+        {
+          "word": " won't",
+          "start": 118.14,
+          "end": 118.14,
+          "probability": 0.9742670357227325
+        },
+        {
+          "word": " settle",
+          "start": 118.14,
+          "end": 118.14,
+          "probability": 0.983756422996521
+        },
+        {
+          "word": " for",
+          "start": 118.14,
+          "end": 118.14,
+          "probability": 0.9976962208747864
+        },
+        {
+          "word": " less.",
+          "start": 118.14,
+          "end": 118.14,
+          "probability": 0.9990133047103882
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 11162,
+      "start": 121.25999999999999,
+      "end": 124.06,
+      "text": " He's got an excellent show.",
+      "tokens": [
+        51414,
+        634,
+        311,
+        658,
+        364,
+        7103,
+        855,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3531269540592116,
+      "compression_ratio": 2.101449275362319,
+      "no_speech_prob": 0.5934200882911682,
+      "words": [
+        {
+          "word": " He's",
+          "start": 121.25999999999999,
+          "end": 122.66,
+          "probability": 0.5101390779018402
+        },
+        {
+          "word": " got",
+          "start": 122.66,
+          "end": 124.06,
+          "probability": 0.9503817558288574
+        },
+        {
+          "word": " an",
+          "start": 124.06,
+          "end": 124.06,
+          "probability": 0.9145206212997437
+        },
+        {
+          "word": " excellent",
+          "start": 124.06,
+          "end": 124.06,
+          "probability": 0.9845938682556152
+        },
+        {
+          "word": " show.",
+          "start": 124.06,
+          "end": 124.06,
+          "probability": 0.9930574893951416
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 12406,
+      "start": 136.57999999999998,
+      "end": 137.98,
+      "text": " He's got an excellent show.",
+      "tokens": [
+        50364,
+        634,
+        311,
+        658,
+        364,
+        7103,
+        855,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4089911937713623,
+      "compression_ratio": 0.7714285714285715,
+      "no_speech_prob": 0.8203309774398804,
+      "words": [
+        {
+          "word": " He's",
+          "start": 136.57999999999998,
+          "end": 137.98,
+          "probability": 0.08232184150256217
+        },
+        {
+          "word": " got",
+          "start": 137.98,
+          "end": 137.98,
+          "probability": 0.014722154475748539
+        },
+        {
+          "word": " an",
+          "start": 137.98,
+          "end": 137.98,
+          "probability": 0.02503548003733158
+        },
+        {
+          "word": " excellent",
+          "start": 137.98,
+          "end": 137.98,
+          "probability": 0.005233714357018471
+        },
+        {
+          "word": " show.",
+          "start": 137.98,
+          "end": 137.98,
+          "probability": 0.00320109142921865
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

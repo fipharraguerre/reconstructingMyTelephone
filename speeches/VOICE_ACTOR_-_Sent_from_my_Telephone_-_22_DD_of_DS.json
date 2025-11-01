@@ -1,0 +1,896 @@
+{
+  "text": " I dreamt this morning that I start talking to this dad in a children's play setting of some sort. And I get his number and I call him. And I only want to make friends with him, but I snap at him. I snap at him and I immediately regret it. And it takes it really badly. I was trying to tell him that I didn't mean it that way. It's not what I meant, but it's too late. And he hangs up on me and I feel awful. And then I call you and you play me some music and we laugh.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 15.1,
+      "text": " I dreamt this morning that I start talking to this dad in a children's play setting of some sort.",
+      "tokens": [
+        50364,
+        286,
+        3055,
+        83,
+        341,
+        2446,
+        300,
+        286,
+        722,
+        1417,
+        281,
+        341,
+        3546,
+        294,
+        257,
+        2227,
+        311,
+        862,
+        3287,
+        295,
+        512,
+        1333,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3361722795586837,
+      "compression_ratio": 1.276190476190476,
+      "no_speech_prob": 0.16599318385124207,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.92,
+          "probability": 0.8872137069702148
+        },
+        {
+          "word": " dreamt",
+          "start": 0.92,
+          "end": 1.86,
+          "probability": 0.7876405715942383
+        },
+        {
+          "word": " this",
+          "start": 1.86,
+          "end": 2.24,
+          "probability": 0.9503505229949951
+        },
+        {
+          "word": " morning",
+          "start": 2.24,
+          "end": 2.9,
+          "probability": 0.9961585402488708
+        },
+        {
+          "word": " that",
+          "start": 2.9,
+          "end": 4.08,
+          "probability": 0.8441150188446045
+        },
+        {
+          "word": " I",
+          "start": 4.08,
+          "end": 5.7,
+          "probability": 0.6869751811027527
+        },
+        {
+          "word": " start",
+          "start": 5.7,
+          "end": 6.4,
+          "probability": 0.8681949377059937
+        },
+        {
+          "word": " talking",
+          "start": 6.4,
+          "end": 6.88,
+          "probability": 0.9952841401100159
+        },
+        {
+          "word": " to",
+          "start": 6.88,
+          "end": 7.36,
+          "probability": 0.9915555119514465
+        },
+        {
+          "word": " this",
+          "start": 7.36,
+          "end": 7.78,
+          "probability": 0.9887131452560425
+        },
+        {
+          "word": " dad",
+          "start": 7.78,
+          "end": 8.38,
+          "probability": 0.9140225052833557
+        },
+        {
+          "word": " in",
+          "start": 8.38,
+          "end": 11.7,
+          "probability": 0.8888856768608093
+        },
+        {
+          "word": " a",
+          "start": 11.7,
+          "end": 12.04,
+          "probability": 0.6978511214256287
+        },
+        {
+          "word": " children's",
+          "start": 12.04,
+          "end": 13.06,
+          "probability": 0.920490562915802
+        },
+        {
+          "word": " play",
+          "start": 13.06,
+          "end": 13.34,
+          "probability": 0.8586920499801636
+        },
+        {
+          "word": " setting",
+          "start": 13.34,
+          "end": 13.92,
+          "probability": 0.9704797863960266
+        },
+        {
+          "word": " of",
+          "start": 13.92,
+          "end": 14.34,
+          "probability": 0.5716477036476135
+        },
+        {
+          "word": " some",
+          "start": 14.34,
+          "end": 14.64,
+          "probability": 0.9746822714805603
+        },
+        {
+          "word": " sort.",
+          "start": 14.64,
+          "end": 15.1,
+          "probability": 0.9987819790840149
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 16.82,
+      "end": 21.28,
+      "text": " And I get his number and I call him.",
+      "tokens": [
+        51164,
+        400,
+        286,
+        483,
+        702,
+        1230,
+        293,
+        286,
+        818,
+        796,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3361722795586837,
+      "compression_ratio": 1.276190476190476,
+      "no_speech_prob": 0.16599318385124207,
+      "words": [
+        {
+          "word": " And",
+          "start": 16.82,
+          "end": 17.2,
+          "probability": 0.6313852071762085
+        },
+        {
+          "word": " I",
+          "start": 17.2,
+          "end": 17.5,
+          "probability": 0.9669963121414185
+        },
+        {
+          "word": " get",
+          "start": 17.5,
+          "end": 17.78,
+          "probability": 0.9957029223442078
+        },
+        {
+          "word": " his",
+          "start": 17.78,
+          "end": 18.02,
+          "probability": 0.9917286038398743
+        },
+        {
+          "word": " number",
+          "start": 18.02,
+          "end": 18.7,
+          "probability": 0.9988133907318115
+        },
+        {
+          "word": " and",
+          "start": 18.7,
+          "end": 19.78,
+          "probability": 0.6235105395317078
+        },
+        {
+          "word": " I",
+          "start": 19.78,
+          "end": 20.06,
+          "probability": 0.98484867811203
+        },
+        {
+          "word": " call",
+          "start": 20.06,
+          "end": 20.26,
+          "probability": 0.9941652417182922
+        },
+        {
+          "word": " him.",
+          "start": 20.26,
+          "end": 21.28,
+          "probability": 0.9991311430931091
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2128,
+      "start": 22.28,
+      "end": 30.32,
+      "text": " And I only want to make friends with him, but I snap at him.",
+      "tokens": [
+        50414,
+        400,
+        286,
+        787,
+        528,
+        281,
+        652,
+        1855,
+        365,
+        796,
+        11,
+        457,
+        286,
+        13650,
+        412,
+        796,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14177293312258837,
+      "compression_ratio": 1.316831683168317,
+      "no_speech_prob": 0.038577329367399216,
+      "words": [
+        {
+          "word": " And",
+          "start": 22.28,
+          "end": 23.02,
+          "probability": 0.47683629393577576
+        },
+        {
+          "word": " I",
+          "start": 23.02,
+          "end": 23.12,
+          "probability": 0.962118923664093
+        },
+        {
+          "word": " only",
+          "start": 23.12,
+          "end": 23.52,
+          "probability": 0.9693323373794556
+        },
+        {
+          "word": " want",
+          "start": 23.52,
+          "end": 23.82,
+          "probability": 0.8797247409820557
+        },
+        {
+          "word": " to",
+          "start": 23.82,
+          "end": 24.62,
+          "probability": 0.9966740608215332
+        },
+        {
+          "word": " make",
+          "start": 24.62,
+          "end": 24.98,
+          "probability": 0.9762836694717407
+        },
+        {
+          "word": " friends",
+          "start": 24.98,
+          "end": 25.54,
+          "probability": 0.9975602626800537
+        },
+        {
+          "word": " with",
+          "start": 25.54,
+          "end": 25.84,
+          "probability": 0.9961588382720947
+        },
+        {
+          "word": " him,",
+          "start": 25.84,
+          "end": 26.8,
+          "probability": 0.9895496368408203
+        },
+        {
+          "word": " but",
+          "start": 26.84,
+          "end": 27.84,
+          "probability": 0.962174654006958
+        },
+        {
+          "word": " I",
+          "start": 27.84,
+          "end": 28.56,
+          "probability": 0.9528815746307373
+        },
+        {
+          "word": " snap",
+          "start": 28.56,
+          "end": 28.86,
+          "probability": 0.8909832239151001
+        },
+        {
+          "word": " at",
+          "start": 28.86,
+          "end": 29.2,
+          "probability": 0.9932401180267334
+        },
+        {
+          "word": " him.",
+          "start": 29.2,
+          "end": 30.32,
+          "probability": 0.9977821707725525
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2128,
+      "start": 33.46,
+      "end": 38.74,
+      "text": " I snap at him and I immediately regret it.",
+      "tokens": [
+        50964,
+        286,
+        13650,
+        412,
+        796,
+        293,
+        286,
+        4258,
+        10879,
+        309,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14177293312258837,
+      "compression_ratio": 1.316831683168317,
+      "no_speech_prob": 0.038577329367399216,
+      "words": [
+        {
+          "word": " I",
+          "start": 33.46,
+          "end": 33.72,
+          "probability": 0.9620473980903625
+        },
+        {
+          "word": " snap",
+          "start": 33.72,
+          "end": 34.04,
+          "probability": 0.9960207343101501
+        },
+        {
+          "word": " at",
+          "start": 34.04,
+          "end": 34.34,
+          "probability": 0.9941615462303162
+        },
+        {
+          "word": " him",
+          "start": 34.34,
+          "end": 34.58,
+          "probability": 0.9986127614974976
+        },
+        {
+          "word": " and",
+          "start": 34.58,
+          "end": 35.58,
+          "probability": 0.7304015755653381
+        },
+        {
+          "word": " I",
+          "start": 35.58,
+          "end": 36.12,
+          "probability": 0.92795729637146
+        },
+        {
+          "word": " immediately",
+          "start": 36.12,
+          "end": 36.72,
+          "probability": 0.9923239946365356
+        },
+        {
+          "word": " regret",
+          "start": 36.72,
+          "end": 37.32,
+          "probability": 0.9993736147880554
+        },
+        {
+          "word": " it.",
+          "start": 37.32,
+          "end": 38.74,
+          "probability": 0.9937428832054138
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2128,
+      "start": 40.14,
+      "end": 43.48,
+      "text": " And it takes it really badly.",
+      "tokens": [
+        51314,
+        400,
+        309,
+        2516,
+        309,
+        534,
+        13425,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14177293312258837,
+      "compression_ratio": 1.316831683168317,
+      "no_speech_prob": 0.038577329367399216,
+      "words": [
+        {
+          "word": " And",
+          "start": 40.14,
+          "end": 40.54,
+          "probability": 0.9575775265693665
+        },
+        {
+          "word": " it",
+          "start": 40.54,
+          "end": 40.76,
+          "probability": 0.9679672122001648
+        },
+        {
+          "word": " takes",
+          "start": 40.76,
+          "end": 41.0,
+          "probability": 0.9811674356460571
+        },
+        {
+          "word": " it",
+          "start": 41.0,
+          "end": 41.92,
+          "probability": 0.9822918176651001
+        },
+        {
+          "word": " really",
+          "start": 41.92,
+          "end": 42.74,
+          "probability": 0.9268141388893127
+        },
+        {
+          "word": " badly.",
+          "start": 42.74,
+          "end": 43.48,
+          "probability": 0.9950742125511169
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4348,
+      "start": 47.06000000000001,
+      "end": 52.68,
+      "text": " I was trying to tell him that I didn't mean it that way.",
+      "tokens": [
+        50364,
+        286,
+        390,
+        1382,
+        281,
+        980,
+        796,
+        300,
+        286,
+        994,
+        380,
+        914,
+        309,
+        300,
+        636,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1531539572046158,
+      "compression_ratio": 1.2777777777777777,
+      "no_speech_prob": 0.008961816318333149,
+      "words": [
+        {
+          "word": " I",
+          "start": 47.06000000000001,
+          "end": 47.900000000000006,
+          "probability": 0.7323122620582581
+        },
+        {
+          "word": " was",
+          "start": 47.900000000000006,
+          "end": 48.74,
+          "probability": 0.9514755606651306
+        },
+        {
+          "word": " trying",
+          "start": 48.74,
+          "end": 49.12,
+          "probability": 0.995769739151001
+        },
+        {
+          "word": " to",
+          "start": 49.12,
+          "end": 49.44,
+          "probability": 0.9986618757247925
+        },
+        {
+          "word": " tell",
+          "start": 49.44,
+          "end": 49.6,
+          "probability": 0.9958190321922302
+        },
+        {
+          "word": " him",
+          "start": 49.6,
+          "end": 50.0,
+          "probability": 0.9920119643211365
+        },
+        {
+          "word": " that",
+          "start": 50.0,
+          "end": 50.4,
+          "probability": 0.9332918524742126
+        },
+        {
+          "word": " I",
+          "start": 50.4,
+          "end": 50.58,
+          "probability": 0.9641558527946472
+        },
+        {
+          "word": " didn't",
+          "start": 50.58,
+          "end": 50.88,
+          "probability": 0.9952612817287445
+        },
+        {
+          "word": " mean",
+          "start": 50.88,
+          "end": 51.1,
+          "probability": 0.9960667490959167
+        },
+        {
+          "word": " it",
+          "start": 51.1,
+          "end": 51.3,
+          "probability": 0.9809849262237549
+        },
+        {
+          "word": " that",
+          "start": 51.3,
+          "end": 51.66,
+          "probability": 0.997795820236206
+        },
+        {
+          "word": " way.",
+          "start": 51.66,
+          "end": 52.68,
+          "probability": 0.999539852142334
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4348,
+      "start": 53.98,
+      "end": 58.48,
+      "text": " It's not what I meant, but it's too late.",
+      "tokens": [
+        50814,
+        467,
+        311,
+        406,
+        437,
+        286,
+        4140,
+        11,
+        457,
+        309,
+        311,
+        886,
+        3469,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1531539572046158,
+      "compression_ratio": 1.2777777777777777,
+      "no_speech_prob": 0.008961816318333149,
+      "words": [
+        {
+          "word": " It's",
+          "start": 53.98,
+          "end": 54.18,
+          "probability": 0.9587431252002716
+        },
+        {
+          "word": " not",
+          "start": 54.18,
+          "end": 54.42,
+          "probability": 0.9990378618240356
+        },
+        {
+          "word": " what",
+          "start": 54.42,
+          "end": 54.66,
+          "probability": 0.9964866638183594
+        },
+        {
+          "word": " I",
+          "start": 54.66,
+          "end": 54.9,
+          "probability": 0.9094595909118652
+        },
+        {
+          "word": " meant,",
+          "start": 54.9,
+          "end": 55.62,
+          "probability": 0.9967389702796936
+        },
+        {
+          "word": " but",
+          "start": 57.08,
+          "end": 57.4,
+          "probability": 0.9682164788246155
+        },
+        {
+          "word": " it's",
+          "start": 57.4,
+          "end": 57.74,
+          "probability": 0.9857202172279358
+        },
+        {
+          "word": " too",
+          "start": 57.74,
+          "end": 58.16,
+          "probability": 0.994692862033844
+        },
+        {
+          "word": " late.",
+          "start": 58.16,
+          "end": 58.58,
+          "probability": 0.9997063279151917
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 4348,
+      "start": 60.28,
+      "end": 68.94,
+      "text": " And he hangs up on me and I feel awful.",
+      "tokens": [
+        51164,
+        400,
+        415,
+        35947,
+        493,
+        322,
+        385,
+        293,
+        286,
+        841,
+        11232,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1531539572046158,
+      "compression_ratio": 1.2777777777777777,
+      "no_speech_prob": 0.008961816318333149,
+      "words": [
+        {
+          "word": " And",
+          "start": 60.28,
+          "end": 61.12,
+          "probability": 0.8779534101486206
+        },
+        {
+          "word": " he",
+          "start": 61.12,
+          "end": 61.3,
+          "probability": 0.9188714623451233
+        },
+        {
+          "word": " hangs",
+          "start": 61.3,
+          "end": 61.74,
+          "probability": 0.9984273910522461
+        },
+        {
+          "word": " up",
+          "start": 61.74,
+          "end": 63.76,
+          "probability": 0.9961961507797241
+        },
+        {
+          "word": " on",
+          "start": 63.76,
+          "end": 65.1,
+          "probability": 0.869219958782196
+        },
+        {
+          "word": " me",
+          "start": 65.1,
+          "end": 66.12,
+          "probability": 0.9994656443595886
+        },
+        {
+          "word": " and",
+          "start": 66.12,
+          "end": 66.76,
+          "probability": 0.31283092498779297
+        },
+        {
+          "word": " I",
+          "start": 66.76,
+          "end": 67.18,
+          "probability": 0.993471622467041
+        },
+        {
+          "word": " feel",
+          "start": 67.18,
+          "end": 67.82,
+          "probability": 0.9977871179580688
+        },
+        {
+          "word": " awful.",
+          "start": 67.82,
+          "end": 68.94,
+          "probability": 0.9243493676185608
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6894,
+      "start": 70.22,
+      "end": 78.58,
+      "text": " And then I call you and you play me some music and we laugh.",
+      "tokens": [
+        50414,
+        400,
+        550,
+        286,
+        818,
+        291,
+        293,
+        291,
+        862,
+        385,
+        512,
+        1318,
+        293,
+        321,
+        5801,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11915988392300075,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.02203085646033287,
+      "words": [
+        {
+          "word": " And",
+          "start": 70.22,
+          "end": 70.94,
+          "probability": 0.5803500413894653
+        },
+        {
+          "word": " then",
+          "start": 70.94,
+          "end": 71.2,
+          "probability": 0.9708515405654907
+        },
+        {
+          "word": " I",
+          "start": 71.2,
+          "end": 71.56,
+          "probability": 0.9584177732467651
+        },
+        {
+          "word": " call",
+          "start": 71.56,
+          "end": 71.86,
+          "probability": 0.9839712977409363
+        },
+        {
+          "word": " you",
+          "start": 71.86,
+          "end": 72.92,
+          "probability": 0.996437668800354
+        },
+        {
+          "word": " and",
+          "start": 72.92,
+          "end": 74.52,
+          "probability": 0.31443125009536743
+        },
+        {
+          "word": " you",
+          "start": 74.52,
+          "end": 74.88,
+          "probability": 0.9597904682159424
+        },
+        {
+          "word": " play",
+          "start": 74.88,
+          "end": 75.06,
+          "probability": 0.992443859577179
+        },
+        {
+          "word": " me",
+          "start": 75.06,
+          "end": 75.34,
+          "probability": 0.9887235164642334
+        },
+        {
+          "word": " some",
+          "start": 75.34,
+          "end": 75.64,
+          "probability": 0.9992719292640686
+        },
+        {
+          "word": " music",
+          "start": 75.64,
+          "end": 76.54,
+          "probability": 0.9977837204933167
+        },
+        {
+          "word": " and",
+          "start": 76.54,
+          "end": 77.54,
+          "probability": 0.7024271488189697
+        },
+        {
+          "word": " we",
+          "start": 77.54,
+          "end": 77.8,
+          "probability": 0.9948650002479553
+        },
+        {
+          "word": " laugh.",
+          "start": 77.8,
+          "end": 78.58,
+          "probability": 0.975982666015625
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

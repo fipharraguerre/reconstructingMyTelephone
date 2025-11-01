@@ -1,0 +1,247 @@
+{
+  "text": " Man, let me get some relaxation. And see the danger in a people like you. Endless talking. Endless talking. Endless talking.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.76,
+      "text": " Man, let me get some relaxation.",
+      "tokens": [
+        50364,
+        2458,
+        11,
+        718,
+        385,
+        483,
+        512,
+        30315,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.920168096368963,
+      "compression_ratio": 0.8648648648648649,
+      "no_speech_prob": 0.21630816161632538,
+      "words": [
+        {
+          "word": " Man,",
+          "start": 0.0,
+          "end": 1.52,
+          "probability": 0.02406879886984825
+        },
+        {
+          "word": " let",
+          "start": 1.6,
+          "end": 1.76,
+          "probability": 0.5203145742416382
+        },
+        {
+          "word": " me",
+          "start": 1.76,
+          "end": 1.94,
+          "probability": 0.9594263434410095
+        },
+        {
+          "word": " get",
+          "start": 1.94,
+          "end": 2.1,
+          "probability": 0.8362061977386475
+        },
+        {
+          "word": " some",
+          "start": 2.1,
+          "end": 3.12,
+          "probability": 0.9909906387329102
+        },
+        {
+          "word": " relaxation.",
+          "start": 3.12,
+          "end": 3.76,
+          "probability": 0.16082076728343964
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 43.0,
+      "text": " And see the danger in a people like you.",
+      "tokens": [
+        50364,
+        400,
+        536,
+        264,
+        4330,
+        294,
+        257,
+        561,
+        411,
+        291,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7193622589111328,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.1472153514623642,
+      "words": [
+        {
+          "word": " And",
+          "start": 30.0,
+          "end": 31.12,
+          "probability": 0.12759165465831757
+        },
+        {
+          "word": " see",
+          "start": 31.12,
+          "end": 31.94,
+          "probability": 0.17935694754123688
+        },
+        {
+          "word": " the",
+          "start": 31.94,
+          "end": 35.18,
+          "probability": 0.9381848573684692
+        },
+        {
+          "word": " danger",
+          "start": 35.18,
+          "end": 37.28,
+          "probability": 0.9872052669525146
+        },
+        {
+          "word": " in",
+          "start": 37.28,
+          "end": 40.56,
+          "probability": 0.5467962026596069
+        },
+        {
+          "word": " a",
+          "start": 40.56,
+          "end": 40.72,
+          "probability": 0.3505476117134094
+        },
+        {
+          "word": " people",
+          "start": 40.72,
+          "end": 41.1,
+          "probability": 0.14606210589408875
+        },
+        {
+          "word": " like",
+          "start": 41.1,
+          "end": 41.9,
+          "probability": 0.9950196743011475
+        },
+        {
+          "word": " you.",
+          "start": 41.9,
+          "end": 43.0,
+          "probability": 0.9916821718215942
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 4300,
+      "start": 53.580000000000005,
+      "end": 56.38,
+      "text": " Endless talking.",
+      "tokens": [
+        50364,
+        6967,
+        1832,
+        1417,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5989186423165458,
+      "compression_ratio": 0.6666666666666666,
+      "no_speech_prob": 0.21024304628372192,
+      "words": [
+        {
+          "word": " Endless",
+          "start": 53.580000000000005,
+          "end": 54.980000000000004,
+          "probability": 0.7927796840667725
+        },
+        {
+          "word": " talking.",
+          "start": 54.980000000000004,
+          "end": 56.38,
+          "probability": 0.9684780240058899
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 7300,
+      "start": 101.58,
+      "end": 102.98,
+      "text": " Endless talking.",
+      "tokens": [
+        50364,
+        6967,
+        1832,
+        1417,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7731242179870605,
+      "compression_ratio": 0.6666666666666666,
+      "no_speech_prob": 0.8566681742668152,
+      "words": [
+        {
+          "word": " Endless",
+          "start": 101.58,
+          "end": 102.98,
+          "probability": 0.0011661419484880753
+        },
+        {
+          "word": " talking.",
+          "start": 102.98,
+          "end": 102.98,
+          "probability": 0.0010396753204986453
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 10300,
+      "start": 119.6,
+      "end": 121.0,
+      "text": " Endless talking.",
+      "tokens": [
+        50364,
+        6967,
+        1832,
+        1417,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5046453475952148,
+      "compression_ratio": 0.6666666666666666,
+      "no_speech_prob": 0.8041735291481018,
+      "words": [
+        {
+          "word": " Endless",
+          "start": 119.6,
+          "end": 121.0,
+          "probability": 0.0002755576933850534
+        },
+        {
+          "word": " talking.",
+          "start": 121.0,
+          "end": 121.0,
+          "probability": 0.0007640034309588373
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

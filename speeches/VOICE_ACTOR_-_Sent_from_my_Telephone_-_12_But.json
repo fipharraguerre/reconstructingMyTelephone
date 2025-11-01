@@ -1,0 +1,622 @@
+{
+  "text": " There's many people responsible here You do it because you love it There's many people here to shoot I don't say too much I don't say too much Baby, close But I don't say too much There's many people here to shoot There's many people responsible here You do it because you love it There's many people here to shoot",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.62,
+      "text": " There's many people responsible here",
+      "tokens": [
+        50364,
+        821,
+        311,
+        867,
+        561,
+        6250,
+        510,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3454522659529501,
+      "compression_ratio": 1.9189189189189189,
+      "no_speech_prob": 0.6666911840438843,
+      "words": [
+        {
+          "word": " There's",
+          "start": 0.0,
+          "end": 1.92,
+          "probability": 0.45859266351908445
+        },
+        {
+          "word": " many",
+          "start": 1.92,
+          "end": 2.14,
+          "probability": 0.9228915572166443
+        },
+        {
+          "word": " people",
+          "start": 2.14,
+          "end": 2.44,
+          "probability": 0.9833473563194275
+        },
+        {
+          "word": " responsible",
+          "start": 2.44,
+          "end": 3.04,
+          "probability": 0.44382548332214355
+        },
+        {
+          "word": " here",
+          "start": 3.04,
+          "end": 3.62,
+          "probability": 0.583976149559021
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.62,
+      "end": 6.18,
+      "text": " You do it because you love it",
+      "tokens": [
+        50564,
+        509,
+        360,
+        309,
+        570,
+        291,
+        959,
+        309,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3454522659529501,
+      "compression_ratio": 1.9189189189189189,
+      "no_speech_prob": 0.6666911840438843,
+      "words": [
+        {
+          "word": " You",
+          "start": 3.62,
+          "end": 4.26,
+          "probability": 0.096037358045578
+        },
+        {
+          "word": " do",
+          "start": 4.26,
+          "end": 4.46,
+          "probability": 0.8572368621826172
+        },
+        {
+          "word": " it",
+          "start": 4.46,
+          "end": 4.62,
+          "probability": 0.9936680197715759
+        },
+        {
+          "word": " because",
+          "start": 4.62,
+          "end": 4.92,
+          "probability": 0.9711474180221558
+        },
+        {
+          "word": " you",
+          "start": 4.92,
+          "end": 5.12,
+          "probability": 0.9694644212722778
+        },
+        {
+          "word": " love",
+          "start": 5.12,
+          "end": 5.48,
+          "probability": 0.6844403147697449
+        },
+        {
+          "word": " it",
+          "start": 5.48,
+          "end": 6.18,
+          "probability": 0.2467121034860611
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.0,
+      "end": 8.62,
+      "text": " There's many people here to shoot",
+      "tokens": [
+        50714,
+        821,
+        311,
+        867,
+        561,
+        510,
+        281,
+        3076,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3454522659529501,
+      "compression_ratio": 1.9189189189189189,
+      "no_speech_prob": 0.6666911840438843,
+      "words": [
+        {
+          "word": " There's",
+          "start": 7.0,
+          "end": 7.66,
+          "probability": 0.6161621361970901
+        },
+        {
+          "word": " many",
+          "start": 7.66,
+          "end": 7.8,
+          "probability": 0.7404024600982666
+        },
+        {
+          "word": " people",
+          "start": 7.8,
+          "end": 7.98,
+          "probability": 0.9975748658180237
+        },
+        {
+          "word": " here",
+          "start": 7.98,
+          "end": 8.28,
+          "probability": 0.867671012878418
+        },
+        {
+          "word": " to",
+          "start": 8.28,
+          "end": 8.46,
+          "probability": 0.6773480176925659
+        },
+        {
+          "word": " shoot",
+          "start": 8.46,
+          "end": 8.62,
+          "probability": 0.37730082869529724
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.62,
+      "end": 11.42,
+      "text": " I don't say too much",
+      "tokens": [
+        50814,
+        286,
+        500,
+        380,
+        584,
+        886,
+        709,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3454522659529501,
+      "compression_ratio": 1.9189189189189189,
+      "no_speech_prob": 0.6666911840438843,
+      "words": [
+        {
+          "word": " I",
+          "start": 8.62,
+          "end": 9.12,
+          "probability": 0.14308449625968933
+        },
+        {
+          "word": " don't",
+          "start": 9.12,
+          "end": 9.84,
+          "probability": 0.9803939163684845
+        },
+        {
+          "word": " say",
+          "start": 9.84,
+          "end": 10.14,
+          "probability": 0.7440173625946045
+        },
+        {
+          "word": " too",
+          "start": 10.14,
+          "end": 10.66,
+          "probability": 0.6293287873268127
+        },
+        {
+          "word": " much",
+          "start": 10.66,
+          "end": 11.42,
+          "probability": 0.9949718713760376
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 12.0,
+      "end": 16.3,
+      "text": " I don't say too much",
+      "tokens": [
+        50964,
+        286,
+        500,
+        380,
+        584,
+        886,
+        709,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3454522659529501,
+      "compression_ratio": 1.9189189189189189,
+      "no_speech_prob": 0.6666911840438843,
+      "words": [
+        {
+          "word": " I",
+          "start": 12.0,
+          "end": 13.08,
+          "probability": 0.582878053188324
+        },
+        {
+          "word": " don't",
+          "start": 13.08,
+          "end": 14.02,
+          "probability": 0.9664716720581055
+        },
+        {
+          "word": " say",
+          "start": 14.02,
+          "end": 14.58,
+          "probability": 0.9784204363822937
+        },
+        {
+          "word": " too",
+          "start": 14.58,
+          "end": 15.06,
+          "probability": 0.981411874294281
+        },
+        {
+          "word": " much",
+          "start": 15.06,
+          "end": 16.3,
+          "probability": 0.9935314059257507
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 17.4,
+      "end": 19.7,
+      "text": " Baby, close",
+      "tokens": [
+        51164,
+        9425,
+        11,
+        1998,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3454522659529501,
+      "compression_ratio": 1.9189189189189189,
+      "no_speech_prob": 0.6666911840438843,
+      "words": [
+        {
+          "word": " Baby,",
+          "start": 17.4,
+          "end": 18.36,
+          "probability": 0.3338804244995117
+        },
+        {
+          "word": " close",
+          "start": 19.3,
+          "end": 19.7,
+          "probability": 0.30826038122177124
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 20.779999999999998,
+      "end": 24.96,
+      "text": " But I don't say too much",
+      "tokens": [
+        51364,
+        583,
+        286,
+        500,
+        380,
+        584,
+        886,
+        709,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3454522659529501,
+      "compression_ratio": 1.9189189189189189,
+      "no_speech_prob": 0.6666911840438843,
+      "words": [
+        {
+          "word": " But",
+          "start": 20.779999999999998,
+          "end": 21.74,
+          "probability": 0.3373250663280487
+        },
+        {
+          "word": " I",
+          "start": 21.74,
+          "end": 22.54,
+          "probability": 0.5903686881065369
+        },
+        {
+          "word": " don't",
+          "start": 22.54,
+          "end": 22.92,
+          "probability": 0.9965900778770447
+        },
+        {
+          "word": " say",
+          "start": 22.92,
+          "end": 23.5,
+          "probability": 0.9978068470954895
+        },
+        {
+          "word": " too",
+          "start": 23.5,
+          "end": 24.1,
+          "probability": 0.9896960258483887
+        },
+        {
+          "word": " much",
+          "start": 24.1,
+          "end": 24.96,
+          "probability": 0.9986951947212219
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 24.96,
+      "end": 26.38,
+      "text": " There's many people here to shoot",
+      "tokens": [
+        51614,
+        821,
+        311,
+        867,
+        561,
+        510,
+        281,
+        3076,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3454522659529501,
+      "compression_ratio": 1.9189189189189189,
+      "no_speech_prob": 0.6666911840438843,
+      "words": [
+        {
+          "word": " There's",
+          "start": 24.96,
+          "end": 25.24,
+          "probability": 0.9498562514781952
+        },
+        {
+          "word": " many",
+          "start": 25.24,
+          "end": 25.32,
+          "probability": 0.9957146048545837
+        },
+        {
+          "word": " people",
+          "start": 25.32,
+          "end": 25.58,
+          "probability": 0.9990918636322021
+        },
+        {
+          "word": " here",
+          "start": 25.58,
+          "end": 25.88,
+          "probability": 0.7911565899848938
+        },
+        {
+          "word": " to",
+          "start": 25.88,
+          "end": 26.0,
+          "probability": 0.9978278279304504
+        },
+        {
+          "word": " shoot",
+          "start": 26.0,
+          "end": 26.38,
+          "probability": 0.9971628785133362
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2638,
+      "start": 27.68,
+      "end": 29.38,
+      "text": " There's many people responsible here",
+      "tokens": [
+        50364,
+        821,
+        311,
+        867,
+        561,
+        6250,
+        510,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12296252780490452,
+      "compression_ratio": 1.2820512820512822,
+      "no_speech_prob": 0.16179533302783966,
+      "words": [
+        {
+          "word": " There's",
+          "start": 27.68,
+          "end": 28.2,
+          "probability": 0.37145132990553975
+        },
+        {
+          "word": " many",
+          "start": 28.2,
+          "end": 28.44,
+          "probability": 0.13977709412574768
+        },
+        {
+          "word": " people",
+          "start": 28.44,
+          "end": 28.74,
+          "probability": 0.9588629007339478
+        },
+        {
+          "word": " responsible",
+          "start": 28.74,
+          "end": 29.34,
+          "probability": 0.0534394308924675
+        },
+        {
+          "word": " here",
+          "start": 29.34,
+          "end": 29.6,
+          "probability": 0.35601526498794556
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2638,
+      "start": 30.04,
+      "end": 32.46,
+      "text": " You do it because you love it",
+      "tokens": [
+        50514,
+        509,
+        360,
+        309,
+        570,
+        291,
+        959,
+        309,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12296252780490452,
+      "compression_ratio": 1.2820512820512822,
+      "no_speech_prob": 0.16179533302783966,
+      "words": [
+        {
+          "word": " You",
+          "start": 30.04,
+          "end": 30.56,
+          "probability": 0.16788256168365479
+        },
+        {
+          "word": " do",
+          "start": 30.56,
+          "end": 30.78,
+          "probability": 0.9810813069343567
+        },
+        {
+          "word": " it",
+          "start": 30.78,
+          "end": 30.96,
+          "probability": 0.9965386390686035
+        },
+        {
+          "word": " because",
+          "start": 30.96,
+          "end": 31.24,
+          "probability": 0.9756484627723694
+        },
+        {
+          "word": " you",
+          "start": 31.24,
+          "end": 31.44,
+          "probability": 0.9721068143844604
+        },
+        {
+          "word": " love",
+          "start": 31.44,
+          "end": 31.6,
+          "probability": 0.8038491606712341
+        },
+        {
+          "word": " it",
+          "start": 31.6,
+          "end": 32.46,
+          "probability": 0.18862132728099823
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2638,
+      "start": 33.459999999999994,
+      "end": 34.42,
+      "text": " There's many people here to shoot",
+      "tokens": [
+        50664,
+        821,
+        311,
+        867,
+        561,
+        510,
+        281,
+        3076,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12296252780490452,
+      "compression_ratio": 1.2820512820512822,
+      "no_speech_prob": 0.16179533302783966,
+      "words": [
+        {
+          "word": " There's",
+          "start": 33.459999999999994,
+          "end": 33.98,
+          "probability": 0.48989247492863797
+        },
+        {
+          "word": " many",
+          "start": 33.98,
+          "end": 34.1,
+          "probability": 0.01883750595152378
+        },
+        {
+          "word": " people",
+          "start": 34.1,
+          "end": 34.3,
+          "probability": 0.966360330581665
+        },
+        {
+          "word": " here",
+          "start": 34.3,
+          "end": 34.42,
+          "probability": 0.0532570481300354
+        },
+        {
+          "word": " to",
+          "start": 34.42,
+          "end": 34.42,
+          "probability": 0.0034055402502417564
+        },
+        {
+          "word": " shoot",
+          "start": 34.42,
+          "end": 34.42,
+          "probability": 7.200174877652898e-05
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

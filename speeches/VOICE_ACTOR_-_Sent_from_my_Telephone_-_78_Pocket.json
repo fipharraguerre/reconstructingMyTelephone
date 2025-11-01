@@ -1,0 +1,1752 @@
+{
+  "text": " See, hear, feel, be, set, walking over, there, here, more, for, about, quite, further, mirror, error, roaring, can't, prepare, ferocious, intricate, tantalizing, fabricate, rural, urban, landscape, window, shelf, put, putting, meaning, low, high, compressed, compressed, compass, beyond, makes, everything, a, an, into, is, be, are, much, many, sorrow, the, I, but, what, him, are, expected, said, each, each other, reaching, most, orders, truth, able, know, knowing, you, given, God, Diyyut, relief, radiant, different, thought, same, floor, worker, cement, wooden, string, blade, first, symbolic, hand, pocket, do, first, means, meaning, footprint, because, because, and, possible, side, bring, already, by, appropriate, cave, while, no, while, too, three, four, behind, understand, back, sudden, peaceful, right away, instrument, device, achieve, part, idea, of, off, fitted, cross, like, almost, during, resource, fight, me, I, you, yours, mine, cause, distress, long, end, this, deserve, correlate, related, semi-circular, better, not, hand, suppose, then, brutality, treat, avoid, driving, nothing, becomes, at, entire, moment, momentum, like, endless, counts, object, reject, mask, caps, thought, vitality, display, direction, think, forgotten, fixed, scramble, tight, tower, wheel, wheels, horizon. Thank you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 28.68,
+      "text": " See, hear, feel, be, set, walking over, there, here, more, for, about, quite,",
+      "tokens": [
+        50364,
+        3008,
+        11,
+        1568,
+        11,
+        841,
+        11,
+        312,
+        11,
+        992,
+        11,
+        4494,
+        670,
+        11,
+        456,
+        11,
+        510,
+        11,
+        544,
+        11,
+        337,
+        11,
+        466,
+        11,
+        1596,
+        11,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41604767526899067,
+      "compression_ratio": 1.0694444444444444,
+      "no_speech_prob": 0.21146878600120544,
+      "words": [
+        {
+          "word": " See,",
+          "start": 0.0,
+          "end": 1.4,
+          "probability": 0.7464712262153625
+        },
+        {
+          "word": " hear,",
+          "start": 2.86,
+          "end": 2.86,
+          "probability": 0.9015969634056091
+        },
+        {
+          "word": " feel,",
+          "start": 4.14,
+          "end": 4.84,
+          "probability": 0.9632498621940613
+        },
+        {
+          "word": " be,",
+          "start": 7.08,
+          "end": 7.42,
+          "probability": 0.9795857071876526
+        },
+        {
+          "word": " set,",
+          "start": 8.78,
+          "end": 8.78,
+          "probability": 0.9201696515083313
+        },
+        {
+          "word": " walking",
+          "start": 12.34,
+          "end": 12.34,
+          "probability": 0.9524904489517212
+        },
+        {
+          "word": " over,",
+          "start": 12.34,
+          "end": 15.66,
+          "probability": 0.4392840266227722
+        },
+        {
+          "word": " there,",
+          "start": 16.88,
+          "end": 17.4,
+          "probability": 0.5125464797019958
+        },
+        {
+          "word": " here,",
+          "start": 18.46,
+          "end": 19.32,
+          "probability": 0.6212833523750305
+        },
+        {
+          "word": " more,",
+          "start": 22.6,
+          "end": 22.6,
+          "probability": 0.9560805559158325
+        },
+        {
+          "word": " for,",
+          "start": 24.54,
+          "end": 24.72,
+          "probability": 0.6747713088989258
+        },
+        {
+          "word": " about,",
+          "start": 26.68,
+          "end": 26.68,
+          "probability": 0.9872041344642639
+        },
+        {
+          "word": " quite,",
+          "start": 28.68,
+          "end": 28.68,
+          "probability": 0.8522063493728638
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 30.660000000000004,
+      "end": 58.34,
+      "text": " further, mirror, error, roaring, can't, prepare, ferocious, intricate, tantalizing, fabricate, rural,",
+      "tokens": [
+        50364,
+        3052,
+        11,
+        8013,
+        11,
+        6713,
+        11,
+        36231,
+        11,
+        393,
+        380,
+        11,
+        5940,
+        11,
+        283,
+        2032,
+        4139,
+        11,
+        38015,
+        11,
+        12095,
+        304,
+        3319,
+        11,
+        7253,
+        473,
+        11,
+        11165,
+        11,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19814774297898816,
+      "compression_ratio": 1.2317073170731707,
+      "no_speech_prob": 0.8460447192192078,
+      "words": [
+        {
+          "word": " further,",
+          "start": 30.660000000000004,
+          "end": 32.06,
+          "probability": 0.023787647485733032
+        },
+        {
+          "word": " mirror,",
+          "start": 33.58,
+          "end": 34.26,
+          "probability": 0.9460213780403137
+        },
+        {
+          "word": " error,",
+          "start": 35.72,
+          "end": 36.34,
+          "probability": 0.9196068644523621
+        },
+        {
+          "word": " roaring,",
+          "start": 39.74,
+          "end": 40.44,
+          "probability": 0.9808938503265381
+        },
+        {
+          "word": " can't,",
+          "start": 43.02,
+          "end": 44.3,
+          "probability": 0.8671196103096008
+        },
+        {
+          "word": " prepare,",
+          "start": 44.76,
+          "end": 45.64,
+          "probability": 0.9852997064590454
+        },
+        {
+          "word": " ferocious,",
+          "start": 48.72,
+          "end": 49.62,
+          "probability": 0.9992591738700867
+        },
+        {
+          "word": " intricate,",
+          "start": 51.48,
+          "end": 52.44,
+          "probability": 0.9924657344818115
+        },
+        {
+          "word": " tantalizing,",
+          "start": 53.3,
+          "end": 54.66,
+          "probability": 0.8911687135696411
+        },
+        {
+          "word": " fabricate,",
+          "start": 55.76,
+          "end": 57.18,
+          "probability": 0.9730607569217682
+        },
+        {
+          "word": " rural,",
+          "start": 57.82,
+          "end": 58.34,
+          "probability": 0.9453646540641785
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 6000,
+      "start": 60.34,
+      "end": 84.92,
+      "text": " urban, landscape, window, shelf, put, putting, meaning,",
+      "tokens": [
+        50364,
+        9681,
+        11,
+        9661,
+        11,
+        4910,
+        11,
+        15222,
+        11,
+        829,
+        11,
+        3372,
+        11,
+        3620,
+        11,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18893755806816948,
+      "compression_ratio": 0.9649122807017544,
+      "no_speech_prob": 0.9066902995109558,
+      "words": [
+        {
+          "word": " urban,",
+          "start": 60.34,
+          "end": 61.74,
+          "probability": 0.04612676426768303
+        },
+        {
+          "word": " landscape,",
+          "start": 65.16,
+          "end": 65.6,
+          "probability": 0.9952669143676758
+        },
+        {
+          "word": " window,",
+          "start": 68.48,
+          "end": 69.66,
+          "probability": 0.9898567199707031
+        },
+        {
+          "word": " shelf,",
+          "start": 72.34,
+          "end": 73.3,
+          "probability": 0.8819983005523682
+        },
+        {
+          "word": " put,",
+          "start": 76.86,
+          "end": 76.94,
+          "probability": 0.6167786717414856
+        },
+        {
+          "word": " putting,",
+          "start": 78.28,
+          "end": 78.96,
+          "probability": 0.7461065053939819
+        },
+        {
+          "word": " meaning,",
+          "start": 84.46,
+          "end": 84.92,
+          "probability": 0.9917068481445312
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 8492,
+      "start": 89.1,
+      "end": 114.1,
+      "text": " low, high, compressed, compressed, compass, beyond, makes, everything, a, an,",
+      "tokens": [
+        50364,
+        2295,
+        11,
+        1090,
+        11,
+        30353,
+        11,
+        30353,
+        11,
+        10707,
+        11,
+        4399,
+        11,
+        1669,
+        11,
+        1203,
+        11,
+        257,
+        11,
+        364,
+        11,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2633240818977356,
+      "compression_ratio": 1.1846153846153846,
+      "no_speech_prob": 0.7889507412910461,
+      "words": [
+        {
+          "word": " low,",
+          "start": 89.1,
+          "end": 90.5,
+          "probability": 0.011136621236801147
+        },
+        {
+          "word": " high,",
+          "start": 92.76,
+          "end": 93.84,
+          "probability": 0.9852001667022705
+        },
+        {
+          "word": " compressed,",
+          "start": 96.66,
+          "end": 96.66,
+          "probability": 0.5382614135742188
+        },
+        {
+          "word": " compressed,",
+          "start": 97.84,
+          "end": 98.78,
+          "probability": 0.9545997381210327
+        },
+        {
+          "word": " compass,",
+          "start": 100.28,
+          "end": 101.3,
+          "probability": 0.9777767658233643
+        },
+        {
+          "word": " beyond,",
+          "start": 105.3,
+          "end": 106.0,
+          "probability": 0.9691845178604126
+        },
+        {
+          "word": " makes,",
+          "start": 107.32,
+          "end": 108.1,
+          "probability": 0.9934513568878174
+        },
+        {
+          "word": " everything,",
+          "start": 109.54,
+          "end": 110.68,
+          "probability": 0.9861350655555725
+        },
+        {
+          "word": " a,",
+          "start": 111.74,
+          "end": 112.22,
+          "probability": 0.8324642181396484
+        },
+        {
+          "word": " an,",
+          "start": 113.44,
+          "end": 114.1,
+          "probability": 0.8061336278915405
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 11410,
+      "start": 114.1,
+      "end": 139.94,
+      "text": " into, is, be, are, much, many, sorrow, the, I, but, what, him,",
+      "tokens": [
+        50364,
+        666,
+        11,
+        307,
+        11,
+        312,
+        11,
+        366,
+        11,
+        709,
+        11,
+        867,
+        11,
+        23027,
+        11,
+        264,
+        11,
+        286,
+        11,
+        457,
+        11,
+        437,
+        11,
+        796,
+        11,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17162622724260604,
+      "compression_ratio": 0.9841269841269841,
+      "no_speech_prob": 0.9209668636322021,
+      "words": [
+        {
+          "word": " into,",
+          "start": 114.1,
+          "end": 115.46,
+          "probability": 0.4518870413303375
+        },
+        {
+          "word": " is,",
+          "start": 116.5,
+          "end": 117.64,
+          "probability": 0.9170974493026733
+        },
+        {
+          "word": " be,",
+          "start": 119.82,
+          "end": 119.84,
+          "probability": 0.9928112626075745
+        },
+        {
+          "word": " are,",
+          "start": 121.06,
+          "end": 122.06,
+          "probability": 0.9934849143028259
+        },
+        {
+          "word": " much,",
+          "start": 123.16,
+          "end": 123.78,
+          "probability": 0.8925461769104004
+        },
+        {
+          "word": " many,",
+          "start": 124.94,
+          "end": 125.6,
+          "probability": 0.9920715689659119
+        },
+        {
+          "word": " sorrow,",
+          "start": 127.44,
+          "end": 128.0,
+          "probability": 0.9894236922264099
+        },
+        {
+          "word": " the,",
+          "start": 130.02,
+          "end": 130.16,
+          "probability": 0.3350767195224762
+        },
+        {
+          "word": " I,",
+          "start": 133.16,
+          "end": 133.82,
+          "probability": 0.8921326398849487
+        },
+        {
+          "word": " but,",
+          "start": 134.84,
+          "end": 135.74,
+          "probability": 0.9808557629585266
+        },
+        {
+          "word": " what,",
+          "start": 138.2,
+          "end": 138.2,
+          "probability": 0.9721453189849854
+        },
+        {
+          "word": " him,",
+          "start": 139.44,
+          "end": 139.94,
+          "probability": 0.8164793252944946
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 13994,
+      "start": 141.57999999999998,
+      "end": 166.16,
+      "text": " are, expected, said, each, each other, reaching, most, orders, truth, able, know, knowing,",
+      "tokens": [
+        50364,
+        366,
+        11,
+        5176,
+        11,
+        848,
+        11,
+        1184,
+        11,
+        1184,
+        661,
+        11,
+        9906,
+        11,
+        881,
+        11,
+        9470,
+        11,
+        3494,
+        11,
+        1075,
+        11,
+        458,
+        11,
+        5276,
+        11,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2402263674242743,
+      "compression_ratio": 1.1688311688311688,
+      "no_speech_prob": 0.8836314678192139,
+      "words": [
+        {
+          "word": " are,",
+          "start": 141.57999999999998,
+          "end": 142.98,
+          "probability": 0.08983401954174042
+        },
+        {
+          "word": " expected,",
+          "start": 142.98,
+          "end": 144.26,
+          "probability": 0.9462102651596069
+        },
+        {
+          "word": " said,",
+          "start": 145.98,
+          "end": 146.58,
+          "probability": 0.741543710231781
+        },
+        {
+          "word": " each,",
+          "start": 149.38,
+          "end": 149.38,
+          "probability": 0.9857124090194702
+        },
+        {
+          "word": " each",
+          "start": 150.28,
+          "end": 150.76,
+          "probability": 0.9852017760276794
+        },
+        {
+          "word": " other,",
+          "start": 150.76,
+          "end": 151.52,
+          "probability": 0.9980296492576599
+        },
+        {
+          "word": " reaching,",
+          "start": 153.66,
+          "end": 154.24,
+          "probability": 0.9753477573394775
+        },
+        {
+          "word": " most,",
+          "start": 156.84,
+          "end": 156.84,
+          "probability": 0.9711971879005432
+        },
+        {
+          "word": " orders,",
+          "start": 158.44,
+          "end": 159.08,
+          "probability": 0.19978965818881989
+        },
+        {
+          "word": " truth,",
+          "start": 160.42,
+          "end": 160.94,
+          "probability": 0.9280797243118286
+        },
+        {
+          "word": " able,",
+          "start": 162.06,
+          "end": 162.74,
+          "probability": 0.990146815776825
+        },
+        {
+          "word": " know,",
+          "start": 163.94,
+          "end": 164.48,
+          "probability": 0.7840542197227478
+        },
+        {
+          "word": " knowing,",
+          "start": 165.64,
+          "end": 166.16,
+          "probability": 0.9959591031074524
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 16616,
+      "start": 171.26,
+      "end": 194.9,
+      "text": " you, given, God, Diyyut, relief, radiant, different, thought, same,",
+      "tokens": [
+        50364,
+        291,
+        11,
+        2212,
+        11,
+        1265,
+        11,
+        413,
+        4727,
+        88,
+        325,
+        11,
+        10915,
+        11,
+        49430,
+        11,
+        819,
+        11,
+        1194,
+        11,
+        912,
+        11,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5672441864013672,
+      "compression_ratio": 0.9710144927536232,
+      "no_speech_prob": 0.9515621066093445,
+      "words": [
+        {
+          "word": " you,",
+          "start": 171.26,
+          "end": 172.66,
+          "probability": 0.054092612117528915
+        },
+        {
+          "word": " given,",
+          "start": 172.66,
+          "end": 174.06,
+          "probability": 0.7386285662651062
+        },
+        {
+          "word": " God,",
+          "start": 177.62,
+          "end": 177.62,
+          "probability": 0.23196899890899658
+        },
+        {
+          "word": " Diyyut,",
+          "start": 179.02,
+          "end": 180.84,
+          "probability": 0.24788377434015274
+        },
+        {
+          "word": " relief,",
+          "start": 183.48,
+          "end": 183.48,
+          "probability": 0.12132846564054489
+        },
+        {
+          "word": " radiant,",
+          "start": 186.4,
+          "end": 186.92,
+          "probability": 0.7927660346031189
+        },
+        {
+          "word": " different,",
+          "start": 189.54,
+          "end": 190.16,
+          "probability": 0.9892542362213135
+        },
+        {
+          "word": " thought,",
+          "start": 192.2,
+          "end": 192.52,
+          "probability": 0.49926117062568665
+        },
+        {
+          "word": " same,",
+          "start": 194.54,
+          "end": 194.9,
+          "probability": 0.7648532390594482
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 19490,
+      "start": 197.92,
+      "end": 216.9,
+      "text": " floor, worker, cement, wooden, string, blade, first, symbolic,",
+      "tokens": [
+        50364,
+        4123,
+        11,
+        11346,
+        11,
+        19729,
+        11,
+        14744,
+        11,
+        6798,
+        11,
+        10959,
+        11,
+        700,
+        11,
+        25755,
+        11,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2264331102371216,
+      "compression_ratio": 0.9538461538461539,
+      "no_speech_prob": 0.9561206698417664,
+      "words": [
+        {
+          "word": " floor,",
+          "start": 197.92,
+          "end": 199.32,
+          "probability": 0.09003102779388428
+        },
+        {
+          "word": " worker,",
+          "start": 202.24,
+          "end": 202.24,
+          "probability": 0.7151303887367249
+        },
+        {
+          "word": " cement,",
+          "start": 206.6,
+          "end": 207.46,
+          "probability": 0.9943004846572876
+        },
+        {
+          "word": " wooden,",
+          "start": 209.74,
+          "end": 210.32,
+          "probability": 0.9506310820579529
+        },
+        {
+          "word": " string,",
+          "start": 211.66,
+          "end": 212.1,
+          "probability": 0.9972547888755798
+        },
+        {
+          "word": " blade,",
+          "start": 213.62,
+          "end": 214.3,
+          "probability": 0.9956381916999817
+        },
+        {
+          "word": " first,",
+          "start": 215.3,
+          "end": 215.98,
+          "probability": 0.7010305523872375
+        },
+        {
+          "word": " symbolic,",
+          "start": 216.68,
+          "end": 217.38,
+          "probability": 0.9969707727432251
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 21738,
+      "start": 217.38,
+      "end": 243.62,
+      "text": " hand, pocket, do, first, means, meaning, footprint, because, because, and, possible,",
+      "tokens": [
+        50364,
+        1011,
+        11,
+        8963,
+        11,
+        360,
+        11,
+        700,
+        11,
+        1355,
+        11,
+        3620,
+        11,
+        24222,
+        11,
+        570,
+        11,
+        570,
+        11,
+        293,
+        11,
+        1944,
+        11,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.264405580667349,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.9743580222129822,
+      "words": [
+        {
+          "word": " hand,",
+          "start": 217.38,
+          "end": 219.18,
+          "probability": 0.006420229095965624
+        },
+        {
+          "word": " pocket,",
+          "start": 221.62,
+          "end": 221.62,
+          "probability": 0.9488883018493652
+        },
+        {
+          "word": " do,",
+          "start": 223.3,
+          "end": 224.12,
+          "probability": 0.6291654706001282
+        },
+        {
+          "word": " first,",
+          "start": 225.4,
+          "end": 225.98,
+          "probability": 0.39023032784461975
+        },
+        {
+          "word": " means,",
+          "start": 229.06,
+          "end": 229.32,
+          "probability": 0.945218563079834
+        },
+        {
+          "word": " meaning,",
+          "start": 230.56,
+          "end": 231.08,
+          "probability": 0.9753589630126953
+        },
+        {
+          "word": " footprint,",
+          "start": 232.84,
+          "end": 233.66,
+          "probability": 0.8537814617156982
+        },
+        {
+          "word": " because,",
+          "start": 235.12,
+          "end": 235.66,
+          "probability": 0.9905261993408203
+        },
+        {
+          "word": " because,",
+          "start": 238.96,
+          "end": 238.96,
+          "probability": 0.9081240296363831
+        },
+        {
+          "word": " and,",
+          "start": 242.66,
+          "end": 242.66,
+          "probability": 0.9653573632240295
+        },
+        {
+          "word": " possible,",
+          "start": 243.04,
+          "end": 243.62,
+          "probability": 0.9773691296577454
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 24362,
+      "start": 248.98,
+      "end": 271.96,
+      "text": " side, bring, already, by, appropriate, cave, while, no, while, too,",
+      "tokens": [
+        50364,
+        1252,
+        11,
+        1565,
+        11,
+        1217,
+        11,
+        538,
+        11,
+        6854,
+        11,
+        11730,
+        11,
+        1339,
+        11,
+        572,
+        11,
+        1339,
+        11,
+        886,
+        11,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2717307209968567,
+      "compression_ratio": 1.098360655737705,
+      "no_speech_prob": 0.9600664973258972,
+      "words": [
+        {
+          "word": " side,",
+          "start": 248.98,
+          "end": 250.38,
+          "probability": 0.20930133759975433
+        },
+        {
+          "word": " bring,",
+          "start": 253.26,
+          "end": 253.8,
+          "probability": 0.331505686044693
+        },
+        {
+          "word": " already,",
+          "start": 256.26,
+          "end": 257.06,
+          "probability": 0.8536591529846191
+        },
+        {
+          "word": " by,",
+          "start": 259.38,
+          "end": 259.88,
+          "probability": 0.5947329998016357
+        },
+        {
+          "word": " appropriate,",
+          "start": 261.1,
+          "end": 261.9,
+          "probability": 0.9751409292221069
+        },
+        {
+          "word": " cave,",
+          "start": 262.9,
+          "end": 263.58,
+          "probability": 0.9896336793899536
+        },
+        {
+          "word": " while,",
+          "start": 266.04,
+          "end": 266.82,
+          "probability": 0.9249523282051086
+        },
+        {
+          "word": " no,",
+          "start": 268.1,
+          "end": 268.34,
+          "probability": 0.6740356087684631
+        },
+        {
+          "word": " while,",
+          "start": 269.66,
+          "end": 270.48,
+          "probability": 0.8761481642723083
+        },
+        {
+          "word": " too,",
+          "start": 271.6,
+          "end": 271.96,
+          "probability": 0.463724285364151
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 27196,
+      "start": 271.96,
+      "end": 295.3,
+      "text": " three, four, behind, understand, back, sudden, peaceful, right away, instrument, device,",
+      "tokens": [
+        50364,
+        1045,
+        11,
+        1451,
+        11,
+        2261,
+        11,
+        1223,
+        11,
+        646,
+        11,
+        3990,
+        11,
+        13962,
+        11,
+        558,
+        1314,
+        11,
+        7198,
+        11,
+        4302,
+        11,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2649606895446777,
+      "compression_ratio": 1.1139240506329113,
+      "no_speech_prob": 0.9829334020614624,
+      "words": [
+        {
+          "word": " three,",
+          "start": 271.96,
+          "end": 274.24,
+          "probability": 0.2148173749446869
+        },
+        {
+          "word": " four,",
+          "start": 274.24,
+          "end": 277.16,
+          "probability": 0.9702966213226318
+        },
+        {
+          "word": " behind,",
+          "start": 278.66,
+          "end": 279.3,
+          "probability": 0.9401516914367676
+        },
+        {
+          "word": " understand,",
+          "start": 281.3,
+          "end": 281.92,
+          "probability": 0.9801927208900452
+        },
+        {
+          "word": " back,",
+          "start": 283.36,
+          "end": 283.7,
+          "probability": 0.9890745282173157
+        },
+        {
+          "word": " sudden,",
+          "start": 284.46,
+          "end": 285.0,
+          "probability": 0.8955705761909485
+        },
+        {
+          "word": " peaceful,",
+          "start": 287.48,
+          "end": 288.36,
+          "probability": 0.9841614961624146
+        },
+        {
+          "word": " right",
+          "start": 289.64,
+          "end": 289.74,
+          "probability": 0.9598507285118103
+        },
+        {
+          "word": " away,",
+          "start": 289.74,
+          "end": 290.38,
+          "probability": 0.8342647552490234
+        },
+        {
+          "word": " instrument,",
+          "start": 291.7,
+          "end": 292.52,
+          "probability": 0.9630551338195801
+        },
+        {
+          "word": " device,",
+          "start": 294.56,
+          "end": 295.3,
+          "probability": 0.9668030738830566
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 29530,
+      "start": 297.52000000000004,
+      "end": 324.22,
+      "text": " achieve, part, idea, of, off, fitted, cross, like, almost, during,",
+      "tokens": [
+        50364,
+        4584,
+        11,
+        644,
+        11,
+        1558,
+        11,
+        295,
+        11,
+        766,
+        11,
+        26321,
+        11,
+        3278,
+        11,
+        411,
+        11,
+        1920,
+        11,
+        1830,
+        11,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22900734345118204,
+      "compression_ratio": 1.0153846153846153,
+      "no_speech_prob": 0.9828475713729858,
+      "words": [
+        {
+          "word": " achieve,",
+          "start": 297.52000000000004,
+          "end": 298.92,
+          "probability": 0.4179137945175171
+        },
+        {
+          "word": " part,",
+          "start": 300.08,
+          "end": 301.46,
+          "probability": 0.9764922857284546
+        },
+        {
+          "word": " idea,",
+          "start": 303.52,
+          "end": 304.38,
+          "probability": 0.2104804366827011
+        },
+        {
+          "word": " of,",
+          "start": 307.22,
+          "end": 307.22,
+          "probability": 0.7368884086608887
+        },
+        {
+          "word": " off,",
+          "start": 310.68,
+          "end": 310.68,
+          "probability": 0.4265323281288147
+        },
+        {
+          "word": " fitted,",
+          "start": 311.74,
+          "end": 312.42,
+          "probability": 0.4405011534690857
+        },
+        {
+          "word": " cross,",
+          "start": 314.94,
+          "end": 315.8,
+          "probability": 0.6451296806335449
+        },
+        {
+          "word": " like,",
+          "start": 318.16,
+          "end": 318.26,
+          "probability": 0.7519760131835938
+        },
+        {
+          "word": " almost,",
+          "start": 320.46,
+          "end": 321.38,
+          "probability": 0.9965232610702515
+        },
+        {
+          "word": " during,",
+          "start": 323.78,
+          "end": 324.22,
+          "probability": 0.6577910780906677
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 32422,
+      "start": 324.22,
+      "end": 351.04,
+      "text": " resource, fight, me, I, you, yours, mine, cause, distress, long, end,",
+      "tokens": [
+        50364,
+        7684,
+        11,
+        2092,
+        11,
+        385,
+        11,
+        286,
+        11,
+        291,
+        11,
+        6342,
+        11,
+        3892,
+        11,
+        3082,
+        11,
+        24516,
+        11,
+        938,
+        11,
+        917,
+        11,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10419897849743183,
+      "compression_ratio": 1.0298507462686568,
+      "no_speech_prob": 0.9879520535469055,
+      "words": [
+        {
+          "word": " resource,",
+          "start": 324.22,
+          "end": 326.52,
+          "probability": 0.22056254744529724
+        },
+        {
+          "word": " fight,",
+          "start": 326.64,
+          "end": 328.52,
+          "probability": 0.9328137040138245
+        },
+        {
+          "word": " me,",
+          "start": 331.28,
+          "end": 332.26,
+          "probability": 0.9564598202705383
+        },
+        {
+          "word": " I,",
+          "start": 333.72,
+          "end": 334.34,
+          "probability": 0.864155113697052
+        },
+        {
+          "word": " you,",
+          "start": 335.8,
+          "end": 336.7,
+          "probability": 0.9790188074111938
+        },
+        {
+          "word": " yours,",
+          "start": 338.26,
+          "end": 338.86,
+          "probability": 0.9517679810523987
+        },
+        {
+          "word": " mine,",
+          "start": 341.16,
+          "end": 341.68,
+          "probability": 0.9733544588088989
+        },
+        {
+          "word": " cause,",
+          "start": 343.12,
+          "end": 343.66,
+          "probability": 0.9605845212936401
+        },
+        {
+          "word": " distress,",
+          "start": 345.56,
+          "end": 346.42,
+          "probability": 0.9421525597572327
+        },
+        {
+          "word": " long,",
+          "start": 348.0,
+          "end": 348.38,
+          "probability": 0.46835049986839294
+        },
+        {
+          "word": " end,",
+          "start": 350.46,
+          "end": 351.04,
+          "probability": 0.38091975450515747
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 35104,
+      "start": 351.04,
+      "end": 377.62,
+      "text": " this, deserve, correlate, related, semi-circular, better, not, hand, suppose, then, brutality, treat, avoid, driving,",
+      "tokens": [
+        50364,
+        341,
+        11,
+        9948,
+        11,
+        48742,
+        11,
+        4077,
+        11,
+        12909,
+        12,
+        23568,
+        17792,
+        11,
+        1101,
+        11,
+        406,
+        11,
+        1011,
+        11,
+        7297,
+        11,
+        550,
+        11,
+        41745,
+        11,
+        2387,
+        11,
+        5042,
+        11,
+        4840,
+        11,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19770678111485074,
+      "compression_ratio": 1.2580645161290323,
+      "no_speech_prob": 0.9793407917022705,
+      "words": [
+        {
+          "word": " this,",
+          "start": 351.04,
+          "end": 353.1,
+          "probability": 0.1311090737581253
+        },
+        {
+          "word": " deserve,",
+          "start": 353.36,
+          "end": 354.78,
+          "probability": 0.8748485445976257
+        },
+        {
+          "word": " correlate,",
+          "start": 356.42,
+          "end": 357.16,
+          "probability": 0.9840142130851746
+        },
+        {
+          "word": " related,",
+          "start": 358.1,
+          "end": 358.8,
+          "probability": 0.9373494386672974
+        },
+        {
+          "word": " semi",
+          "start": 359.58,
+          "end": 359.92,
+          "probability": 0.7932865023612976
+        },
+        {
+          "word": "-circular,",
+          "start": 359.92,
+          "end": 361.22,
+          "probability": 0.8917508125305176
+        },
+        {
+          "word": " better,",
+          "start": 362.36,
+          "end": 362.94,
+          "probability": 0.9843908548355103
+        },
+        {
+          "word": " not,",
+          "start": 364.06,
+          "end": 364.72,
+          "probability": 0.939700722694397
+        },
+        {
+          "word": " hand,",
+          "start": 367.02,
+          "end": 367.02,
+          "probability": 0.2948876619338989
+        },
+        {
+          "word": " suppose,",
+          "start": 368.14,
+          "end": 368.8,
+          "probability": 0.9853979349136353
+        },
+        {
+          "word": " then,",
+          "start": 371.46,
+          "end": 371.46,
+          "probability": 0.8308298587799072
+        },
+        {
+          "word": " brutality,",
+          "start": 372.56,
+          "end": 373.3,
+          "probability": 0.9703990817070007
+        },
+        {
+          "word": " treat,",
+          "start": 374.32,
+          "end": 374.68,
+          "probability": 0.9468761682510376
+        },
+        {
+          "word": " avoid,",
+          "start": 375.78,
+          "end": 376.28,
+          "probability": 0.995591938495636
+        },
+        {
+          "word": " driving,",
+          "start": 377.04,
+          "end": 377.62,
+          "probability": 0.9558936357498169
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 37762,
+      "start": 377.62,
+      "end": 399.58,
+      "text": " nothing, becomes, at, entire, moment, momentum, like, endless, counts, object, reject, mask, caps,",
+      "tokens": [
+        50364,
+        1825,
+        11,
+        3643,
+        11,
+        412,
+        11,
+        2302,
+        11,
+        1623,
+        11,
+        11244,
+        11,
+        411,
+        11,
+        16144,
+        11,
+        14893,
+        11,
+        2657,
+        11,
+        8248,
+        11,
+        6094,
+        11,
+        13855,
+        11,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13590335845947266,
+      "compression_ratio": 1.2564102564102564,
+      "no_speech_prob": 0.9916377663612366,
+      "words": [
+        {
+          "word": " nothing,",
+          "start": 377.62,
+          "end": 379.22,
+          "probability": 0.20757333934307098
+        },
+        {
+          "word": " becomes,",
+          "start": 381.6,
+          "end": 381.6,
+          "probability": 0.9249774217605591
+        },
+        {
+          "word": " at,",
+          "start": 382.26,
+          "end": 382.76,
+          "probability": 0.7503880858421326
+        },
+        {
+          "word": " entire,",
+          "start": 383.44,
+          "end": 384.38,
+          "probability": 0.8566808700561523
+        },
+        {
+          "word": " moment,",
+          "start": 385.4,
+          "end": 385.8,
+          "probability": 0.981642484664917
+        },
+        {
+          "word": " momentum,",
+          "start": 386.52,
+          "end": 387.4,
+          "probability": 0.9534522294998169
+        },
+        {
+          "word": " like,",
+          "start": 388.38,
+          "end": 388.76,
+          "probability": 0.9290540218353271
+        },
+        {
+          "word": " endless,",
+          "start": 390.04,
+          "end": 390.62,
+          "probability": 0.9378771781921387
+        },
+        {
+          "word": " counts,",
+          "start": 392.44,
+          "end": 392.86,
+          "probability": 0.3306100368499756
+        },
+        {
+          "word": " object,",
+          "start": 393.88,
+          "end": 394.4,
+          "probability": 0.960593581199646
+        },
+        {
+          "word": " reject,",
+          "start": 395.28,
+          "end": 395.98,
+          "probability": 0.9877981543540955
+        },
+        {
+          "word": " mask,",
+          "start": 396.9,
+          "end": 397.6,
+          "probability": 0.9840907454490662
+        },
+        {
+          "word": " caps,",
+          "start": 399.04,
+          "end": 399.58,
+          "probability": 0.9702152609825134
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 39958,
+      "start": 399.58,
+      "end": 417.86,
+      "text": " thought, vitality, display, direction, think, forgotten, fixed, scramble, tight, tower,",
+      "tokens": [
+        50364,
+        1194,
+        11,
+        11707,
+        507,
+        11,
+        4674,
+        11,
+        3513,
+        11,
+        519,
+        11,
+        11832,
+        11,
+        6806,
+        11,
+        795,
+        48382,
+        11,
+        4524,
+        11,
+        10567,
+        11,
+        51364
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.3464064598083496,
+      "compression_ratio": 1.1153846153846154,
+      "no_speech_prob": 0.9857327938079834,
+      "words": [
+        {
+          "word": " thought,",
+          "start": 399.58,
+          "end": 401.48,
+          "probability": 0.00413507828488946
+        },
+        {
+          "word": " vitality,",
+          "start": 403.42,
+          "end": 404.38,
+          "probability": 0.6939446777105331
+        },
+        {
+          "word": " display,",
+          "start": 405.24,
+          "end": 405.8,
+          "probability": 0.6962888240814209
+        },
+        {
+          "word": " direction,",
+          "start": 407.28,
+          "end": 408.02,
+          "probability": 0.985293984413147
+        },
+        {
+          "word": " think,",
+          "start": 408.92,
+          "end": 409.32,
+          "probability": 0.38796156644821167
+        },
+        {
+          "word": " forgotten,",
+          "start": 410.46,
+          "end": 411.04,
+          "probability": 0.9894288182258606
+        },
+        {
+          "word": " fixed,",
+          "start": 412.38,
+          "end": 413.04,
+          "probability": 0.844257652759552
+        },
+        {
+          "word": " scramble,",
+          "start": 414.2,
+          "end": 414.98,
+          "probability": 0.9616559147834778
+        },
+        {
+          "word": " tight,",
+          "start": 416.2,
+          "end": 416.54,
+          "probability": 0.8653362989425659
+        },
+        {
+          "word": " tower,",
+          "start": 417.3,
+          "end": 417.86,
+          "probability": 0.9851051568984985
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 41786,
+      "start": 417.86,
+      "end": 422.7,
+      "text": " wheel, wheels, horizon.",
+      "tokens": [
+        50364,
+        5589,
+        11,
+        10046,
+        11,
+        18046,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6233000225490994,
+      "compression_ratio": 0.8214285714285714,
+      "no_speech_prob": 0.9063310027122498,
+      "words": [
+        {
+          "word": " wheel,",
+          "start": 417.86,
+          "end": 419.66,
+          "probability": 0.035879265516996384
+        },
+        {
+          "word": " wheels,",
+          "start": 420.56,
+          "end": 421.22,
+          "probability": 0.8806302547454834
+        },
+        {
+          "word": " horizon.",
+          "start": 421.98,
+          "end": 422.7,
+          "probability": 0.9720674753189087
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 50786,
+      "start": 508.18000000000006,
+      "end": 510.98,
+      "text": " Thank you.",
+      "tokens": [
+        50414,
+        1044,
+        291,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6945512294769287,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.8841944932937622,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 508.18000000000006,
+          "end": 509.58000000000004,
+          "probability": 0.007437003776431084
+        },
+        {
+          "word": " you.",
+          "start": 509.58000000000004,
+          "end": 510.98,
+          "probability": 0.957170307636261
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

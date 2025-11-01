@@ -1,0 +1,610 @@
+{
+  "text": " Living is a feature of today. Surviving is a feature of today. Living is a feature of today. Hey, what took you so long? You smell funny. What's this? It was two hours ago. That's not what I said. Don't say that. No, I don't like it when you don't say that. Don't. Don't.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.94,
+      "text": " Living is a feature of today.",
+      "tokens": [
+        50364,
+        18824,
+        307,
+        257,
+        4111,
+        295,
+        965,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45815553665161135,
+      "compression_ratio": 1.5495495495495495,
+      "no_speech_prob": 0.2579132318496704,
+      "words": [
+        {
+          "word": " Living",
+          "start": 0.0,
+          "end": 0.72,
+          "probability": 0.033703554421663284
+        },
+        {
+          "word": " is",
+          "start": 0.72,
+          "end": 1.92,
+          "probability": 0.7663887143135071
+        },
+        {
+          "word": " a",
+          "start": 1.92,
+          "end": 2.06,
+          "probability": 0.7540899515151978
+        },
+        {
+          "word": " feature",
+          "start": 2.06,
+          "end": 2.96,
+          "probability": 0.12917879223823547
+        },
+        {
+          "word": " of",
+          "start": 2.96,
+          "end": 3.84,
+          "probability": 0.2215491086244583
+        },
+        {
+          "word": " today.",
+          "start": 3.84,
+          "end": 4.94,
+          "probability": 0.3160400986671448
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.7,
+      "end": 8.52,
+      "text": " Surviving is a feature of today.",
+      "tokens": [
+        50614,
+        40716,
+        2123,
+        307,
+        257,
+        4111,
+        295,
+        965,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45815553665161135,
+      "compression_ratio": 1.5495495495495495,
+      "no_speech_prob": 0.2579132318496704,
+      "words": [
+        {
+          "word": " Surviving",
+          "start": 5.7,
+          "end": 6.9,
+          "probability": 0.8742348849773407
+        },
+        {
+          "word": " is",
+          "start": 6.9,
+          "end": 7.28,
+          "probability": 0.37307530641555786
+        },
+        {
+          "word": " a",
+          "start": 7.28,
+          "end": 8.06,
+          "probability": 0.3972770869731903
+        },
+        {
+          "word": " feature",
+          "start": 8.06,
+          "end": 8.52,
+          "probability": 0.15294773876667023
+        },
+        {
+          "word": " of",
+          "start": 8.52,
+          "end": 8.52,
+          "probability": 0.8748525977134705
+        },
+        {
+          "word": " today.",
+          "start": 8.52,
+          "end": 8.52,
+          "probability": 0.43231573700904846
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.58,
+      "end": 12.7,
+      "text": " Living is a feature of today.",
+      "tokens": [
+        50814,
+        18824,
+        307,
+        257,
+        4111,
+        295,
+        965,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45815553665161135,
+      "compression_ratio": 1.5495495495495495,
+      "no_speech_prob": 0.2579132318496704,
+      "words": [
+        {
+          "word": " Living",
+          "start": 8.58,
+          "end": 9.44,
+          "probability": 0.06715629994869232
+        },
+        {
+          "word": " is",
+          "start": 9.44,
+          "end": 10.3,
+          "probability": 0.8688040375709534
+        },
+        {
+          "word": " a",
+          "start": 10.3,
+          "end": 10.3,
+          "probability": 0.9553157091140747
+        },
+        {
+          "word": " feature",
+          "start": 10.3,
+          "end": 10.3,
+          "probability": 0.982552170753479
+        },
+        {
+          "word": " of",
+          "start": 10.3,
+          "end": 10.92,
+          "probability": 0.9761624336242676
+        },
+        {
+          "word": " today.",
+          "start": 10.92,
+          "end": 12.7,
+          "probability": 0.9578494429588318
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.36,
+      "end": 18.0,
+      "text": " Hey, what took you so long?",
+      "tokens": [
+        51164,
+        1911,
+        11,
+        437,
+        1890,
+        291,
+        370,
+        938,
+        30,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45815553665161135,
+      "compression_ratio": 1.5495495495495495,
+      "no_speech_prob": 0.2579132318496704,
+      "words": [
+        {
+          "word": " Hey,",
+          "start": 16.36,
+          "end": 16.72,
+          "probability": 0.38684484362602234
+        },
+        {
+          "word": " what",
+          "start": 16.84,
+          "end": 17.16,
+          "probability": 0.9798469543457031
+        },
+        {
+          "word": " took",
+          "start": 17.16,
+          "end": 17.4,
+          "probability": 0.9989271759986877
+        },
+        {
+          "word": " you",
+          "start": 17.4,
+          "end": 17.58,
+          "probability": 0.994105339050293
+        },
+        {
+          "word": " so",
+          "start": 17.58,
+          "end": 17.96,
+          "probability": 0.9976118803024292
+        },
+        {
+          "word": " long?",
+          "start": 17.96,
+          "end": 18.580000000000002,
+          "probability": 0.9976735711097717
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.36,
+      "end": 20.44,
+      "text": " You smell funny.",
+      "tokens": [
+        51314,
+        509,
+        4316,
+        4074,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45815553665161135,
+      "compression_ratio": 1.5495495495495495,
+      "no_speech_prob": 0.2579132318496704,
+      "words": [
+        {
+          "word": " You",
+          "start": 19.36,
+          "end": 19.6,
+          "probability": 0.6659278869628906
+        },
+        {
+          "word": " smell",
+          "start": 19.6,
+          "end": 19.76,
+          "probability": 0.631062924861908
+        },
+        {
+          "word": " funny.",
+          "start": 19.76,
+          "end": 20.44,
+          "probability": 0.9988697171211243
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 22.36,
+      "end": 23.2,
+      "text": " What's this?",
+      "tokens": [
+        51464,
+        708,
+        311,
+        341,
+        30,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45815553665161135,
+      "compression_ratio": 1.5495495495495495,
+      "no_speech_prob": 0.2579132318496704,
+      "words": [
+        {
+          "word": " What's",
+          "start": 22.36,
+          "end": 22.82,
+          "probability": 0.9841991066932678
+        },
+        {
+          "word": " this?",
+          "start": 22.82,
+          "end": 23.2,
+          "probability": 0.9956591129302979
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.64,
+      "end": 27.24,
+      "text": " It was two hours ago.",
+      "tokens": [
+        51564,
+        467,
+        390,
+        732,
+        2496,
+        2057,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45815553665161135,
+      "compression_ratio": 1.5495495495495495,
+      "no_speech_prob": 0.2579132318496704,
+      "words": [
+        {
+          "word": " It",
+          "start": 24.64,
+          "end": 25.16,
+          "probability": 0.9878573417663574
+        },
+        {
+          "word": " was",
+          "start": 25.16,
+          "end": 25.54,
+          "probability": 0.9982330799102783
+        },
+        {
+          "word": " two",
+          "start": 25.54,
+          "end": 26.0,
+          "probability": 0.8794956803321838
+        },
+        {
+          "word": " hours",
+          "start": 26.0,
+          "end": 26.64,
+          "probability": 0.9972002506256104
+        },
+        {
+          "word": " ago.",
+          "start": 26.64,
+          "end": 27.24,
+          "probability": 0.9987772107124329
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2724,
+      "start": 29.36,
+      "end": 31.7,
+      "text": " That's not what I said.",
+      "tokens": [
+        50414,
+        663,
+        311,
+        406,
+        437,
+        286,
+        848,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2222100856692292,
+      "compression_ratio": 1.3424657534246576,
+      "no_speech_prob": 0.05276349559426308,
+      "words": [
+        {
+          "word": " That's",
+          "start": 29.36,
+          "end": 30.12,
+          "probability": 0.7208170294761658
+        },
+        {
+          "word": " not",
+          "start": 30.12,
+          "end": 30.4,
+          "probability": 0.9920392036437988
+        },
+        {
+          "word": " what",
+          "start": 30.4,
+          "end": 30.68,
+          "probability": 0.9919762015342712
+        },
+        {
+          "word": " I",
+          "start": 30.68,
+          "end": 31.04,
+          "probability": 0.9239116907119751
+        },
+        {
+          "word": " said.",
+          "start": 31.04,
+          "end": 31.7,
+          "probability": 0.992861807346344
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2724,
+      "start": 34.48,
+      "end": 35.54,
+      "text": " Don't say that.",
+      "tokens": [
+        50664,
+        1468,
+        380,
+        584,
+        300,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2222100856692292,
+      "compression_ratio": 1.3424657534246576,
+      "no_speech_prob": 0.05276349559426308,
+      "words": [
+        {
+          "word": " Don't",
+          "start": 34.48,
+          "end": 34.86,
+          "probability": 0.9534393846988678
+        },
+        {
+          "word": " say",
+          "start": 34.86,
+          "end": 35.16,
+          "probability": 0.9881927371025085
+        },
+        {
+          "word": " that.",
+          "start": 35.16,
+          "end": 35.54,
+          "probability": 0.936250627040863
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2724,
+      "start": 38.38,
+      "end": 42.32,
+      "text": " No, I don't like it when you don't say that.",
+      "tokens": [
+        50914,
+        883,
+        11,
+        286,
+        500,
+        380,
+        411,
+        309,
+        562,
+        291,
+        500,
+        380,
+        584,
+        300,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2222100856692292,
+      "compression_ratio": 1.3424657534246576,
+      "no_speech_prob": 0.05276349559426308,
+      "words": [
+        {
+          "word": " No,",
+          "start": 38.38,
+          "end": 39.14,
+          "probability": 0.4115469753742218
+        },
+        {
+          "word": " I",
+          "start": 39.28,
+          "end": 39.48,
+          "probability": 0.987409234046936
+        },
+        {
+          "word": " don't",
+          "start": 39.48,
+          "end": 39.7,
+          "probability": 0.9942972660064697
+        },
+        {
+          "word": " like",
+          "start": 39.7,
+          "end": 40.16,
+          "probability": 0.639228343963623
+        },
+        {
+          "word": " it",
+          "start": 40.16,
+          "end": 40.44,
+          "probability": 0.7392321228981018
+        },
+        {
+          "word": " when",
+          "start": 40.44,
+          "end": 40.62,
+          "probability": 0.9502713680267334
+        },
+        {
+          "word": " you",
+          "start": 40.62,
+          "end": 40.96,
+          "probability": 0.9063063263893127
+        },
+        {
+          "word": " don't",
+          "start": 40.96,
+          "end": 41.32,
+          "probability": 0.7079363167285919
+        },
+        {
+          "word": " say",
+          "start": 41.32,
+          "end": 41.62,
+          "probability": 0.993811309337616
+        },
+        {
+          "word": " that.",
+          "start": 41.62,
+          "end": 42.32,
+          "probability": 0.9874933362007141
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2724,
+      "start": 43.14,
+      "end": 43.9,
+      "text": " Don't.",
+      "tokens": [
+        51114,
+        1468,
+        380,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2222100856692292,
+      "compression_ratio": 1.3424657534246576,
+      "no_speech_prob": 0.05276349559426308,
+      "words": [
+        {
+          "word": " Don't.",
+          "start": 43.14,
+          "end": 43.9,
+          "probability": 0.9614956974983215
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2724,
+      "start": 45.440000000000005,
+      "end": 46.2,
+      "text": " Don't.",
+      "tokens": [
+        51214,
+        1468,
+        380,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2222100856692292,
+      "compression_ratio": 1.3424657534246576,
+      "no_speech_prob": 0.05276349559426308,
+      "words": [
+        {
+          "word": " Don't.",
+          "start": 45.440000000000005,
+          "end": 46.2,
+          "probability": 0.9566664099693298
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

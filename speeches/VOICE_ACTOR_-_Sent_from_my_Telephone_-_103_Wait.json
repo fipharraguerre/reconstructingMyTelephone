@@ -1,0 +1,1071 @@
+{
+  "text": " Hey, Kimo! Kimo, wait! This is my last love Hey, Kimo! Kimo, wait! My last love And my last dream This is my last love My last love And my last dream This is my last love My last love And my last dream Hey, Kimo! Kimo, wait! This is my last love My last love And my last dream Hey, Kimo! Kimo, wait! This is my last love My last love And my last dream Hey, Kimo! Kimo, wait! This is my last girl My last girl And my last dream",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 5.880000000000001,
+      "end": 10.72,
+      "text": " Hey, Kimo! Kimo, wait!",
+      "tokens": [
+        50364,
+        1911,
+        11,
+        5652,
+        78,
+        0,
+        5652,
+        78,
+        11,
+        1699,
+        0,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5868674830386513,
+      "compression_ratio": 1.490566037735849,
+      "no_speech_prob": 0.6720070242881775,
+      "words": [
+        {
+          "word": " Hey,",
+          "start": 5.880000000000001,
+          "end": 7.28,
+          "probability": 0.3584568202495575
+        },
+        {
+          "word": " Kimo!",
+          "start": 7.3,
+          "end": 8.02,
+          "probability": 0.43765541166067123
+        },
+        {
+          "word": " Kimo,",
+          "start": 9.26,
+          "end": 10.08,
+          "probability": 0.9848503768444061
+        },
+        {
+          "word": " wait!",
+          "start": 10.28,
+          "end": 10.72,
+          "probability": 0.9488545060157776
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 14.72,
+      "end": 18.36,
+      "text": " This is my last love",
+      "tokens": [
+        50714,
+        639,
+        307,
+        452,
+        1036,
+        959,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5868674830386513,
+      "compression_ratio": 1.490566037735849,
+      "no_speech_prob": 0.6720070242881775,
+      "words": [
+        {
+          "word": " This",
+          "start": 14.72,
+          "end": 14.98,
+          "probability": 0.0011910622706636786
+        },
+        {
+          "word": " is",
+          "start": 14.98,
+          "end": 16.04,
+          "probability": 0.967323362827301
+        },
+        {
+          "word": " my",
+          "start": 16.04,
+          "end": 16.76,
+          "probability": 0.9746282696723938
+        },
+        {
+          "word": " last",
+          "start": 16.76,
+          "end": 17.32,
+          "probability": 0.8975946307182312
+        },
+        {
+          "word": " love",
+          "start": 17.32,
+          "end": 18.36,
+          "probability": 0.23875339329242706
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.36,
+      "end": 22.54,
+      "text": " Hey, Kimo! Kimo, wait!",
+      "tokens": [
+        51064,
+        1911,
+        11,
+        5652,
+        78,
+        0,
+        5652,
+        78,
+        11,
+        1699,
+        0,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5868674830386513,
+      "compression_ratio": 1.490566037735849,
+      "no_speech_prob": 0.6720070242881775,
+      "words": [
+        {
+          "word": " Hey,",
+          "start": 18.36,
+          "end": 18.9,
+          "probability": 0.6009945869445801
+        },
+        {
+          "word": " Kimo!",
+          "start": 18.96,
+          "end": 19.76,
+          "probability": 0.9987303018569946
+        },
+        {
+          "word": " Kimo,",
+          "start": 21.06,
+          "end": 21.7,
+          "probability": 0.9973599910736084
+        },
+        {
+          "word": " wait!",
+          "start": 21.94,
+          "end": 22.54,
+          "probability": 0.9967672824859619
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 23.38,
+      "end": 26.54,
+      "text": " My last love",
+      "tokens": [
+        51314,
+        1222,
+        1036,
+        959,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5868674830386513,
+      "compression_ratio": 1.490566037735849,
+      "no_speech_prob": 0.6720070242881775,
+      "words": [
+        {
+          "word": " My",
+          "start": 23.38,
+          "end": 23.74,
+          "probability": 0.884186327457428
+        },
+        {
+          "word": " last",
+          "start": 23.74,
+          "end": 24.64,
+          "probability": 0.988501787185669
+        },
+        {
+          "word": " love",
+          "start": 24.64,
+          "end": 26.54,
+          "probability": 0.9883580803871155
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2654,
+      "start": 28.220000000000002,
+      "end": 32.56,
+      "text": " And my last dream",
+      "tokens": [
+        50414,
+        400,
+        452,
+        1036,
+        3055,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25789236068725585,
+      "compression_ratio": 1.5333333333333334,
+      "no_speech_prob": 0.024420836940407753,
+      "words": [
+        {
+          "word": " And",
+          "start": 28.220000000000002,
+          "end": 29.62,
+          "probability": 0.15597736835479736
+        },
+        {
+          "word": " my",
+          "start": 29.62,
+          "end": 30.16,
+          "probability": 0.893796980381012
+        },
+        {
+          "word": " last",
+          "start": 30.16,
+          "end": 31.38,
+          "probability": 0.8106542229652405
+        },
+        {
+          "word": " dream",
+          "start": 31.38,
+          "end": 32.56,
+          "probability": 0.07645617425441742
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2654,
+      "start": 33.54,
+      "end": 38.64,
+      "text": " This is my last love",
+      "tokens": [
+        50714,
+        639,
+        307,
+        452,
+        1036,
+        959,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25789236068725585,
+      "compression_ratio": 1.5333333333333334,
+      "no_speech_prob": 0.024420836940407753,
+      "words": [
+        {
+          "word": " This",
+          "start": 33.54,
+          "end": 35.3,
+          "probability": 0.45715904235839844
+        },
+        {
+          "word": " is",
+          "start": 35.3,
+          "end": 36.16,
+          "probability": 0.9890439510345459
+        },
+        {
+          "word": " my",
+          "start": 36.16,
+          "end": 36.68,
+          "probability": 0.9589551687240601
+        },
+        {
+          "word": " last",
+          "start": 36.68,
+          "end": 37.44,
+          "probability": 0.9936477541923523
+        },
+        {
+          "word": " love",
+          "start": 37.44,
+          "end": 38.64,
+          "probability": 0.019385218620300293
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2654,
+      "start": 40.06,
+      "end": 44.18,
+      "text": " My last love",
+      "tokens": [
+        51014,
+        1222,
+        1036,
+        959,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25789236068725585,
+      "compression_ratio": 1.5333333333333334,
+      "no_speech_prob": 0.024420836940407753,
+      "words": [
+        {
+          "word": " My",
+          "start": 40.06,
+          "end": 41.46,
+          "probability": 0.798521101474762
+        },
+        {
+          "word": " last",
+          "start": 41.46,
+          "end": 42.44,
+          "probability": 0.9864859580993652
+        },
+        {
+          "word": " love",
+          "start": 42.44,
+          "end": 44.18,
+          "probability": 0.9334579110145569
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2654,
+      "start": 44.18,
+      "end": 49.54,
+      "text": " And my last dream",
+      "tokens": [
+        51264,
+        400,
+        452,
+        1036,
+        3055,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25789236068725585,
+      "compression_ratio": 1.5333333333333334,
+      "no_speech_prob": 0.024420836940407753,
+      "words": [
+        {
+          "word": " And",
+          "start": 44.18,
+          "end": 46.18,
+          "probability": 0.8482842445373535
+        },
+        {
+          "word": " my",
+          "start": 46.18,
+          "end": 47.12,
+          "probability": 0.9978856444358826
+        },
+        {
+          "word": " last",
+          "start": 47.12,
+          "end": 48.02,
+          "probability": 0.9986059069633484
+        },
+        {
+          "word": " dream",
+          "start": 48.02,
+          "end": 49.54,
+          "probability": 0.9905661940574646
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5654,
+      "start": 57.54,
+      "end": 62.68,
+      "text": " This is my last love",
+      "tokens": [
+        50414,
+        639,
+        307,
+        452,
+        1036,
+        959,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22724993228912355,
+      "compression_ratio": 1.275,
+      "no_speech_prob": 0.10041337460279465,
+      "words": [
+        {
+          "word": " This",
+          "start": 57.3,
+          "end": 58.0,
+          "probability": 0.12015830725431442
+        },
+        {
+          "word": " is",
+          "start": 58.0,
+          "end": 59.22,
+          "probability": 0.9128137826919556
+        },
+        {
+          "word": " my",
+          "start": 59.22,
+          "end": 60.0,
+          "probability": 0.9468646049499512
+        },
+        {
+          "word": " last",
+          "start": 60.0,
+          "end": 61.16,
+          "probability": 0.8841112852096558
+        },
+        {
+          "word": " love",
+          "start": 61.16,
+          "end": 62.68,
+          "probability": 0.7666234374046326
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5654,
+      "start": 63.54,
+      "end": 67.78,
+      "text": " My last love",
+      "tokens": [
+        50714,
+        1222,
+        1036,
+        959,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22724993228912355,
+      "compression_ratio": 1.275,
+      "no_speech_prob": 0.10041337460279465,
+      "words": [
+        {
+          "word": " My",
+          "start": 63.54,
+          "end": 65.28,
+          "probability": 0.37786155939102173
+        },
+        {
+          "word": " last",
+          "start": 65.28,
+          "end": 66.76,
+          "probability": 0.9848104119300842
+        },
+        {
+          "word": " love",
+          "start": 66.76,
+          "end": 67.78,
+          "probability": 0.9746450185775757
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5654,
+      "start": 69.64,
+      "end": 75.53999999999999,
+      "text": " And my last dream",
+      "tokens": [
+        51014,
+        400,
+        452,
+        1036,
+        3055,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22724993228912355,
+      "compression_ratio": 1.275,
+      "no_speech_prob": 0.10041337460279465,
+      "words": [
+        {
+          "word": " And",
+          "start": 69.64,
+          "end": 71.04,
+          "probability": 0.5756234526634216
+        },
+        {
+          "word": " my",
+          "start": 71.04,
+          "end": 71.72,
+          "probability": 0.9895077347755432
+        },
+        {
+          "word": " last",
+          "start": 71.72,
+          "end": 72.94,
+          "probability": 0.9966572523117065
+        },
+        {
+          "word": " dream",
+          "start": 72.94,
+          "end": 75.53999999999999,
+          "probability": 0.002029809635132551
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 7554,
+      "start": 76.54,
+      "end": 80.78,
+      "text": " Hey, Kimo! Kimo, wait!",
+      "tokens": [
+        50414,
+        1911,
+        11,
+        5652,
+        78,
+        0,
+        5652,
+        78,
+        11,
+        1699,
+        0,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08114276149056175,
+      "compression_ratio": 1.515625,
+      "no_speech_prob": 0.031058987602591515,
+      "words": [
+        {
+          "word": " Hey,",
+          "start": 76.54,
+          "end": 77.28,
+          "probability": 0.18382173776626587
+        },
+        {
+          "word": " Kimo!",
+          "start": 77.3,
+          "end": 77.82,
+          "probability": 0.3946076110005379
+        },
+        {
+          "word": " Kimo,",
+          "start": 79.24,
+          "end": 80.08,
+          "probability": 0.9519152045249939
+        },
+        {
+          "word": " wait!",
+          "start": 80.26,
+          "end": 80.78,
+          "probability": 0.8325387239456177
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7554,
+      "start": 81.88,
+      "end": 87.16,
+      "text": " This is my last love",
+      "tokens": [
+        50614,
+        639,
+        307,
+        452,
+        1036,
+        959,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08114276149056175,
+      "compression_ratio": 1.515625,
+      "no_speech_prob": 0.031058987602591515,
+      "words": [
+        {
+          "word": " This",
+          "start": 81.88,
+          "end": 81.88,
+          "probability": 0.0029872837476432323
+        },
+        {
+          "word": " is",
+          "start": 81.88,
+          "end": 83.0,
+          "probability": 0.9658772349357605
+        },
+        {
+          "word": " my",
+          "start": 83.0,
+          "end": 83.74,
+          "probability": 0.9708266258239746
+        },
+        {
+          "word": " last",
+          "start": 83.74,
+          "end": 85.18,
+          "probability": 0.9811407327651978
+        },
+        {
+          "word": " love",
+          "start": 85.18,
+          "end": 87.16,
+          "probability": 0.5858231782913208
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7554,
+      "start": 87.16,
+      "end": 90.96,
+      "text": " My last love",
+      "tokens": [
+        50964,
+        1222,
+        1036,
+        959,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08114276149056175,
+      "compression_ratio": 1.515625,
+      "no_speech_prob": 0.031058987602591515,
+      "words": [
+        {
+          "word": " My",
+          "start": 87.16,
+          "end": 89.16,
+          "probability": 0.5176077485084534
+        },
+        {
+          "word": " last",
+          "start": 89.16,
+          "end": 90.56,
+          "probability": 0.9896349310874939
+        },
+        {
+          "word": " love",
+          "start": 90.56,
+          "end": 90.96,
+          "probability": 0.9880295395851135
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 7554,
+      "start": 92.86,
+      "end": 99.48,
+      "text": " And my last dream",
+      "tokens": [
+        51214,
+        400,
+        452,
+        1036,
+        3055,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08114276149056175,
+      "compression_ratio": 1.515625,
+      "no_speech_prob": 0.031058987602591515,
+      "words": [
+        {
+          "word": " And",
+          "start": 92.86,
+          "end": 94.26,
+          "probability": 0.30982381105422974
+        },
+        {
+          "word": " my",
+          "start": 94.26,
+          "end": 95.22,
+          "probability": 0.9890661239624023
+        },
+        {
+          "word": " last",
+          "start": 95.22,
+          "end": 96.64,
+          "probability": 0.9969907999038696
+        },
+        {
+          "word": " dream",
+          "start": 96.64,
+          "end": 99.48,
+          "probability": 0.004146837629377842
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 7554,
+      "start": 99.48,
+      "end": 103.96,
+      "text": " Hey, Kimo! Kimo, wait!",
+      "tokens": [
+        51564,
+        1911,
+        11,
+        5652,
+        78,
+        0,
+        5652,
+        78,
+        11,
+        1699,
+        0,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08114276149056175,
+      "compression_ratio": 1.515625,
+      "no_speech_prob": 0.031058987602591515,
+      "words": [
+        {
+          "word": " Hey,",
+          "start": 99.48,
+          "end": 100.6,
+          "probability": 0.9214959740638733
+        },
+        {
+          "word": " Kimo!",
+          "start": 100.64,
+          "end": 101.46,
+          "probability": 0.9981816709041595
+        },
+        {
+          "word": " Kimo,",
+          "start": 102.74,
+          "end": 103.38,
+          "probability": 0.9935780167579651
+        },
+        {
+          "word": " wait!",
+          "start": 103.6,
+          "end": 103.96,
+          "probability": 0.9959573149681091
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 10396,
+      "start": 103.96,
+      "end": 109.22,
+      "text": " This is my last love",
+      "tokens": [
+        50364,
+        639,
+        307,
+        452,
+        1036,
+        959,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12026086449623108,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.008132939226925373,
+      "words": [
+        {
+          "word": " This",
+          "start": 103.96,
+          "end": 105.16,
+          "probability": 0.6031309962272644
+        },
+        {
+          "word": " is",
+          "start": 105.16,
+          "end": 106.24,
+          "probability": 0.9269409775733948
+        },
+        {
+          "word": " my",
+          "start": 106.24,
+          "end": 106.86,
+          "probability": 0.9538607001304626
+        },
+        {
+          "word": " last",
+          "start": 106.86,
+          "end": 107.92,
+          "probability": 0.9703819155693054
+        },
+        {
+          "word": " love",
+          "start": 107.92,
+          "end": 109.22,
+          "probability": 0.00751877436414361
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 10396,
+      "start": 110.91999999999999,
+      "end": 115.06,
+      "text": " My last love",
+      "tokens": [
+        50714,
+        1222,
+        1036,
+        959,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12026086449623108,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.008132939226925373,
+      "words": [
+        {
+          "word": " My",
+          "start": 110.91999999999999,
+          "end": 112.32,
+          "probability": 0.46019840240478516
+        },
+        {
+          "word": " last",
+          "start": 112.32,
+          "end": 113.68,
+          "probability": 0.9866626858711243
+        },
+        {
+          "word": " love",
+          "start": 113.68,
+          "end": 115.06,
+          "probability": 0.9611169099807739
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 10396,
+      "start": 115.96,
+      "end": 123.0,
+      "text": " And my last dream",
+      "tokens": [
+        50964,
+        400,
+        452,
+        1036,
+        3055,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12026086449623108,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.008132939226925373,
+      "words": [
+        {
+          "word": " And",
+          "start": 115.96,
+          "end": 117.48,
+          "probability": 0.20997072756290436
+        },
+        {
+          "word": " my",
+          "start": 117.48,
+          "end": 119.06,
+          "probability": 0.0977058857679367
+        },
+        {
+          "word": " last",
+          "start": 119.06,
+          "end": 120.1,
+          "probability": 0.8524770140647888
+        },
+        {
+          "word": " dream",
+          "start": 120.1,
+          "end": 123.0,
+          "probability": 9.47425087360898e-06
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 10396,
+      "start": 123.0,
+      "end": 127.28,
+      "text": " Hey, Kimo! Kimo, wait!",
+      "tokens": [
+        51314,
+        1911,
+        11,
+        5652,
+        78,
+        0,
+        5652,
+        78,
+        11,
+        1699,
+        0,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12026086449623108,
+      "compression_ratio": 1.2333333333333334,
+      "no_speech_prob": 0.008132939226925373,
+      "words": [
+        {
+          "word": " Hey,",
+          "start": 123.0,
+          "end": 123.94,
+          "probability": 0.00021121797908563167
+        },
+        {
+          "word": " Kimo!",
+          "start": 124.12,
+          "end": 125.2,
+          "probability": 0.10431166889611632
+        },
+        {
+          "word": " Kimo,",
+          "start": 125.88,
+          "end": 126.7,
+          "probability": 0.8489206433296204
+        },
+        {
+          "word": " wait!",
+          "start": 126.72,
+          "end": 127.28,
+          "probability": 0.6866033673286438
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 12728,
+      "start": 127.28,
+      "end": 133.3,
+      "text": " This is my last girl",
+      "tokens": [
+        50364,
+        639,
+        307,
+        452,
+        1036,
+        2013,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18589406264455696,
+      "compression_ratio": 1.275,
+      "no_speech_prob": 0.006858371198177338,
+      "words": [
+        {
+          "word": " This",
+          "start": 127.28,
+          "end": 128.46,
+          "probability": 0.6910498142242432
+        },
+        {
+          "word": " is",
+          "start": 128.46,
+          "end": 129.56,
+          "probability": 0.9729669690132141
+        },
+        {
+          "word": " my",
+          "start": 129.56,
+          "end": 130.0,
+          "probability": 0.9809751510620117
+        },
+        {
+          "word": " last",
+          "start": 130.0,
+          "end": 131.4,
+          "probability": 0.9690178036689758
+        },
+        {
+          "word": " girl",
+          "start": 131.4,
+          "end": 133.3,
+          "probability": 0.5388938188552856
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 12728,
+      "start": 134.28,
+      "end": 138.3,
+      "text": " My last girl",
+      "tokens": [
+        50714,
+        1222,
+        1036,
+        2013,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18589406264455696,
+      "compression_ratio": 1.275,
+      "no_speech_prob": 0.006858371198177338,
+      "words": [
+        {
+          "word": " My",
+          "start": 134.28,
+          "end": 135.76,
+          "probability": 0.4099807143211365
+        },
+        {
+          "word": " last",
+          "start": 135.76,
+          "end": 137.2,
+          "probability": 0.9850361347198486
+        },
+        {
+          "word": " girl",
+          "start": 137.2,
+          "end": 138.3,
+          "probability": 0.9829250574111938
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 12728,
+      "start": 140.28,
+      "end": 144.44,
+      "text": " And my last dream",
+      "tokens": [
+        51014,
+        400,
+        452,
+        1036,
+        3055,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18589406264455696,
+      "compression_ratio": 1.275,
+      "no_speech_prob": 0.006858371198177338,
+      "words": [
+        {
+          "word": " And",
+          "start": 140.28,
+          "end": 141.04,
+          "probability": 0.5400317907333374
+        },
+        {
+          "word": " my",
+          "start": 141.04,
+          "end": 141.84,
+          "probability": 0.9942898750305176
+        },
+        {
+          "word": " last",
+          "start": 141.84,
+          "end": 143.08,
+          "probability": 0.9963460564613342
+        },
+        {
+          "word": " dream",
+          "start": 143.08,
+          "end": 144.44,
+          "probability": 0.00042807566933333874
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

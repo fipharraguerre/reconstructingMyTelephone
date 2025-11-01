@@ -1,0 +1,1882 @@
+{
+  "text": " An agent's not an object A process not a project A feeling not of logic I'm thinking for a better tomorrow Battling death Battling death A gradual smoke From the moment we came Hit the ground Boom splat splat Boom splat splat And it's very very hot And it's very very hot It's very very hot Boom splat splat Boom splat splat And it's very very hot To make a noise like that And it's very very hot To make a noise like that Boom splat splat I'm thinking for a better tomorrow A gradual smoke Brooklyn, Toronto Never taking shit Brooklyn, Toronto Brooklyn, Toronto And it's very very hot To make a noise like that And it's very very hot To make a noise like that And it's very very hot To make a noise like that Brooklyn, Toronto Brooklyn, Toronto And it's very very hot To make a noise like that Boom splat splat Boom splat splat And it's very very hot To make a noise like that Brooklyn, Toronto Brooklyn, Toronto Brooklyn, Toronto Never take it slow Because there's no way to win tomorrow Your gradual slope is on the road to a king",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 11.64,
+      "text": " An agent's not an object A process not a project",
+      "tokens": [
+        50364,
+        1107,
+        9461,
+        311,
+        406,
+        364,
+        2657,
+        316,
+        1399,
+        406,
+        257,
+        1716,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48241227248619345,
+      "compression_ratio": 1.2470588235294118,
+      "no_speech_prob": 0.3185604512691498,
+      "words": [
+        {
+          "word": " An",
+          "start": 0.0,
+          "end": 2.1,
+          "probability": 0.1191292554140091
+        },
+        {
+          "word": " agent's",
+          "start": 2.1,
+          "end": 3.66,
+          "probability": 0.6369727253913879
+        },
+        {
+          "word": " not",
+          "start": 3.66,
+          "end": 3.86,
+          "probability": 0.9890429377555847
+        },
+        {
+          "word": " an",
+          "start": 3.86,
+          "end": 4.28,
+          "probability": 0.9938551783561707
+        },
+        {
+          "word": " object",
+          "start": 4.28,
+          "end": 5.82,
+          "probability": 0.9935346841812134
+        },
+        {
+          "word": " A",
+          "start": 5.82,
+          "end": 7.76,
+          "probability": 0.6154470443725586
+        },
+        {
+          "word": " process",
+          "start": 7.76,
+          "end": 8.8,
+          "probability": 0.994320273399353
+        },
+        {
+          "word": " not",
+          "start": 8.8,
+          "end": 9.48,
+          "probability": 0.8363173007965088
+        },
+        {
+          "word": " a",
+          "start": 9.48,
+          "end": 9.88,
+          "probability": 0.9930974841117859
+        },
+        {
+          "word": " project",
+          "start": 9.88,
+          "end": 11.64,
+          "probability": 0.9941043257713318
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 11.64,
+      "end": 23.0,
+      "text": " A feeling not of logic I'm thinking for a better tomorrow",
+      "tokens": [
+        50964,
+        316,
+        2633,
+        406,
+        295,
+        9952,
+        286,
+        478,
+        1953,
+        337,
+        257,
+        1101,
+        4153,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48241227248619345,
+      "compression_ratio": 1.2470588235294118,
+      "no_speech_prob": 0.3185604512691498,
+      "words": [
+        {
+          "word": " A",
+          "start": 11.64,
+          "end": 13.76,
+          "probability": 0.9791768193244934
+        },
+        {
+          "word": " feeling",
+          "start": 13.76,
+          "end": 14.54,
+          "probability": 0.9964615702629089
+        },
+        {
+          "word": " not",
+          "start": 14.54,
+          "end": 15.48,
+          "probability": 0.980560302734375
+        },
+        {
+          "word": " of",
+          "start": 15.48,
+          "end": 15.98,
+          "probability": 0.8144787549972534
+        },
+        {
+          "word": " logic",
+          "start": 15.98,
+          "end": 17.44,
+          "probability": 0.9981452226638794
+        },
+        {
+          "word": " I'm",
+          "start": 17.44,
+          "end": 19.06,
+          "probability": 0.9545410573482513
+        },
+        {
+          "word": " thinking",
+          "start": 19.06,
+          "end": 20.56,
+          "probability": 0.9323956370353699
+        },
+        {
+          "word": " for",
+          "start": 20.56,
+          "end": 21.02,
+          "probability": 0.7892320156097412
+        },
+        {
+          "word": " a",
+          "start": 21.02,
+          "end": 21.44,
+          "probability": 0.27921584248542786
+        },
+        {
+          "word": " better",
+          "start": 21.44,
+          "end": 21.64,
+          "probability": 0.18433505296707153
+        },
+        {
+          "word": " tomorrow",
+          "start": 21.64,
+          "end": 23.0,
+          "probability": 0.26491355895996094
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2300,
+      "start": 23.0,
+      "end": 31.0,
+      "text": " Battling death Battling death",
+      "tokens": [
+        50364,
+        29439,
+        1688,
+        2966,
+        29439,
+        1688,
+        2966,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.383745002746582,
+      "compression_ratio": 1.078125,
+      "no_speech_prob": 0.07316038757562637,
+      "words": [
+        {
+          "word": " Battling",
+          "start": 23.0,
+          "end": 24.74,
+          "probability": 0.668193906545639
+        },
+        {
+          "word": " death",
+          "start": 24.74,
+          "end": 26.12,
+          "probability": 0.7999367713928223
+        },
+        {
+          "word": " Battling",
+          "start": 26.12,
+          "end": 29.06,
+          "probability": 0.7284816205501556
+        },
+        {
+          "word": " death",
+          "start": 29.06,
+          "end": 31.0,
+          "probability": 0.9899997115135193
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2300,
+      "start": 37.0,
+      "end": 48.36,
+      "text": " A gradual smoke From the moment we came",
+      "tokens": [
+        51064,
+        316,
+        32890,
+        8439,
+        3358,
+        264,
+        1623,
+        321,
+        1361,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.383745002746582,
+      "compression_ratio": 1.078125,
+      "no_speech_prob": 0.07316038757562637,
+      "words": [
+        {
+          "word": " A",
+          "start": 36.779999999999994,
+          "end": 37.48,
+          "probability": 0.6624654531478882
+        },
+        {
+          "word": " gradual",
+          "start": 37.48,
+          "end": 38.06,
+          "probability": 0.873318612575531
+        },
+        {
+          "word": " smoke",
+          "start": 38.06,
+          "end": 39.98,
+          "probability": 0.6245017051696777
+        },
+        {
+          "word": " From",
+          "start": 39.98,
+          "end": 44.78,
+          "probability": 0.8653818368911743
+        },
+        {
+          "word": " the",
+          "start": 44.78,
+          "end": 45.04,
+          "probability": 0.9913302659988403
+        },
+        {
+          "word": " moment",
+          "start": 45.04,
+          "end": 45.7,
+          "probability": 0.9980997443199158
+        },
+        {
+          "word": " we",
+          "start": 45.7,
+          "end": 46.24,
+          "probability": 0.9762986302375793
+        },
+        {
+          "word": " came",
+          "start": 46.24,
+          "end": 48.36,
+          "probability": 0.9614163637161255
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 4836,
+      "start": 49.36,
+      "end": 55.36,
+      "text": " Hit the ground Boom splat splat",
+      "tokens": [
+        50414,
+        9217,
+        264,
+        2727,
+        15523,
+        4732,
+        267,
+        4732,
+        267,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3567946333634226,
+      "compression_ratio": 1.9824561403508771,
+      "no_speech_prob": 0.19403424859046936,
+      "words": [
+        {
+          "word": " Hit",
+          "start": 49.36,
+          "end": 50.4,
+          "probability": 0.02013281174004078
+        },
+        {
+          "word": " the",
+          "start": 50.4,
+          "end": 50.96,
+          "probability": 0.8441601991653442
+        },
+        {
+          "word": " ground",
+          "start": 50.96,
+          "end": 52.56,
+          "probability": 0.42271190881729126
+        },
+        {
+          "word": " Boom",
+          "start": 52.56,
+          "end": 53.82,
+          "probability": 0.14440162479877472
+        },
+        {
+          "word": " splat",
+          "start": 53.82,
+          "end": 54.34,
+          "probability": 0.7859252393245697
+        },
+        {
+          "word": " splat",
+          "start": 54.34,
+          "end": 55.36,
+          "probability": 0.9876529276371002
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4836,
+      "start": 55.96,
+      "end": 62.88,
+      "text": " Boom splat splat And it's very very hot",
+      "tokens": [
+        50764,
+        15523,
+        4732,
+        267,
+        4732,
+        267,
+        400,
+        309,
+        311,
+        588,
+        588,
+        2368,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3567946333634226,
+      "compression_ratio": 1.9824561403508771,
+      "no_speech_prob": 0.19403424859046936,
+      "words": [
+        {
+          "word": " Boom",
+          "start": 55.96,
+          "end": 57.74,
+          "probability": 0.4026164412498474
+        },
+        {
+          "word": " splat",
+          "start": 57.74,
+          "end": 58.66,
+          "probability": 0.9806298613548279
+        },
+        {
+          "word": " splat",
+          "start": 58.66,
+          "end": 60.12,
+          "probability": 0.996476948261261
+        },
+        {
+          "word": " And",
+          "start": 60.12,
+          "end": 61.52,
+          "probability": 0.7852491736412048
+        },
+        {
+          "word": " it's",
+          "start": 61.52,
+          "end": 61.8,
+          "probability": 0.7585031688213348
+        },
+        {
+          "word": " very",
+          "start": 61.8,
+          "end": 61.88,
+          "probability": 0.9896491765975952
+        },
+        {
+          "word": " very",
+          "start": 61.88,
+          "end": 62.42,
+          "probability": 0.8390958309173584
+        },
+        {
+          "word": " hot",
+          "start": 62.42,
+          "end": 62.88,
+          "probability": 0.3417942523956299
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4836,
+      "start": 62.88,
+      "end": 68.4,
+      "text": " And it's very very hot It's very very hot",
+      "tokens": [
+        51114,
+        400,
+        309,
+        311,
+        588,
+        588,
+        2368,
+        467,
+        311,
+        588,
+        588,
+        2368,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3567946333634226,
+      "compression_ratio": 1.9824561403508771,
+      "no_speech_prob": 0.19403424859046936,
+      "words": [
+        {
+          "word": " And",
+          "start": 62.88,
+          "end": 64.34,
+          "probability": 0.7905285358428955
+        },
+        {
+          "word": " it's",
+          "start": 64.34,
+          "end": 64.82,
+          "probability": 0.8293622732162476
+        },
+        {
+          "word": " very",
+          "start": 64.82,
+          "end": 64.82,
+          "probability": 0.946491539478302
+        },
+        {
+          "word": " very",
+          "start": 64.82,
+          "end": 65.16,
+          "probability": 0.9918357133865356
+        },
+        {
+          "word": " hot",
+          "start": 65.16,
+          "end": 65.68,
+          "probability": 0.6031636595726013
+        },
+        {
+          "word": " It's",
+          "start": 65.68,
+          "end": 66.62,
+          "probability": 0.6018743962049484
+        },
+        {
+          "word": " very",
+          "start": 66.62,
+          "end": 66.88,
+          "probability": 0.45011287927627563
+        },
+        {
+          "word": " very",
+          "start": 66.88,
+          "end": 67.26,
+          "probability": 0.8807048201560974
+        },
+        {
+          "word": " hot",
+          "start": 67.26,
+          "end": 68.4,
+          "probability": 0.9530399441719055
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6840,
+      "start": 72.32000000000001,
+      "end": 78.4,
+      "text": " Boom splat splat Boom splat splat",
+      "tokens": [
+        50364,
+        15523,
+        4732,
+        267,
+        4732,
+        267,
+        15523,
+        4732,
+        267,
+        4732,
+        267,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2022515024457659,
+      "compression_ratio": 2.0153846153846153,
+      "no_speech_prob": 0.14905443787574768,
+      "words": [
+        {
+          "word": " Boom",
+          "start": 72.32000000000001,
+          "end": 73.18,
+          "probability": 0.3036741018295288
+        },
+        {
+          "word": " splat",
+          "start": 73.18,
+          "end": 73.84,
+          "probability": 0.5637117028236389
+        },
+        {
+          "word": " splat",
+          "start": 73.84,
+          "end": 74.4,
+          "probability": 0.9799321889877319
+        },
+        {
+          "word": " Boom",
+          "start": 74.4,
+          "end": 77.14,
+          "probability": 0.5933593511581421
+        },
+        {
+          "word": " splat",
+          "start": 77.14,
+          "end": 78.06,
+          "probability": 0.9819284677505493
+        },
+        {
+          "word": " splat",
+          "start": 78.06,
+          "end": 78.49000000000001,
+          "probability": 0.9960853457450867
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6840,
+      "start": 80.54,
+      "end": 85.44,
+      "text": " And it's very very hot To make a noise like that",
+      "tokens": [
+        50914,
+        400,
+        309,
+        311,
+        588,
+        588,
+        2368,
+        1407,
+        652,
+        257,
+        5658,
+        411,
+        300,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2022515024457659,
+      "compression_ratio": 2.0153846153846153,
+      "no_speech_prob": 0.14905443787574768,
+      "words": [
+        {
+          "word": " And",
+          "start": 80.54,
+          "end": 81.32,
+          "probability": 0.74363112449646
+        },
+        {
+          "word": " it's",
+          "start": 81.32,
+          "end": 81.6,
+          "probability": 0.5021476866677403
+        },
+        {
+          "word": " very",
+          "start": 81.6,
+          "end": 81.62,
+          "probability": 0.9342804551124573
+        },
+        {
+          "word": " very",
+          "start": 81.62,
+          "end": 81.92,
+          "probability": 0.7309654355049133
+        },
+        {
+          "word": " hot",
+          "start": 81.92,
+          "end": 82.18,
+          "probability": 7.177860970841721e-05
+        },
+        {
+          "word": " To",
+          "start": 82.18,
+          "end": 82.62,
+          "probability": 0.056074343621730804
+        },
+        {
+          "word": " make",
+          "start": 82.62,
+          "end": 83.04,
+          "probability": 0.9910058975219727
+        },
+        {
+          "word": " a",
+          "start": 83.04,
+          "end": 83.3,
+          "probability": 0.9542273879051208
+        },
+        {
+          "word": " noise",
+          "start": 83.3,
+          "end": 83.68,
+          "probability": 0.986065149307251
+        },
+        {
+          "word": " like",
+          "start": 83.68,
+          "end": 84.34,
+          "probability": 0.9836514592170715
+        },
+        {
+          "word": " that",
+          "start": 84.34,
+          "end": 85.44,
+          "probability": 0.9616800546646118
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 6840,
+      "start": 87.2,
+      "end": 92.4,
+      "text": " And it's very very hot To make a noise like that",
+      "tokens": [
+        51264,
+        400,
+        309,
+        311,
+        588,
+        588,
+        2368,
+        1407,
+        652,
+        257,
+        5658,
+        411,
+        300,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2022515024457659,
+      "compression_ratio": 2.0153846153846153,
+      "no_speech_prob": 0.14905443787574768,
+      "words": [
+        {
+          "word": " And",
+          "start": 87.2,
+          "end": 88.06,
+          "probability": 0.6923677921295166
+        },
+        {
+          "word": " it's",
+          "start": 88.06,
+          "end": 88.4,
+          "probability": 0.9955413341522217
+        },
+        {
+          "word": " very",
+          "start": 88.4,
+          "end": 88.52,
+          "probability": 0.9986199140548706
+        },
+        {
+          "word": " very",
+          "start": 88.52,
+          "end": 88.76,
+          "probability": 0.9977405071258545
+        },
+        {
+          "word": " hot",
+          "start": 88.76,
+          "end": 89.08,
+          "probability": 0.8801671266555786
+        },
+        {
+          "word": " To",
+          "start": 89.08,
+          "end": 89.32,
+          "probability": 0.9769944548606873
+        },
+        {
+          "word": " make",
+          "start": 89.32,
+          "end": 89.58,
+          "probability": 0.9986655712127686
+        },
+        {
+          "word": " a",
+          "start": 89.58,
+          "end": 90.22,
+          "probability": 0.9947958588600159
+        },
+        {
+          "word": " noise",
+          "start": 90.22,
+          "end": 90.5,
+          "probability": 0.9633774161338806
+        },
+        {
+          "word": " like",
+          "start": 90.5,
+          "end": 91.22,
+          "probability": 0.9943639039993286
+        },
+        {
+          "word": " that",
+          "start": 91.22,
+          "end": 92.4,
+          "probability": 0.9964027404785156
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 9240,
+      "start": 92.4,
+      "end": 99.4,
+      "text": " Boom splat splat I'm thinking for a better tomorrow",
+      "tokens": [
+        50364,
+        15523,
+        4732,
+        267,
+        4732,
+        267,
+        286,
+        478,
+        1953,
+        337,
+        257,
+        1101,
+        4153,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30004585356939406,
+      "compression_ratio": 0.9852941176470589,
+      "no_speech_prob": 0.1571093201637268,
+      "words": [
+        {
+          "word": " Boom",
+          "start": 92.4,
+          "end": 94.18,
+          "probability": 0.014192470349371433
+        },
+        {
+          "word": " splat",
+          "start": 94.18,
+          "end": 94.76,
+          "probability": 0.23662787541979924
+        },
+        {
+          "word": " splat",
+          "start": 94.76,
+          "end": 95.34,
+          "probability": 0.828250378370285
+        },
+        {
+          "word": " I'm",
+          "start": 95.34,
+          "end": 95.84,
+          "probability": 0.6304548531770706
+        },
+        {
+          "word": " thinking",
+          "start": 95.84,
+          "end": 96.18,
+          "probability": 0.5405507683753967
+        },
+        {
+          "word": " for",
+          "start": 96.18,
+          "end": 96.76,
+          "probability": 0.40804779529571533
+        },
+        {
+          "word": " a",
+          "start": 96.76,
+          "end": 98.02,
+          "probability": 0.19795529544353485
+        },
+        {
+          "word": " better",
+          "start": 98.02,
+          "end": 98.6,
+          "probability": 0.0005530747002921999
+        },
+        {
+          "word": " tomorrow",
+          "start": 98.6,
+          "end": 99.4,
+          "probability": 0.0007287979242391884
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 9240,
+      "start": 100.06,
+      "end": 102.4,
+      "text": " A gradual smoke",
+      "tokens": [
+        50714,
+        316,
+        32890,
+        8439,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30004585356939406,
+      "compression_ratio": 0.9852941176470589,
+      "no_speech_prob": 0.1571093201637268,
+      "words": [
+        {
+          "word": " A",
+          "start": 100.06,
+          "end": 100.58,
+          "probability": 0.02617211453616619
+        },
+        {
+          "word": " gradual",
+          "start": 100.58,
+          "end": 101.24,
+          "probability": 0.2711067795753479
+        },
+        {
+          "word": " smoke",
+          "start": 101.24,
+          "end": 102.4,
+          "probability": 0.0008433717885054648
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 10240,
+      "start": 103.4,
+      "end": 108.4,
+      "text": " Brooklyn, Toronto Never taking shit",
+      "tokens": [
+        50414,
+        21872,
+        11,
+        14140,
+        7344,
+        1940,
+        4611,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.429975688457489,
+      "compression_ratio": 1.3793103448275863,
+      "no_speech_prob": 0.4129573404788971,
+      "words": [
+        {
+          "word": " Brooklyn,",
+          "start": 103.4,
+          "end": 105.18,
+          "probability": 0.06632699072360992
+        },
+        {
+          "word": " Toronto",
+          "start": 105.18,
+          "end": 106.08,
+          "probability": 0.04507690295577049
+        },
+        {
+          "word": " Never",
+          "start": 106.08,
+          "end": 107.82,
+          "probability": 0.08357192575931549
+        },
+        {
+          "word": " taking",
+          "start": 107.82,
+          "end": 108.2,
+          "probability": 0.37843960523605347
+        },
+        {
+          "word": " shit",
+          "start": 108.2,
+          "end": 108.9,
+          "probability": 0.09252531081438065
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 10240,
+      "start": 109.2,
+      "end": 117.58,
+      "text": " Brooklyn, Toronto Brooklyn, Toronto",
+      "tokens": [
+        50714,
+        21872,
+        11,
+        14140,
+        21872,
+        11,
+        14140,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.429975688457489,
+      "compression_ratio": 1.3793103448275863,
+      "no_speech_prob": 0.4129573404788971,
+      "words": [
+        {
+          "word": " Brooklyn,",
+          "start": 109.2,
+          "end": 110.78,
+          "probability": 0.9728105664253235
+        },
+        {
+          "word": " Toronto",
+          "start": 111.16,
+          "end": 112.28,
+          "probability": 0.9991575479507446
+        },
+        {
+          "word": " Brooklyn,",
+          "start": 112.28,
+          "end": 116.38,
+          "probability": 0.9874507188796997
+        },
+        {
+          "word": " Toronto",
+          "start": 116.84,
+          "end": 117.58,
+          "probability": 0.9993315935134888
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 10240,
+      "start": 117.58,
+      "end": 124.48,
+      "text": " And it's very very hot To make a noise like that",
+      "tokens": [
+        51114,
+        400,
+        309,
+        311,
+        588,
+        588,
+        2368,
+        1407,
+        652,
+        257,
+        5658,
+        411,
+        300,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.429975688457489,
+      "compression_ratio": 1.3793103448275863,
+      "no_speech_prob": 0.4129573404788971,
+      "words": [
+        {
+          "word": " And",
+          "start": 117.58,
+          "end": 118.36,
+          "probability": 0.8114311695098877
+        },
+        {
+          "word": " it's",
+          "start": 118.36,
+          "end": 118.6,
+          "probability": 0.8890949189662933
+        },
+        {
+          "word": " very",
+          "start": 118.6,
+          "end": 118.6,
+          "probability": 0.9845730662345886
+        },
+        {
+          "word": " very",
+          "start": 118.6,
+          "end": 119.28,
+          "probability": 0.4813356101512909
+        },
+        {
+          "word": " hot",
+          "start": 119.28,
+          "end": 120.26,
+          "probability": 0.0339680090546608
+        },
+        {
+          "word": " To",
+          "start": 120.26,
+          "end": 121.64,
+          "probability": 0.6186132431030273
+        },
+        {
+          "word": " make",
+          "start": 121.64,
+          "end": 121.9,
+          "probability": 0.9732893705368042
+        },
+        {
+          "word": " a",
+          "start": 121.9,
+          "end": 122.12,
+          "probability": 0.5532596111297607
+        },
+        {
+          "word": " noise",
+          "start": 122.12,
+          "end": 122.2,
+          "probability": 0.9973300695419312
+        },
+        {
+          "word": " like",
+          "start": 122.2,
+          "end": 123.4,
+          "probability": 0.9940866231918335
+        },
+        {
+          "word": " that",
+          "start": 123.4,
+          "end": 124.48,
+          "probability": 0.9914640784263611
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 12448,
+      "start": 126.1,
+      "end": 132.74,
+      "text": " And it's very very hot To make a noise like that",
+      "tokens": [
+        50414,
+        400,
+        309,
+        311,
+        588,
+        588,
+        2368,
+        1407,
+        652,
+        257,
+        5658,
+        411,
+        300,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19702964080007454,
+      "compression_ratio": 1.8472222222222223,
+      "no_speech_prob": 0.12928266823291779,
+      "words": [
+        {
+          "word": " And",
+          "start": 126.1,
+          "end": 127.24,
+          "probability": 0.5079008340835571
+        },
+        {
+          "word": " it's",
+          "start": 127.24,
+          "end": 127.4,
+          "probability": 0.520519994199276
+        },
+        {
+          "word": " very",
+          "start": 127.4,
+          "end": 127.48,
+          "probability": 0.8788076043128967
+        },
+        {
+          "word": " very",
+          "start": 127.48,
+          "end": 128.18,
+          "probability": 0.5284525156021118
+        },
+        {
+          "word": " hot",
+          "start": 128.18,
+          "end": 128.96,
+          "probability": 0.09716780483722687
+        },
+        {
+          "word": " To",
+          "start": 128.96,
+          "end": 131.0,
+          "probability": 0.003225705586373806
+        },
+        {
+          "word": " make",
+          "start": 131.0,
+          "end": 131.42,
+          "probability": 0.8894901275634766
+        },
+        {
+          "word": " a",
+          "start": 131.42,
+          "end": 131.72,
+          "probability": 0.48513033986091614
+        },
+        {
+          "word": " noise",
+          "start": 131.72,
+          "end": 132.2,
+          "probability": 0.9964582324028015
+        },
+        {
+          "word": " like",
+          "start": 132.2,
+          "end": 132.74,
+          "probability": 0.9865017533302307
+        },
+        {
+          "word": " that",
+          "start": 132.74,
+          "end": 132.74,
+          "probability": 0.3511374294757843
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 12448,
+      "start": 135.73999999999998,
+      "end": 143.56,
+      "text": " And it's very very hot To make a noise like that",
+      "tokens": [
+        50814,
+        400,
+        309,
+        311,
+        588,
+        588,
+        2368,
+        1407,
+        652,
+        257,
+        5658,
+        411,
+        300,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19702964080007454,
+      "compression_ratio": 1.8472222222222223,
+      "no_speech_prob": 0.12928266823291779,
+      "words": [
+        {
+          "word": " And",
+          "start": 135.73999999999998,
+          "end": 136.88,
+          "probability": 0.4529845416545868
+        },
+        {
+          "word": " it's",
+          "start": 136.88,
+          "end": 137.22,
+          "probability": 0.9921207427978516
+        },
+        {
+          "word": " very",
+          "start": 137.22,
+          "end": 137.36,
+          "probability": 0.9983329176902771
+        },
+        {
+          "word": " very",
+          "start": 137.36,
+          "end": 137.76,
+          "probability": 0.9864150881767273
+        },
+        {
+          "word": " hot",
+          "start": 137.76,
+          "end": 138.24,
+          "probability": 0.9883583188056946
+        },
+        {
+          "word": " To",
+          "start": 138.24,
+          "end": 141.02,
+          "probability": 0.005879360716789961
+        },
+        {
+          "word": " make",
+          "start": 141.02,
+          "end": 141.56,
+          "probability": 0.3877290189266205
+        },
+        {
+          "word": " a",
+          "start": 141.56,
+          "end": 142.74,
+          "probability": 0.9974682331085205
+        },
+        {
+          "word": " noise",
+          "start": 142.74,
+          "end": 142.74,
+          "probability": 0.9982557892799377
+        },
+        {
+          "word": " like",
+          "start": 142.74,
+          "end": 143.56,
+          "probability": 0.991340696811676
+        },
+        {
+          "word": " that",
+          "start": 143.56,
+          "end": 143.56,
+          "probability": 0.993003785610199
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 12448,
+      "start": 143.56,
+      "end": 150.82,
+      "text": " Brooklyn, Toronto Brooklyn, Toronto",
+      "tokens": [
+        51264,
+        21872,
+        11,
+        14140,
+        21872,
+        11,
+        14140,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19702964080007454,
+      "compression_ratio": 1.8472222222222223,
+      "no_speech_prob": 0.12928266823291779,
+      "words": [
+        {
+          "word": " Brooklyn,",
+          "start": 143.56,
+          "end": 144.32,
+          "probability": 0.09486870467662811
+        },
+        {
+          "word": " Toronto",
+          "start": 144.32,
+          "end": 145.0,
+          "probability": 0.05518262833356857
+        },
+        {
+          "word": " Brooklyn,",
+          "start": 145.0,
+          "end": 149.82,
+          "probability": 0.8934704065322876
+        },
+        {
+          "word": " Toronto",
+          "start": 150.42,
+          "end": 150.82,
+          "probability": 0.9989606142044067
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 15082,
+      "start": 150.82,
+      "end": 156.22,
+      "text": " And it's very very hot To make a noise like that",
+      "tokens": [
+        50364,
+        400,
+        309,
+        311,
+        588,
+        588,
+        2368,
+        1407,
+        652,
+        257,
+        5658,
+        411,
+        300,
+        50614
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.207846618833996,
+      "compression_ratio": 1.9264705882352942,
+      "no_speech_prob": 0.3177762031555176,
+      "words": [
+        {
+          "word": " And",
+          "start": 150.82,
+          "end": 152.1,
+          "probability": 0.0023603166919201612
+        },
+        {
+          "word": " it's",
+          "start": 152.1,
+          "end": 153.02,
+          "probability": 0.3235166147351265
+        },
+        {
+          "word": " very",
+          "start": 153.02,
+          "end": 153.22,
+          "probability": 0.000987761770375073
+        },
+        {
+          "word": " very",
+          "start": 153.22,
+          "end": 153.7,
+          "probability": 0.011920349672436714
+        },
+        {
+          "word": " hot",
+          "start": 153.7,
+          "end": 153.7,
+          "probability": 0.0197895634919405
+        },
+        {
+          "word": " To",
+          "start": 153.7,
+          "end": 155.14,
+          "probability": 0.00019803139730356634
+        },
+        {
+          "word": " make",
+          "start": 155.14,
+          "end": 155.56,
+          "probability": 0.033603571355342865
+        },
+        {
+          "word": " a",
+          "start": 155.56,
+          "end": 155.56,
+          "probability": 0.1347287893295288
+        },
+        {
+          "word": " noise",
+          "start": 155.56,
+          "end": 155.56,
+          "probability": 0.012954439036548138
+        },
+        {
+          "word": " like",
+          "start": 155.56,
+          "end": 155.56,
+          "probability": 0.014645231887698174
+        },
+        {
+          "word": " that",
+          "start": 155.56,
+          "end": 156.22,
+          "probability": 0.04919330030679703
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 15082,
+      "start": 156.82,
+      "end": 161.82,
+      "text": " Boom splat splat Boom splat splat",
+      "tokens": [
+        50664,
+        15523,
+        4732,
+        267,
+        4732,
+        267,
+        15523,
+        4732,
+        267,
+        4732,
+        267,
+        50914
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.207846618833996,
+      "compression_ratio": 1.9264705882352942,
+      "no_speech_prob": 0.3177762031555176,
+      "words": [
+        {
+          "word": " Boom",
+          "start": 156.82,
+          "end": 158.16,
+          "probability": 0.07443273812532425
+        },
+        {
+          "word": " splat",
+          "start": 158.16,
+          "end": 158.96,
+          "probability": 0.47276392159983516
+        },
+        {
+          "word": " splat",
+          "start": 158.96,
+          "end": 160.46,
+          "probability": 0.9867132008075714
+        },
+        {
+          "word": " Boom",
+          "start": 160.46,
+          "end": 160.86,
+          "probability": 0.7444013357162476
+        },
+        {
+          "word": " splat",
+          "start": 160.86,
+          "end": 161.76,
+          "probability": 0.9808792173862457
+        },
+        {
+          "word": " splat",
+          "start": 161.76,
+          "end": 162.45999999999998,
+          "probability": 0.9963685572147369
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 15082,
+      "start": 173.04,
+      "end": 178.8,
+      "text": " And it's very very hot To make a noise like that",
+      "tokens": [
+        51214,
+        400,
+        309,
+        311,
+        588,
+        588,
+        2368,
+        1407,
+        652,
+        257,
+        5658,
+        411,
+        300,
+        51614
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.207846618833996,
+      "compression_ratio": 1.9264705882352942,
+      "no_speech_prob": 0.3177762031555176,
+      "words": [
+        {
+          "word": " And",
+          "start": 173.04,
+          "end": 174.44,
+          "probability": 0.057043418288230896
+        },
+        {
+          "word": " it's",
+          "start": 174.44,
+          "end": 175.66,
+          "probability": 0.9092875421047211
+        },
+        {
+          "word": " very",
+          "start": 175.66,
+          "end": 175.78,
+          "probability": 0.9782953858375549
+        },
+        {
+          "word": " very",
+          "start": 175.78,
+          "end": 176.42,
+          "probability": 0.9771926999092102
+        },
+        {
+          "word": " hot",
+          "start": 176.42,
+          "end": 176.78,
+          "probability": 0.9799976348876953
+        },
+        {
+          "word": " To",
+          "start": 176.78,
+          "end": 178.6,
+          "probability": 0.8696609735488892
+        },
+        {
+          "word": " make",
+          "start": 178.6,
+          "end": 178.6,
+          "probability": 0.9960994720458984
+        },
+        {
+          "word": " a",
+          "start": 178.6,
+          "end": 178.6,
+          "probability": 0.9960325360298157
+        },
+        {
+          "word": " noise",
+          "start": 178.6,
+          "end": 178.6,
+          "probability": 0.9954062700271606
+        },
+        {
+          "word": " like",
+          "start": 178.6,
+          "end": 178.7,
+          "probability": 0.9961485862731934
+        },
+        {
+          "word": " that",
+          "start": 178.7,
+          "end": 178.8,
+          "probability": 0.9989060163497925
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 17880,
+      "start": 181.85999999999999,
+      "end": 193.3,
+      "text": " Brooklyn, Toronto Brooklyn, Toronto",
+      "tokens": [
+        50364,
+        21872,
+        11,
+        14140,
+        21872,
+        11,
+        14140,
+        51314
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.5762463887532552,
+      "compression_ratio": 1.8275862068965518,
+      "no_speech_prob": 0.07483343034982681,
+      "words": [
+        {
+          "word": " Brooklyn,",
+          "start": 181.85999999999999,
+          "end": 183.26,
+          "probability": 0.0010710146743804216
+        },
+        {
+          "word": " Toronto",
+          "start": 183.36,
+          "end": 183.88,
+          "probability": 0.007478337734937668
+        },
+        {
+          "word": " Brooklyn,",
+          "start": 183.88,
+          "end": 188.82,
+          "probability": 0.4042362570762634
+        },
+        {
+          "word": " Toronto",
+          "start": 189.04,
+          "end": 193.3,
+          "probability": 0.984767735004425
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 17880,
+      "start": 193.3,
+      "end": 195.84,
+      "text": " Brooklyn, Toronto",
+      "tokens": [
+        51314,
+        21872,
+        11,
+        14140,
+        51464
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.5762463887532552,
+      "compression_ratio": 1.8275862068965518,
+      "no_speech_prob": 0.07483343034982681,
+      "words": [
+        {
+          "word": " Brooklyn,",
+          "start": 193.3,
+          "end": 194.52,
+          "probability": 0.9793307185173035
+        },
+        {
+          "word": " Toronto",
+          "start": 194.74,
+          "end": 195.84,
+          "probability": 0.9983170032501221
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 19584,
+      "start": 195.84,
+      "end": 198.22,
+      "text": " Never take it slow",
+      "tokens": [
+        50364,
+        7344,
+        747,
+        309,
+        2964,
+        50464
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.9663935630552231,
+      "compression_ratio": 1.1348314606741574,
+      "no_speech_prob": 0.7747492790222168,
+      "words": [
+        {
+          "word": " Never",
+          "start": 195.84,
+          "end": 197.14,
+          "probability": 0.01636051945388317
+        },
+        {
+          "word": " take",
+          "start": 197.14,
+          "end": 197.46,
+          "probability": 0.5187934637069702
+        },
+        {
+          "word": " it",
+          "start": 197.46,
+          "end": 197.66,
+          "probability": 0.5247443914413452
+        },
+        {
+          "word": " slow",
+          "start": 197.66,
+          "end": 198.22,
+          "probability": 0.7098096013069153
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 19584,
+      "start": 198.22,
+      "end": 200.98,
+      "text": " Because there's no way to win tomorrow",
+      "tokens": [
+        50464,
+        1436,
+        456,
+        311,
+        572,
+        636,
+        281,
+        1942,
+        4153,
+        50614
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.9663935630552231,
+      "compression_ratio": 1.1348314606741574,
+      "no_speech_prob": 0.7747492790222168,
+      "words": [
+        {
+          "word": " Because",
+          "start": 198.22,
+          "end": 199.02,
+          "probability": 0.015328237786889076
+        },
+        {
+          "word": " there's",
+          "start": 199.02,
+          "end": 199.56,
+          "probability": 0.31181829050183296
+        },
+        {
+          "word": " no",
+          "start": 199.56,
+          "end": 199.56,
+          "probability": 0.3992840349674225
+        },
+        {
+          "word": " way",
+          "start": 199.56,
+          "end": 199.68,
+          "probability": 0.24749688804149628
+        },
+        {
+          "word": " to",
+          "start": 199.68,
+          "end": 199.86,
+          "probability": 0.32362112402915955
+        },
+        {
+          "word": " win",
+          "start": 199.86,
+          "end": 200.12,
+          "probability": 0.6254865527153015
+        },
+        {
+          "word": " tomorrow",
+          "start": 200.12,
+          "end": 200.98,
+          "probability": 0.7975784540176392
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 19584,
+      "start": 202.01999999999998,
+      "end": 204.84,
+      "text": " Your gradual slope",
+      "tokens": [
+        50614,
+        2260,
+        32890,
+        13525,
+        50814
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.9663935630552231,
+      "compression_ratio": 1.1348314606741574,
+      "no_speech_prob": 0.7747492790222168,
+      "words": [
+        {
+          "word": " Your",
+          "start": 202.01999999999998,
+          "end": 203.04,
+          "probability": 0.40823742747306824
+        },
+        {
+          "word": " gradual",
+          "start": 203.04,
+          "end": 203.84,
+          "probability": 0.9539928436279297
+        },
+        {
+          "word": " slope",
+          "start": 203.84,
+          "end": 204.84,
+          "probability": 0.8747116327285767
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 19584,
+      "start": 207.89999999999998,
+      "end": 210.84,
+      "text": " is on the road to a king",
+      "tokens": [
+        50814,
+        307,
+        322,
+        264,
+        3060,
+        281,
+        257,
+        4867,
+        51114
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.9663935630552231,
+      "compression_ratio": 1.1348314606741574,
+      "no_speech_prob": 0.7747492790222168,
+      "words": [
+        {
+          "word": " is",
+          "start": 207.89999999999998,
+          "end": 208.92,
+          "probability": 0.1580163538455963
+        },
+        {
+          "word": " on",
+          "start": 208.92,
+          "end": 209.18,
+          "probability": 0.27941104769706726
+        },
+        {
+          "word": " the",
+          "start": 209.18,
+          "end": 209.34,
+          "probability": 0.7160948514938354
+        },
+        {
+          "word": " road",
+          "start": 209.34,
+          "end": 209.68,
+          "probability": 0.4447842538356781
+        },
+        {
+          "word": " to",
+          "start": 209.68,
+          "end": 210.16,
+          "probability": 0.9344270825386047
+        },
+        {
+          "word": " a",
+          "start": 210.16,
+          "end": 210.44,
+          "probability": 0.34563636779785156
+        },
+        {
+          "word": " king",
+          "start": 210.44,
+          "end": 210.95,
+          "probability": 0.4591304361820221
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,1068 @@
+{
+  "text": " Keep it impartial, it's imperative I used to record it, you choose to ignore it in glory Break up the band Break up the band Break up the band I used to record it, you choose to ignore it in glory Break up the band Break up the band Break up the band Break up the band Break up the band Break up the band Break up the band Break up the band I'm going to go Baby, baby I'm going to go I'm going to go I'm going to go I'm going to go I'm going to go",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 30.34,
+      "end": 36.8,
+      "text": " Keep it impartial, it's imperative",
+      "tokens": [
+        50364,
+        5527,
+        309,
+        32177,
+        831,
+        11,
+        309,
+        311,
+        32490,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29876794313129623,
+      "compression_ratio": 1.2783505154639174,
+      "no_speech_prob": 0.4864770472049713,
+      "words": [
+        {
+          "word": " Keep",
+          "start": 30.34,
+          "end": 31.74,
+          "probability": 0.5672035217285156
+        },
+        {
+          "word": " it",
+          "start": 31.74,
+          "end": 32.32,
+          "probability": 0.9906634092330933
+        },
+        {
+          "word": " impartial,",
+          "start": 32.32,
+          "end": 34.08,
+          "probability": 0.9913332760334015
+        },
+        {
+          "word": " it's",
+          "start": 34.18,
+          "end": 35.0,
+          "probability": 0.948937714099884
+        },
+        {
+          "word": " imperative",
+          "start": 35.0,
+          "end": 36.8,
+          "probability": 0.9981371164321899
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 39.84,
+      "end": 49.98,
+      "text": " I used to record it, you choose to ignore it in glory",
+      "tokens": [
+        50864,
+        286,
+        1143,
+        281,
+        2136,
+        309,
+        11,
+        291,
+        2826,
+        281,
+        11200,
+        309,
+        294,
+        11924,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29876794313129623,
+      "compression_ratio": 1.2783505154639174,
+      "no_speech_prob": 0.4864770472049713,
+      "words": [
+        {
+          "word": " I",
+          "start": 39.84,
+          "end": 41.24,
+          "probability": 0.5984333753585815
+        },
+        {
+          "word": " used",
+          "start": 41.24,
+          "end": 41.82,
+          "probability": 0.9822357892990112
+        },
+        {
+          "word": " to",
+          "start": 41.82,
+          "end": 42.68,
+          "probability": 0.975560188293457
+        },
+        {
+          "word": " record",
+          "start": 42.68,
+          "end": 43.7,
+          "probability": 0.9759311079978943
+        },
+        {
+          "word": " it,",
+          "start": 43.7,
+          "end": 44.24,
+          "probability": 0.9630841016769409
+        },
+        {
+          "word": " you",
+          "start": 44.26,
+          "end": 44.74,
+          "probability": 0.7608149647712708
+        },
+        {
+          "word": " choose",
+          "start": 44.74,
+          "end": 45.32,
+          "probability": 0.8028345108032227
+        },
+        {
+          "word": " to",
+          "start": 45.32,
+          "end": 46.32,
+          "probability": 0.990474283695221
+        },
+        {
+          "word": " ignore",
+          "start": 46.32,
+          "end": 47.34,
+          "probability": 0.9481667876243591
+        },
+        {
+          "word": " it",
+          "start": 47.34,
+          "end": 48.06,
+          "probability": 0.9901778101921082
+        },
+        {
+          "word": " in",
+          "start": 48.06,
+          "end": 48.5,
+          "probability": 0.36189180612564087
+        },
+        {
+          "word": " glory",
+          "start": 48.5,
+          "end": 49.98,
+          "probability": 0.9878062605857849
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 51.0,
+      "end": 54.62,
+      "text": " Break up the band",
+      "tokens": [
+        51414,
+        16925,
+        493,
+        264,
+        4116,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29876794313129623,
+      "compression_ratio": 1.2783505154639174,
+      "no_speech_prob": 0.4864770472049713,
+      "words": [
+        {
+          "word": " Break",
+          "start": 51.0,
+          "end": 52.36,
+          "probability": 0.9541721343994141
+        },
+        {
+          "word": " up",
+          "start": 52.36,
+          "end": 52.72,
+          "probability": 0.7704408764839172
+        },
+        {
+          "word": " the",
+          "start": 52.72,
+          "end": 53.76,
+          "probability": 0.9956016540527344
+        },
+        {
+          "word": " band",
+          "start": 53.76,
+          "end": 54.62,
+          "probability": 0.3444081246852875
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 56.0,
+      "end": 58.74,
+      "text": " Break up the band",
+      "tokens": [
+        51664,
+        16925,
+        493,
+        264,
+        4116,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29876794313129623,
+      "compression_ratio": 1.2783505154639174,
+      "no_speech_prob": 0.4864770472049713,
+      "words": [
+        {
+          "word": " Break",
+          "start": 56.0,
+          "end": 56.86,
+          "probability": 0.862521767616272
+        },
+        {
+          "word": " up",
+          "start": 56.86,
+          "end": 57.34,
+          "probability": 0.9985817670822144
+        },
+        {
+          "word": " the",
+          "start": 57.34,
+          "end": 57.94,
+          "probability": 0.9995887875556946
+        },
+        {
+          "word": " band",
+          "start": 57.94,
+          "end": 58.74,
+          "probability": 0.9993539452552795
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 6000,
+      "start": 60.720000000000006,
+      "end": 64.0,
+      "text": " Break up the band",
+      "tokens": [
+        50414,
+        16925,
+        493,
+        264,
+        4116,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13599299192428588,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.027236327528953552,
+      "words": [
+        {
+          "word": " Break",
+          "start": 60.720000000000006,
+          "end": 62.02,
+          "probability": 0.5674784779548645
+        },
+        {
+          "word": " up",
+          "start": 62.02,
+          "end": 62.34,
+          "probability": 0.881292462348938
+        },
+        {
+          "word": " the",
+          "start": 62.34,
+          "end": 62.76,
+          "probability": 0.9312017560005188
+        },
+        {
+          "word": " band",
+          "start": 62.76,
+          "end": 64.0,
+          "probability": 0.15755441784858704
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 6000,
+      "start": 66.9,
+      "end": 75.0,
+      "text": " I used to record it, you choose to ignore it in glory",
+      "tokens": [
+        50714,
+        286,
+        1143,
+        281,
+        2136,
+        309,
+        11,
+        291,
+        2826,
+        281,
+        11200,
+        309,
+        294,
+        11924,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13599299192428588,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.027236327528953552,
+      "words": [
+        {
+          "word": " I",
+          "start": 66.9,
+          "end": 68.2,
+          "probability": 0.20572391152381897
+        },
+        {
+          "word": " used",
+          "start": 68.2,
+          "end": 68.7,
+          "probability": 0.984565258026123
+        },
+        {
+          "word": " to",
+          "start": 68.7,
+          "end": 69.3,
+          "probability": 0.9974051117897034
+        },
+        {
+          "word": " record",
+          "start": 69.3,
+          "end": 70.5,
+          "probability": 0.9105942249298096
+        },
+        {
+          "word": " it,",
+          "start": 70.5,
+          "end": 71.1,
+          "probability": 0.7011844515800476
+        },
+        {
+          "word": " you",
+          "start": 71.1,
+          "end": 71.6,
+          "probability": 0.9043787717819214
+        },
+        {
+          "word": " choose",
+          "start": 71.6,
+          "end": 72.12,
+          "probability": 0.655015766620636
+        },
+        {
+          "word": " to",
+          "start": 72.12,
+          "end": 72.82,
+          "probability": 0.9951111674308777
+        },
+        {
+          "word": " ignore",
+          "start": 72.82,
+          "end": 74.0,
+          "probability": 0.9870061874389648
+        },
+        {
+          "word": " it",
+          "start": 74.0,
+          "end": 74.74,
+          "probability": 0.9403942227363586
+        },
+        {
+          "word": " in",
+          "start": 74.74,
+          "end": 74.94,
+          "probability": 0.0045182425528764725
+        },
+        {
+          "word": " glory",
+          "start": 74.94,
+          "end": 75.59,
+          "probability": 0.9390935301780701
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 6000,
+      "start": 75.88,
+      "end": 79.0,
+      "text": " Break up the band",
+      "tokens": [
+        51164,
+        16925,
+        493,
+        264,
+        4116,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13599299192428588,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.027236327528953552,
+      "words": [
+        {
+          "word": " Break",
+          "start": 75.88,
+          "end": 76.58,
+          "probability": 0.8590672016143799
+        },
+        {
+          "word": " up",
+          "start": 76.58,
+          "end": 77.02,
+          "probability": 0.9955564141273499
+        },
+        {
+          "word": " the",
+          "start": 77.02,
+          "end": 77.44,
+          "probability": 0.997666597366333
+        },
+        {
+          "word": " band",
+          "start": 77.44,
+          "end": 79.0,
+          "probability": 0.9989094734191895
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6000,
+      "start": 80.92,
+      "end": 83.96,
+      "text": " Break up the band",
+      "tokens": [
+        51414,
+        16925,
+        493,
+        264,
+        4116,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13599299192428588,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.027236327528953552,
+      "words": [
+        {
+          "word": " Break",
+          "start": 80.92,
+          "end": 82.22,
+          "probability": 0.6919549703598022
+        },
+        {
+          "word": " up",
+          "start": 82.22,
+          "end": 82.78,
+          "probability": 0.997512698173523
+        },
+        {
+          "word": " the",
+          "start": 82.78,
+          "end": 83.16,
+          "probability": 0.9982367753982544
+        },
+        {
+          "word": " band",
+          "start": 83.16,
+          "end": 83.96,
+          "probability": 0.999160885810852
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6000,
+      "start": 85.0,
+      "end": 87.48,
+      "text": " Break up the band",
+      "tokens": [
+        51614,
+        16925,
+        493,
+        264,
+        4116,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13599299192428588,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.027236327528953552,
+      "words": [
+        {
+          "word": " Break",
+          "start": 84.91,
+          "end": 85.56,
+          "probability": 0.7083144783973694
+        },
+        {
+          "word": " up",
+          "start": 85.56,
+          "end": 86.06,
+          "probability": 0.9969714879989624
+        },
+        {
+          "word": " the",
+          "start": 86.06,
+          "end": 86.42,
+          "probability": 0.9975201487541199
+        },
+        {
+          "word": " band",
+          "start": 86.42,
+          "end": 87.48,
+          "probability": 0.9993626475334167
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 9000,
+      "start": 90.63999999999999,
+      "end": 93.44,
+      "text": " Break up the band",
+      "tokens": [
+        50414,
+        16925,
+        493,
+        264,
+        4116,
+        50564
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.4892609417438507,
+      "compression_ratio": 3.0689655172413794,
+      "no_speech_prob": 0.07018433511257172,
+      "words": [
+        {
+          "word": " Break",
+          "start": 90.63999999999999,
+          "end": 92.03999999999999,
+          "probability": 5.795250763185322e-05
+        },
+        {
+          "word": " up",
+          "start": 92.03999999999999,
+          "end": 93.44,
+          "probability": 0.005733791273087263
+        },
+        {
+          "word": " the",
+          "start": 93.44,
+          "end": 93.44,
+          "probability": 0.1119590774178505
+        },
+        {
+          "word": " band",
+          "start": 93.44,
+          "end": 93.44,
+          "probability": 0.0002472397463861853
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 9000,
+      "start": 93.44,
+      "end": 102.28,
+      "text": " Break up the band",
+      "tokens": [
+        50614,
+        16925,
+        493,
+        264,
+        4116,
+        50764
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.4892609417438507,
+      "compression_ratio": 3.0689655172413794,
+      "no_speech_prob": 0.07018433511257172,
+      "words": [
+        {
+          "word": " Break",
+          "start": 93.44,
+          "end": 93.44,
+          "probability": 8.712823728274088e-06
+        },
+        {
+          "word": " up",
+          "start": 93.44,
+          "end": 100.7,
+          "probability": 0.9326143860816956
+        },
+        {
+          "word": " the",
+          "start": 100.7,
+          "end": 102.28,
+          "probability": 0.9338309168815613
+        },
+        {
+          "word": " band",
+          "start": 102.28,
+          "end": 102.28,
+          "probability": 0.9776255488395691
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 9000,
+      "start": 102.28,
+      "end": 104.94,
+      "text": " Break up the band",
+      "tokens": [
+        50864,
+        16925,
+        493,
+        264,
+        4116,
+        51064
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.4892609417438507,
+      "compression_ratio": 3.0689655172413794,
+      "no_speech_prob": 0.07018433511257172,
+      "words": [
+        {
+          "word": " Break",
+          "start": 102.28,
+          "end": 104.94,
+          "probability": 0.567302405834198
+        },
+        {
+          "word": " up",
+          "start": 104.94,
+          "end": 104.94,
+          "probability": 0.9889708757400513
+        },
+        {
+          "word": " the",
+          "start": 104.94,
+          "end": 104.94,
+          "probability": 0.9860836863517761
+        },
+        {
+          "word": " band",
+          "start": 104.94,
+          "end": 104.94,
+          "probability": 0.9949254989624023
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 9000,
+      "start": 106.53999999999999,
+      "end": 110.0,
+      "text": " Break up the band",
+      "tokens": [
+        51214,
+        16925,
+        493,
+        264,
+        4116,
+        51364
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.4892609417438507,
+      "compression_ratio": 3.0689655172413794,
+      "no_speech_prob": 0.07018433511257172,
+      "words": [
+        {
+          "word": " Break",
+          "start": 106.53999999999999,
+          "end": 107.94,
+          "probability": 0.8609265089035034
+        },
+        {
+          "word": " up",
+          "start": 107.94,
+          "end": 107.94,
+          "probability": 0.9918553829193115
+        },
+        {
+          "word": " the",
+          "start": 107.94,
+          "end": 109.76,
+          "probability": 0.9909301400184631
+        },
+        {
+          "word": " band",
+          "start": 109.76,
+          "end": 110.46000000000001,
+          "probability": 0.9969004392623901
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 9000,
+      "start": 115.64,
+      "end": 119.98,
+      "text": " Break up the band",
+      "tokens": [
+        51414,
+        16925,
+        493,
+        264,
+        4116,
+        51564
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.4892609417438507,
+      "compression_ratio": 3.0689655172413794,
+      "no_speech_prob": 0.07018433511257172,
+      "words": [
+        {
+          "word": " Break",
+          "start": 115.64,
+          "end": 117.04,
+          "probability": 0.9087147116661072
+        },
+        {
+          "word": " up",
+          "start": 117.04,
+          "end": 117.04,
+          "probability": 0.9933503270149231
+        },
+        {
+          "word": " the",
+          "start": 117.04,
+          "end": 119.98,
+          "probability": 0.9933021068572998
+        },
+        {
+          "word": " band",
+          "start": 119.98,
+          "end": 119.98,
+          "probability": 0.9975983500480652
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 11998,
+      "start": 119.98,
+      "end": 124.78,
+      "text": " I'm going to go",
+      "tokens": [
+        50364,
+        286,
+        478,
+        516,
+        281,
+        352,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7206824267352069,
+      "compression_ratio": 1.5675675675675675,
+      "no_speech_prob": 0.8217584490776062,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 119.98,
+          "end": 120.8,
+          "probability": 0.1167830042541027
+        },
+        {
+          "word": " going",
+          "start": 120.8,
+          "end": 121.16,
+          "probability": 0.06876394152641296
+        },
+        {
+          "word": " to",
+          "start": 121.16,
+          "end": 122.66,
+          "probability": 0.5211220979690552
+        },
+        {
+          "word": " go",
+          "start": 122.66,
+          "end": 124.78,
+          "probability": 0.2944071292877197
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 11998,
+      "start": 124.78,
+      "end": 128.98,
+      "text": " Baby, baby",
+      "tokens": [
+        50614,
+        9425,
+        11,
+        3186,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7206824267352069,
+      "compression_ratio": 1.5675675675675675,
+      "no_speech_prob": 0.8217584490776062,
+      "words": [
+        {
+          "word": " Baby,",
+          "start": 124.78,
+          "end": 126.34,
+          "probability": 0.07896839827299118
+        },
+        {
+          "word": " baby",
+          "start": 126.74,
+          "end": 128.98,
+          "probability": 0.868852436542511
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 11998,
+      "start": 128.98,
+      "end": 134.3,
+      "text": " I'm going to go",
+      "tokens": [
+        50814,
+        286,
+        478,
+        516,
+        281,
+        352,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7206824267352069,
+      "compression_ratio": 1.5675675675675675,
+      "no_speech_prob": 0.8217584490776062,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 128.98,
+          "end": 129.46,
+          "probability": 0.7304770350456238
+        },
+        {
+          "word": " going",
+          "start": 129.46,
+          "end": 130.4,
+          "probability": 0.9834028482437134
+        },
+        {
+          "word": " to",
+          "start": 130.4,
+          "end": 131.82,
+          "probability": 0.9976996779441833
+        },
+        {
+          "word": " go",
+          "start": 131.82,
+          "end": 134.3,
+          "probability": 0.9896966218948364
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 11998,
+      "start": 134.3,
+      "end": 139.44,
+      "text": " I'm going to go",
+      "tokens": [
+        51064,
+        286,
+        478,
+        516,
+        281,
+        352,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7206824267352069,
+      "compression_ratio": 1.5675675675675675,
+      "no_speech_prob": 0.8217584490776062,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 134.3,
+          "end": 135.22,
+          "probability": 0.7487610876560211
+        },
+        {
+          "word": " going",
+          "start": 135.22,
+          "end": 135.96,
+          "probability": 0.9385474920272827
+        },
+        {
+          "word": " to",
+          "start": 135.96,
+          "end": 136.16,
+          "probability": 0.9766124486923218
+        },
+        {
+          "word": " go",
+          "start": 136.16,
+          "end": 139.44,
+          "probability": 0.9297278523445129
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 14998,
+      "start": 151.76,
+      "end": 154.56,
+      "text": " I'm going to go",
+      "tokens": [
+        50364,
+        286,
+        478,
+        516,
+        281,
+        352,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12243636087937788,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 0.5034200549125671,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 151.76,
+          "end": 153.16,
+          "probability": 0.09213342471048236
+        },
+        {
+          "word": " going",
+          "start": 153.16,
+          "end": 154.56,
+          "probability": 0.056469447910785675
+        },
+        {
+          "word": " to",
+          "start": 154.56,
+          "end": 154.56,
+          "probability": 0.8561564683914185
+        },
+        {
+          "word": " go",
+          "start": 154.56,
+          "end": 154.56,
+          "probability": 0.07615955919027328
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 14998,
+      "start": 154.56,
+      "end": 160.34,
+      "text": " I'm going to go",
+      "tokens": [
+        50614,
+        286,
+        478,
+        516,
+        281,
+        352,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12243636087937788,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 0.5034200549125671,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 154.56,
+          "end": 154.56,
+          "probability": 0.3715354472224135
+        },
+        {
+          "word": " going",
+          "start": 154.56,
+          "end": 160.34,
+          "probability": 0.8852742314338684
+        },
+        {
+          "word": " to",
+          "start": 160.34,
+          "end": 160.34,
+          "probability": 0.9469524621963501
+        },
+        {
+          "word": " go",
+          "start": 160.34,
+          "end": 160.34,
+          "probability": 0.83059161901474
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 14998,
+      "start": 169.0,
+      "end": 170.42,
+      "text": " I'm going to go",
+      "tokens": [
+        50864,
+        286,
+        478,
+        516,
+        281,
+        352,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12243636087937788,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 0.5034200549125671,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 169.0,
+          "end": 170.4,
+          "probability": 0.614210844039917
+        },
+        {
+          "word": " going",
+          "start": 170.4,
+          "end": 170.4,
+          "probability": 0.9523161053657532
+        },
+        {
+          "word": " to",
+          "start": 170.4,
+          "end": 170.4,
+          "probability": 0.9627307653427124
+        },
+        {
+          "word": " go",
+          "start": 170.4,
+          "end": 170.42,
+          "probability": 0.9577043652534485
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

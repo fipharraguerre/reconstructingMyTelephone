@@ -1,0 +1,1006 @@
+{
+  "text": " I want to be in your heart I want to be in your heart I want to be in your heart I want to be in your heart I want to be in your heart I want to be in your heart I want to be in your heart I want to be in your heart They walk into the office, they do they don't mean to think about it. They walk into the office, they do they don't mean to think about it. They walk into the office, they do they don't mean to think about it. They walk into the office, they do they don't mean to think about it.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.32,
+      "text": " I want to be in your heart",
+      "tokens": [
+        50364,
+        286,
+        528,
+        281,
+        312,
+        294,
+        428,
+        1917,
+        50614
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.8057762672161234,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.45172324776649475,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 1.1,
+          "probability": 0.012169537134468555
+        },
+        {
+          "word": " want",
+          "start": 1.1,
+          "end": 1.5,
+          "probability": 0.039445362985134125
+        },
+        {
+          "word": " to",
+          "start": 1.5,
+          "end": 2.58,
+          "probability": 0.6466703414916992
+        },
+        {
+          "word": " be",
+          "start": 2.58,
+          "end": 2.58,
+          "probability": 0.07983878254890442
+        },
+        {
+          "word": " in",
+          "start": 2.58,
+          "end": 2.58,
+          "probability": 0.043049294501543045
+        },
+        {
+          "word": " your",
+          "start": 2.58,
+          "end": 2.58,
+          "probability": 0.3233497738838196
+        },
+        {
+          "word": " heart",
+          "start": 2.58,
+          "end": 4.32,
+          "probability": 0.28835350275039673
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.9,
+      "end": 12.0,
+      "text": " I want to be in your heart",
+      "tokens": [
+        50614,
+        286,
+        528,
+        281,
+        312,
+        294,
+        428,
+        1917,
+        50964
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.8057762672161234,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.45172324776649475,
+      "words": [
+        {
+          "word": " I",
+          "start": 6.9,
+          "end": 8.3,
+          "probability": 0.22646479308605194
+        },
+        {
+          "word": " want",
+          "start": 8.3,
+          "end": 9.26,
+          "probability": 0.929987370967865
+        },
+        {
+          "word": " to",
+          "start": 9.26,
+          "end": 9.54,
+          "probability": 0.9615465402603149
+        },
+        {
+          "word": " be",
+          "start": 9.54,
+          "end": 9.66,
+          "probability": 0.9449136853218079
+        },
+        {
+          "word": " in",
+          "start": 9.66,
+          "end": 9.88,
+          "probability": 0.9616237878799438
+        },
+        {
+          "word": " your",
+          "start": 9.88,
+          "end": 10.36,
+          "probability": 0.9928850531578064
+        },
+        {
+          "word": " heart",
+          "start": 10.36,
+          "end": 12.0,
+          "probability": 0.9845137000083923
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 16.720000000000002,
+      "end": 21.98,
+      "text": " I want to be in your heart",
+      "tokens": [
+        51214,
+        286,
+        528,
+        281,
+        312,
+        294,
+        428,
+        1917,
+        51464
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.8057762672161234,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.45172324776649475,
+      "words": [
+        {
+          "word": " I",
+          "start": 16.720000000000002,
+          "end": 18.12,
+          "probability": 0.838577389717102
+        },
+        {
+          "word": " want",
+          "start": 18.12,
+          "end": 19.36,
+          "probability": 0.9889573454856873
+        },
+        {
+          "word": " to",
+          "start": 19.36,
+          "end": 19.38,
+          "probability": 0.9805260300636292
+        },
+        {
+          "word": " be",
+          "start": 19.38,
+          "end": 19.38,
+          "probability": 0.9698904752731323
+        },
+        {
+          "word": " in",
+          "start": 19.38,
+          "end": 19.76,
+          "probability": 0.9806628823280334
+        },
+        {
+          "word": " your",
+          "start": 19.76,
+          "end": 20.02,
+          "probability": 0.9937719702720642
+        },
+        {
+          "word": " heart",
+          "start": 20.02,
+          "end": 21.98,
+          "probability": 0.9953418970108032
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2198,
+      "start": 22.98,
+      "end": 25.92,
+      "text": " I want to be in your heart",
+      "tokens": [
+        50414,
+        286,
+        528,
+        281,
+        312,
+        294,
+        428,
+        1917,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23421924992611534,
+      "compression_ratio": 1.394736842105263,
+      "no_speech_prob": 0.045170143246650696,
+      "words": [
+        {
+          "word": " I",
+          "start": 22.98,
+          "end": 24.14,
+          "probability": 0.04046763479709625
+        },
+        {
+          "word": " want",
+          "start": 24.14,
+          "end": 24.96,
+          "probability": 0.009703632444143295
+        },
+        {
+          "word": " to",
+          "start": 24.96,
+          "end": 25.92,
+          "probability": 0.530413806438446
+        },
+        {
+          "word": " be",
+          "start": 25.92,
+          "end": 25.92,
+          "probability": 0.13842496275901794
+        },
+        {
+          "word": " in",
+          "start": 25.92,
+          "end": 25.92,
+          "probability": 0.039186399430036545
+        },
+        {
+          "word": " your",
+          "start": 25.92,
+          "end": 25.92,
+          "probability": 0.40023165941238403
+        },
+        {
+          "word": " heart",
+          "start": 25.92,
+          "end": 25.92,
+          "probability": 0.3150036036968231
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2198,
+      "start": 25.92,
+      "end": 31.92,
+      "text": " I want to be in your heart",
+      "tokens": [
+        50914,
+        286,
+        528,
+        281,
+        312,
+        294,
+        428,
+        1917,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23421924992611534,
+      "compression_ratio": 1.394736842105263,
+      "no_speech_prob": 0.045170143246650696,
+      "words": [
+        {
+          "word": " I",
+          "start": 25.92,
+          "end": 27.94,
+          "probability": 0.1464489847421646
+        },
+        {
+          "word": " want",
+          "start": 27.94,
+          "end": 28.14,
+          "probability": 0.6473249793052673
+        },
+        {
+          "word": " to",
+          "start": 28.14,
+          "end": 28.14,
+          "probability": 0.8548717498779297
+        },
+        {
+          "word": " be",
+          "start": 28.14,
+          "end": 28.14,
+          "probability": 0.7149926424026489
+        },
+        {
+          "word": " in",
+          "start": 28.14,
+          "end": 29.22,
+          "probability": 0.6091094613075256
+        },
+        {
+          "word": " your",
+          "start": 29.22,
+          "end": 29.22,
+          "probability": 0.971727192401886
+        },
+        {
+          "word": " heart",
+          "start": 29.22,
+          "end": 31.92,
+          "probability": 0.5229588150978088
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 5198,
+      "start": 53.1,
+      "end": 58.68,
+      "text": " I want to be in your heart",
+      "tokens": [
+        50414,
+        286,
+        528,
+        281,
+        312,
+        294,
+        428,
+        1917,
+        50664
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.4326367213808257,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.14365652203559875,
+      "words": [
+        {
+          "word": " I",
+          "start": 53.1,
+          "end": 54.5,
+          "probability": 0.007282142527401447
+        },
+        {
+          "word": " want",
+          "start": 54.5,
+          "end": 55.38,
+          "probability": 0.02241072617471218
+        },
+        {
+          "word": " to",
+          "start": 55.38,
+          "end": 58.62,
+          "probability": 0.6089252829551697
+        },
+        {
+          "word": " be",
+          "start": 58.62,
+          "end": 58.62,
+          "probability": 0.09637068957090378
+        },
+        {
+          "word": " in",
+          "start": 58.62,
+          "end": 58.62,
+          "probability": 0.03229014202952385
+        },
+        {
+          "word": " your",
+          "start": 58.62,
+          "end": 58.62,
+          "probability": 0.27373477816581726
+        },
+        {
+          "word": " heart",
+          "start": 58.62,
+          "end": 58.68,
+          "probability": 0.29166629910469055
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 5198,
+      "start": 60.940000000000005,
+      "end": 65.97999999999999,
+      "text": " I want to be in your heart",
+      "tokens": [
+        50914,
+        286,
+        528,
+        281,
+        312,
+        294,
+        428,
+        1917,
+        51064
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.4326367213808257,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.14365652203559875,
+      "words": [
+        {
+          "word": " I",
+          "start": 60.940000000000005,
+          "end": 62.34,
+          "probability": 0.22677932679653168
+        },
+        {
+          "word": " want",
+          "start": 62.34,
+          "end": 63.74,
+          "probability": 0.8851954936981201
+        },
+        {
+          "word": " to",
+          "start": 63.74,
+          "end": 63.78,
+          "probability": 0.8899173140525818
+        },
+        {
+          "word": " be",
+          "start": 63.78,
+          "end": 63.78,
+          "probability": 0.5963461399078369
+        },
+        {
+          "word": " in",
+          "start": 63.78,
+          "end": 63.78,
+          "probability": 0.6268001198768616
+        },
+        {
+          "word": " your",
+          "start": 63.78,
+          "end": 63.78,
+          "probability": 0.9673250317573547
+        },
+        {
+          "word": " heart",
+          "start": 63.78,
+          "end": 65.97999999999999,
+          "probability": 0.6631504893302917
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5198,
+      "start": 69.33999999999999,
+      "end": 75.18,
+      "text": " I want to be in your heart",
+      "tokens": [
+        51314,
+        286,
+        528,
+        281,
+        312,
+        294,
+        428,
+        1917,
+        51514
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.4326367213808257,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.14365652203559875,
+      "words": [
+        {
+          "word": " I",
+          "start": 69.33999999999999,
+          "end": 70.74,
+          "probability": 0.7297244071960449
+        },
+        {
+          "word": " want",
+          "start": 70.74,
+          "end": 72.14,
+          "probability": 0.9644105434417725
+        },
+        {
+          "word": " to",
+          "start": 72.14,
+          "end": 72.14,
+          "probability": 0.9071053266525269
+        },
+        {
+          "word": " be",
+          "start": 72.14,
+          "end": 72.2,
+          "probability": 0.9275778532028198
+        },
+        {
+          "word": " in",
+          "start": 72.2,
+          "end": 72.76,
+          "probability": 0.9167883396148682
+        },
+        {
+          "word": " your",
+          "start": 72.76,
+          "end": 73.0,
+          "probability": 0.9939711093902588
+        },
+        {
+          "word": " heart",
+          "start": 73.0,
+          "end": 75.18,
+          "probability": 0.9906216859817505
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 7518,
+      "start": 81.8,
+      "end": 87.32,
+      "text": " They walk into the office, they do they don't mean to think about it.",
+      "tokens": [
+        50364,
+        814,
+        1792,
+        666,
+        264,
+        3398,
+        11,
+        436,
+        360,
+        436,
+        500,
+        380,
+        914,
+        281,
+        519,
+        466,
+        309,
+        13,
+        50964
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.41266021728515623,
+      "compression_ratio": 1.9857142857142858,
+      "no_speech_prob": 0.6972370743751526,
+      "words": [
+        {
+          "word": " They",
+          "start": 81.8,
+          "end": 82.36,
+          "probability": 0.1724836826324463
+        },
+        {
+          "word": " walk",
+          "start": 82.36,
+          "end": 82.78,
+          "probability": 0.4269670844078064
+        },
+        {
+          "word": " into",
+          "start": 82.78,
+          "end": 83.06,
+          "probability": 0.9502478837966919
+        },
+        {
+          "word": " the",
+          "start": 83.06,
+          "end": 83.36,
+          "probability": 0.9896107912063599
+        },
+        {
+          "word": " office,",
+          "start": 83.36,
+          "end": 84.08,
+          "probability": 0.9860796332359314
+        },
+        {
+          "word": " they",
+          "start": 84.68,
+          "end": 84.74,
+          "probability": 0.6900650858879089
+        },
+        {
+          "word": " do",
+          "start": 84.74,
+          "end": 84.94,
+          "probability": 0.8181350827217102
+        },
+        {
+          "word": " they",
+          "start": 84.94,
+          "end": 85.1,
+          "probability": 0.2464933544397354
+        },
+        {
+          "word": " don't",
+          "start": 85.1,
+          "end": 85.36,
+          "probability": 0.9772354066371918
+        },
+        {
+          "word": " mean",
+          "start": 85.36,
+          "end": 85.58,
+          "probability": 0.9850344061851501
+        },
+        {
+          "word": " to",
+          "start": 85.58,
+          "end": 85.76,
+          "probability": 0.9843138456344604
+        },
+        {
+          "word": " think",
+          "start": 85.76,
+          "end": 85.94,
+          "probability": 0.9803210496902466
+        },
+        {
+          "word": " about",
+          "start": 85.94,
+          "end": 86.24,
+          "probability": 0.9853683114051819
+        },
+        {
+          "word": " it.",
+          "start": 86.24,
+          "end": 87.32,
+          "probability": 0.8425480723381042
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 7518,
+      "start": 87.32,
+      "end": 97.5,
+      "text": " They walk into the office, they do they don't mean to think about it.",
+      "tokens": [
+        50964,
+        814,
+        1792,
+        666,
+        264,
+        3398,
+        11,
+        436,
+        360,
+        436,
+        500,
+        380,
+        914,
+        281,
+        519,
+        466,
+        309,
+        13,
+        51464
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.41266021728515623,
+      "compression_ratio": 1.9857142857142858,
+      "no_speech_prob": 0.6972370743751526,
+      "words": [
+        {
+          "word": " They",
+          "start": 87.32,
+          "end": 87.6,
+          "probability": 0.8669782280921936
+        },
+        {
+          "word": " walk",
+          "start": 87.6,
+          "end": 87.88,
+          "probability": 0.9636943936347961
+        },
+        {
+          "word": " into",
+          "start": 87.88,
+          "end": 88.16,
+          "probability": 0.9805290102958679
+        },
+        {
+          "word": " the",
+          "start": 88.16,
+          "end": 88.46,
+          "probability": 0.9961583018302917
+        },
+        {
+          "word": " office,",
+          "start": 88.46,
+          "end": 89.26,
+          "probability": 0.9960784316062927
+        },
+        {
+          "word": " they",
+          "start": 92.54,
+          "end": 92.58,
+          "probability": 0.7203339338302612
+        },
+        {
+          "word": " do",
+          "start": 92.58,
+          "end": 93.98,
+          "probability": 0.6314895749092102
+        },
+        {
+          "word": " they",
+          "start": 93.98,
+          "end": 95.32,
+          "probability": 0.9263612627983093
+        },
+        {
+          "word": " don't",
+          "start": 95.32,
+          "end": 95.52,
+          "probability": 0.9959986209869385
+        },
+        {
+          "word": " mean",
+          "start": 95.52,
+          "end": 95.78,
+          "probability": 0.9959470629692078
+        },
+        {
+          "word": " to",
+          "start": 95.78,
+          "end": 95.96,
+          "probability": 0.997247040271759
+        },
+        {
+          "word": " think",
+          "start": 95.96,
+          "end": 96.16,
+          "probability": 0.9925751686096191
+        },
+        {
+          "word": " about",
+          "start": 96.16,
+          "end": 96.44,
+          "probability": 0.9967689514160156
+        },
+        {
+          "word": " it.",
+          "start": 96.44,
+          "end": 97.5,
+          "probability": 0.9812063574790955
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 9750,
+      "start": 97.5,
+      "end": 112.06,
+      "text": " They walk into the office, they do they don't mean to think about it.",
+      "tokens": [
+        50364,
+        814,
+        1792,
+        666,
+        264,
+        3398,
+        11,
+        436,
+        360,
+        436,
+        500,
+        380,
+        914,
+        281,
+        519,
+        466,
+        309,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18371835947036744,
+      "compression_ratio": 1.0615384615384615,
+      "no_speech_prob": 0.7421708703041077,
+      "words": [
+        {
+          "word": " They",
+          "start": 97.5,
+          "end": 97.76,
+          "probability": 0.645784854888916
+        },
+        {
+          "word": " walk",
+          "start": 97.76,
+          "end": 98.08,
+          "probability": 0.91709965467453
+        },
+        {
+          "word": " into",
+          "start": 98.08,
+          "end": 98.36,
+          "probability": 0.9813315868377686
+        },
+        {
+          "word": " the",
+          "start": 98.36,
+          "end": 98.66,
+          "probability": 0.9925727844238281
+        },
+        {
+          "word": " office,",
+          "start": 98.66,
+          "end": 99.34,
+          "probability": 0.9924252033233643
+        },
+        {
+          "word": " they",
+          "start": 99.5,
+          "end": 102.8,
+          "probability": 0.3591933846473694
+        },
+        {
+          "word": " do",
+          "start": 102.8,
+          "end": 104.12,
+          "probability": 0.4347819983959198
+        },
+        {
+          "word": " they",
+          "start": 104.12,
+          "end": 105.52,
+          "probability": 0.24824129045009613
+        },
+        {
+          "word": " don't",
+          "start": 105.52,
+          "end": 105.76,
+          "probability": 0.9830974340438843
+        },
+        {
+          "word": " mean",
+          "start": 105.76,
+          "end": 105.98,
+          "probability": 0.9940925240516663
+        },
+        {
+          "word": " to",
+          "start": 105.98,
+          "end": 106.16,
+          "probability": 0.9860873818397522
+        },
+        {
+          "word": " think",
+          "start": 106.16,
+          "end": 106.36,
+          "probability": 0.9864346981048584
+        },
+        {
+          "word": " about",
+          "start": 106.36,
+          "end": 106.62,
+          "probability": 0.9926702976226807
+        },
+        {
+          "word": " it.",
+          "start": 106.62,
+          "end": 112.06,
+          "probability": 0.9331615567207336
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 12750,
+      "start": 127.5,
+      "end": 132.18,
+      "text": " They walk into the office, they do they don't mean to think about it.",
+      "tokens": [
+        50364,
+        814,
+        1792,
+        666,
+        264,
+        3398,
+        11,
+        436,
+        360,
+        436,
+        500,
+        380,
+        914,
+        281,
+        519,
+        466,
+        309,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16512893438339232,
+      "compression_ratio": 1.0615384615384615,
+      "no_speech_prob": 0.7665385603904724,
+      "words": [
+        {
+          "word": " They",
+          "start": 127.5,
+          "end": 128.08,
+          "probability": 0.0009695375920273364
+        },
+        {
+          "word": " walk",
+          "start": 128.08,
+          "end": 128.24,
+          "probability": 0.00010659395047696307
+        },
+        {
+          "word": " into",
+          "start": 128.24,
+          "end": 128.46,
+          "probability": 0.04067756608128548
+        },
+        {
+          "word": " the",
+          "start": 128.46,
+          "end": 129.32,
+          "probability": 0.35516518354415894
+        },
+        {
+          "word": " office,",
+          "start": 129.32,
+          "end": 129.32,
+          "probability": 0.0006790523766539991
+        },
+        {
+          "word": " they",
+          "start": 130.1,
+          "end": 130.48,
+          "probability": 0.09114566445350647
+        },
+        {
+          "word": " do",
+          "start": 130.48,
+          "end": 131.0,
+          "probability": 0.01610546186566353
+        },
+        {
+          "word": " they",
+          "start": 131.0,
+          "end": 131.04,
+          "probability": 0.0028923451900482178
+        },
+        {
+          "word": " don't",
+          "start": 131.04,
+          "end": 131.04,
+          "probability": 0.5215497184544802
+        },
+        {
+          "word": " mean",
+          "start": 131.04,
+          "end": 131.04,
+          "probability": 0.0017310683615505695
+        },
+        {
+          "word": " to",
+          "start": 131.04,
+          "end": 131.66,
+          "probability": 0.16459575295448303
+        },
+        {
+          "word": " think",
+          "start": 131.66,
+          "end": 131.66,
+          "probability": 0.0008964990847744048
+        },
+        {
+          "word": " about",
+          "start": 131.66,
+          "end": 131.66,
+          "probability": 0.16116614639759064
+        },
+        {
+          "word": " it.",
+          "start": 131.66,
+          "end": 132.18,
+          "probability": 0.22746026515960693
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

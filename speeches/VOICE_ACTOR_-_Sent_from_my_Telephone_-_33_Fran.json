@@ -1,0 +1,238 @@
+{
+  "text": " She was quite right, the child and Blackberry children were already getting into mischief. Chambrin, flapjacks, ice-bones, fruit-flap, chocolate cake and some sausage rolls.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 9.579999999999997,
+      "end": 16.0,
+      "text": " She was quite right, the child and Blackberry children were already getting into mischief.",
+      "tokens": [
+        50364,
+        1240,
+        390,
+        1596,
+        558,
+        11,
+        264,
+        1440,
+        293,
+        4076,
+        9099,
+        2227,
+        645,
+        1217,
+        1242,
+        666,
+        3346,
+        30189,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5037773677280971,
+      "compression_ratio": 1.0843373493975903,
+      "no_speech_prob": 0.17686034739017487,
+      "words": [
+        {
+          "word": " She",
+          "start": 9.579999999999997,
+          "end": 10.339999999999998,
+          "probability": 0.47332850098609924
+        },
+        {
+          "word": " was",
+          "start": 10.339999999999998,
+          "end": 11.1,
+          "probability": 0.9823251962661743
+        },
+        {
+          "word": " quite",
+          "start": 11.1,
+          "end": 11.44,
+          "probability": 0.9807398319244385
+        },
+        {
+          "word": " right,",
+          "start": 11.44,
+          "end": 11.74,
+          "probability": 0.9965059757232666
+        },
+        {
+          "word": " the",
+          "start": 11.98,
+          "end": 12.14,
+          "probability": 0.938188910484314
+        },
+        {
+          "word": " child",
+          "start": 12.14,
+          "end": 12.32,
+          "probability": 0.39325061440467834
+        },
+        {
+          "word": " and",
+          "start": 12.32,
+          "end": 12.5,
+          "probability": 0.8210623264312744
+        },
+        {
+          "word": " Blackberry",
+          "start": 12.5,
+          "end": 12.98,
+          "probability": 0.6432451903820038
+        },
+        {
+          "word": " children",
+          "start": 12.98,
+          "end": 13.54,
+          "probability": 0.9134291410446167
+        },
+        {
+          "word": " were",
+          "start": 13.54,
+          "end": 13.96,
+          "probability": 0.9641579389572144
+        },
+        {
+          "word": " already",
+          "start": 13.96,
+          "end": 14.4,
+          "probability": 0.981255292892456
+        },
+        {
+          "word": " getting",
+          "start": 14.4,
+          "end": 14.72,
+          "probability": 0.9925782084465027
+        },
+        {
+          "word": " into",
+          "start": 14.72,
+          "end": 15.02,
+          "probability": 0.9101818203926086
+        },
+        {
+          "word": " mischief.",
+          "start": 15.02,
+          "end": 16.0,
+          "probability": 0.9735890030860901
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 32.08,
+      "end": 37.7,
+      "text": " Chambrin, flapjacks, ice-bones, fruit-flap, chocolate cake and some sausage rolls.",
+      "tokens": [
+        50414,
+        761,
+        2173,
+        12629,
+        11,
+        30781,
+        73,
+        7424,
+        11,
+        4435,
+        12,
+        44954,
+        11,
+        6773,
+        12,
+        3423,
+        569,
+        11,
+        6215,
+        5908,
+        293,
+        512,
+        20526,
+        15767,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.44214983339662906,
+      "compression_ratio": 1.0512820512820513,
+      "no_speech_prob": 0.700473964214325,
+      "words": [
+        {
+          "word": " Chambrin,",
+          "start": 32.08,
+          "end": 32.72,
+          "probability": 0.25517065574725467
+        },
+        {
+          "word": " flapjacks,",
+          "start": 32.72,
+          "end": 33.36,
+          "probability": 0.9133200844128927
+        },
+        {
+          "word": " ice",
+          "start": 33.94,
+          "end": 34.26,
+          "probability": 0.8882626891136169
+        },
+        {
+          "word": "-bones,",
+          "start": 34.26,
+          "end": 34.54,
+          "probability": 0.5399986505508423
+        },
+        {
+          "word": " fruit",
+          "start": 34.8,
+          "end": 35.08,
+          "probability": 0.45522934198379517
+        },
+        {
+          "word": "-flap,",
+          "start": 35.08,
+          "end": 35.4,
+          "probability": 0.628981868426005
+        },
+        {
+          "word": " chocolate",
+          "start": 35.56,
+          "end": 35.9,
+          "probability": 0.988524854183197
+        },
+        {
+          "word": " cake",
+          "start": 35.9,
+          "end": 36.26,
+          "probability": 0.9531430602073669
+        },
+        {
+          "word": " and",
+          "start": 36.26,
+          "end": 36.56,
+          "probability": 0.6332204937934875
+        },
+        {
+          "word": " some",
+          "start": 36.56,
+          "end": 36.86,
+          "probability": 0.9756096601486206
+        },
+        {
+          "word": " sausage",
+          "start": 36.86,
+          "end": 37.22,
+          "probability": 0.9534722566604614
+        },
+        {
+          "word": " rolls.",
+          "start": 37.22,
+          "end": 37.7,
+          "probability": 0.9700759053230286
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

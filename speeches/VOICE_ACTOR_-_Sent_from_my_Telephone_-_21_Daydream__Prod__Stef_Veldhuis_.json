@@ -1,0 +1,1078 @@
+{
+  "text": " One, two, three One, two, three, four Six, seven, eight You were choking me And I'm just letting it happen Willingly, as if it's a service you're providing me with I have this imaginary heat Of this craziness Your hair and your hands around me Nearly as if we just violence But consensual violence It was consensual You were shaking me Struggling violently Your hair was shaking hard And I'm just letting it happen Completely submissive And very firstly Six Six Six Six Six Four Four Six",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.48,
+      "text": " One, two, three",
+      "tokens": [
+        50364,
+        1485,
+        11,
+        732,
+        11,
+        1045,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4352631759643555,
+      "compression_ratio": 1.1224489795918366,
+      "no_speech_prob": 0.4339810609817505,
+      "words": [
+        {
+          "word": " One,",
+          "start": 0.0,
+          "end": 1.4,
+          "probability": 0.23672837018966675
+        },
+        {
+          "word": " two,",
+          "start": 2.24,
+          "end": 3.3,
+          "probability": 0.9564436674118042
+        },
+        {
+          "word": " three",
+          "start": 4.42,
+          "end": 5.48,
+          "probability": 0.99151611328125
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.04,
+      "end": 17.22,
+      "text": " One, two, three, four",
+      "tokens": [
+        50764,
+        1485,
+        11,
+        732,
+        11,
+        1045,
+        11,
+        1451,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4352631759643555,
+      "compression_ratio": 1.1224489795918366,
+      "no_speech_prob": 0.4339810609817505,
+      "words": [
+        {
+          "word": " One,",
+          "start": 9.04,
+          "end": 10.44,
+          "probability": 0.24845771491527557
+        },
+        {
+          "word": " two,",
+          "start": 10.44,
+          "end": 11.84,
+          "probability": 0.997413694858551
+        },
+        {
+          "word": " three,",
+          "start": 14.56,
+          "end": 14.68,
+          "probability": 0.9948906898498535
+        },
+        {
+          "word": " four",
+          "start": 17.22,
+          "end": 17.22,
+          "probability": 0.9890633225440979
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 21.28,
+      "end": 26.24,
+      "text": " Six, seven, eight",
+      "tokens": [
+        51364,
+        11678,
+        11,
+        3407,
+        11,
+        3180,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4352631759643555,
+      "compression_ratio": 1.1224489795918366,
+      "no_speech_prob": 0.4339810609817505,
+      "words": [
+        {
+          "word": " Six,",
+          "start": 21.28,
+          "end": 22.68,
+          "probability": 0.8497786521911621
+        },
+        {
+          "word": " seven,",
+          "start": 22.68,
+          "end": 24.08,
+          "probability": 0.7715185880661011
+        },
+        {
+          "word": " eight",
+          "start": 26.24,
+          "end": 26.24,
+          "probability": 0.9405051469802856
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2624,
+      "start": 26.24,
+      "end": 29.24,
+      "text": " You were choking me",
+      "tokens": [
+        50364,
+        509,
+        645,
+        48540,
+        385,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21431657542353091,
+      "compression_ratio": 1.2357723577235773,
+      "no_speech_prob": 0.04717572405934334,
+      "words": [
+        {
+          "word": " You",
+          "start": 26.24,
+          "end": 26.84,
+          "probability": 0.4517641067504883
+        },
+        {
+          "word": " were",
+          "start": 26.84,
+          "end": 27.74,
+          "probability": 0.8611037731170654
+        },
+        {
+          "word": " choking",
+          "start": 27.74,
+          "end": 28.4,
+          "probability": 0.8680681586265564
+        },
+        {
+          "word": " me",
+          "start": 28.4,
+          "end": 29.24,
+          "probability": 0.7873827219009399
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2624,
+      "start": 29.82,
+      "end": 33.239999999999995,
+      "text": " And I'm just letting it happen",
+      "tokens": [
+        50564,
+        400,
+        286,
+        478,
+        445,
+        8295,
+        309,
+        1051,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21431657542353091,
+      "compression_ratio": 1.2357723577235773,
+      "no_speech_prob": 0.04717572405934334,
+      "words": [
+        {
+          "word": " And",
+          "start": 29.82,
+          "end": 30.34,
+          "probability": 0.12652796506881714
+        },
+        {
+          "word": " I'm",
+          "start": 30.34,
+          "end": 31.18,
+          "probability": 0.9029062986373901
+        },
+        {
+          "word": " just",
+          "start": 31.18,
+          "end": 31.64,
+          "probability": 0.5246473550796509
+        },
+        {
+          "word": " letting",
+          "start": 31.64,
+          "end": 32.32,
+          "probability": 0.9898687601089478
+        },
+        {
+          "word": " it",
+          "start": 32.32,
+          "end": 32.8,
+          "probability": 0.9926109910011292
+        },
+        {
+          "word": " happen",
+          "start": 32.8,
+          "end": 33.48,
+          "probability": 0.9965949654579163
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2624,
+      "start": 35.64,
+      "end": 42.94,
+      "text": " Willingly, as if it's a service you're providing me with",
+      "tokens": [
+        50814,
+        3099,
+        12163,
+        11,
+        382,
+        498,
+        309,
+        311,
+        257,
+        2643,
+        291,
+        434,
+        6530,
+        385,
+        365,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21431657542353091,
+      "compression_ratio": 1.2357723577235773,
+      "no_speech_prob": 0.04717572405934334,
+      "words": [
+        {
+          "word": " Willingly,",
+          "start": 35.64,
+          "end": 37.0,
+          "probability": 0.7432807087898254
+        },
+        {
+          "word": " as",
+          "start": 37.66,
+          "end": 37.78,
+          "probability": 0.9441272020339966
+        },
+        {
+          "word": " if",
+          "start": 37.78,
+          "end": 38.14,
+          "probability": 0.9917226433753967
+        },
+        {
+          "word": " it's",
+          "start": 38.14,
+          "end": 39.02,
+          "probability": 0.941702276468277
+        },
+        {
+          "word": " a",
+          "start": 39.02,
+          "end": 39.36,
+          "probability": 0.9864848852157593
+        },
+        {
+          "word": " service",
+          "start": 39.36,
+          "end": 40.3,
+          "probability": 0.9593777060508728
+        },
+        {
+          "word": " you're",
+          "start": 40.3,
+          "end": 41.2,
+          "probability": 0.7803802788257599
+        },
+        {
+          "word": " providing",
+          "start": 41.2,
+          "end": 41.82,
+          "probability": 0.9871763586997986
+        },
+        {
+          "word": " me",
+          "start": 41.82,
+          "end": 42.44,
+          "probability": 0.9977995753288269
+        },
+        {
+          "word": " with",
+          "start": 42.44,
+          "end": 42.94,
+          "probability": 0.9929110407829285
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2624,
+      "start": 44.239999999999995,
+      "end": 48.48,
+      "text": " I have this imaginary heat",
+      "tokens": [
+        51264,
+        286,
+        362,
+        341,
+        26164,
+        3738,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21431657542353091,
+      "compression_ratio": 1.2357723577235773,
+      "no_speech_prob": 0.04717572405934334,
+      "words": [
+        {
+          "word": " I",
+          "start": 44.14,
+          "end": 44.82,
+          "probability": 0.8695105910301208
+        },
+        {
+          "word": " have",
+          "start": 44.82,
+          "end": 45.16,
+          "probability": 0.7056773900985718
+        },
+        {
+          "word": " this",
+          "start": 45.16,
+          "end": 46.88,
+          "probability": 0.9955458641052246
+        },
+        {
+          "word": " imaginary",
+          "start": 46.88,
+          "end": 47.76,
+          "probability": 0.4572876989841461
+        },
+        {
+          "word": " heat",
+          "start": 47.76,
+          "end": 48.48,
+          "probability": 0.9027185440063477
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2624,
+      "start": 49.239999999999995,
+      "end": 51.239999999999995,
+      "text": " Of this craziness",
+      "tokens": [
+        51514,
+        2720,
+        341,
+        46348,
+        1324,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21431657542353091,
+      "compression_ratio": 1.2357723577235773,
+      "no_speech_prob": 0.04717572405934334,
+      "words": [
+        {
+          "word": " Of",
+          "start": 49.0,
+          "end": 49.68,
+          "probability": 0.21569326519966125
+        },
+        {
+          "word": " this",
+          "start": 49.68,
+          "end": 50.34,
+          "probability": 0.9919441938400269
+        },
+        {
+          "word": " craziness",
+          "start": 50.34,
+          "end": 51.239999999999995,
+          "probability": 0.9935979247093201
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5124,
+      "start": 52.800000000000004,
+      "end": 58.48,
+      "text": " Your hair and your hands around me",
+      "tokens": [
+        50414,
+        2260,
+        2578,
+        293,
+        428,
+        2377,
+        926,
+        385,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45525649189949036,
+      "compression_ratio": 1.2619047619047619,
+      "no_speech_prob": 0.020393161103129387,
+      "words": [
+        {
+          "word": " Your",
+          "start": 52.800000000000004,
+          "end": 54.2,
+          "probability": 0.400213360786438
+        },
+        {
+          "word": " hair",
+          "start": 54.2,
+          "end": 55.5,
+          "probability": 0.9648964405059814
+        },
+        {
+          "word": " and",
+          "start": 55.5,
+          "end": 55.84,
+          "probability": 0.8762677907943726
+        },
+        {
+          "word": " your",
+          "start": 55.84,
+          "end": 56.3,
+          "probability": 0.9290489554405212
+        },
+        {
+          "word": " hands",
+          "start": 56.3,
+          "end": 56.96,
+          "probability": 0.9782564640045166
+        },
+        {
+          "word": " around",
+          "start": 56.96,
+          "end": 57.42,
+          "probability": 0.39376121759414673
+        },
+        {
+          "word": " me",
+          "start": 57.42,
+          "end": 58.48,
+          "probability": 0.7552817463874817
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5124,
+      "start": 60.24,
+      "end": 65.24000000000001,
+      "text": " Nearly as if we just violence",
+      "tokens": [
+        50814,
+        38000,
+        382,
+        498,
+        321,
+        445,
+        6270,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45525649189949036,
+      "compression_ratio": 1.2619047619047619,
+      "no_speech_prob": 0.020393161103129387,
+      "words": [
+        {
+          "word": " Nearly",
+          "start": 60.24,
+          "end": 61.02,
+          "probability": 0.0008370149880647659
+        },
+        {
+          "word": " as",
+          "start": 61.02,
+          "end": 62.16,
+          "probability": 0.12629537284374237
+        },
+        {
+          "word": " if",
+          "start": 62.16,
+          "end": 62.48,
+          "probability": 0.21137423813343048
+        },
+        {
+          "word": " we",
+          "start": 62.48,
+          "end": 63.26,
+          "probability": 0.3327268660068512
+        },
+        {
+          "word": " just",
+          "start": 63.26,
+          "end": 64.34,
+          "probability": 0.47157785296440125
+        },
+        {
+          "word": " violence",
+          "start": 64.34,
+          "end": 65.24000000000001,
+          "probability": 0.8622449636459351
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5124,
+      "start": 68.29999999999998,
+      "end": 71.24000000000001,
+      "text": " But consensual violence",
+      "tokens": [
+        51114,
+        583,
+        1014,
+        694,
+        901,
+        6270,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45525649189949036,
+      "compression_ratio": 1.2619047619047619,
+      "no_speech_prob": 0.020393161103129387,
+      "words": [
+        {
+          "word": " But",
+          "start": 68.29999999999998,
+          "end": 69.69999999999999,
+          "probability": 0.2147383838891983
+        },
+        {
+          "word": " consensual",
+          "start": 69.69999999999999,
+          "end": 71.1,
+          "probability": 0.7938169538974762
+        },
+        {
+          "word": " violence",
+          "start": 71.1,
+          "end": 71.8,
+          "probability": 0.9847114086151123
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5124,
+      "start": 74.96,
+      "end": 78.18,
+      "text": " It was consensual",
+      "tokens": [
+        51564,
+        467,
+        390,
+        1014,
+        694,
+        901,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45525649189949036,
+      "compression_ratio": 1.2619047619047619,
+      "no_speech_prob": 0.020393161103129387,
+      "words": [
+        {
+          "word": " It",
+          "start": 74.96,
+          "end": 76.36,
+          "probability": 0.8520597815513611
+        },
+        {
+          "word": " was",
+          "start": 76.36,
+          "end": 76.7,
+          "probability": 0.9969369173049927
+        },
+        {
+          "word": " consensual",
+          "start": 76.7,
+          "end": 78.18,
+          "probability": 0.9974048137664795
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 8124,
+      "start": 81.24,
+      "end": 84.24,
+      "text": " You were shaking me",
+      "tokens": [
+        50364,
+        509,
+        645,
+        15415,
+        385,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30058129628499347,
+      "compression_ratio": 1.2232142857142858,
+      "no_speech_prob": 0.021313227713108063,
+      "words": [
+        {
+          "word": " You",
+          "start": 81.24,
+          "end": 81.5,
+          "probability": 0.3318563401699066
+        },
+        {
+          "word": " were",
+          "start": 81.5,
+          "end": 82.64,
+          "probability": 0.08393920212984085
+        },
+        {
+          "word": " shaking",
+          "start": 82.64,
+          "end": 83.96,
+          "probability": 0.6925643086433411
+        },
+        {
+          "word": " me",
+          "start": 83.96,
+          "end": 84.66,
+          "probability": 0.011561685241758823
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 8124,
+      "start": 86.66,
+      "end": 89.46,
+      "text": " Struggling violently",
+      "tokens": [
+        50614,
+        8251,
+        29921,
+        46728,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30058129628499347,
+      "compression_ratio": 1.2232142857142858,
+      "no_speech_prob": 0.021313227713108063,
+      "words": [
+        {
+          "word": " Struggling",
+          "start": 86.66,
+          "end": 88.06,
+          "probability": 0.5125156752765179
+        },
+        {
+          "word": " violently",
+          "start": 88.06,
+          "end": 89.46,
+          "probability": 0.42427322268486023
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 8124,
+      "start": 90.24,
+      "end": 94.24,
+      "text": " Your hair was shaking hard",
+      "tokens": [
+        50814,
+        2260,
+        2578,
+        390,
+        15415,
+        1152,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30058129628499347,
+      "compression_ratio": 1.2232142857142858,
+      "no_speech_prob": 0.021313227713108063,
+      "words": [
+        {
+          "word": " Your",
+          "start": 90.24,
+          "end": 91.4,
+          "probability": 0.779168963432312
+        },
+        {
+          "word": " hair",
+          "start": 91.4,
+          "end": 92.14,
+          "probability": 0.9931393265724182
+        },
+        {
+          "word": " was",
+          "start": 92.14,
+          "end": 92.86,
+          "probability": 0.960910439491272
+        },
+        {
+          "word": " shaking",
+          "start": 92.86,
+          "end": 93.68,
+          "probability": 0.9533191323280334
+        },
+        {
+          "word": " hard",
+          "start": 93.68,
+          "end": 94.38000000000001,
+          "probability": 0.052442848682403564
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 8124,
+      "start": 95.75999999999999,
+      "end": 100.24,
+      "text": " And I'm just letting it happen",
+      "tokens": [
+        51114,
+        400,
+        286,
+        478,
+        445,
+        8295,
+        309,
+        1051,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30058129628499347,
+      "compression_ratio": 1.2232142857142858,
+      "no_speech_prob": 0.021313227713108063,
+      "words": [
+        {
+          "word": " And",
+          "start": 95.75999999999999,
+          "end": 97.16,
+          "probability": 0.7124329805374146
+        },
+        {
+          "word": " I'm",
+          "start": 97.16,
+          "end": 97.9,
+          "probability": 0.7621926367282867
+        },
+        {
+          "word": " just",
+          "start": 97.9,
+          "end": 98.64,
+          "probability": 0.9678438901901245
+        },
+        {
+          "word": " letting",
+          "start": 98.64,
+          "end": 99.0,
+          "probability": 0.981477677822113
+        },
+        {
+          "word": " it",
+          "start": 99.0,
+          "end": 99.52,
+          "probability": 0.9950035214424133
+        },
+        {
+          "word": " happen",
+          "start": 99.52,
+          "end": 100.24,
+          "probability": 0.9515390992164612
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8124,
+      "start": 103.35999999999999,
+      "end": 105.24,
+      "text": " Completely submissive",
+      "tokens": [
+        51414,
+        39978,
+        8286,
+        891,
+        488,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30058129628499347,
+      "compression_ratio": 1.2232142857142858,
+      "no_speech_prob": 0.021313227713108063,
+      "words": [
+        {
+          "word": " Completely",
+          "start": 103.35999999999999,
+          "end": 104.75999999999999,
+          "probability": 0.6444092392921448
+        },
+        {
+          "word": " submissive",
+          "start": 104.75999999999999,
+          "end": 105.46,
+          "probability": 0.8560138742129008
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8124,
+      "start": 106.16,
+      "end": 109.9,
+      "text": " And very firstly",
+      "tokens": [
+        51614,
+        400,
+        588,
+        27376,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30058129628499347,
+      "compression_ratio": 1.2232142857142858,
+      "no_speech_prob": 0.021313227713108063,
+      "words": [
+        {
+          "word": " And",
+          "start": 106.16,
+          "end": 107.48,
+          "probability": 0.5532413721084595
+        },
+        {
+          "word": " very",
+          "start": 107.48,
+          "end": 109.3,
+          "probability": 0.5253725051879883
+        },
+        {
+          "word": " firstly",
+          "start": 109.3,
+          "end": 109.9,
+          "probability": 0.5216376185417175
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 11124,
+      "start": 112.03999999999999,
+      "end": 113.44,
+      "text": " Six",
+      "tokens": [
+        50364,
+        11678,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32805622707713733,
+      "compression_ratio": 1.45,
+      "no_speech_prob": 0.06259497255086899,
+      "words": [
+        {
+          "word": " Six",
+          "start": 112.03999999999999,
+          "end": 113.44,
+          "probability": 0.009204301983118057
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 11124,
+      "start": 118.17999999999999,
+      "end": 118.24,
+      "text": " Six",
+      "tokens": [
+        50614,
+        11678,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32805622707713733,
+      "compression_ratio": 1.45,
+      "no_speech_prob": 0.06259497255086899,
+      "words": [
+        {
+          "word": " Six",
+          "start": 118.17999999999999,
+          "end": 118.88,
+          "probability": 0.4425121545791626
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 11124,
+      "start": 122.52,
+      "end": 123.24,
+      "text": " Six",
+      "tokens": [
+        50864,
+        11678,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32805622707713733,
+      "compression_ratio": 1.45,
+      "no_speech_prob": 0.06259497255086899,
+      "words": [
+        {
+          "word": " Six",
+          "start": 122.52,
+          "end": 123.24,
+          "probability": 0.906096875667572
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 11124,
+      "start": 128.06,
+      "end": 129.46,
+      "text": " Six",
+      "tokens": [
+        51214,
+        11678,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32805622707713733,
+      "compression_ratio": 1.45,
+      "no_speech_prob": 0.06259497255086899,
+      "words": [
+        {
+          "word": " Six",
+          "start": 128.06,
+          "end": 129.46,
+          "probability": 0.868747353553772
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 11124,
+      "start": 131.24,
+      "end": 131.32,
+      "text": " Six",
+      "tokens": [
+        51364,
+        11678,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32805622707713733,
+      "compression_ratio": 1.45,
+      "no_speech_prob": 0.06259497255086899,
+      "words": [
+        {
+          "word": " Six",
+          "start": 130.62,
+          "end": 131.32,
+          "probability": 0.858898401260376
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 11124,
+      "start": 133.88,
+      "end": 135.28,
+      "text": " Four",
+      "tokens": [
+        51514,
+        7451,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32805622707713733,
+      "compression_ratio": 1.45,
+      "no_speech_prob": 0.06259497255086899,
+      "words": [
+        {
+          "word": " Four",
+          "start": 133.88,
+          "end": 135.28,
+          "probability": 0.025538742542266846
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 11124,
+      "start": 135.28,
+      "end": 136.46,
+      "text": " Four",
+      "tokens": [
+        51664,
+        7451,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32805622707713733,
+      "compression_ratio": 1.45,
+      "no_speech_prob": 0.06259497255086899,
+      "words": [
+        {
+          "word": " Four",
+          "start": 135.28,
+          "end": 136.46,
+          "probability": 0.04873580113053322
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 14124,
+      "start": 141.24,
+      "end": 142.08,
+      "text": " Six",
+      "tokens": [
+        50364,
+        11678,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5781053900718689,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.7010736465454102,
+      "words": [
+        {
+          "word": " Six",
+          "start": 141.24,
+          "end": 142.08,
+          "probability": 8.952946518547833e-05
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

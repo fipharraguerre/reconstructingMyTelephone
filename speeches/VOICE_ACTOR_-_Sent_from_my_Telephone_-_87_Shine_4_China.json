@@ -1,0 +1,638 @@
+{
+  "text": " Shine bright! I'm wishing for you You and you and you and you I won't shine for you You or you or you or you Oh Shine on Oh Oh Oh Oh Oh Oh Oh Oh Oh Oh Oh Oh",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.06,
+      "text": " Shine bright!",
+      "tokens": [
+        50364,
+        46460,
+        4730,
+        0,
+        50464
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9873760087149483,
+      "compression_ratio": 0.825,
+      "no_speech_prob": 0.2834991216659546,
+      "words": [
+        {
+          "word": " Shine",
+          "start": 0.0,
+          "end": 0.96,
+          "probability": 0.18070532381534576
+        },
+        {
+          "word": " bright!",
+          "start": 0.96,
+          "end": 2.06,
+          "probability": 0.09377836436033249
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 26.04,
+      "end": 28.04,
+      "text": " I'm wishing for you",
+      "tokens": [
+        51666,
+        286,
+        478,
+        30049,
+        337,
+        291,
+        51766
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9873760087149483,
+      "compression_ratio": 0.825,
+      "no_speech_prob": 0.2834991216659546,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 25.900000000000002,
+          "end": 26.6,
+          "probability": 0.3899955004453659
+        },
+        {
+          "word": " wishing",
+          "start": 26.6,
+          "end": 26.92,
+          "probability": 0.9341970086097717
+        },
+        {
+          "word": " for",
+          "start": 26.92,
+          "end": 27.44,
+          "probability": 0.9836148619651794
+        },
+        {
+          "word": " you",
+          "start": 27.44,
+          "end": 28.04,
+          "probability": 0.985424816608429
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2804,
+      "start": 28.04,
+      "end": 30.4,
+      "text": " You and you and you and you",
+      "tokens": [
+        50364,
+        509,
+        293,
+        291,
+        293,
+        291,
+        293,
+        291,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": [
+        {
+          "word": " You",
+          "start": 28.04,
+          "end": 28.76,
+          "probability": 0.4198742210865021
+        },
+        {
+          "word": " and",
+          "start": 28.76,
+          "end": 29.04,
+          "probability": 0.5521689653396606
+        },
+        {
+          "word": " you",
+          "start": 29.04,
+          "end": 29.64,
+          "probability": 0.9391178488731384
+        },
+        {
+          "word": " and",
+          "start": 29.64,
+          "end": 29.64,
+          "probability": 0.90238356590271
+        },
+        {
+          "word": " you",
+          "start": 29.64,
+          "end": 30.28,
+          "probability": 0.9967212080955505
+        },
+        {
+          "word": " and",
+          "start": 30.28,
+          "end": 30.4,
+          "probability": 0.28311726450920105
+        },
+        {
+          "word": " you",
+          "start": 30.4,
+          "end": 30.4,
+          "probability": 0.9784629940986633
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2804,
+      "start": 30.4,
+      "end": 32.04,
+      "text": " I won't shine for you",
+      "tokens": [
+        50464,
+        286,
+        1582,
+        380,
+        12207,
+        337,
+        291,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": [
+        {
+          "word": " I",
+          "start": 30.4,
+          "end": 30.84,
+          "probability": 0.30210185050964355
+        },
+        {
+          "word": " won't",
+          "start": 30.84,
+          "end": 31.26,
+          "probability": 0.7599412202835083
+        },
+        {
+          "word": " shine",
+          "start": 31.26,
+          "end": 31.4,
+          "probability": 0.9639639258384705
+        },
+        {
+          "word": " for",
+          "start": 31.4,
+          "end": 31.8,
+          "probability": 0.9907070398330688
+        },
+        {
+          "word": " you",
+          "start": 31.8,
+          "end": 32.42,
+          "probability": 0.9901612997055054
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2804,
+      "start": 32.7,
+      "end": 36.42,
+      "text": " You or you or you or you",
+      "tokens": [
+        50564,
+        509,
+        420,
+        291,
+        420,
+        291,
+        420,
+        291,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": [
+        {
+          "word": " You",
+          "start": 32.7,
+          "end": 33.14,
+          "probability": 0.6854348182678223
+        },
+        {
+          "word": " or",
+          "start": 33.14,
+          "end": 33.34,
+          "probability": 0.8073635101318359
+        },
+        {
+          "word": " you",
+          "start": 33.34,
+          "end": 33.86,
+          "probability": 0.9839348196983337
+        },
+        {
+          "word": " or",
+          "start": 33.86,
+          "end": 33.86,
+          "probability": 0.9519298672676086
+        },
+        {
+          "word": " you",
+          "start": 33.86,
+          "end": 34.48,
+          "probability": 0.9971332550048828
+        },
+        {
+          "word": " or",
+          "start": 34.48,
+          "end": 34.48,
+          "probability": 0.6873762011528015
+        },
+        {
+          "word": " you",
+          "start": 34.48,
+          "end": 36.42,
+          "probability": 0.992141604423523
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2804,
+      "start": 36.42,
+      "end": 36.42,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": []
+    },
+    {
+      "id": 6,
+      "seek": 2804,
+      "start": 36.42,
+      "end": 38.04,
+      "text": " Oh",
+      "tokens": [
+        50764,
+        876,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 36.42,
+          "end": 38.04,
+          "probability": 0.06404776871204376
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2804,
+      "start": 38.58,
+      "end": 42.2,
+      "text": " Shine on",
+      "tokens": [
+        50864,
+        46460,
+        322,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": [
+        {
+          "word": " Shine",
+          "start": 38.58,
+          "end": 40.26,
+          "probability": 0.4196006655693054
+        },
+        {
+          "word": " on",
+          "start": 40.26,
+          "end": 42.2,
+          "probability": 0.8155186176300049
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2804,
+      "start": 42.2,
+      "end": 44.38,
+      "text": " Oh",
+      "tokens": [
+        50964,
+        876,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 42.2,
+          "end": 44.38,
+          "probability": 0.11003050953149796
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2804,
+      "start": 47.64,
+      "end": 48.88,
+      "text": " Oh",
+      "tokens": [
+        51064,
+        876,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 47.64,
+          "end": 48.88,
+          "probability": 0.8032997846603394
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2804,
+      "start": 48.88,
+      "end": 50.76,
+      "text": " Oh",
+      "tokens": [
+        51164,
+        876,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 48.88,
+          "end": 50.76,
+          "probability": 0.7636496424674988
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2804,
+      "start": 50.76,
+      "end": 51.94,
+      "text": " Oh",
+      "tokens": [
+        51264,
+        876,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 50.76,
+          "end": 51.94,
+          "probability": 0.8248628973960876
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2804,
+      "start": 51.94,
+      "end": 52.56,
+      "text": " Oh",
+      "tokens": [
+        51364,
+        876,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 51.94,
+          "end": 52.56,
+          "probability": 0.8807064294815063
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2804,
+      "start": 52.56,
+      "end": 52.86,
+      "text": " Oh",
+      "tokens": [
+        51464,
+        876,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 52.56,
+          "end": 52.86,
+          "probability": 0.9093970060348511
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2804,
+      "start": 52.86,
+      "end": 53.78,
+      "text": " Oh",
+      "tokens": [
+        51564,
+        876,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 52.86,
+          "end": 53.78,
+          "probability": 0.9249714612960815
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2804,
+      "start": 53.78,
+      "end": 53.78,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.2988448296823809,
+      "compression_ratio": 2.0545454545454547,
+      "no_speech_prob": 0.6727398037910461,
+      "words": []
+    },
+    {
+      "id": 16,
+      "seek": 5378,
+      "start": 53.78,
+      "end": 56.2,
+      "text": " Oh",
+      "tokens": [
+        50364,
+        876,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08132729679346085,
+      "compression_ratio": 1.0769230769230769,
+      "no_speech_prob": 0.10497719049453735,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 53.78,
+          "end": 56.2,
+          "probability": 0.012476391158998013
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5378,
+      "start": 56.2,
+      "end": 56.68,
+      "text": " Oh",
+      "tokens": [
+        50464,
+        876,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08132729679346085,
+      "compression_ratio": 1.0769230769230769,
+      "no_speech_prob": 0.10497719049453735,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 56.2,
+          "end": 56.68,
+          "probability": 0.19930559396743774
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5378,
+      "start": 56.68,
+      "end": 56.7,
+      "text": " Oh",
+      "tokens": [
+        50564,
+        876,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08132729679346085,
+      "compression_ratio": 1.0769230769230769,
+      "no_speech_prob": 0.10497719049453735,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 56.68,
+          "end": 56.7,
+          "probability": 0.46911782026290894
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5378,
+      "start": 56.7,
+      "end": 58.4,
+      "text": " Oh",
+      "tokens": [
+        50664,
+        876,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08132729679346085,
+      "compression_ratio": 1.0769230769230769,
+      "no_speech_prob": 0.10497719049453735,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 56.7,
+          "end": 58.4,
+          "probability": 0.5618839859962463
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5378,
+      "start": 58.4,
+      "end": 59.54,
+      "text": " Oh",
+      "tokens": [
+        50764,
+        876,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08132729679346085,
+      "compression_ratio": 1.0769230769230769,
+      "no_speech_prob": 0.10497719049453735,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 58.4,
+          "end": 59.54,
+          "probability": 0.6233369708061218
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

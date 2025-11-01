@@ -1,0 +1,664 @@
+{
+  "text": " Hey, I've just listened to Harry Jestrules again for a couple of times actually and I wanted to say it sounds great and I'm happy with it and I'm happy we got to collab after the show and even though despite the blip we both felt and I can't wait for it to be released and I can't wait to hear Kofi's version as well because you have to send it to me before as soon as you have it.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 4.979999999999999,
+      "end": 16.2,
+      "text": " Hey, I've just listened to Harry Jestrules again for a couple of times actually and I",
+      "tokens": [
+        50364,
+        1911,
+        11,
+        286,
+        600,
+        445,
+        13207,
+        281,
+        9378,
+        24918,
+        81,
+        3473,
+        797,
+        337,
+        257,
+        1916,
+        295,
+        1413,
+        767,
+        293,
+        286,
+        51162
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45834679299212516,
+      "compression_ratio": 1.4146341463414633,
+      "no_speech_prob": 0.29170334339141846,
+      "words": [
+        {
+          "word": " Hey,",
+          "start": 4.979999999999999,
+          "end": 5.74,
+          "probability": 0.17017309367656708
+        },
+        {
+          "word": " I've",
+          "start": 7.34,
+          "end": 7.52,
+          "probability": 0.7394864857196808
+        },
+        {
+          "word": " just",
+          "start": 7.52,
+          "end": 8.42,
+          "probability": 0.9880800843238831
+        },
+        {
+          "word": " listened",
+          "start": 8.42,
+          "end": 8.88,
+          "probability": 0.9741688370704651
+        },
+        {
+          "word": " to",
+          "start": 8.88,
+          "end": 9.96,
+          "probability": 0.9975529313087463
+        },
+        {
+          "word": " Harry",
+          "start": 9.96,
+          "end": 10.2,
+          "probability": 0.5018293857574463
+        },
+        {
+          "word": " Jestrules",
+          "start": 10.2,
+          "end": 10.94,
+          "probability": 0.27331848442554474
+        },
+        {
+          "word": " again",
+          "start": 10.94,
+          "end": 12.0,
+          "probability": 0.8432744145393372
+        },
+        {
+          "word": " for",
+          "start": 12.0,
+          "end": 13.16,
+          "probability": 0.5408812761306763
+        },
+        {
+          "word": " a",
+          "start": 13.16,
+          "end": 13.32,
+          "probability": 0.9872335195541382
+        },
+        {
+          "word": " couple",
+          "start": 13.32,
+          "end": 13.54,
+          "probability": 0.9947898387908936
+        },
+        {
+          "word": " of",
+          "start": 13.54,
+          "end": 13.74,
+          "probability": 0.9359255433082581
+        },
+        {
+          "word": " times",
+          "start": 13.74,
+          "end": 14.02,
+          "probability": 0.9914174675941467
+        },
+        {
+          "word": " actually",
+          "start": 14.02,
+          "end": 14.66,
+          "probability": 0.7322202324867249
+        },
+        {
+          "word": " and",
+          "start": 14.66,
+          "end": 15.98,
+          "probability": 0.42765378952026367
+        },
+        {
+          "word": " I",
+          "start": 15.98,
+          "end": 16.2,
+          "probability": 0.8495492339134216
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 16.2,
+      "end": 25.32,
+      "text": " wanted to say it sounds great and I'm happy with it and I'm happy we got to collab after",
+      "tokens": [
+        51162,
+        1415,
+        281,
+        584,
+        309,
+        3263,
+        869,
+        293,
+        286,
+        478,
+        2055,
+        365,
+        309,
+        293,
+        286,
+        478,
+        2055,
+        321,
+        658,
+        281,
+        44228,
+        934,
+        51618
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45834679299212516,
+      "compression_ratio": 1.4146341463414633,
+      "no_speech_prob": 0.29170334339141846,
+      "words": [
+        {
+          "word": " wanted",
+          "start": 16.2,
+          "end": 16.3,
+          "probability": 0.5975164175033569
+        },
+        {
+          "word": " to",
+          "start": 16.3,
+          "end": 16.54,
+          "probability": 0.9949039220809937
+        },
+        {
+          "word": " say",
+          "start": 16.54,
+          "end": 16.9,
+          "probability": 0.9969011545181274
+        },
+        {
+          "word": " it",
+          "start": 16.9,
+          "end": 17.66,
+          "probability": 0.6873481869697571
+        },
+        {
+          "word": " sounds",
+          "start": 17.66,
+          "end": 18.02,
+          "probability": 0.972421407699585
+        },
+        {
+          "word": " great",
+          "start": 18.02,
+          "end": 18.84,
+          "probability": 0.9983192086219788
+        },
+        {
+          "word": " and",
+          "start": 18.84,
+          "end": 19.52,
+          "probability": 0.7904307842254639
+        },
+        {
+          "word": " I'm",
+          "start": 19.52,
+          "end": 19.78,
+          "probability": 0.9815194308757782
+        },
+        {
+          "word": " happy",
+          "start": 19.78,
+          "end": 20.08,
+          "probability": 0.9961646795272827
+        },
+        {
+          "word": " with",
+          "start": 20.08,
+          "end": 20.32,
+          "probability": 0.7131344676017761
+        },
+        {
+          "word": " it",
+          "start": 20.32,
+          "end": 21.18,
+          "probability": 0.9978970289230347
+        },
+        {
+          "word": " and",
+          "start": 21.18,
+          "end": 22.72,
+          "probability": 0.49511438608169556
+        },
+        {
+          "word": " I'm",
+          "start": 22.72,
+          "end": 23.1,
+          "probability": 0.9710798263549805
+        },
+        {
+          "word": " happy",
+          "start": 23.1,
+          "end": 23.36,
+          "probability": 0.9977479577064514
+        },
+        {
+          "word": " we",
+          "start": 23.36,
+          "end": 23.58,
+          "probability": 0.9320392608642578
+        },
+        {
+          "word": " got",
+          "start": 23.58,
+          "end": 23.86,
+          "probability": 0.9163206815719604
+        },
+        {
+          "word": " to",
+          "start": 23.86,
+          "end": 24.26,
+          "probability": 0.9961051940917969
+        },
+        {
+          "word": " collab",
+          "start": 24.26,
+          "end": 24.64,
+          "probability": 0.9831690788269043
+        },
+        {
+          "word": " after",
+          "start": 24.64,
+          "end": 25.32,
+          "probability": 0.9347796440124512
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2532,
+      "start": 25.32,
+      "end": 37.42,
+      "text": " the show and even though despite the blip we both felt and I can't wait for it to be",
+      "tokens": [
+        50364,
+        264,
+        855,
+        293,
+        754,
+        1673,
+        7228,
+        264,
+        888,
+        647,
+        321,
+        1293,
+        2762,
+        293,
+        286,
+        393,
+        380,
+        1699,
+        337,
+        309,
+        281,
+        312,
+        50960
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4306688147076106,
+      "compression_ratio": 1.525925925925926,
+      "no_speech_prob": 0.9049469232559204,
+      "words": [
+        {
+          "word": " the",
+          "start": 25.32,
+          "end": 25.6,
+          "probability": 0.0032917819917201996
+        },
+        {
+          "word": " show",
+          "start": 25.6,
+          "end": 25.6,
+          "probability": 0.007034434471279383
+        },
+        {
+          "word": " and",
+          "start": 25.6,
+          "end": 27.02,
+          "probability": 0.33081990480422974
+        },
+        {
+          "word": " even",
+          "start": 27.02,
+          "end": 28.3,
+          "probability": 0.6424193382263184
+        },
+        {
+          "word": " though",
+          "start": 28.3,
+          "end": 29.54,
+          "probability": 0.9703940153121948
+        },
+        {
+          "word": " despite",
+          "start": 29.54,
+          "end": 30.54,
+          "probability": 0.4705006182193756
+        },
+        {
+          "word": " the",
+          "start": 30.54,
+          "end": 31.06,
+          "probability": 0.9764096736907959
+        },
+        {
+          "word": " blip",
+          "start": 31.06,
+          "end": 32.42,
+          "probability": 0.9477767646312714
+        },
+        {
+          "word": " we",
+          "start": 32.42,
+          "end": 33.12,
+          "probability": 0.6800163984298706
+        },
+        {
+          "word": " both",
+          "start": 33.12,
+          "end": 33.56,
+          "probability": 0.984131395816803
+        },
+        {
+          "word": " felt",
+          "start": 33.56,
+          "end": 34.2,
+          "probability": 0.9286357164382935
+        },
+        {
+          "word": " and",
+          "start": 34.2,
+          "end": 35.34,
+          "probability": 0.4917573928833008
+        },
+        {
+          "word": " I",
+          "start": 35.34,
+          "end": 35.68,
+          "probability": 0.8710270524024963
+        },
+        {
+          "word": " can't",
+          "start": 35.68,
+          "end": 36.0,
+          "probability": 0.9732368886470795
+        },
+        {
+          "word": " wait",
+          "start": 36.0,
+          "end": 36.34,
+          "probability": 0.9926931858062744
+        },
+        {
+          "word": " for",
+          "start": 36.34,
+          "end": 36.58,
+          "probability": 0.987209677696228
+        },
+        {
+          "word": " it",
+          "start": 36.58,
+          "end": 36.82,
+          "probability": 0.9821217060089111
+        },
+        {
+          "word": " to",
+          "start": 36.82,
+          "end": 37.16,
+          "probability": 0.9901596903800964
+        },
+        {
+          "word": " be",
+          "start": 37.16,
+          "end": 37.42,
+          "probability": 0.9690989851951599
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2532,
+      "start": 37.42,
+      "end": 45.24,
+      "text": " released and I can't wait to hear Kofi's version as well because you have to send it to me before",
+      "tokens": [
+        50960,
+        4736,
+        293,
+        286,
+        393,
+        380,
+        1699,
+        281,
+        1568,
+        591,
+        2670,
+        72,
+        311,
+        3037,
+        382,
+        731,
+        570,
+        291,
+        362,
+        281,
+        2845,
+        309,
+        281,
+        385,
+        949,
+        51360
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4306688147076106,
+      "compression_ratio": 1.525925925925926,
+      "no_speech_prob": 0.9049469232559204,
+      "words": [
+        {
+          "word": " released",
+          "start": 37.42,
+          "end": 38.24,
+          "probability": 0.9897115230560303
+        },
+        {
+          "word": " and",
+          "start": 38.24,
+          "end": 39.62,
+          "probability": 0.4928572475910187
+        },
+        {
+          "word": " I",
+          "start": 39.62,
+          "end": 39.7,
+          "probability": 0.9684019088745117
+        },
+        {
+          "word": " can't",
+          "start": 39.7,
+          "end": 39.98,
+          "probability": 0.9954675137996674
+        },
+        {
+          "word": " wait",
+          "start": 39.98,
+          "end": 40.2,
+          "probability": 0.993503749370575
+        },
+        {
+          "word": " to",
+          "start": 40.2,
+          "end": 40.32,
+          "probability": 0.9698338508605957
+        },
+        {
+          "word": " hear",
+          "start": 40.32,
+          "end": 40.58,
+          "probability": 0.9969050288200378
+        },
+        {
+          "word": " Kofi's",
+          "start": 40.58,
+          "end": 41.18,
+          "probability": 0.7620139792561531
+        },
+        {
+          "word": " version",
+          "start": 41.18,
+          "end": 41.54,
+          "probability": 0.9297811388969421
+        },
+        {
+          "word": " as",
+          "start": 41.54,
+          "end": 41.88,
+          "probability": 0.9751918315887451
+        },
+        {
+          "word": " well",
+          "start": 41.88,
+          "end": 42.68,
+          "probability": 0.9472578763961792
+        },
+        {
+          "word": " because",
+          "start": 42.68,
+          "end": 43.16,
+          "probability": 0.23885266482830048
+        },
+        {
+          "word": " you",
+          "start": 43.16,
+          "end": 43.22,
+          "probability": 0.8207124471664429
+        },
+        {
+          "word": " have",
+          "start": 43.22,
+          "end": 43.42,
+          "probability": 0.9383689165115356
+        },
+        {
+          "word": " to",
+          "start": 43.42,
+          "end": 44.02,
+          "probability": 0.9931095838546753
+        },
+        {
+          "word": " send",
+          "start": 44.02,
+          "end": 44.26,
+          "probability": 0.9830073118209839
+        },
+        {
+          "word": " it",
+          "start": 44.26,
+          "end": 44.48,
+          "probability": 0.9912300109863281
+        },
+        {
+          "word": " to",
+          "start": 44.48,
+          "end": 44.64,
+          "probability": 0.9910829067230225
+        },
+        {
+          "word": " me",
+          "start": 44.64,
+          "end": 45.18,
+          "probability": 0.99808669090271
+        },
+        {
+          "word": " before",
+          "start": 45.18,
+          "end": 45.519999999999996,
+          "probability": 0.8415727615356445
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2532,
+      "start": 46.34,
+      "end": 47.94,
+      "text": " as soon as you have it.",
+      "tokens": [
+        51360,
+        382,
+        2321,
+        382,
+        291,
+        362,
+        309,
+        13,
+        51560
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4306688147076106,
+      "compression_ratio": 1.525925925925926,
+      "no_speech_prob": 0.9049469232559204,
+      "words": [
+        {
+          "word": " as",
+          "start": 46.34,
+          "end": 47.02,
+          "probability": 0.40301376581192017
+        },
+        {
+          "word": " soon",
+          "start": 47.02,
+          "end": 47.22,
+          "probability": 0.9940939545631409
+        },
+        {
+          "word": " as",
+          "start": 47.22,
+          "end": 47.34,
+          "probability": 0.9944327473640442
+        },
+        {
+          "word": " you",
+          "start": 47.34,
+          "end": 47.5,
+          "probability": 0.9881452322006226
+        },
+        {
+          "word": " have",
+          "start": 47.5,
+          "end": 47.64,
+          "probability": 0.9776845574378967
+        },
+        {
+          "word": " it.",
+          "start": 47.64,
+          "end": 47.94,
+          "probability": 0.9911297559738159
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

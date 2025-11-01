@@ -1,0 +1,3023 @@
+{
+  "text": " I dreamt that I'm visiting you at your house. I don't know how I got in. There was a long corridor. I walked through it. It led to the kitchen, which was narrow, like a continuation of the corridor, with no windows. Your house had no windows. It was messy, but very clean, and everything looked brand new, unused. It was like a film set or a showroom. And when I looked in the sink, I was in the kitchen. When I looked in the sink, I saw a pile of dishes, but they weren't dirty. They had a bunch of plastic, fake plastic fruit and veg, and even fake meat, like a burger or something. I could smell the newness of the material, as if it was fresh from a factory. It was all fake, and I heard someone talking, so I kept walking. I was looking for you. The kitchen led to the only room in the house, a very large room, also with no windows. The walls were padded, like a recording studio, but I didn't see any recording equipment. I saw the back of you. You didn't notice me standing there. You were watching a little screen. It was a film. They were watching a film. I wasn't sure I was supposed to be there. You were completely absorbed in that film. I was trying to see what you were watching, and when I came closer, I saw a figure that looked kind of familiar. I was trying to figure out where I recognized it from. I could suddenly hear her voice very clearly, but I couldn't make out what she was saying. Then I realized it was me. It was me. She sounded exactly like me. At that point, you turned around, and you looked at me. It was you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 35.96000000000001,
+      "end": 41.38,
+      "text": " I dreamt that I'm visiting you at your house.",
+      "tokens": [
+        50364,
+        286,
+        3055,
+        83,
+        300,
+        286,
+        478,
+        11700,
+        291,
+        412,
+        428,
+        1782,
+        13,
+        51004
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36383179255894255,
+      "compression_ratio": 1.188118811881188,
+      "no_speech_prob": 0.3524506390094757,
+      "words": [
+        {
+          "word": " I",
+          "start": 35.96000000000001,
+          "end": 36.980000000000004,
+          "probability": 0.45491182804107666
+        },
+        {
+          "word": " dreamt",
+          "start": 36.980000000000004,
+          "end": 38.0,
+          "probability": 0.8881058990955353
+        },
+        {
+          "word": " that",
+          "start": 38.0,
+          "end": 38.3,
+          "probability": 0.9755105972290039
+        },
+        {
+          "word": " I'm",
+          "start": 38.3,
+          "end": 39.02,
+          "probability": 0.7794719934463501
+        },
+        {
+          "word": " visiting",
+          "start": 39.02,
+          "end": 39.62,
+          "probability": 0.9864968657493591
+        },
+        {
+          "word": " you",
+          "start": 39.62,
+          "end": 40.04,
+          "probability": 0.9684439301490784
+        },
+        {
+          "word": " at",
+          "start": 40.04,
+          "end": 40.36,
+          "probability": 0.9702028036117554
+        },
+        {
+          "word": " your",
+          "start": 40.36,
+          "end": 40.58,
+          "probability": 0.9978281855583191
+        },
+        {
+          "word": " house.",
+          "start": 40.58,
+          "end": 41.38,
+          "probability": 0.9992645382881165
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 42.68,
+      "end": 45.92,
+      "text": " I don't know how I got in.",
+      "tokens": [
+        51004,
+        286,
+        500,
+        380,
+        458,
+        577,
+        286,
+        658,
+        294,
+        13,
+        51316
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36383179255894255,
+      "compression_ratio": 1.188118811881188,
+      "no_speech_prob": 0.3524506390094757,
+      "words": [
+        {
+          "word": " I",
+          "start": 42.68,
+          "end": 43.08,
+          "probability": 0.9962741136550903
+        },
+        {
+          "word": " don't",
+          "start": 43.08,
+          "end": 43.34,
+          "probability": 0.9860320389270782
+        },
+        {
+          "word": " know",
+          "start": 43.34,
+          "end": 43.56,
+          "probability": 0.9982155561447144
+        },
+        {
+          "word": " how",
+          "start": 43.56,
+          "end": 43.86,
+          "probability": 0.9978581070899963
+        },
+        {
+          "word": " I",
+          "start": 43.86,
+          "end": 44.06,
+          "probability": 0.9877276420593262
+        },
+        {
+          "word": " got",
+          "start": 44.06,
+          "end": 44.4,
+          "probability": 0.9982484579086304
+        },
+        {
+          "word": " in.",
+          "start": 44.4,
+          "end": 45.92,
+          "probability": 0.9833086133003235
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 48.08,
+      "end": 50.66,
+      "text": " There was a long corridor.",
+      "tokens": [
+        51316,
+        821,
+        390,
+        257,
+        938,
+        25602,
+        13,
+        51482
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36383179255894255,
+      "compression_ratio": 1.188118811881188,
+      "no_speech_prob": 0.3524506390094757,
+      "words": [
+        {
+          "word": " There",
+          "start": 48.08,
+          "end": 48.46,
+          "probability": 0.9623934030532837
+        },
+        {
+          "word": " was",
+          "start": 48.46,
+          "end": 49.38,
+          "probability": 0.8985351920127869
+        },
+        {
+          "word": " a",
+          "start": 49.38,
+          "end": 49.66,
+          "probability": 0.992790937423706
+        },
+        {
+          "word": " long",
+          "start": 49.66,
+          "end": 49.98,
+          "probability": 0.9970651268959045
+        },
+        {
+          "word": " corridor.",
+          "start": 49.98,
+          "end": 50.66,
+          "probability": 0.9976972937583923
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 52.28,
+      "end": 54.6,
+      "text": " I walked through it.",
+      "tokens": [
+        51482,
+        286,
+        7628,
+        807,
+        309,
+        13,
+        51594
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36383179255894255,
+      "compression_ratio": 1.188118811881188,
+      "no_speech_prob": 0.3524506390094757,
+      "words": [
+        {
+          "word": " I",
+          "start": 52.28,
+          "end": 52.7,
+          "probability": 0.9980069994926453
+        },
+        {
+          "word": " walked",
+          "start": 52.7,
+          "end": 53.32,
+          "probability": 0.9811022877693176
+        },
+        {
+          "word": " through",
+          "start": 53.32,
+          "end": 53.98,
+          "probability": 0.995836615562439
+        },
+        {
+          "word": " it.",
+          "start": 53.98,
+          "end": 54.6,
+          "probability": 0.9944486618041992
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 5460,
+      "start": 54.6,
+      "end": 62.42,
+      "text": " It led to the kitchen, which was narrow,",
+      "tokens": [
+        50384,
+        467,
+        4684,
+        281,
+        264,
+        6525,
+        11,
+        597,
+        390,
+        9432,
+        11,
+        50982
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40845236907134186,
+      "compression_ratio": 1.2604166666666667,
+      "no_speech_prob": 0.016928473487496376,
+      "words": [
+        {
+          "word": " It",
+          "start": 54.6,
+          "end": 56.14,
+          "probability": 0.5010749101638794
+        },
+        {
+          "word": " led",
+          "start": 56.14,
+          "end": 56.34,
+          "probability": 0.7920699119567871
+        },
+        {
+          "word": " to",
+          "start": 56.34,
+          "end": 56.62,
+          "probability": 0.9957083463668823
+        },
+        {
+          "word": " the",
+          "start": 56.62,
+          "end": 56.88,
+          "probability": 0.9931241869926453
+        },
+        {
+          "word": " kitchen,",
+          "start": 56.88,
+          "end": 57.54,
+          "probability": 0.9965183734893799
+        },
+        {
+          "word": " which",
+          "start": 58.74,
+          "end": 59.18,
+          "probability": 0.9911511540412903
+        },
+        {
+          "word": " was",
+          "start": 59.18,
+          "end": 60.68,
+          "probability": 0.9985671043395996
+        },
+        {
+          "word": " narrow,",
+          "start": 60.68,
+          "end": 62.42,
+          "probability": 0.7165786027908325
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 5460,
+      "start": 67.2,
+      "end": 71.5,
+      "text": " like a continuation of the corridor,",
+      "tokens": [
+        50982,
+        411,
+        257,
+        29357,
+        295,
+        264,
+        25602,
+        11,
+        51352
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40845236907134186,
+      "compression_ratio": 1.2604166666666667,
+      "no_speech_prob": 0.016928473487496376,
+      "words": [
+        {
+          "word": " like",
+          "start": 67.2,
+          "end": 67.82,
+          "probability": 0.9640377163887024
+        },
+        {
+          "word": " a",
+          "start": 67.82,
+          "end": 69.38,
+          "probability": 0.9623872637748718
+        },
+        {
+          "word": " continuation",
+          "start": 69.38,
+          "end": 70.14,
+          "probability": 0.9923936128616333
+        },
+        {
+          "word": " of",
+          "start": 70.14,
+          "end": 70.6,
+          "probability": 0.9982933402061462
+        },
+        {
+          "word": " the",
+          "start": 70.6,
+          "end": 70.82,
+          "probability": 0.9323156476020813
+        },
+        {
+          "word": " corridor,",
+          "start": 70.82,
+          "end": 71.5,
+          "probability": 0.9829223155975342
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 5460,
+      "start": 74.36,
+      "end": 76.54,
+      "text": " with no windows.",
+      "tokens": [
+        51352,
+        365,
+        572,
+        9309,
+        13,
+        51506
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40845236907134186,
+      "compression_ratio": 1.2604166666666667,
+      "no_speech_prob": 0.016928473487496376,
+      "words": [
+        {
+          "word": " with",
+          "start": 74.36,
+          "end": 75.18,
+          "probability": 0.9872867465019226
+        },
+        {
+          "word": " no",
+          "start": 75.18,
+          "end": 75.6,
+          "probability": 0.9980790615081787
+        },
+        {
+          "word": " windows.",
+          "start": 75.6,
+          "end": 76.54,
+          "probability": 0.9972922205924988
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5460,
+      "start": 77.56,
+      "end": 80.16,
+      "text": " Your house had no windows.",
+      "tokens": [
+        51506,
+        2260,
+        1782,
+        632,
+        572,
+        9309,
+        13,
+        51784
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40845236907134186,
+      "compression_ratio": 1.2604166666666667,
+      "no_speech_prob": 0.016928473487496376,
+      "words": [
+        {
+          "word": " Your",
+          "start": 77.56,
+          "end": 77.98,
+          "probability": 0.976619303226471
+        },
+        {
+          "word": " house",
+          "start": 77.98,
+          "end": 78.48,
+          "probability": 0.9917150139808655
+        },
+        {
+          "word": " had",
+          "start": 78.48,
+          "end": 78.98,
+          "probability": 0.9950438737869263
+        },
+        {
+          "word": " no",
+          "start": 78.98,
+          "end": 79.36,
+          "probability": 0.9976403713226318
+        },
+        {
+          "word": " windows.",
+          "start": 79.36,
+          "end": 80.16,
+          "probability": 0.9988825917243958
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 8016,
+      "start": 81.91999999999999,
+      "end": 87.7,
+      "text": " It was messy, but very clean,",
+      "tokens": [
+        50414,
+        467,
+        390,
+        16191,
+        11,
+        457,
+        588,
+        2541,
+        11,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3780401865641276,
+      "compression_ratio": 1.275229357798165,
+      "no_speech_prob": 0.0055422489531338215,
+      "words": [
+        {
+          "word": " It",
+          "start": 81.91999999999999,
+          "end": 83.32,
+          "probability": 0.774935781955719
+        },
+        {
+          "word": " was",
+          "start": 83.32,
+          "end": 83.78,
+          "probability": 0.9969030022621155
+        },
+        {
+          "word": " messy,",
+          "start": 83.78,
+          "end": 84.62,
+          "probability": 0.9735291004180908
+        },
+        {
+          "word": " but",
+          "start": 85.84,
+          "end": 85.84,
+          "probability": 0.915365993976593
+        },
+        {
+          "word": " very",
+          "start": 85.84,
+          "end": 86.76,
+          "probability": 0.46717846393585205
+        },
+        {
+          "word": " clean,",
+          "start": 86.76,
+          "end": 87.7,
+          "probability": 0.9783137440681458
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 8016,
+      "start": 88.88,
+      "end": 93.54,
+      "text": " and everything looked brand new, unused.",
+      "tokens": [
+        50764,
+        293,
+        1203,
+        2956,
+        3360,
+        777,
+        11,
+        44383,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3780401865641276,
+      "compression_ratio": 1.275229357798165,
+      "no_speech_prob": 0.0055422489531338215,
+      "words": [
+        {
+          "word": " and",
+          "start": 88.88,
+          "end": 88.88,
+          "probability": 0.9496632218360901
+        },
+        {
+          "word": " everything",
+          "start": 88.88,
+          "end": 89.36,
+          "probability": 0.9948452711105347
+        },
+        {
+          "word": " looked",
+          "start": 89.36,
+          "end": 89.94,
+          "probability": 0.9808157086372375
+        },
+        {
+          "word": " brand",
+          "start": 89.94,
+          "end": 90.66,
+          "probability": 0.9947007894515991
+        },
+        {
+          "word": " new,",
+          "start": 90.66,
+          "end": 91.9,
+          "probability": 0.9325524568557739
+        },
+        {
+          "word": " unused.",
+          "start": 92.7,
+          "end": 93.54,
+          "probability": 0.9932344555854797
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 8016,
+      "start": 95.44,
+      "end": 101.8,
+      "text": " It was like a film set or a showroom.",
+      "tokens": [
+        51064,
+        467,
+        390,
+        411,
+        257,
+        2007,
+        992,
+        420,
+        257,
+        855,
+        2861,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3780401865641276,
+      "compression_ratio": 1.275229357798165,
+      "no_speech_prob": 0.0055422489531338215,
+      "words": [
+        {
+          "word": " It",
+          "start": 95.44,
+          "end": 95.92,
+          "probability": 0.9863911867141724
+        },
+        {
+          "word": " was",
+          "start": 95.92,
+          "end": 96.22,
+          "probability": 0.9962278604507446
+        },
+        {
+          "word": " like",
+          "start": 96.22,
+          "end": 96.88,
+          "probability": 0.9780575633049011
+        },
+        {
+          "word": " a",
+          "start": 96.88,
+          "end": 97.38,
+          "probability": 0.9715489149093628
+        },
+        {
+          "word": " film",
+          "start": 97.38,
+          "end": 97.84,
+          "probability": 0.9910258650779724
+        },
+        {
+          "word": " set",
+          "start": 97.84,
+          "end": 98.54,
+          "probability": 0.9871819019317627
+        },
+        {
+          "word": " or",
+          "start": 98.54,
+          "end": 100.18,
+          "probability": 0.5264807343482971
+        },
+        {
+          "word": " a",
+          "start": 100.18,
+          "end": 100.7,
+          "probability": 0.9168470501899719
+        },
+        {
+          "word": " showroom.",
+          "start": 100.7,
+          "end": 101.8,
+          "probability": 0.9205125868320465
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 8016,
+      "start": 103.72,
+      "end": 107.48,
+      "text": " And when I looked in the sink,",
+      "tokens": [
+        51464,
+        400,
+        562,
+        286,
+        2956,
+        294,
+        264,
+        9500,
+        11,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3780401865641276,
+      "compression_ratio": 1.275229357798165,
+      "no_speech_prob": 0.0055422489531338215,
+      "words": [
+        {
+          "word": " And",
+          "start": 103.72,
+          "end": 104.76,
+          "probability": 0.8542149066925049
+        },
+        {
+          "word": " when",
+          "start": 104.76,
+          "end": 105.26,
+          "probability": 0.8920620679855347
+        },
+        {
+          "word": " I",
+          "start": 105.26,
+          "end": 105.66,
+          "probability": 0.9757214188575745
+        },
+        {
+          "word": " looked",
+          "start": 105.66,
+          "end": 106.22,
+          "probability": 0.9889517426490784
+        },
+        {
+          "word": " in",
+          "start": 106.22,
+          "end": 106.74,
+          "probability": 0.990471601486206
+        },
+        {
+          "word": " the",
+          "start": 106.74,
+          "end": 106.88,
+          "probability": 0.7215696573257446
+        },
+        {
+          "word": " sink,",
+          "start": 106.88,
+          "end": 107.48,
+          "probability": 0.997637152671814
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 10748,
+      "start": 107.48,
+      "end": 109.78,
+      "text": " I was in the kitchen.",
+      "tokens": [
+        50364,
+        286,
+        390,
+        294,
+        264,
+        6525,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19024811119868837,
+      "compression_ratio": 1.3622047244094488,
+      "no_speech_prob": 0.007153922691941261,
+      "words": [
+        {
+          "word": " I",
+          "start": 107.48,
+          "end": 108.44,
+          "probability": 0.6805728077888489
+        },
+        {
+          "word": " was",
+          "start": 108.44,
+          "end": 108.64,
+          "probability": 0.9652138352394104
+        },
+        {
+          "word": " in",
+          "start": 108.64,
+          "end": 108.86,
+          "probability": 0.9939991235733032
+        },
+        {
+          "word": " the",
+          "start": 108.86,
+          "end": 109.12,
+          "probability": 0.9944551587104797
+        },
+        {
+          "word": " kitchen.",
+          "start": 109.12,
+          "end": 109.78,
+          "probability": 0.9981790781021118
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 10748,
+      "start": 111.24,
+      "end": 115.78,
+      "text": " When I looked in the sink, I saw a pile of dishes,",
+      "tokens": [
+        50514,
+        1133,
+        286,
+        2956,
+        294,
+        264,
+        9500,
+        11,
+        286,
+        1866,
+        257,
+        14375,
+        295,
+        10814,
+        11,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19024811119868837,
+      "compression_ratio": 1.3622047244094488,
+      "no_speech_prob": 0.007153922691941261,
+      "words": [
+        {
+          "word": " When",
+          "start": 111.24,
+          "end": 111.6,
+          "probability": 0.9766321778297424
+        },
+        {
+          "word": " I",
+          "start": 111.6,
+          "end": 111.88,
+          "probability": 0.9857386350631714
+        },
+        {
+          "word": " looked",
+          "start": 111.88,
+          "end": 112.18,
+          "probability": 0.995932400226593
+        },
+        {
+          "word": " in",
+          "start": 112.18,
+          "end": 112.62,
+          "probability": 0.9931430816650391
+        },
+        {
+          "word": " the",
+          "start": 112.62,
+          "end": 112.9,
+          "probability": 0.9952492713928223
+        },
+        {
+          "word": " sink,",
+          "start": 112.9,
+          "end": 113.42,
+          "probability": 0.9983742237091064
+        },
+        {
+          "word": " I",
+          "start": 113.74,
+          "end": 114.04,
+          "probability": 0.9886060357093811
+        },
+        {
+          "word": " saw",
+          "start": 114.04,
+          "end": 114.3,
+          "probability": 0.9991230368614197
+        },
+        {
+          "word": " a",
+          "start": 114.3,
+          "end": 114.4,
+          "probability": 0.6028843522071838
+        },
+        {
+          "word": " pile",
+          "start": 114.4,
+          "end": 114.78,
+          "probability": 0.9987433552742004
+        },
+        {
+          "word": " of",
+          "start": 114.78,
+          "end": 115.16,
+          "probability": 0.9988589286804199
+        },
+        {
+          "word": " dishes,",
+          "start": 115.16,
+          "end": 115.78,
+          "probability": 0.9989172220230103
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 10748,
+      "start": 116.92,
+      "end": 120.18,
+      "text": " but they weren't dirty.",
+      "tokens": [
+        50814,
+        457,
+        436,
+        4999,
+        380,
+        9360,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19024811119868837,
+      "compression_ratio": 1.3622047244094488,
+      "no_speech_prob": 0.007153922691941261,
+      "words": [
+        {
+          "word": " but",
+          "start": 116.92,
+          "end": 117.66,
+          "probability": 0.9899340271949768
+        },
+        {
+          "word": " they",
+          "start": 117.66,
+          "end": 118.96,
+          "probability": 0.9149268269538879
+        },
+        {
+          "word": " weren't",
+          "start": 118.96,
+          "end": 119.42,
+          "probability": 0.9887241721153259
+        },
+        {
+          "word": " dirty.",
+          "start": 119.42,
+          "end": 120.18,
+          "probability": 0.9990332126617432
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 10748,
+      "start": 120.76,
+      "end": 126.22,
+      "text": " They had a bunch of plastic,",
+      "tokens": [
+        51014,
+        814,
+        632,
+        257,
+        3840,
+        295,
+        5900,
+        11,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19024811119868837,
+      "compression_ratio": 1.3622047244094488,
+      "no_speech_prob": 0.007153922691941261,
+      "words": [
+        {
+          "word": " They",
+          "start": 120.76,
+          "end": 121.0,
+          "probability": 0.9864519834518433
+        },
+        {
+          "word": " had",
+          "start": 121.0,
+          "end": 121.98,
+          "probability": 0.9986985921859741
+        },
+        {
+          "word": " a",
+          "start": 121.98,
+          "end": 123.92,
+          "probability": 0.8162956237792969
+        },
+        {
+          "word": " bunch",
+          "start": 123.92,
+          "end": 124.3,
+          "probability": 0.9874035120010376
+        },
+        {
+          "word": " of",
+          "start": 124.3,
+          "end": 125.06,
+          "probability": 0.9991199374198914
+        },
+        {
+          "word": " plastic,",
+          "start": 125.06,
+          "end": 126.22,
+          "probability": 0.9836853742599487
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 10748,
+      "start": 127.38,
+      "end": 130.42,
+      "text": " fake plastic fruit and veg,",
+      "tokens": [
+        51314,
+        7592,
+        5900,
+        6773,
+        293,
+        24366,
+        11,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19024811119868837,
+      "compression_ratio": 1.3622047244094488,
+      "no_speech_prob": 0.007153922691941261,
+      "words": [
+        {
+          "word": " fake",
+          "start": 127.38,
+          "end": 127.72,
+          "probability": 0.9941721558570862
+        },
+        {
+          "word": " plastic",
+          "start": 127.72,
+          "end": 128.58,
+          "probability": 0.9905267953872681
+        },
+        {
+          "word": " fruit",
+          "start": 128.58,
+          "end": 129.22,
+          "probability": 0.6163036823272705
+        },
+        {
+          "word": " and",
+          "start": 129.22,
+          "end": 129.7,
+          "probability": 0.9829958081245422
+        },
+        {
+          "word": " veg,",
+          "start": 129.7,
+          "end": 130.42,
+          "probability": 0.9886151552200317
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 10748,
+      "start": 132.04,
+      "end": 135.26,
+      "text": " and even fake meat,",
+      "tokens": [
+        51564,
+        293,
+        754,
+        7592,
+        4615,
+        11,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19024811119868837,
+      "compression_ratio": 1.3622047244094488,
+      "no_speech_prob": 0.007153922691941261,
+      "words": [
+        {
+          "word": " and",
+          "start": 132.04,
+          "end": 132.96,
+          "probability": 0.9508563876152039
+        },
+        {
+          "word": " even",
+          "start": 132.96,
+          "end": 133.82,
+          "probability": 0.9865787625312805
+        },
+        {
+          "word": " fake",
+          "start": 133.82,
+          "end": 134.28,
+          "probability": 0.9915401339530945
+        },
+        {
+          "word": " meat,",
+          "start": 134.28,
+          "end": 135.26,
+          "probability": 0.9876354336738586
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 13526,
+      "start": 135.26,
+      "end": 138.04,
+      "text": " like a burger or something.",
+      "tokens": [
+        50364,
+        411,
+        257,
+        16393,
+        420,
+        746,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15133543881503017,
+      "compression_ratio": 1.36,
+      "no_speech_prob": 0.0047673615626990795,
+      "words": [
+        {
+          "word": " like",
+          "start": 135.26,
+          "end": 136.36,
+          "probability": 0.38881635665893555
+        },
+        {
+          "word": " a",
+          "start": 136.36,
+          "end": 136.7,
+          "probability": 0.9793325662612915
+        },
+        {
+          "word": " burger",
+          "start": 136.7,
+          "end": 137.18,
+          "probability": 0.8959516286849976
+        },
+        {
+          "word": " or",
+          "start": 137.18,
+          "end": 137.54,
+          "probability": 0.8563485741615295
+        },
+        {
+          "word": " something.",
+          "start": 137.54,
+          "end": 138.04,
+          "probability": 0.9915217161178589
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 13526,
+      "start": 138.56,
+      "end": 142.92,
+      "text": " I could smell the newness of the material,",
+      "tokens": [
+        50514,
+        286,
+        727,
+        4316,
+        264,
+        777,
+        1287,
+        295,
+        264,
+        2527,
+        11,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15133543881503017,
+      "compression_ratio": 1.36,
+      "no_speech_prob": 0.0047673615626990795,
+      "words": [
+        {
+          "word": " I",
+          "start": 138.56,
+          "end": 139.02,
+          "probability": 0.9791739583015442
+        },
+        {
+          "word": " could",
+          "start": 139.02,
+          "end": 139.54,
+          "probability": 0.9977853298187256
+        },
+        {
+          "word": " smell",
+          "start": 139.54,
+          "end": 140.32,
+          "probability": 0.9953503608703613
+        },
+        {
+          "word": " the",
+          "start": 140.32,
+          "end": 141.1,
+          "probability": 0.9781904220581055
+        },
+        {
+          "word": " newness",
+          "start": 141.1,
+          "end": 141.64,
+          "probability": 0.8628288507461548
+        },
+        {
+          "word": " of",
+          "start": 141.64,
+          "end": 141.98,
+          "probability": 0.9961937665939331
+        },
+        {
+          "word": " the",
+          "start": 141.98,
+          "end": 142.22,
+          "probability": 0.8514220118522644
+        },
+        {
+          "word": " material,",
+          "start": 142.22,
+          "end": 142.92,
+          "probability": 0.9918370842933655
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 13526,
+      "start": 144.34,
+      "end": 147.64,
+      "text": " as if it was fresh from a factory.",
+      "tokens": [
+        50764,
+        382,
+        498,
+        309,
+        390,
+        4451,
+        490,
+        257,
+        9265,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15133543881503017,
+      "compression_ratio": 1.36,
+      "no_speech_prob": 0.0047673615626990795,
+      "words": [
+        {
+          "word": " as",
+          "start": 144.34,
+          "end": 144.54,
+          "probability": 0.9790498614311218
+        },
+        {
+          "word": " if",
+          "start": 144.54,
+          "end": 144.76,
+          "probability": 0.9945711493492126
+        },
+        {
+          "word": " it",
+          "start": 144.76,
+          "end": 145.2,
+          "probability": 0.9957725405693054
+        },
+        {
+          "word": " was",
+          "start": 145.2,
+          "end": 145.82,
+          "probability": 0.9850329756736755
+        },
+        {
+          "word": " fresh",
+          "start": 145.82,
+          "end": 146.28,
+          "probability": 0.9763651490211487
+        },
+        {
+          "word": " from",
+          "start": 146.28,
+          "end": 146.72,
+          "probability": 0.9664354920387268
+        },
+        {
+          "word": " a",
+          "start": 146.72,
+          "end": 146.86,
+          "probability": 0.49137941002845764
+        },
+        {
+          "word": " factory.",
+          "start": 146.86,
+          "end": 147.64,
+          "probability": 0.9973549842834473
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 13526,
+      "start": 150.72,
+      "end": 152.82,
+      "text": " It was all fake,",
+      "tokens": [
+        51114,
+        467,
+        390,
+        439,
+        7592,
+        11,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15133543881503017,
+      "compression_ratio": 1.36,
+      "no_speech_prob": 0.0047673615626990795,
+      "words": [
+        {
+          "word": " It",
+          "start": 150.72,
+          "end": 151.12,
+          "probability": 0.9766839146614075
+        },
+        {
+          "word": " was",
+          "start": 151.12,
+          "end": 151.64,
+          "probability": 0.9984136819839478
+        },
+        {
+          "word": " all",
+          "start": 151.64,
+          "end": 152.16,
+          "probability": 0.9945641756057739
+        },
+        {
+          "word": " fake,",
+          "start": 152.16,
+          "end": 152.82,
+          "probability": 0.9944050312042236
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 13526,
+      "start": 155.08,
+      "end": 159.02,
+      "text": " and I heard someone talking,",
+      "tokens": [
+        51314,
+        293,
+        286,
+        2198,
+        1580,
+        1417,
+        11,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15133543881503017,
+      "compression_ratio": 1.36,
+      "no_speech_prob": 0.0047673615626990795,
+      "words": [
+        {
+          "word": " and",
+          "start": 155.08,
+          "end": 156.12,
+          "probability": 0.9681017994880676
+        },
+        {
+          "word": " I",
+          "start": 156.12,
+          "end": 157.16,
+          "probability": 0.7834000587463379
+        },
+        {
+          "word": " heard",
+          "start": 157.16,
+          "end": 157.64,
+          "probability": 0.9843602776527405
+        },
+        {
+          "word": " someone",
+          "start": 157.64,
+          "end": 158.2,
+          "probability": 0.9923945665359497
+        },
+        {
+          "word": " talking,",
+          "start": 158.2,
+          "end": 159.02,
+          "probability": 0.9954127669334412
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 13526,
+      "start": 159.18,
+      "end": 161.12,
+      "text": " so I kept walking.",
+      "tokens": [
+        51564,
+        370,
+        286,
+        4305,
+        4494,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15133543881503017,
+      "compression_ratio": 1.36,
+      "no_speech_prob": 0.0047673615626990795,
+      "words": [
+        {
+          "word": " so",
+          "start": 159.18,
+          "end": 159.82,
+          "probability": 0.9807587265968323
+        },
+        {
+          "word": " I",
+          "start": 159.82,
+          "end": 160.04,
+          "probability": 0.9695159792900085
+        },
+        {
+          "word": " kept",
+          "start": 160.04,
+          "end": 160.4,
+          "probability": 0.9969497323036194
+        },
+        {
+          "word": " walking.",
+          "start": 160.4,
+          "end": 161.12,
+          "probability": 0.9778764843940735
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 16112,
+      "start": 161.12,
+      "end": 165.12,
+      "text": " I was looking for you.",
+      "tokens": [
+        50414,
+        286,
+        390,
+        1237,
+        337,
+        291,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16002094139487055,
+      "compression_ratio": 1.3888888888888888,
+      "no_speech_prob": 0.015721768140792847,
+      "words": [
+        {
+          "word": " I",
+          "start": 161.12,
+          "end": 161.32,
+          "probability": 0.3418963551521301
+        },
+        {
+          "word": " was",
+          "start": 161.32,
+          "end": 162.7,
+          "probability": 0.8661350607872009
+        },
+        {
+          "word": " looking",
+          "start": 162.7,
+          "end": 163.12,
+          "probability": 0.9664773941040039
+        },
+        {
+          "word": " for",
+          "start": 163.12,
+          "end": 163.58,
+          "probability": 0.9755113124847412
+        },
+        {
+          "word": " you.",
+          "start": 163.58,
+          "end": 165.12,
+          "probability": 0.9763398766517639
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 16112,
+      "start": 166.0,
+      "end": 171.2,
+      "text": " The kitchen led to the only room in the house,",
+      "tokens": [
+        50614,
+        440,
+        6525,
+        4684,
+        281,
+        264,
+        787,
+        1808,
+        294,
+        264,
+        1782,
+        11,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16002094139487055,
+      "compression_ratio": 1.3888888888888888,
+      "no_speech_prob": 0.015721768140792847,
+      "words": [
+        {
+          "word": " The",
+          "start": 166.0,
+          "end": 167.02,
+          "probability": 0.7050803303718567
+        },
+        {
+          "word": " kitchen",
+          "start": 167.02,
+          "end": 167.52,
+          "probability": 0.9774218797683716
+        },
+        {
+          "word": " led",
+          "start": 167.52,
+          "end": 168.08,
+          "probability": 0.8580551743507385
+        },
+        {
+          "word": " to",
+          "start": 168.08,
+          "end": 169.12,
+          "probability": 0.9897037148475647
+        },
+        {
+          "word": " the",
+          "start": 169.12,
+          "end": 169.42,
+          "probability": 0.8910810947418213
+        },
+        {
+          "word": " only",
+          "start": 169.42,
+          "end": 169.76,
+          "probability": 0.9629467129707336
+        },
+        {
+          "word": " room",
+          "start": 169.76,
+          "end": 170.08,
+          "probability": 0.9934754967689514
+        },
+        {
+          "word": " in",
+          "start": 170.08,
+          "end": 170.38,
+          "probability": 0.9944334626197815
+        },
+        {
+          "word": " the",
+          "start": 170.38,
+          "end": 170.5,
+          "probability": 0.9924528002738953
+        },
+        {
+          "word": " house,",
+          "start": 170.5,
+          "end": 171.2,
+          "probability": 0.998842179775238
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 16112,
+      "start": 171.82,
+      "end": 176.84,
+      "text": " a very large room, also with no windows.",
+      "tokens": [
+        50864,
+        257,
+        588,
+        2416,
+        1808,
+        11,
+        611,
+        365,
+        572,
+        9309,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16002094139487055,
+      "compression_ratio": 1.3888888888888888,
+      "no_speech_prob": 0.015721768140792847,
+      "words": [
+        {
+          "word": " a",
+          "start": 171.82,
+          "end": 171.98,
+          "probability": 0.732952892780304
+        },
+        {
+          "word": " very",
+          "start": 171.98,
+          "end": 172.48,
+          "probability": 0.9944688081741333
+        },
+        {
+          "word": " large",
+          "start": 172.48,
+          "end": 173.08,
+          "probability": 0.9927317500114441
+        },
+        {
+          "word": " room,",
+          "start": 173.08,
+          "end": 173.7,
+          "probability": 0.9763352274894714
+        },
+        {
+          "word": " also",
+          "start": 174.64,
+          "end": 175.34,
+          "probability": 0.6067260503768921
+        },
+        {
+          "word": " with",
+          "start": 175.34,
+          "end": 175.66,
+          "probability": 0.8648707270622253
+        },
+        {
+          "word": " no",
+          "start": 175.66,
+          "end": 176.0,
+          "probability": 0.045138437300920486
+        },
+        {
+          "word": " windows.",
+          "start": 176.0,
+          "end": 176.84,
+          "probability": 0.9915865659713745
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 16112,
+      "start": 179.54,
+      "end": 184.4,
+      "text": " The walls were padded, like a recording studio,",
+      "tokens": [
+        51264,
+        440,
+        7920,
+        645,
+        6887,
+        9207,
+        11,
+        411,
+        257,
+        6613,
+        6811,
+        11,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16002094139487055,
+      "compression_ratio": 1.3888888888888888,
+      "no_speech_prob": 0.015721768140792847,
+      "words": [
+        {
+          "word": " The",
+          "start": 179.54,
+          "end": 179.88,
+          "probability": 0.9105099439620972
+        },
+        {
+          "word": " walls",
+          "start": 179.88,
+          "end": 180.54,
+          "probability": 0.9977516531944275
+        },
+        {
+          "word": " were",
+          "start": 180.54,
+          "end": 181.2,
+          "probability": 0.9823827147483826
+        },
+        {
+          "word": " padded,",
+          "start": 181.2,
+          "end": 181.9,
+          "probability": 0.946273535490036
+        },
+        {
+          "word": " like",
+          "start": 182.44,
+          "end": 182.72,
+          "probability": 0.9377166628837585
+        },
+        {
+          "word": " a",
+          "start": 182.72,
+          "end": 183.04,
+          "probability": 0.9141353964805603
+        },
+        {
+          "word": " recording",
+          "start": 183.04,
+          "end": 183.56,
+          "probability": 0.9939715266227722
+        },
+        {
+          "word": " studio,",
+          "start": 183.56,
+          "end": 184.4,
+          "probability": 0.9970105886459351
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 16112,
+      "start": 184.66,
+      "end": 189.04,
+      "text": " but I didn't see any recording equipment.",
+      "tokens": [
+        51514,
+        457,
+        286,
+        994,
+        380,
+        536,
+        604,
+        6613,
+        5927,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16002094139487055,
+      "compression_ratio": 1.3888888888888888,
+      "no_speech_prob": 0.015721768140792847,
+      "words": [
+        {
+          "word": " but",
+          "start": 184.66,
+          "end": 185.16,
+          "probability": 0.9922261238098145
+        },
+        {
+          "word": " I",
+          "start": 185.16,
+          "end": 185.56,
+          "probability": 0.9802858829498291
+        },
+        {
+          "word": " didn't",
+          "start": 185.56,
+          "end": 185.92,
+          "probability": 0.9944233894348145
+        },
+        {
+          "word": " see",
+          "start": 185.92,
+          "end": 187.02,
+          "probability": 0.9981168508529663
+        },
+        {
+          "word": " any",
+          "start": 187.02,
+          "end": 187.78,
+          "probability": 0.9955012202262878
+        },
+        {
+          "word": " recording",
+          "start": 187.78,
+          "end": 188.26,
+          "probability": 0.9826151132583618
+        },
+        {
+          "word": " equipment.",
+          "start": 188.26,
+          "end": 189.04,
+          "probability": 0.9835513234138489
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 18904,
+      "start": 189.04,
+      "end": 192.52,
+      "text": " I saw the back of you.",
+      "tokens": [
+        50364,
+        286,
+        1866,
+        264,
+        646,
+        295,
+        291,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09999819362864774,
+      "compression_ratio": 1.589928057553957,
+      "no_speech_prob": 0.004576899576932192,
+      "words": [
+        {
+          "word": " I",
+          "start": 189.04,
+          "end": 190.34,
+          "probability": 0.5335758328437805
+        },
+        {
+          "word": " saw",
+          "start": 190.34,
+          "end": 190.92,
+          "probability": 0.8350192904472351
+        },
+        {
+          "word": " the",
+          "start": 190.92,
+          "end": 191.22,
+          "probability": 0.9599503874778748
+        },
+        {
+          "word": " back",
+          "start": 191.22,
+          "end": 191.54,
+          "probability": 0.9903779029846191
+        },
+        {
+          "word": " of",
+          "start": 191.54,
+          "end": 191.8,
+          "probability": 0.9905723929405212
+        },
+        {
+          "word": " you.",
+          "start": 191.8,
+          "end": 192.52,
+          "probability": 0.9820547699928284
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 18904,
+      "start": 192.62,
+      "end": 195.04,
+      "text": " You didn't notice me standing there.",
+      "tokens": [
+        50514,
+        509,
+        994,
+        380,
+        3449,
+        385,
+        4877,
+        456,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09999819362864774,
+      "compression_ratio": 1.589928057553957,
+      "no_speech_prob": 0.004576899576932192,
+      "words": [
+        {
+          "word": " You",
+          "start": 192.62,
+          "end": 193.06,
+          "probability": 0.962257444858551
+        },
+        {
+          "word": " didn't",
+          "start": 193.06,
+          "end": 193.42,
+          "probability": 0.9753028452396393
+        },
+        {
+          "word": " notice",
+          "start": 193.42,
+          "end": 193.94,
+          "probability": 0.8706866502761841
+        },
+        {
+          "word": " me",
+          "start": 193.94,
+          "end": 194.36,
+          "probability": 0.9877793192863464
+        },
+        {
+          "word": " standing",
+          "start": 194.36,
+          "end": 194.78,
+          "probability": 0.9818711280822754
+        },
+        {
+          "word": " there.",
+          "start": 194.78,
+          "end": 195.18,
+          "probability": 0.9957485795021057
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 18904,
+      "start": 196.1,
+      "end": 201.08,
+      "text": " You were watching a little screen.",
+      "tokens": [
+        50664,
+        509,
+        645,
+        1976,
+        257,
+        707,
+        2568,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09999819362864774,
+      "compression_ratio": 1.589928057553957,
+      "no_speech_prob": 0.004576899576932192,
+      "words": [
+        {
+          "word": " You",
+          "start": 196.1,
+          "end": 196.4,
+          "probability": 0.9878623485565186
+        },
+        {
+          "word": " were",
+          "start": 196.4,
+          "end": 196.72,
+          "probability": 0.9868022799491882
+        },
+        {
+          "word": " watching",
+          "start": 196.72,
+          "end": 197.52,
+          "probability": 0.9950908422470093
+        },
+        {
+          "word": " a",
+          "start": 197.52,
+          "end": 199.42,
+          "probability": 0.7351075410842896
+        },
+        {
+          "word": " little",
+          "start": 199.42,
+          "end": 200.02,
+          "probability": 0.9413749575614929
+        },
+        {
+          "word": " screen.",
+          "start": 200.02,
+          "end": 201.08,
+          "probability": 0.9533723592758179
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 18904,
+      "start": 203.2,
+      "end": 204.42,
+      "text": " It was a film.",
+      "tokens": [
+        51014,
+        467,
+        390,
+        257,
+        2007,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09999819362864774,
+      "compression_ratio": 1.589928057553957,
+      "no_speech_prob": 0.004576899576932192,
+      "words": [
+        {
+          "word": " It",
+          "start": 203.2,
+          "end": 203.46,
+          "probability": 0.9645503759384155
+        },
+        {
+          "word": " was",
+          "start": 203.46,
+          "end": 203.76,
+          "probability": 0.9988502264022827
+        },
+        {
+          "word": " a",
+          "start": 203.76,
+          "end": 204.0,
+          "probability": 0.9842309355735779
+        },
+        {
+          "word": " film.",
+          "start": 204.0,
+          "end": 204.42,
+          "probability": 0.9909045100212097
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 18904,
+      "start": 204.64,
+      "end": 206.44,
+      "text": " They were watching a film.",
+      "tokens": [
+        51114,
+        814,
+        645,
+        1976,
+        257,
+        2007,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09999819362864774,
+      "compression_ratio": 1.589928057553957,
+      "no_speech_prob": 0.004576899576932192,
+      "words": [
+        {
+          "word": " They",
+          "start": 204.64,
+          "end": 204.94,
+          "probability": 0.8889237642288208
+        },
+        {
+          "word": " were",
+          "start": 204.94,
+          "end": 205.16,
+          "probability": 0.9913989305496216
+        },
+        {
+          "word": " watching",
+          "start": 205.16,
+          "end": 205.68,
+          "probability": 0.9984992742538452
+        },
+        {
+          "word": " a",
+          "start": 205.68,
+          "end": 206.06,
+          "probability": 0.9628472328186035
+        },
+        {
+          "word": " film.",
+          "start": 206.06,
+          "end": 206.44,
+          "probability": 0.9988376498222351
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 18904,
+      "start": 207.7,
+      "end": 211.66,
+      "text": " I wasn't sure I was supposed to be there.",
+      "tokens": [
+        51264,
+        286,
+        2067,
+        380,
+        988,
+        286,
+        390,
+        3442,
+        281,
+        312,
+        456,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09999819362864774,
+      "compression_ratio": 1.589928057553957,
+      "no_speech_prob": 0.004576899576932192,
+      "words": [
+        {
+          "word": " I",
+          "start": 207.7,
+          "end": 207.9,
+          "probability": 0.9951653480529785
+        },
+        {
+          "word": " wasn't",
+          "start": 207.9,
+          "end": 208.76,
+          "probability": 0.9913184344768524
+        },
+        {
+          "word": " sure",
+          "start": 208.76,
+          "end": 209.44,
+          "probability": 0.9931901097297668
+        },
+        {
+          "word": " I",
+          "start": 209.44,
+          "end": 209.62,
+          "probability": 0.9549351930618286
+        },
+        {
+          "word": " was",
+          "start": 209.62,
+          "end": 209.92,
+          "probability": 0.9962003827095032
+        },
+        {
+          "word": " supposed",
+          "start": 209.92,
+          "end": 210.2,
+          "probability": 0.9716261029243469
+        },
+        {
+          "word": " to",
+          "start": 210.2,
+          "end": 210.44,
+          "probability": 0.9988208413124084
+        },
+        {
+          "word": " be",
+          "start": 210.44,
+          "end": 210.72,
+          "probability": 0.9995322227478027
+        },
+        {
+          "word": " there.",
+          "start": 210.72,
+          "end": 211.66,
+          "probability": 0.9992086291313171
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 18904,
+      "start": 213.84,
+      "end": 217.12,
+      "text": " You were completely absorbed in that film.",
+      "tokens": [
+        51564,
+        509,
+        645,
+        2584,
+        20799,
+        294,
+        300,
+        2007,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09999819362864774,
+      "compression_ratio": 1.589928057553957,
+      "no_speech_prob": 0.004576899576932192,
+      "words": [
+        {
+          "word": " You",
+          "start": 213.84,
+          "end": 214.1,
+          "probability": 0.8584963083267212
+        },
+        {
+          "word": " were",
+          "start": 214.1,
+          "end": 214.36,
+          "probability": 0.9905359148979187
+        },
+        {
+          "word": " completely",
+          "start": 214.36,
+          "end": 215.08,
+          "probability": 0.9919705390930176
+        },
+        {
+          "word": " absorbed",
+          "start": 215.08,
+          "end": 215.94,
+          "probability": 0.9930717349052429
+        },
+        {
+          "word": " in",
+          "start": 215.94,
+          "end": 216.24,
+          "probability": 0.9940391778945923
+        },
+        {
+          "word": " that",
+          "start": 216.24,
+          "end": 216.78,
+          "probability": 0.9586719870567322
+        },
+        {
+          "word": " film.",
+          "start": 216.78,
+          "end": 217.12,
+          "probability": 0.9973344802856445
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 21712,
+      "start": 218.12,
+      "end": 224.52,
+      "text": " I was trying to see what you were watching,",
+      "tokens": [
+        50414,
+        286,
+        390,
+        1382,
+        281,
+        536,
+        437,
+        291,
+        645,
+        1976,
+        11,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11643496206251241,
+      "compression_ratio": 1.4589041095890412,
+      "no_speech_prob": 0.005889645777642727,
+      "words": [
+        {
+          "word": " I",
+          "start": 218.12,
+          "end": 218.62,
+          "probability": 0.6588422656059265
+        },
+        {
+          "word": " was",
+          "start": 218.62,
+          "end": 221.58,
+          "probability": 0.9719555377960205
+        },
+        {
+          "word": " trying",
+          "start": 221.58,
+          "end": 222.2,
+          "probability": 0.5048837065696716
+        },
+        {
+          "word": " to",
+          "start": 222.2,
+          "end": 222.8,
+          "probability": 0.996605396270752
+        },
+        {
+          "word": " see",
+          "start": 222.8,
+          "end": 223.12,
+          "probability": 0.9928380846977234
+        },
+        {
+          "word": " what",
+          "start": 223.12,
+          "end": 223.4,
+          "probability": 0.9957507848739624
+        },
+        {
+          "word": " you",
+          "start": 223.4,
+          "end": 223.64,
+          "probability": 0.9898411631584167
+        },
+        {
+          "word": " were",
+          "start": 223.64,
+          "end": 223.86,
+          "probability": 0.9857470989227295
+        },
+        {
+          "word": " watching,",
+          "start": 223.86,
+          "end": 224.52,
+          "probability": 0.9985356330871582
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 21712,
+      "start": 224.52,
+      "end": 227.28,
+      "text": " and when I came closer,",
+      "tokens": [
+        50714,
+        293,
+        562,
+        286,
+        1361,
+        4966,
+        11,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11643496206251241,
+      "compression_ratio": 1.4589041095890412,
+      "no_speech_prob": 0.005889645777642727,
+      "words": [
+        {
+          "word": " and",
+          "start": 224.52,
+          "end": 225.66,
+          "probability": 0.8625006675720215
+        },
+        {
+          "word": " when",
+          "start": 225.66,
+          "end": 225.92,
+          "probability": 0.9650072455406189
+        },
+        {
+          "word": " I",
+          "start": 225.92,
+          "end": 226.14,
+          "probability": 0.9837893843650818
+        },
+        {
+          "word": " came",
+          "start": 226.14,
+          "end": 226.46,
+          "probability": 0.9903723001480103
+        },
+        {
+          "word": " closer,",
+          "start": 226.46,
+          "end": 227.28,
+          "probability": 0.9872404932975769
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 21712,
+      "start": 227.96,
+      "end": 233.26,
+      "text": " I saw a figure that looked kind of familiar.",
+      "tokens": [
+        50864,
+        286,
+        1866,
+        257,
+        2573,
+        300,
+        2956,
+        733,
+        295,
+        4963,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11643496206251241,
+      "compression_ratio": 1.4589041095890412,
+      "no_speech_prob": 0.005889645777642727,
+      "words": [
+        {
+          "word": " I",
+          "start": 227.96,
+          "end": 228.24,
+          "probability": 0.9965769648551941
+        },
+        {
+          "word": " saw",
+          "start": 228.24,
+          "end": 228.62,
+          "probability": 0.9983507394790649
+        },
+        {
+          "word": " a",
+          "start": 228.62,
+          "end": 228.98,
+          "probability": 0.990303099155426
+        },
+        {
+          "word": " figure",
+          "start": 228.98,
+          "end": 229.32,
+          "probability": 0.9965747594833374
+        },
+        {
+          "word": " that",
+          "start": 229.32,
+          "end": 230.78,
+          "probability": 0.9678560495376587
+        },
+        {
+          "word": " looked",
+          "start": 230.78,
+          "end": 231.98,
+          "probability": 0.9368441104888916
+        },
+        {
+          "word": " kind",
+          "start": 231.98,
+          "end": 232.38,
+          "probability": 0.933591365814209
+        },
+        {
+          "word": " of",
+          "start": 232.38,
+          "end": 232.66,
+          "probability": 0.9973714351654053
+        },
+        {
+          "word": " familiar.",
+          "start": 232.66,
+          "end": 233.26,
+          "probability": 0.9986826777458191
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 21712,
+      "start": 234.44,
+      "end": 238.26,
+      "text": " I was trying to figure out where I recognized it from.",
+      "tokens": [
+        51214,
+        286,
+        390,
+        1382,
+        281,
+        2573,
+        484,
+        689,
+        286,
+        9823,
+        309,
+        490,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11643496206251241,
+      "compression_ratio": 1.4589041095890412,
+      "no_speech_prob": 0.005889645777642727,
+      "words": [
+        {
+          "word": " I",
+          "start": 234.44,
+          "end": 234.76,
+          "probability": 0.9966921806335449
+        },
+        {
+          "word": " was",
+          "start": 234.76,
+          "end": 235.12,
+          "probability": 0.9991021156311035
+        },
+        {
+          "word": " trying",
+          "start": 235.12,
+          "end": 235.3,
+          "probability": 0.9992049336433411
+        },
+        {
+          "word": " to",
+          "start": 235.3,
+          "end": 235.66,
+          "probability": 0.9987847208976746
+        },
+        {
+          "word": " figure",
+          "start": 235.66,
+          "end": 235.9,
+          "probability": 0.99843829870224
+        },
+        {
+          "word": " out",
+          "start": 235.9,
+          "end": 236.42,
+          "probability": 0.9970927238464355
+        },
+        {
+          "word": " where",
+          "start": 236.42,
+          "end": 236.68,
+          "probability": 0.9915681481361389
+        },
+        {
+          "word": " I",
+          "start": 236.68,
+          "end": 237.04,
+          "probability": 0.9942618608474731
+        },
+        {
+          "word": " recognized",
+          "start": 237.04,
+          "end": 237.56,
+          "probability": 0.6248928308486938
+        },
+        {
+          "word": " it",
+          "start": 237.56,
+          "end": 237.98,
+          "probability": 0.32876157760620117
+        },
+        {
+          "word": " from.",
+          "start": 237.98,
+          "end": 238.26,
+          "probability": 0.9824099540710449
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 21712,
+      "start": 239.34,
+      "end": 243.54,
+      "text": " I could suddenly hear her voice very clearly,",
+      "tokens": [
+        51464,
+        286,
+        727,
+        5800,
+        1568,
+        720,
+        3177,
+        588,
+        4448,
+        11,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11643496206251241,
+      "compression_ratio": 1.4589041095890412,
+      "no_speech_prob": 0.005889645777642727,
+      "words": [
+        {
+          "word": " I",
+          "start": 239.34,
+          "end": 239.96,
+          "probability": 0.9753444790840149
+        },
+        {
+          "word": " could",
+          "start": 239.96,
+          "end": 240.72,
+          "probability": 0.99358069896698
+        },
+        {
+          "word": " suddenly",
+          "start": 240.72,
+          "end": 241.26,
+          "probability": 0.9379502534866333
+        },
+        {
+          "word": " hear",
+          "start": 241.26,
+          "end": 241.7,
+          "probability": 0.9976736903190613
+        },
+        {
+          "word": " her",
+          "start": 241.7,
+          "end": 241.94,
+          "probability": 0.6944931149482727
+        },
+        {
+          "word": " voice",
+          "start": 241.94,
+          "end": 242.24,
+          "probability": 0.999739944934845
+        },
+        {
+          "word": " very",
+          "start": 242.24,
+          "end": 242.9,
+          "probability": 0.9604997634887695
+        },
+        {
+          "word": " clearly,",
+          "start": 242.9,
+          "end": 243.54,
+          "probability": 0.9990313053131104
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 24354,
+      "start": 243.54,
+      "end": 247.16,
+      "text": " but I couldn't make out what she was saying.",
+      "tokens": [
+        50364,
+        457,
+        286,
+        2809,
+        380,
+        652,
+        484,
+        437,
+        750,
+        390,
+        1566,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15088299837979405,
+      "compression_ratio": 1.3253968253968254,
+      "no_speech_prob": 0.0038491301238536835,
+      "words": [
+        {
+          "word": " but",
+          "start": 243.54,
+          "end": 244.02,
+          "probability": 0.7199259400367737
+        },
+        {
+          "word": " I",
+          "start": 244.02,
+          "end": 244.9,
+          "probability": 0.9534403085708618
+        },
+        {
+          "word": " couldn't",
+          "start": 244.9,
+          "end": 245.28,
+          "probability": 0.9916594624519348
+        },
+        {
+          "word": " make",
+          "start": 245.28,
+          "end": 245.62,
+          "probability": 0.9975464940071106
+        },
+        {
+          "word": " out",
+          "start": 245.62,
+          "end": 245.92,
+          "probability": 0.9957011342048645
+        },
+        {
+          "word": " what",
+          "start": 245.92,
+          "end": 246.18,
+          "probability": 0.9971861243247986
+        },
+        {
+          "word": " she",
+          "start": 246.18,
+          "end": 246.44,
+          "probability": 0.9819284677505493
+        },
+        {
+          "word": " was",
+          "start": 246.44,
+          "end": 246.7,
+          "probability": 0.9953052997589111
+        },
+        {
+          "word": " saying.",
+          "start": 246.7,
+          "end": 247.16,
+          "probability": 0.9992713332176208
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 24354,
+      "start": 248.08,
+      "end": 253.46,
+      "text": " Then I realized it was me.",
+      "tokens": [
+        50564,
+        1396,
+        286,
+        5334,
+        309,
+        390,
+        385,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15088299837979405,
+      "compression_ratio": 1.3253968253968254,
+      "no_speech_prob": 0.0038491301238536835,
+      "words": [
+        {
+          "word": " Then",
+          "start": 248.08,
+          "end": 248.54,
+          "probability": 0.04106191545724869
+        },
+        {
+          "word": " I",
+          "start": 248.54,
+          "end": 248.92,
+          "probability": 0.9669221043586731
+        },
+        {
+          "word": " realized",
+          "start": 248.92,
+          "end": 250.24,
+          "probability": 0.5659380555152893
+        },
+        {
+          "word": " it",
+          "start": 250.24,
+          "end": 252.18,
+          "probability": 0.4646182358264923
+        },
+        {
+          "word": " was",
+          "start": 252.18,
+          "end": 252.54,
+          "probability": 0.9981911778450012
+        },
+        {
+          "word": " me.",
+          "start": 252.54,
+          "end": 253.46,
+          "probability": 0.994741678237915
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 24354,
+      "start": 255.42,
+      "end": 256.56,
+      "text": " It was me.",
+      "tokens": [
+        50914,
+        467,
+        390,
+        385,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15088299837979405,
+      "compression_ratio": 1.3253968253968254,
+      "no_speech_prob": 0.0038491301238536835,
+      "words": [
+        {
+          "word": " It",
+          "start": 255.42,
+          "end": 255.64,
+          "probability": 0.9563815593719482
+        },
+        {
+          "word": " was",
+          "start": 255.64,
+          "end": 255.96,
+          "probability": 0.9983446598052979
+        },
+        {
+          "word": " me.",
+          "start": 255.96,
+          "end": 256.56,
+          "probability": 0.9971204996109009
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 24354,
+      "start": 257.2,
+      "end": 260.82,
+      "text": " She sounded exactly like me.",
+      "tokens": [
+        51014,
+        1240,
+        17714,
+        2293,
+        411,
+        385,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15088299837979405,
+      "compression_ratio": 1.3253968253968254,
+      "no_speech_prob": 0.0038491301238536835,
+      "words": [
+        {
+          "word": " She",
+          "start": 257.2,
+          "end": 257.58,
+          "probability": 0.9923200011253357
+        },
+        {
+          "word": " sounded",
+          "start": 257.58,
+          "end": 258.04,
+          "probability": 0.998547375202179
+        },
+        {
+          "word": " exactly",
+          "start": 258.04,
+          "end": 258.9,
+          "probability": 0.9961424469947815
+        },
+        {
+          "word": " like",
+          "start": 258.9,
+          "end": 259.42,
+          "probability": 0.9993935823440552
+        },
+        {
+          "word": " me.",
+          "start": 259.42,
+          "end": 260.82,
+          "probability": 0.9996500015258789
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 24354,
+      "start": 262.36,
+      "end": 266.84,
+      "text": " At that point, you turned around,",
+      "tokens": [
+        51314,
+        1711,
+        300,
+        935,
+        11,
+        291,
+        3574,
+        926,
+        11,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15088299837979405,
+      "compression_ratio": 1.3253968253968254,
+      "no_speech_prob": 0.0038491301238536835,
+      "words": [
+        {
+          "word": " At",
+          "start": 262.36,
+          "end": 263.02,
+          "probability": 0.5212149024009705
+        },
+        {
+          "word": " that",
+          "start": 263.02,
+          "end": 263.6,
+          "probability": 0.9976849555969238
+        },
+        {
+          "word": " point,",
+          "start": 263.6,
+          "end": 264.34,
+          "probability": 0.9990105628967285
+        },
+        {
+          "word": " you",
+          "start": 264.58,
+          "end": 265.3,
+          "probability": 0.996450662612915
+        },
+        {
+          "word": " turned",
+          "start": 265.3,
+          "end": 265.78,
+          "probability": 0.9956173896789551
+        },
+        {
+          "word": " around,",
+          "start": 265.78,
+          "end": 266.84,
+          "probability": 0.99724280834198
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 24354,
+      "start": 267.44,
+      "end": 270.38,
+      "text": " and you looked at me.",
+      "tokens": [
+        51514,
+        293,
+        291,
+        2956,
+        412,
+        385,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15088299837979405,
+      "compression_ratio": 1.3253968253968254,
+      "no_speech_prob": 0.0038491301238536835,
+      "words": [
+        {
+          "word": " and",
+          "start": 267.44,
+          "end": 268.64,
+          "probability": 0.9577308297157288
+        },
+        {
+          "word": " you",
+          "start": 268.64,
+          "end": 269.14,
+          "probability": 0.9421988129615784
+        },
+        {
+          "word": " looked",
+          "start": 269.14,
+          "end": 269.48,
+          "probability": 0.9971402883529663
+        },
+        {
+          "word": " at",
+          "start": 269.48,
+          "end": 269.8,
+          "probability": 0.9994145631790161
+        },
+        {
+          "word": " me.",
+          "start": 269.8,
+          "end": 270.38,
+          "probability": 0.9998162388801575
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 27354,
+      "start": 302.54,
+      "end": 303.0,
+      "text": " It was you.",
+      "tokens": [
+        50364,
+        467,
+        390,
+        291,
+        13,
+        50464
+      ],
+      "temperature": 0.8,
+      "avg_logprob": -0.8261044366019112,
+      "compression_ratio": 0.5789473684210527,
+      "no_speech_prob": 0.8497762680053711,
+      "words": [
+        {
+          "word": " It",
+          "start": 302.54,
+          "end": 302.86,
+          "probability": 0.00019423090270720422
+        },
+        {
+          "word": " was",
+          "start": 302.86,
+          "end": 302.98,
+          "probability": 0.09144272655248642
+        },
+        {
+          "word": " you.",
+          "start": 302.98,
+          "end": 303.0,
+          "probability": 0.008215151727199554
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

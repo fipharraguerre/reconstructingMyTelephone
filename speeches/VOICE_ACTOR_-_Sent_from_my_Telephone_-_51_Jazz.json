@@ -1,0 +1,949 @@
+{
+  "text": " Jazz the whale did time in jail, And jazzed his aunt Dale in her tail against her will. What they want, what they want, what they want. Golly, Jazz said his curse, It was wrong what you did to aunt Dale. What they want, what they want, what they want. Now go back in jail, and don't jazz here again, Or I'll jazz you myself with a chain. What they want, what they want, what they want. Jazz the whale went back in jail, What they want, what they want, what they want. Jazz the whale did time in jail,",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 4.980000000000003,
+      "end": 9.0,
+      "text": " Jazz the whale did time in jail,",
+      "tokens": [
+        50364,
+        32213,
+        264,
+        25370,
+        630,
+        565,
+        294,
+        10511,
+        11,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.443903829537186,
+      "compression_ratio": 1.4051724137931034,
+      "no_speech_prob": 0.4940418303012848,
+      "words": [
+        {
+          "word": " Jazz",
+          "start": 4.980000000000003,
+          "end": 5.9,
+          "probability": 0.5893038511276245
+        },
+        {
+          "word": " the",
+          "start": 5.9,
+          "end": 6.36,
+          "probability": 0.664484441280365
+        },
+        {
+          "word": " whale",
+          "start": 6.36,
+          "end": 6.92,
+          "probability": 0.7854082584381104
+        },
+        {
+          "word": " did",
+          "start": 6.92,
+          "end": 7.46,
+          "probability": 0.7676510214805603
+        },
+        {
+          "word": " time",
+          "start": 7.46,
+          "end": 7.78,
+          "probability": 0.8302346467971802
+        },
+        {
+          "word": " in",
+          "start": 7.78,
+          "end": 8.14,
+          "probability": 0.9799820184707642
+        },
+        {
+          "word": " jail,",
+          "start": 8.14,
+          "end": 9.0,
+          "probability": 0.9718559980392456
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.98,
+      "end": 15.66,
+      "text": " And jazzed his aunt Dale in her tail against her will.",
+      "tokens": [
+        50814,
+        400,
+        15066,
+        292,
+        702,
+        15654,
+        31329,
+        294,
+        720,
+        6838,
+        1970,
+        720,
+        486,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.443903829537186,
+      "compression_ratio": 1.4051724137931034,
+      "no_speech_prob": 0.4940418303012848,
+      "words": [
+        {
+          "word": " And",
+          "start": 10.98,
+          "end": 11.16,
+          "probability": 0.1784341037273407
+        },
+        {
+          "word": " jazzed",
+          "start": 11.16,
+          "end": 11.78,
+          "probability": 0.8568366467952728
+        },
+        {
+          "word": " his",
+          "start": 11.78,
+          "end": 12.06,
+          "probability": 0.9614546298980713
+        },
+        {
+          "word": " aunt",
+          "start": 12.06,
+          "end": 12.42,
+          "probability": 0.7269240617752075
+        },
+        {
+          "word": " Dale",
+          "start": 12.42,
+          "end": 12.84,
+          "probability": 0.7642967700958252
+        },
+        {
+          "word": " in",
+          "start": 12.84,
+          "end": 13.36,
+          "probability": 0.8118029236793518
+        },
+        {
+          "word": " her",
+          "start": 13.36,
+          "end": 13.72,
+          "probability": 0.9879007339477539
+        },
+        {
+          "word": " tail",
+          "start": 13.72,
+          "end": 14.22,
+          "probability": 0.6764470338821411
+        },
+        {
+          "word": " against",
+          "start": 14.22,
+          "end": 14.94,
+          "probability": 0.7827684879302979
+        },
+        {
+          "word": " her",
+          "start": 14.94,
+          "end": 15.26,
+          "probability": 0.44272029399871826
+        },
+        {
+          "word": " will.",
+          "start": 15.26,
+          "end": 15.66,
+          "probability": 0.9016616940498352
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 16.18,
+      "end": 19.92,
+      "text": " What they want, what they want, what they want.",
+      "tokens": [
+        51164,
+        708,
+        436,
+        528,
+        11,
+        437,
+        436,
+        528,
+        11,
+        437,
+        436,
+        528,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.443903829537186,
+      "compression_ratio": 1.4051724137931034,
+      "no_speech_prob": 0.4940418303012848,
+      "words": [
+        {
+          "word": " What",
+          "start": 16.18,
+          "end": 16.18,
+          "probability": 0.02486996538937092
+        },
+        {
+          "word": " they",
+          "start": 16.18,
+          "end": 16.6,
+          "probability": 0.41562238335609436
+        },
+        {
+          "word": " want,",
+          "start": 16.6,
+          "end": 16.94,
+          "probability": 0.9718260169029236
+        },
+        {
+          "word": " what",
+          "start": 16.94,
+          "end": 17.68,
+          "probability": 0.880233645439148
+        },
+        {
+          "word": " they",
+          "start": 17.68,
+          "end": 17.68,
+          "probability": 0.9945805668830872
+        },
+        {
+          "word": " want,",
+          "start": 17.68,
+          "end": 18.06,
+          "probability": 0.9966431856155396
+        },
+        {
+          "word": " what",
+          "start": 18.08,
+          "end": 18.4,
+          "probability": 0.9342830777168274
+        },
+        {
+          "word": " they",
+          "start": 18.4,
+          "end": 18.8,
+          "probability": 0.9984717965126038
+        },
+        {
+          "word": " want.",
+          "start": 18.8,
+          "end": 19.92,
+          "probability": 0.9987016916275024
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 21.6,
+      "end": 24.5,
+      "text": " Golly, Jazz said his curse,",
+      "tokens": [
+        51414,
+        1037,
+        13020,
+        11,
+        32213,
+        848,
+        702,
+        17139,
+        11,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.443903829537186,
+      "compression_ratio": 1.4051724137931034,
+      "no_speech_prob": 0.4940418303012848,
+      "words": [
+        {
+          "word": " Golly,",
+          "start": 21.6,
+          "end": 22.14,
+          "probability": 0.9142746031284332
+        },
+        {
+          "word": " Jazz",
+          "start": 22.52,
+          "end": 22.94,
+          "probability": 0.9188247323036194
+        },
+        {
+          "word": " said",
+          "start": 22.94,
+          "end": 23.4,
+          "probability": 0.7837481498718262
+        },
+        {
+          "word": " his",
+          "start": 23.4,
+          "end": 23.86,
+          "probability": 0.6167882084846497
+        },
+        {
+          "word": " curse,",
+          "start": 23.86,
+          "end": 24.5,
+          "probability": 0.3717495799064636
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2450,
+      "start": 25.84,
+      "end": 29.0,
+      "text": " It was wrong what you did to aunt Dale.",
+      "tokens": [
+        50414,
+        467,
+        390,
+        2085,
+        437,
+        291,
+        630,
+        281,
+        15654,
+        31329,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14219404303509256,
+      "compression_ratio": 1.768,
+      "no_speech_prob": 0.03400781378149986,
+      "words": [
+        {
+          "word": " It",
+          "start": 25.84,
+          "end": 26.56,
+          "probability": 0.20373506844043732
+        },
+        {
+          "word": " was",
+          "start": 26.56,
+          "end": 26.92,
+          "probability": 0.9622414112091064
+        },
+        {
+          "word": " wrong",
+          "start": 26.92,
+          "end": 27.22,
+          "probability": 0.9846602082252502
+        },
+        {
+          "word": " what",
+          "start": 27.22,
+          "end": 27.46,
+          "probability": 0.9021164774894714
+        },
+        {
+          "word": " you",
+          "start": 27.46,
+          "end": 27.62,
+          "probability": 0.9842367172241211
+        },
+        {
+          "word": " did",
+          "start": 27.62,
+          "end": 27.94,
+          "probability": 0.9952136278152466
+        },
+        {
+          "word": " to",
+          "start": 27.94,
+          "end": 28.28,
+          "probability": 0.967177152633667
+        },
+        {
+          "word": " aunt",
+          "start": 28.28,
+          "end": 28.58,
+          "probability": 0.004117409233003855
+        },
+        {
+          "word": " Dale.",
+          "start": 28.58,
+          "end": 29.0,
+          "probability": 0.5850574970245361
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2450,
+      "start": 29.02,
+      "end": 32.62,
+      "text": " What they want, what they want, what they want.",
+      "tokens": [
+        50564,
+        708,
+        436,
+        528,
+        11,
+        437,
+        436,
+        528,
+        11,
+        437,
+        436,
+        528,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14219404303509256,
+      "compression_ratio": 1.768,
+      "no_speech_prob": 0.03400781378149986,
+      "words": [
+        {
+          "word": " What",
+          "start": 29.02,
+          "end": 29.38,
+          "probability": 0.12983185052871704
+        },
+        {
+          "word": " they",
+          "start": 29.38,
+          "end": 29.74,
+          "probability": 0.7982492446899414
+        },
+        {
+          "word": " want,",
+          "start": 29.74,
+          "end": 30.08,
+          "probability": 0.9678782820701599
+        },
+        {
+          "word": " what",
+          "start": 30.12,
+          "end": 30.44,
+          "probability": 0.9434247016906738
+        },
+        {
+          "word": " they",
+          "start": 30.44,
+          "end": 30.84,
+          "probability": 0.9981372356414795
+        },
+        {
+          "word": " want,",
+          "start": 30.84,
+          "end": 31.22,
+          "probability": 0.9988829493522644
+        },
+        {
+          "word": " what",
+          "start": 31.22,
+          "end": 31.58,
+          "probability": 0.9740530252456665
+        },
+        {
+          "word": " they",
+          "start": 31.58,
+          "end": 32.0,
+          "probability": 0.998508632183075
+        },
+        {
+          "word": " want.",
+          "start": 32.0,
+          "end": 32.62,
+          "probability": 0.9988994598388672
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2450,
+      "start": 37.22,
+      "end": 42.0,
+      "text": " Now go back in jail, and don't jazz here again,",
+      "tokens": [
+        50964,
+        823,
+        352,
+        646,
+        294,
+        10511,
+        11,
+        293,
+        500,
+        380,
+        15066,
+        510,
+        797,
+        11,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14219404303509256,
+      "compression_ratio": 1.768,
+      "no_speech_prob": 0.03400781378149986,
+      "words": [
+        {
+          "word": " Now",
+          "start": 37.22,
+          "end": 37.64,
+          "probability": 0.44080421328544617
+        },
+        {
+          "word": " go",
+          "start": 37.64,
+          "end": 38.0,
+          "probability": 0.9546585083007812
+        },
+        {
+          "word": " back",
+          "start": 38.0,
+          "end": 38.38,
+          "probability": 0.9986609220504761
+        },
+        {
+          "word": " in",
+          "start": 38.38,
+          "end": 38.66,
+          "probability": 0.9417355060577393
+        },
+        {
+          "word": " jail,",
+          "start": 38.66,
+          "end": 39.16,
+          "probability": 0.9927841424942017
+        },
+        {
+          "word": " and",
+          "start": 39.86,
+          "end": 40.14,
+          "probability": 0.8883902430534363
+        },
+        {
+          "word": " don't",
+          "start": 40.14,
+          "end": 40.5,
+          "probability": 0.9455758035182953
+        },
+        {
+          "word": " jazz",
+          "start": 40.5,
+          "end": 40.68,
+          "probability": 0.438260018825531
+        },
+        {
+          "word": " here",
+          "start": 40.68,
+          "end": 40.98,
+          "probability": 0.9879191517829895
+        },
+        {
+          "word": " again,",
+          "start": 40.98,
+          "end": 42.0,
+          "probability": 0.9942102432250977
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2450,
+      "start": 42.74,
+      "end": 45.44,
+      "text": " Or I'll jazz you myself with a chain.",
+      "tokens": [
+        51214,
+        1610,
+        286,
+        603,
+        15066,
+        291,
+        2059,
+        365,
+        257,
+        5021,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14219404303509256,
+      "compression_ratio": 1.768,
+      "no_speech_prob": 0.03400781378149986,
+      "words": [
+        {
+          "word": " Or",
+          "start": 42.74,
+          "end": 42.98,
+          "probability": 0.1380835920572281
+        },
+        {
+          "word": " I'll",
+          "start": 42.98,
+          "end": 43.2,
+          "probability": 0.9362481832504272
+        },
+        {
+          "word": " jazz",
+          "start": 43.2,
+          "end": 43.44,
+          "probability": 0.9682912230491638
+        },
+        {
+          "word": " you",
+          "start": 43.44,
+          "end": 43.74,
+          "probability": 0.9766179323196411
+        },
+        {
+          "word": " myself",
+          "start": 43.74,
+          "end": 44.38,
+          "probability": 0.6671611666679382
+        },
+        {
+          "word": " with",
+          "start": 44.38,
+          "end": 44.8,
+          "probability": 0.8577566742897034
+        },
+        {
+          "word": " a",
+          "start": 44.8,
+          "end": 45.12,
+          "probability": 0.9852612614631653
+        },
+        {
+          "word": " chain.",
+          "start": 45.12,
+          "end": 45.44,
+          "probability": 0.6461537480354309
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2450,
+      "start": 45.56,
+      "end": 48.9,
+      "text": " What they want, what they want, what they want.",
+      "tokens": [
+        51414,
+        708,
+        436,
+        528,
+        11,
+        437,
+        436,
+        528,
+        11,
+        437,
+        436,
+        528,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14219404303509256,
+      "compression_ratio": 1.768,
+      "no_speech_prob": 0.03400781378149986,
+      "words": [
+        {
+          "word": " What",
+          "start": 45.56,
+          "end": 45.96,
+          "probability": 0.9665549993515015
+        },
+        {
+          "word": " they",
+          "start": 45.96,
+          "end": 46.34,
+          "probability": 0.9957850575447083
+        },
+        {
+          "word": " want,",
+          "start": 46.34,
+          "end": 46.62,
+          "probability": 0.997722327709198
+        },
+        {
+          "word": " what",
+          "start": 46.72,
+          "end": 47.08,
+          "probability": 0.9939494132995605
+        },
+        {
+          "word": " they",
+          "start": 47.08,
+          "end": 47.42,
+          "probability": 0.9989972710609436
+        },
+        {
+          "word": " want,",
+          "start": 47.42,
+          "end": 47.78,
+          "probability": 0.9992747902870178
+        },
+        {
+          "word": " what",
+          "start": 47.82,
+          "end": 48.24,
+          "probability": 0.9913777112960815
+        },
+        {
+          "word": " they",
+          "start": 48.24,
+          "end": 48.54,
+          "probability": 0.9988998174667358
+        },
+        {
+          "word": " want.",
+          "start": 48.54,
+          "end": 48.9,
+          "probability": 0.9991777539253235
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 4890,
+      "start": 53.14,
+      "end": 60.56,
+      "text": " Jazz the whale went back in jail,",
+      "tokens": [
+        50364,
+        32213,
+        264,
+        25370,
+        1437,
+        646,
+        294,
+        10511,
+        11,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24809929040762094,
+      "compression_ratio": 1.396551724137931,
+      "no_speech_prob": 0.051868412643671036,
+      "words": [
+        {
+          "word": " Jazz",
+          "start": 53.14,
+          "end": 53.98,
+          "probability": 0.00793425738811493
+        },
+        {
+          "word": " the",
+          "start": 53.98,
+          "end": 54.32,
+          "probability": 0.8170946836471558
+        },
+        {
+          "word": " whale",
+          "start": 54.32,
+          "end": 54.88,
+          "probability": 0.917277455329895
+        },
+        {
+          "word": " went",
+          "start": 54.88,
+          "end": 55.3,
+          "probability": 0.7377724051475525
+        },
+        {
+          "word": " back",
+          "start": 55.3,
+          "end": 55.84,
+          "probability": 0.9973142743110657
+        },
+        {
+          "word": " in",
+          "start": 55.84,
+          "end": 56.26,
+          "probability": 0.8949562311172485
+        },
+        {
+          "word": " jail,",
+          "start": 56.26,
+          "end": 60.56,
+          "probability": 0.9889450669288635
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 4890,
+      "start": 63.14,
+      "end": 66.9,
+      "text": " What they want, what they want, what they want.",
+      "tokens": [
+        51014,
+        708,
+        436,
+        528,
+        11,
+        437,
+        436,
+        528,
+        11,
+        437,
+        436,
+        528,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24809929040762094,
+      "compression_ratio": 1.396551724137931,
+      "no_speech_prob": 0.051868412643671036,
+      "words": [
+        {
+          "word": " What",
+          "start": 63.14,
+          "end": 63.98,
+          "probability": 0.3509208559989929
+        },
+        {
+          "word": " they",
+          "start": 63.98,
+          "end": 64.42,
+          "probability": 0.9789716005325317
+        },
+        {
+          "word": " want,",
+          "start": 64.42,
+          "end": 64.72,
+          "probability": 0.9489887356758118
+        },
+        {
+          "word": " what",
+          "start": 64.78,
+          "end": 65.16,
+          "probability": 0.8172901272773743
+        },
+        {
+          "word": " they",
+          "start": 65.16,
+          "end": 65.6,
+          "probability": 0.9980762004852295
+        },
+        {
+          "word": " want,",
+          "start": 65.6,
+          "end": 65.98,
+          "probability": 0.9965686798095703
+        },
+        {
+          "word": " what",
+          "start": 66.02,
+          "end": 66.38,
+          "probability": 0.9339264631271362
+        },
+        {
+          "word": " they",
+          "start": 66.38,
+          "end": 66.8,
+          "probability": 0.9989491105079651
+        },
+        {
+          "word": " want.",
+          "start": 66.8,
+          "end": 67.22,
+          "probability": 0.9986849427223206
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 6722,
+      "start": 67.22,
+      "end": 79.0,
+      "text": " Jazz the whale did time in jail,",
+      "tokens": [
+        50364,
+        32213,
+        264,
+        25370,
+        630,
+        565,
+        294,
+        10511,
+        11,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2349252884204571,
+      "compression_ratio": 1.0740740740740742,
+      "no_speech_prob": 0.3694545328617096,
+      "words": [
+        {
+          "word": " Jazz",
+          "start": 67.22,
+          "end": 67.24,
+          "probability": 5.054678808846802e-07
+        },
+        {
+          "word": " the",
+          "start": 67.24,
+          "end": 75.94,
+          "probability": 0.00025021631154231727
+        },
+        {
+          "word": " whale",
+          "start": 75.94,
+          "end": 76.04,
+          "probability": 8.657697617309168e-05
+        },
+        {
+          "word": " did",
+          "start": 76.04,
+          "end": 76.84,
+          "probability": 0.0003634793101809919
+        },
+        {
+          "word": " time",
+          "start": 76.84,
+          "end": 78.94,
+          "probability": 8.377286576433107e-05
+        },
+        {
+          "word": " in",
+          "start": 78.94,
+          "end": 78.94,
+          "probability": 0.009180274792015553
+        },
+        {
+          "word": " jail,",
+          "start": 78.94,
+          "end": 79.0,
+          "probability": 0.001879010465927422
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 6722,
+      "start": 79.0,
+      "end": 79.0,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.2349252884204571,
+      "compression_ratio": 1.0740740740740742,
+      "no_speech_prob": 0.3694545328617096,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

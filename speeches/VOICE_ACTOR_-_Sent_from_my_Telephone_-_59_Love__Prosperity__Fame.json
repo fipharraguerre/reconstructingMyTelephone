@@ -1,0 +1,1940 @@
+{
+  "text": " Your blood is an organism. Hundreds of millions of years ago, a tubular organism swallowed through the blood of a dear man. A soft, fragile creature. Its strength was that it had a massively increased surface area on which to digest food. Its weakness was that it was hard to be consumed. At some point, one of these was ingested. It combined and somehow merged with another organism that had a harder casein, but was limited by this casein and its smaller surface area as to how much food it could consume. And so, the two combined their strength and made their way better than either could have done in the video. Evolving and mutating to this very day. That alien creature still lives within you. Perhaps you can feel it now. It has more neurotransmitters and is older than your brain. It is wise, ancient, and most of all, it wants to live. While you are dreaming, indulging in grandiose fantasies of love, prosperity, fame, your gut is right there at the core face, processing the outside world in a very intimate fashion. You, you, your feet barely touch the ground, living in abstract realms as a disembodied intellect. You, you, your feet barely touch the ground, you",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.34,
+      "text": " Your blood is an organism.",
+      "tokens": [
+        50364,
+        2260,
+        3390,
+        307,
+        364,
+        24128,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3997053872971308,
+      "compression_ratio": 1.2735042735042734,
+      "no_speech_prob": 0.07185329496860504,
+      "words": [
+        {
+          "word": " Your",
+          "start": 0.0,
+          "end": 0.56,
+          "probability": 0.7691910266876221
+        },
+        {
+          "word": " blood",
+          "start": 0.56,
+          "end": 1.22,
+          "probability": 0.9612188935279846
+        },
+        {
+          "word": " is",
+          "start": 1.22,
+          "end": 1.84,
+          "probability": 0.9681734442710876
+        },
+        {
+          "word": " an",
+          "start": 1.84,
+          "end": 2.36,
+          "probability": 0.994131863117218
+        },
+        {
+          "word": " organism.",
+          "start": 2.36,
+          "end": 3.34,
+          "probability": 0.9920599460601807
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.32,
+      "end": 8.68,
+      "text": " Hundreds of millions of years ago,",
+      "tokens": [
+        50614,
+        45785,
+        295,
+        6803,
+        295,
+        924,
+        2057,
+        11,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3997053872971308,
+      "compression_ratio": 1.2735042735042734,
+      "no_speech_prob": 0.07185329496860504,
+      "words": [
+        {
+          "word": " Hundreds",
+          "start": 5.32,
+          "end": 5.82,
+          "probability": 0.9737333059310913
+        },
+        {
+          "word": " of",
+          "start": 5.82,
+          "end": 6.48,
+          "probability": 0.9885649085044861
+        },
+        {
+          "word": " millions",
+          "start": 6.48,
+          "end": 7.22,
+          "probability": 0.9867997169494629
+        },
+        {
+          "word": " of",
+          "start": 7.22,
+          "end": 7.74,
+          "probability": 0.9964261651039124
+        },
+        {
+          "word": " years",
+          "start": 7.74,
+          "end": 8.12,
+          "probability": 0.9984685778617859
+        },
+        {
+          "word": " ago,",
+          "start": 8.12,
+          "end": 8.68,
+          "probability": 0.9976984858512878
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.38,
+      "end": 15.8,
+      "text": " a tubular organism swallowed through the blood of a dear man.",
+      "tokens": [
+        50814,
+        257,
+        10809,
+        1040,
+        24128,
+        41769,
+        807,
+        264,
+        3390,
+        295,
+        257,
+        6875,
+        587,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3997053872971308,
+      "compression_ratio": 1.2735042735042734,
+      "no_speech_prob": 0.07185329496860504,
+      "words": [
+        {
+          "word": " a",
+          "start": 9.38,
+          "end": 9.62,
+          "probability": 0.9743378162384033
+        },
+        {
+          "word": " tubular",
+          "start": 9.62,
+          "end": 10.32,
+          "probability": 0.5081462860107422
+        },
+        {
+          "word": " organism",
+          "start": 10.32,
+          "end": 11.64,
+          "probability": 0.9941284656524658
+        },
+        {
+          "word": " swallowed",
+          "start": 11.64,
+          "end": 12.6,
+          "probability": 0.6137188673019409
+        },
+        {
+          "word": " through",
+          "start": 12.6,
+          "end": 13.48,
+          "probability": 0.9461341500282288
+        },
+        {
+          "word": " the",
+          "start": 13.48,
+          "end": 13.8,
+          "probability": 0.8209278583526611
+        },
+        {
+          "word": " blood",
+          "start": 13.8,
+          "end": 14.26,
+          "probability": 0.2286672592163086
+        },
+        {
+          "word": " of",
+          "start": 14.26,
+          "end": 14.76,
+          "probability": 0.3165314197540283
+        },
+        {
+          "word": " a",
+          "start": 14.76,
+          "end": 15.02,
+          "probability": 0.39951449632644653
+        },
+        {
+          "word": " dear",
+          "start": 15.02,
+          "end": 15.02,
+          "probability": 0.2886620759963989
+        },
+        {
+          "word": " man.",
+          "start": 15.02,
+          "end": 15.8,
+          "probability": 0.4083313047885895
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.64,
+      "end": 21.82,
+      "text": " A soft, fragile creature.",
+      "tokens": [
+        51214,
+        316,
+        2787,
+        11,
+        23847,
+        12797,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3997053872971308,
+      "compression_ratio": 1.2735042735042734,
+      "no_speech_prob": 0.07185329496860504,
+      "words": [
+        {
+          "word": " A",
+          "start": 17.64,
+          "end": 18.1,
+          "probability": 0.9808034896850586
+        },
+        {
+          "word": " soft,",
+          "start": 18.1,
+          "end": 18.94,
+          "probability": 0.9929959177970886
+        },
+        {
+          "word": " fragile",
+          "start": 19.66,
+          "end": 20.72,
+          "probability": 0.9986851811408997
+        },
+        {
+          "word": " creature.",
+          "start": 20.72,
+          "end": 21.82,
+          "probability": 0.9835354089736938
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2182,
+      "start": 22.82,
+      "end": 33.06,
+      "text": " Its strength was that it had a massively increased surface area on which to digest food.",
+      "tokens": [
+        50414,
+        6953,
+        3800,
+        390,
+        300,
+        309,
+        632,
+        257,
+        29379,
+        6505,
+        3753,
+        1859,
+        322,
+        597,
+        281,
+        13884,
+        1755,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10642932323699301,
+      "compression_ratio": 1.40625,
+      "no_speech_prob": 0.02271072193980217,
+      "words": [
+        {
+          "word": " Its",
+          "start": 22.82,
+          "end": 23.5,
+          "probability": 0.26283493638038635
+        },
+        {
+          "word": " strength",
+          "start": 23.5,
+          "end": 24.22,
+          "probability": 0.9527291655540466
+        },
+        {
+          "word": " was",
+          "start": 24.22,
+          "end": 24.96,
+          "probability": 0.9847762584686279
+        },
+        {
+          "word": " that",
+          "start": 24.96,
+          "end": 25.32,
+          "probability": 0.9701753854751587
+        },
+        {
+          "word": " it",
+          "start": 25.32,
+          "end": 25.7,
+          "probability": 0.9907582998275757
+        },
+        {
+          "word": " had",
+          "start": 25.7,
+          "end": 26.48,
+          "probability": 0.9906285405158997
+        },
+        {
+          "word": " a",
+          "start": 26.48,
+          "end": 26.9,
+          "probability": 0.9713972806930542
+        },
+        {
+          "word": " massively",
+          "start": 26.9,
+          "end": 27.52,
+          "probability": 0.9911587834358215
+        },
+        {
+          "word": " increased",
+          "start": 27.52,
+          "end": 28.72,
+          "probability": 0.9748799204826355
+        },
+        {
+          "word": " surface",
+          "start": 28.72,
+          "end": 29.34,
+          "probability": 0.9973570108413696
+        },
+        {
+          "word": " area",
+          "start": 29.34,
+          "end": 30.0,
+          "probability": 0.9975398778915405
+        },
+        {
+          "word": " on",
+          "start": 30.0,
+          "end": 30.6,
+          "probability": 0.9457617402076721
+        },
+        {
+          "word": " which",
+          "start": 30.6,
+          "end": 31.02,
+          "probability": 0.9988293051719666
+        },
+        {
+          "word": " to",
+          "start": 31.02,
+          "end": 31.52,
+          "probability": 0.997568666934967
+        },
+        {
+          "word": " digest",
+          "start": 31.52,
+          "end": 32.28,
+          "probability": 0.9972794651985168
+        },
+        {
+          "word": " food.",
+          "start": 32.28,
+          "end": 33.06,
+          "probability": 0.9927365779876709
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2182,
+      "start": 34.18,
+      "end": 39.82,
+      "text": " Its weakness was that it was hard to be consumed.",
+      "tokens": [
+        50964,
+        6953,
+        12772,
+        390,
+        300,
+        309,
+        390,
+        1152,
+        281,
+        312,
+        21226,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10642932323699301,
+      "compression_ratio": 1.40625,
+      "no_speech_prob": 0.02271072193980217,
+      "words": [
+        {
+          "word": " Its",
+          "start": 34.18,
+          "end": 34.82,
+          "probability": 0.9388922452926636
+        },
+        {
+          "word": " weakness",
+          "start": 34.82,
+          "end": 35.84,
+          "probability": 0.9977839589118958
+        },
+        {
+          "word": " was",
+          "start": 35.84,
+          "end": 36.5,
+          "probability": 0.9931522607803345
+        },
+        {
+          "word": " that",
+          "start": 36.5,
+          "end": 36.84,
+          "probability": 0.9973873496055603
+        },
+        {
+          "word": " it",
+          "start": 36.84,
+          "end": 37.18,
+          "probability": 0.9897052645683289
+        },
+        {
+          "word": " was",
+          "start": 37.18,
+          "end": 37.76,
+          "probability": 0.9968384504318237
+        },
+        {
+          "word": " hard",
+          "start": 37.76,
+          "end": 38.24,
+          "probability": 0.8974496126174927
+        },
+        {
+          "word": " to",
+          "start": 38.24,
+          "end": 38.68,
+          "probability": 0.9971904158592224
+        },
+        {
+          "word": " be",
+          "start": 38.68,
+          "end": 39.18,
+          "probability": 0.6887502074241638
+        },
+        {
+          "word": " consumed.",
+          "start": 39.18,
+          "end": 39.83,
+          "probability": 0.9973340034484863
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2182,
+      "start": 41.92,
+      "end": 47.6,
+      "text": " At some point, one of these was ingested.",
+      "tokens": [
+        51364,
+        1711,
+        512,
+        935,
+        11,
+        472,
+        295,
+        613,
+        390,
+        3957,
+        21885,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10642932323699301,
+      "compression_ratio": 1.40625,
+      "no_speech_prob": 0.02271072193980217,
+      "words": [
+        {
+          "word": " At",
+          "start": 41.92,
+          "end": 42.6,
+          "probability": 0.9856765270233154
+        },
+        {
+          "word": " some",
+          "start": 42.6,
+          "end": 43.0,
+          "probability": 0.9964311122894287
+        },
+        {
+          "word": " point,",
+          "start": 43.0,
+          "end": 43.96,
+          "probability": 0.9978725910186768
+        },
+        {
+          "word": " one",
+          "start": 44.3,
+          "end": 44.74,
+          "probability": 0.9935947060585022
+        },
+        {
+          "word": " of",
+          "start": 44.74,
+          "end": 44.88,
+          "probability": 0.923967719078064
+        },
+        {
+          "word": " these",
+          "start": 44.88,
+          "end": 45.6,
+          "probability": 0.9900287985801697
+        },
+        {
+          "word": " was",
+          "start": 45.6,
+          "end": 46.3,
+          "probability": 0.9750670194625854
+        },
+        {
+          "word": " ingested.",
+          "start": 46.3,
+          "end": 47.6,
+          "probability": 0.9925965964794159
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 4760,
+      "start": 48.6,
+      "end": 56.28,
+      "text": " It combined and somehow merged with another organism",
+      "tokens": [
+        50414,
+        467,
+        9354,
+        293,
+        6063,
+        36427,
+        365,
+        1071,
+        24128,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17828019098802048,
+      "compression_ratio": 1.3858267716535433,
+      "no_speech_prob": 0.017936090007424355,
+      "words": [
+        {
+          "word": " It",
+          "start": 48.6,
+          "end": 49.92,
+          "probability": 0.26356860995292664
+        },
+        {
+          "word": " combined",
+          "start": 49.92,
+          "end": 50.92,
+          "probability": 0.7281069755554199
+        },
+        {
+          "word": " and",
+          "start": 50.92,
+          "end": 52.42,
+          "probability": 0.9225927591323853
+        },
+        {
+          "word": " somehow",
+          "start": 52.42,
+          "end": 52.96,
+          "probability": 0.7311567068099976
+        },
+        {
+          "word": " merged",
+          "start": 52.96,
+          "end": 53.68,
+          "probability": 0.9918883442878723
+        },
+        {
+          "word": " with",
+          "start": 53.68,
+          "end": 54.52,
+          "probability": 0.9797114729881287
+        },
+        {
+          "word": " another",
+          "start": 54.52,
+          "end": 55.3,
+          "probability": 0.9723936915397644
+        },
+        {
+          "word": " organism",
+          "start": 55.3,
+          "end": 56.28,
+          "probability": 0.9974597096443176
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 4760,
+      "start": 56.28,
+      "end": 65.06,
+      "text": " that had a harder casein, but was limited by this casein",
+      "tokens": [
+        50814,
+        300,
+        632,
+        257,
+        6081,
+        1389,
+        259,
+        11,
+        457,
+        390,
+        5567,
+        538,
+        341,
+        1389,
+        259,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17828019098802048,
+      "compression_ratio": 1.3858267716535433,
+      "no_speech_prob": 0.017936090007424355,
+      "words": [
+        {
+          "word": " that",
+          "start": 56.28,
+          "end": 57.6,
+          "probability": 0.8806893229484558
+        },
+        {
+          "word": " had",
+          "start": 57.6,
+          "end": 58.14,
+          "probability": 0.9942721128463745
+        },
+        {
+          "word": " a",
+          "start": 58.14,
+          "end": 58.64,
+          "probability": 0.9928037524223328
+        },
+        {
+          "word": " harder",
+          "start": 58.64,
+          "end": 59.14,
+          "probability": 0.3925650119781494
+        },
+        {
+          "word": " casein,",
+          "start": 59.14,
+          "end": 59.98,
+          "probability": 0.334223136305809
+        },
+        {
+          "word": " but",
+          "start": 60.94,
+          "end": 61.26,
+          "probability": 0.9902488589286804
+        },
+        {
+          "word": " was",
+          "start": 61.26,
+          "end": 61.56,
+          "probability": 0.5534964799880981
+        },
+        {
+          "word": " limited",
+          "start": 61.56,
+          "end": 62.44,
+          "probability": 0.9168862700462341
+        },
+        {
+          "word": " by",
+          "start": 62.44,
+          "end": 63.3,
+          "probability": 0.957946240901947
+        },
+        {
+          "word": " this",
+          "start": 63.3,
+          "end": 63.74,
+          "probability": 0.7680864930152893
+        },
+        {
+          "word": " casein",
+          "start": 63.74,
+          "end": 65.06,
+          "probability": 0.9941527545452118
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 4760,
+      "start": 65.06,
+      "end": 72.08,
+      "text": " and its smaller surface area as to how much food it could consume.",
+      "tokens": [
+        51214,
+        293,
+        1080,
+        4356,
+        3753,
+        1859,
+        382,
+        281,
+        577,
+        709,
+        1755,
+        309,
+        727,
+        14732,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17828019098802048,
+      "compression_ratio": 1.3858267716535433,
+      "no_speech_prob": 0.017936090007424355,
+      "words": [
+        {
+          "word": " and",
+          "start": 65.06,
+          "end": 66.0,
+          "probability": 0.5573911070823669
+        },
+        {
+          "word": " its",
+          "start": 66.0,
+          "end": 66.46,
+          "probability": 0.9297659993171692
+        },
+        {
+          "word": " smaller",
+          "start": 66.46,
+          "end": 66.98,
+          "probability": 0.8741030693054199
+        },
+        {
+          "word": " surface",
+          "start": 66.98,
+          "end": 67.62,
+          "probability": 0.996877908706665
+        },
+        {
+          "word": " area",
+          "start": 67.62,
+          "end": 68.44,
+          "probability": 0.9914450645446777
+        },
+        {
+          "word": " as",
+          "start": 68.44,
+          "end": 68.86,
+          "probability": 0.9736998081207275
+        },
+        {
+          "word": " to",
+          "start": 68.86,
+          "end": 69.16,
+          "probability": 0.9970880150794983
+        },
+        {
+          "word": " how",
+          "start": 69.16,
+          "end": 69.38,
+          "probability": 0.9970459342002869
+        },
+        {
+          "word": " much",
+          "start": 69.38,
+          "end": 69.86,
+          "probability": 0.9993059635162354
+        },
+        {
+          "word": " food",
+          "start": 69.86,
+          "end": 70.24,
+          "probability": 0.6917747855186462
+        },
+        {
+          "word": " it",
+          "start": 70.24,
+          "end": 70.98,
+          "probability": 0.9967620372772217
+        },
+        {
+          "word": " could",
+          "start": 70.98,
+          "end": 71.48,
+          "probability": 0.8920324444770813
+        },
+        {
+          "word": " consume.",
+          "start": 71.48,
+          "end": 72.08,
+          "probability": 0.9793983697891235
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 7208,
+      "start": 73.08,
+      "end": 78.02,
+      "text": " And so, the two combined their strength",
+      "tokens": [
+        50414,
+        400,
+        370,
+        11,
+        264,
+        732,
+        9354,
+        641,
+        3800,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11073525746663411,
+      "compression_ratio": 1.3741007194244603,
+      "no_speech_prob": 0.01726994477212429,
+      "words": [
+        {
+          "word": " And",
+          "start": 73.08,
+          "end": 74.06,
+          "probability": 0.4186817407608032
+        },
+        {
+          "word": " so,",
+          "start": 74.06,
+          "end": 74.94,
+          "probability": 0.9546782374382019
+        },
+        {
+          "word": " the",
+          "start": 75.3,
+          "end": 75.44,
+          "probability": 0.9862143397331238
+        },
+        {
+          "word": " two",
+          "start": 75.44,
+          "end": 75.9,
+          "probability": 0.9856323003768921
+        },
+        {
+          "word": " combined",
+          "start": 75.9,
+          "end": 76.84,
+          "probability": 0.9174410104751587
+        },
+        {
+          "word": " their",
+          "start": 76.84,
+          "end": 77.38,
+          "probability": 0.9907308220863342
+        },
+        {
+          "word": " strength",
+          "start": 77.38,
+          "end": 78.02,
+          "probability": 0.5628491640090942
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 7208,
+      "start": 78.02,
+      "end": 85.4,
+      "text": " and made their way better than either could have done in the video.",
+      "tokens": [
+        50664,
+        293,
+        1027,
+        641,
+        636,
+        1101,
+        813,
+        2139,
+        727,
+        362,
+        1096,
+        294,
+        264,
+        960,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11073525746663411,
+      "compression_ratio": 1.3741007194244603,
+      "no_speech_prob": 0.01726994477212429,
+      "words": [
+        {
+          "word": " and",
+          "start": 78.02,
+          "end": 78.82,
+          "probability": 0.7239436507225037
+        },
+        {
+          "word": " made",
+          "start": 78.82,
+          "end": 79.06,
+          "probability": 0.9780845642089844
+        },
+        {
+          "word": " their",
+          "start": 79.06,
+          "end": 79.42,
+          "probability": 0.9802775979042053
+        },
+        {
+          "word": " way",
+          "start": 79.42,
+          "end": 80.0,
+          "probability": 0.9961456060409546
+        },
+        {
+          "word": " better",
+          "start": 80.0,
+          "end": 81.06,
+          "probability": 0.8732183575630188
+        },
+        {
+          "word": " than",
+          "start": 81.06,
+          "end": 81.58,
+          "probability": 0.9498575329780579
+        },
+        {
+          "word": " either",
+          "start": 81.58,
+          "end": 82.32,
+          "probability": 0.9783244729042053
+        },
+        {
+          "word": " could",
+          "start": 82.32,
+          "end": 82.86,
+          "probability": 0.9775567650794983
+        },
+        {
+          "word": " have",
+          "start": 82.86,
+          "end": 83.32,
+          "probability": 0.9834427237510681
+        },
+        {
+          "word": " done",
+          "start": 83.32,
+          "end": 83.72,
+          "probability": 0.9925948977470398
+        },
+        {
+          "word": " in",
+          "start": 83.72,
+          "end": 84.26,
+          "probability": 0.7394033670425415
+        },
+        {
+          "word": " the",
+          "start": 84.26,
+          "end": 84.42,
+          "probability": 0.9922411441802979
+        },
+        {
+          "word": " video.",
+          "start": 84.42,
+          "end": 85.4,
+          "probability": 0.8717677593231201
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7208,
+      "start": 86.32,
+      "end": 92.08,
+      "text": " Evolving and mutating to this very day.",
+      "tokens": [
+        51064,
+        5689,
+        401,
+        798,
+        293,
+        5839,
+        990,
+        281,
+        341,
+        588,
+        786,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11073525746663411,
+      "compression_ratio": 1.3741007194244603,
+      "no_speech_prob": 0.01726994477212429,
+      "words": [
+        {
+          "word": " Evolving",
+          "start": 86.32,
+          "end": 87.58,
+          "probability": 0.9513799150784811
+        },
+        {
+          "word": " and",
+          "start": 87.58,
+          "end": 88.32,
+          "probability": 0.8972219228744507
+        },
+        {
+          "word": " mutating",
+          "start": 88.32,
+          "end": 89.74,
+          "probability": 0.9966234564781189
+        },
+        {
+          "word": " to",
+          "start": 89.74,
+          "end": 90.3,
+          "probability": 0.785653829574585
+        },
+        {
+          "word": " this",
+          "start": 90.3,
+          "end": 90.8,
+          "probability": 0.986467719078064
+        },
+        {
+          "word": " very",
+          "start": 90.8,
+          "end": 91.64,
+          "probability": 0.995872437953949
+        },
+        {
+          "word": " day.",
+          "start": 91.64,
+          "end": 92.33,
+          "probability": 0.9930590391159058
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7208,
+      "start": 93.92,
+      "end": 99.16,
+      "text": " That alien creature still lives within you.",
+      "tokens": [
+        51414,
+        663,
+        12319,
+        12797,
+        920,
+        2909,
+        1951,
+        291,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11073525746663411,
+      "compression_ratio": 1.3741007194244603,
+      "no_speech_prob": 0.01726994477212429,
+      "words": [
+        {
+          "word": " That",
+          "start": 93.92,
+          "end": 94.42,
+          "probability": 0.782477080821991
+        },
+        {
+          "word": " alien",
+          "start": 94.42,
+          "end": 95.3,
+          "probability": 0.9931922554969788
+        },
+        {
+          "word": " creature",
+          "start": 95.3,
+          "end": 96.3,
+          "probability": 0.9857396483421326
+        },
+        {
+          "word": " still",
+          "start": 96.3,
+          "end": 97.3,
+          "probability": 0.9522237777709961
+        },
+        {
+          "word": " lives",
+          "start": 97.3,
+          "end": 97.82,
+          "probability": 0.996295154094696
+        },
+        {
+          "word": " within",
+          "start": 97.82,
+          "end": 98.32,
+          "probability": 0.991460919380188
+        },
+        {
+          "word": " you.",
+          "start": 98.32,
+          "end": 99.16,
+          "probability": 0.9981141090393066
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 9916,
+      "start": 100.16,
+      "end": 104.06,
+      "text": " Perhaps you can feel it now.",
+      "tokens": [
+        50414,
+        10517,
+        291,
+        393,
+        841,
+        309,
+        586,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10646740595499675,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.02490120567381382,
+      "words": [
+        {
+          "word": " Perhaps",
+          "start": 100.16,
+          "end": 101.36,
+          "probability": 0.6095985174179077
+        },
+        {
+          "word": " you",
+          "start": 101.36,
+          "end": 101.68,
+          "probability": 0.9081705808639526
+        },
+        {
+          "word": " can",
+          "start": 101.68,
+          "end": 102.12,
+          "probability": 0.9952154159545898
+        },
+        {
+          "word": " feel",
+          "start": 102.12,
+          "end": 102.5,
+          "probability": 0.994125247001648
+        },
+        {
+          "word": " it",
+          "start": 102.5,
+          "end": 103.18,
+          "probability": 0.9875224232673645
+        },
+        {
+          "word": " now.",
+          "start": 103.18,
+          "end": 104.06,
+          "probability": 0.9172749519348145
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 9916,
+      "start": 104.76,
+      "end": 112.8,
+      "text": " It has more neurotransmitters and is older than your brain.",
+      "tokens": [
+        50614,
+        467,
+        575,
+        544,
+        43286,
+        25392,
+        3508,
+        1559,
+        293,
+        307,
+        4906,
+        813,
+        428,
+        3567,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10646740595499675,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.02490120567381382,
+      "words": [
+        {
+          "word": " It",
+          "start": 104.76,
+          "end": 105.18,
+          "probability": 0.9771190285682678
+        },
+        {
+          "word": " has",
+          "start": 105.18,
+          "end": 105.68,
+          "probability": 0.9956647753715515
+        },
+        {
+          "word": " more",
+          "start": 105.68,
+          "end": 106.38,
+          "probability": 0.9645618200302124
+        },
+        {
+          "word": " neurotransmitters",
+          "start": 106.38,
+          "end": 108.22,
+          "probability": 0.9860869497060776
+        },
+        {
+          "word": " and",
+          "start": 108.22,
+          "end": 109.56,
+          "probability": 0.6389609575271606
+        },
+        {
+          "word": " is",
+          "start": 109.56,
+          "end": 109.92,
+          "probability": 0.9740918278694153
+        },
+        {
+          "word": " older",
+          "start": 109.92,
+          "end": 110.56,
+          "probability": 0.9932761192321777
+        },
+        {
+          "word": " than",
+          "start": 110.56,
+          "end": 111.72,
+          "probability": 0.9767728447914124
+        },
+        {
+          "word": " your",
+          "start": 111.72,
+          "end": 112.34,
+          "probability": 0.9881581664085388
+        },
+        {
+          "word": " brain.",
+          "start": 112.34,
+          "end": 112.8,
+          "probability": 0.9980825185775757
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 9916,
+      "start": 114.26,
+      "end": 122.26,
+      "text": " It is wise, ancient, and most of all, it wants to live.",
+      "tokens": [
+        51114,
+        467,
+        307,
+        10829,
+        11,
+        7832,
+        11,
+        293,
+        881,
+        295,
+        439,
+        11,
+        309,
+        2738,
+        281,
+        1621,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10646740595499675,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.02490120567381382,
+      "words": [
+        {
+          "word": " It",
+          "start": 114.26,
+          "end": 114.42,
+          "probability": 0.9871180057525635
+        },
+        {
+          "word": " is",
+          "start": 114.42,
+          "end": 114.86,
+          "probability": 0.9919041991233826
+        },
+        {
+          "word": " wise,",
+          "start": 114.86,
+          "end": 116.02,
+          "probability": 0.9873226284980774
+        },
+        {
+          "word": " ancient,",
+          "start": 116.82,
+          "end": 117.74,
+          "probability": 0.9936301112174988
+        },
+        {
+          "word": " and",
+          "start": 118.66,
+          "end": 118.76,
+          "probability": 0.9890260100364685
+        },
+        {
+          "word": " most",
+          "start": 118.76,
+          "end": 119.26,
+          "probability": 0.9521343111991882
+        },
+        {
+          "word": " of",
+          "start": 119.26,
+          "end": 119.6,
+          "probability": 0.9973650574684143
+        },
+        {
+          "word": " all,",
+          "start": 119.6,
+          "end": 120.26,
+          "probability": 0.9988731741905212
+        },
+        {
+          "word": " it",
+          "start": 120.62,
+          "end": 120.8,
+          "probability": 0.9924262762069702
+        },
+        {
+          "word": " wants",
+          "start": 120.8,
+          "end": 121.24,
+          "probability": 0.9953814744949341
+        },
+        {
+          "word": " to",
+          "start": 121.24,
+          "end": 121.66,
+          "probability": 0.9993982315063477
+        },
+        {
+          "word": " live.",
+          "start": 121.66,
+          "end": 122.26,
+          "probability": 0.9931857585906982
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 12226,
+      "start": 123.26,
+      "end": 134.88,
+      "text": " While you are dreaming, indulging in grandiose fantasies of love, prosperity, fame,",
+      "tokens": [
+        50414,
+        3987,
+        291,
+        366,
+        21475,
+        11,
+        28626,
+        3249,
+        294,
+        45155,
+        541,
+        31255,
+        530,
+        295,
+        959,
+        11,
+        22434,
+        11,
+        16874,
+        11,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18108970560926071,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.01194815058261156,
+      "words": [
+        {
+          "word": " While",
+          "start": 123.26,
+          "end": 124.54,
+          "probability": 0.7566191554069519
+        },
+        {
+          "word": " you",
+          "start": 124.54,
+          "end": 124.86,
+          "probability": 0.976995587348938
+        },
+        {
+          "word": " are",
+          "start": 124.86,
+          "end": 125.08,
+          "probability": 0.783936619758606
+        },
+        {
+          "word": " dreaming,",
+          "start": 125.08,
+          "end": 126.2,
+          "probability": 0.9957452416419983
+        },
+        {
+          "word": " indulging",
+          "start": 127.02,
+          "end": 127.86,
+          "probability": 0.885431170463562
+        },
+        {
+          "word": " in",
+          "start": 127.86,
+          "end": 128.34,
+          "probability": 0.9847816228866577
+        },
+        {
+          "word": " grandiose",
+          "start": 128.34,
+          "end": 129.44,
+          "probability": 0.9764260351657867
+        },
+        {
+          "word": " fantasies",
+          "start": 129.44,
+          "end": 130.54,
+          "probability": 0.9969089925289154
+        },
+        {
+          "word": " of",
+          "start": 130.54,
+          "end": 130.9,
+          "probability": 0.9886600971221924
+        },
+        {
+          "word": " love,",
+          "start": 130.9,
+          "end": 131.7,
+          "probability": 0.9881485104560852
+        },
+        {
+          "word": " prosperity,",
+          "start": 132.48,
+          "end": 133.34,
+          "probability": 0.9647331237792969
+        },
+        {
+          "word": " fame,",
+          "start": 134.24,
+          "end": 134.88,
+          "probability": 0.9948598146438599
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 12226,
+      "start": 136.52,
+      "end": 140.62,
+      "text": " your gut is right there at the core face,",
+      "tokens": [
+        51014,
+        428,
+        5228,
+        307,
+        558,
+        456,
+        412,
+        264,
+        4965,
+        1851,
+        11,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18108970560926071,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.01194815058261156,
+      "words": [
+        {
+          "word": " your",
+          "start": 136.52,
+          "end": 136.7,
+          "probability": 0.8760420680046082
+        },
+        {
+          "word": " gut",
+          "start": 136.7,
+          "end": 137.14,
+          "probability": 0.9625117778778076
+        },
+        {
+          "word": " is",
+          "start": 137.14,
+          "end": 137.54,
+          "probability": 0.9913179874420166
+        },
+        {
+          "word": " right",
+          "start": 137.54,
+          "end": 137.98,
+          "probability": 0.9952587485313416
+        },
+        {
+          "word": " there",
+          "start": 137.98,
+          "end": 138.58,
+          "probability": 0.9921718835830688
+        },
+        {
+          "word": " at",
+          "start": 138.58,
+          "end": 139.22,
+          "probability": 0.7337799668312073
+        },
+        {
+          "word": " the",
+          "start": 139.22,
+          "end": 139.5,
+          "probability": 0.9909029603004456
+        },
+        {
+          "word": " core",
+          "start": 139.5,
+          "end": 139.84,
+          "probability": 0.17899413406848907
+        },
+        {
+          "word": " face,",
+          "start": 139.84,
+          "end": 140.62,
+          "probability": 0.3429493308067322
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 12226,
+      "start": 140.96,
+      "end": 147.6,
+      "text": " processing the outside world in a very intimate fashion.",
+      "tokens": [
+        51264,
+        9007,
+        264,
+        2380,
+        1002,
+        294,
+        257,
+        588,
+        20215,
+        6700,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18108970560926071,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.01194815058261156,
+      "words": [
+        {
+          "word": " processing",
+          "start": 140.96,
+          "end": 141.9,
+          "probability": 0.9881536364555359
+        },
+        {
+          "word": " the",
+          "start": 141.9,
+          "end": 142.62,
+          "probability": 0.9972735047340393
+        },
+        {
+          "word": " outside",
+          "start": 142.62,
+          "end": 143.5,
+          "probability": 0.9944835305213928
+        },
+        {
+          "word": " world",
+          "start": 143.5,
+          "end": 144.14,
+          "probability": 0.9981731176376343
+        },
+        {
+          "word": " in",
+          "start": 144.14,
+          "end": 144.72,
+          "probability": 0.9844207167625427
+        },
+        {
+          "word": " a",
+          "start": 144.72,
+          "end": 144.84,
+          "probability": 0.9900705218315125
+        },
+        {
+          "word": " very",
+          "start": 144.84,
+          "end": 145.72,
+          "probability": 0.9986180067062378
+        },
+        {
+          "word": " intimate",
+          "start": 145.72,
+          "end": 146.64,
+          "probability": 0.9809586405754089
+        },
+        {
+          "word": " fashion.",
+          "start": 146.64,
+          "end": 147.6,
+          "probability": 0.99934321641922
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 14760,
+      "start": 148.6,
+      "end": 158.06,
+      "text": " You, you, your feet barely touch the ground,",
+      "tokens": [
+        50414,
+        509,
+        11,
+        291,
+        11,
+        428,
+        3521,
+        10268,
+        2557,
+        264,
+        2727,
+        11,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12862905434199742,
+      "compression_ratio": 1.1264367816091954,
+      "no_speech_prob": 0.010233386419713497,
+      "words": [
+        {
+          "word": " You,",
+          "start": 148.6,
+          "end": 150.02,
+          "probability": 0.7468810677528381
+        },
+        {
+          "word": " you,",
+          "start": 150.6,
+          "end": 152.14,
+          "probability": 0.910400927066803
+        },
+        {
+          "word": " your",
+          "start": 154.16,
+          "end": 154.36,
+          "probability": 0.9148901104927063
+        },
+        {
+          "word": " feet",
+          "start": 154.36,
+          "end": 155.14,
+          "probability": 0.9768912196159363
+        },
+        {
+          "word": " barely",
+          "start": 155.14,
+          "end": 155.8,
+          "probability": 0.839728593826294
+        },
+        {
+          "word": " touch",
+          "start": 155.8,
+          "end": 156.52,
+          "probability": 0.9546376466751099
+        },
+        {
+          "word": " the",
+          "start": 156.52,
+          "end": 156.88,
+          "probability": 0.998129665851593
+        },
+        {
+          "word": " ground,",
+          "start": 156.88,
+          "end": 158.06,
+          "probability": 0.9988569021224976
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 14760,
+      "start": 158.94,
+      "end": 167.28,
+      "text": " living in abstract realms as a disembodied intellect.",
+      "tokens": [
+        50864,
+        2647,
+        294,
+        12649,
+        42824,
+        382,
+        257,
+        717,
+        33748,
+        378,
+        1091,
+        10058,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12862905434199742,
+      "compression_ratio": 1.1264367816091954,
+      "no_speech_prob": 0.010233386419713497,
+      "words": [
+        {
+          "word": " living",
+          "start": 158.94,
+          "end": 159.38,
+          "probability": 0.8833569288253784
+        },
+        {
+          "word": " in",
+          "start": 159.38,
+          "end": 159.84,
+          "probability": 0.9903136491775513
+        },
+        {
+          "word": " abstract",
+          "start": 159.84,
+          "end": 160.78,
+          "probability": 0.9508599042892456
+        },
+        {
+          "word": " realms",
+          "start": 160.78,
+          "end": 161.74,
+          "probability": 0.9091230034828186
+        },
+        {
+          "word": " as",
+          "start": 161.74,
+          "end": 164.56,
+          "probability": 0.643304169178009
+        },
+        {
+          "word": " a",
+          "start": 164.56,
+          "end": 164.86,
+          "probability": 0.9925538897514343
+        },
+        {
+          "word": " disembodied",
+          "start": 164.86,
+          "end": 166.24,
+          "probability": 0.9936846792697906
+        },
+        {
+          "word": " intellect.",
+          "start": 166.24,
+          "end": 167.28,
+          "probability": 0.9733311533927917
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 17760,
+      "start": 204.78,
+      "end": 207.58,
+      "text": " You, you, your feet barely touch the ground,",
+      "tokens": [
+        50364,
+        509,
+        11,
+        291,
+        11,
+        428,
+        3521,
+        10268,
+        2557,
+        264,
+        2727,
+        11,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3092869349888393,
+      "compression_ratio": 1.1264367816091954,
+      "no_speech_prob": 0.9503886103630066,
+      "words": [
+        {
+          "word": " You,",
+          "start": 204.78,
+          "end": 206.18,
+          "probability": 0.007278066594153643
+        },
+        {
+          "word": " you,",
+          "start": 206.18,
+          "end": 207.58,
+          "probability": 0.24259920418262482
+        },
+        {
+          "word": " your",
+          "start": 207.58,
+          "end": 207.58,
+          "probability": 0.0012169035617262125
+        },
+        {
+          "word": " feet",
+          "start": 207.58,
+          "end": 207.58,
+          "probability": 0.001933289342559874
+        },
+        {
+          "word": " barely",
+          "start": 207.58,
+          "end": 207.58,
+          "probability": 3.0498558771796525e-05
+        },
+        {
+          "word": " touch",
+          "start": 207.58,
+          "end": 207.58,
+          "probability": 0.148385152220726
+        },
+        {
+          "word": " the",
+          "start": 207.58,
+          "end": 207.58,
+          "probability": 0.508040189743042
+        },
+        {
+          "word": " ground,",
+          "start": 207.58,
+          "end": 207.58,
+          "probability": 0.8304064869880676
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 17760,
+      "start": 207.58,
+      "end": 207.58,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.3092869349888393,
+      "compression_ratio": 1.1264367816091954,
+      "no_speech_prob": 0.9503886103630066,
+      "words": []
+    },
+    {
+      "id": 24,
+      "seek": 20760,
+      "start": 207.6,
+      "end": 209.52,
+      "text": " you",
+      "tokens": [
+        50414,
+        291,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7699738144874573,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.8983515501022339,
+      "words": [
+        {
+          "word": " you",
+          "start": 207.6,
+          "end": 209.52,
+          "probability": 0.227960467338562
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

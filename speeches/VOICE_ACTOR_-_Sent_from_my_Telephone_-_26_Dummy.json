@@ -1,0 +1,540 @@
+{
+  "text": " taki converted My patience I jumped over you You told me what to do I jumped over and fell in you What to do My friends were right They saw it coming What have you done to me What have you done to me Thanks for watching!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 28.560000000000002,
+      "end": 29.96,
+      "text": " taki",
+      "tokens": [
+        50364,
+        20065,
+        51146
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.805269718170166,
+      "compression_ratio": 0.6363636363636364,
+      "no_speech_prob": 0.2570284605026245,
+      "words": [
+        {
+          "word": " taki",
+          "start": 28.560000000000002,
+          "end": 29.96,
+          "probability": 1.0086408792631119e-06
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 29.96,
+      "end": 29.98,
+      "text": " converted",
+      "tokens": [
+        51146,
+        16424,
+        51661
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.805269718170166,
+      "compression_ratio": 0.6363636363636364,
+      "no_speech_prob": 0.2570284605026245,
+      "words": [
+        {
+          "word": " converted",
+          "start": 29.96,
+          "end": 29.98,
+          "probability": 4.491298113862285e-06
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2998,
+      "start": 29.98,
+      "end": 31.98,
+      "text": " My patience",
+      "tokens": [
+        50364,
+        1222,
+        14826,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.605673230927566,
+      "compression_ratio": 1.1388888888888888,
+      "no_speech_prob": 0.32122915983200073,
+      "words": [
+        {
+          "word": " My",
+          "start": 29.98,
+          "end": 30.9,
+          "probability": 0.08666307479143143
+        },
+        {
+          "word": " patience",
+          "start": 30.9,
+          "end": 31.98,
+          "probability": 0.30708083510398865
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2998,
+      "start": 44.980000000000004,
+      "end": 48.48,
+      "text": " I jumped over you",
+      "tokens": [
+        51114,
+        286,
+        13864,
+        670,
+        291,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.605673230927566,
+      "compression_ratio": 1.1388888888888888,
+      "no_speech_prob": 0.32122915983200073,
+      "words": [
+        {
+          "word": " I",
+          "start": 44.980000000000004,
+          "end": 45.78,
+          "probability": 0.4691385328769684
+        },
+        {
+          "word": " jumped",
+          "start": 45.78,
+          "end": 46.56,
+          "probability": 0.5626237392425537
+        },
+        {
+          "word": " over",
+          "start": 46.56,
+          "end": 47.24,
+          "probability": 0.6133342981338501
+        },
+        {
+          "word": " you",
+          "start": 47.24,
+          "end": 48.48,
+          "probability": 0.9154585003852844
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2998,
+      "start": 48.980000000000004,
+      "end": 52.38,
+      "text": " You told me what to do",
+      "tokens": [
+        51314,
+        509,
+        1907,
+        385,
+        437,
+        281,
+        360,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.605673230927566,
+      "compression_ratio": 1.1388888888888888,
+      "no_speech_prob": 0.32122915983200073,
+      "words": [
+        {
+          "word": " You",
+          "start": 48.739999999999995,
+          "end": 49.42,
+          "probability": 0.8342836499214172
+        },
+        {
+          "word": " told",
+          "start": 49.42,
+          "end": 49.88,
+          "probability": 0.9684375524520874
+        },
+        {
+          "word": " me",
+          "start": 49.88,
+          "end": 50.48,
+          "probability": 0.9976041913032532
+        },
+        {
+          "word": " what",
+          "start": 50.48,
+          "end": 51.04,
+          "probability": 0.9935615062713623
+        },
+        {
+          "word": " to",
+          "start": 51.04,
+          "end": 51.54,
+          "probability": 0.9960337281227112
+        },
+        {
+          "word": " do",
+          "start": 51.54,
+          "end": 52.38,
+          "probability": 0.9994446635246277
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2998,
+      "start": 52.38,
+      "end": 55.980000000000004,
+      "text": " I jumped over and fell in you",
+      "tokens": [
+        51464,
+        286,
+        13864,
+        670,
+        293,
+        5696,
+        294,
+        291,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.605673230927566,
+      "compression_ratio": 1.1388888888888888,
+      "no_speech_prob": 0.32122915983200073,
+      "words": [
+        {
+          "word": " I",
+          "start": 52.38,
+          "end": 53.18,
+          "probability": 0.9680235981941223
+        },
+        {
+          "word": " jumped",
+          "start": 53.18,
+          "end": 53.82,
+          "probability": 0.8893204927444458
+        },
+        {
+          "word": " over",
+          "start": 53.82,
+          "end": 54.5,
+          "probability": 0.622530996799469
+        },
+        {
+          "word": " and",
+          "start": 54.5,
+          "end": 55.12,
+          "probability": 0.34570595622062683
+        },
+        {
+          "word": " fell",
+          "start": 55.12,
+          "end": 55.58,
+          "probability": 0.08195377141237259
+        },
+        {
+          "word": " in",
+          "start": 55.58,
+          "end": 55.92,
+          "probability": 0.7195937633514404
+        },
+        {
+          "word": " you",
+          "start": 55.92,
+          "end": 56.60000000000001,
+          "probability": 0.270394891500473
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 5660,
+      "start": 57.6,
+      "end": 60.08,
+      "text": " What to do",
+      "tokens": [
+        50414,
+        708,
+        281,
+        360,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2406142739688649,
+      "compression_ratio": 1.3116883116883118,
+      "no_speech_prob": 0.018421242013573647,
+      "words": [
+        {
+          "word": " What",
+          "start": 57.6,
+          "end": 59.28,
+          "probability": 0.11144551634788513
+        },
+        {
+          "word": " to",
+          "start": 59.28,
+          "end": 59.62,
+          "probability": 0.03837675601243973
+        },
+        {
+          "word": " do",
+          "start": 59.62,
+          "end": 60.08,
+          "probability": 0.9342722296714783
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5660,
+      "start": 62.440000000000005,
+      "end": 66.88,
+      "text": " My friends were right",
+      "tokens": [
+        50664,
+        1222,
+        1855,
+        645,
+        558,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2406142739688649,
+      "compression_ratio": 1.3116883116883118,
+      "no_speech_prob": 0.018421242013573647,
+      "words": [
+        {
+          "word": " My",
+          "start": 62.440000000000005,
+          "end": 63.84,
+          "probability": 0.04372690990567207
+        },
+        {
+          "word": " friends",
+          "start": 63.84,
+          "end": 64.82,
+          "probability": 0.979705274105072
+        },
+        {
+          "word": " were",
+          "start": 64.82,
+          "end": 65.74,
+          "probability": 0.9171181321144104
+        },
+        {
+          "word": " right",
+          "start": 65.74,
+          "end": 66.88,
+          "probability": 0.950838565826416
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5660,
+      "start": 66.88,
+      "end": 70.8,
+      "text": " They saw it coming",
+      "tokens": [
+        50864,
+        814,
+        1866,
+        309,
+        1348,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2406142739688649,
+      "compression_ratio": 1.3116883116883118,
+      "no_speech_prob": 0.018421242013573647,
+      "words": [
+        {
+          "word": " They",
+          "start": 66.88,
+          "end": 68.0,
+          "probability": 0.8431446552276611
+        },
+        {
+          "word": " saw",
+          "start": 68.0,
+          "end": 68.54,
+          "probability": 0.9065476059913635
+        },
+        {
+          "word": " it",
+          "start": 68.54,
+          "end": 69.58,
+          "probability": 0.9920946955680847
+        },
+        {
+          "word": " coming",
+          "start": 69.58,
+          "end": 70.8,
+          "probability": 0.9857664108276367
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5660,
+      "start": 71.6,
+      "end": 75.66,
+      "text": " What have you done to me",
+      "tokens": [
+        51114,
+        708,
+        362,
+        291,
+        1096,
+        281,
+        385,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2406142739688649,
+      "compression_ratio": 1.3116883116883118,
+      "no_speech_prob": 0.018421242013573647,
+      "words": [
+        {
+          "word": " What",
+          "start": 71.6,
+          "end": 72.88,
+          "probability": 0.9286714792251587
+        },
+        {
+          "word": " have",
+          "start": 72.88,
+          "end": 73.38,
+          "probability": 0.0803791880607605
+        },
+        {
+          "word": " you",
+          "start": 73.38,
+          "end": 73.38,
+          "probability": 0.978401243686676
+        },
+        {
+          "word": " done",
+          "start": 73.38,
+          "end": 73.82,
+          "probability": 0.9843708872795105
+        },
+        {
+          "word": " to",
+          "start": 73.82,
+          "end": 75.66,
+          "probability": 0.9403839707374573
+        },
+        {
+          "word": " me",
+          "start": 75.66,
+          "end": 75.66,
+          "probability": 0.9991074204444885
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5660,
+      "start": 75.66,
+      "end": 78.6,
+      "text": " What have you done to me",
+      "tokens": [
+        51314,
+        708,
+        362,
+        291,
+        1096,
+        281,
+        385,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2406142739688649,
+      "compression_ratio": 1.3116883116883118,
+      "no_speech_prob": 0.018421242013573647,
+      "words": [
+        {
+          "word": " What",
+          "start": 75.66,
+          "end": 76.52,
+          "probability": 0.5144763588905334
+        },
+        {
+          "word": " have",
+          "start": 76.52,
+          "end": 76.78,
+          "probability": 0.8876935243606567
+        },
+        {
+          "word": " you",
+          "start": 76.78,
+          "end": 77.14,
+          "probability": 0.994579553604126
+        },
+        {
+          "word": " done",
+          "start": 77.14,
+          "end": 77.68,
+          "probability": 0.9996803998947144
+        },
+        {
+          "word": " to",
+          "start": 77.68,
+          "end": 77.9,
+          "probability": 0.9820990562438965
+        },
+        {
+          "word": " me",
+          "start": 77.9,
+          "end": 78.6,
+          "probability": 0.9997218251228333
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 8660,
+      "start": 87.75999999999999,
+      "end": 87.84,
+      "text": " Thanks for watching!",
+      "tokens": [
+        50414,
+        2561,
+        337,
+        1976,
+        0,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.814560958317348,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.9003441333770752,
+      "words": [
+        {
+          "word": " Thanks",
+          "start": 87.75999999999999,
+          "end": 87.8,
+          "probability": 0.013838918879628181
+        },
+        {
+          "word": " for",
+          "start": 87.8,
+          "end": 87.82,
+          "probability": 0.7631469964981079
+        },
+        {
+          "word": " watching!",
+          "start": 87.82,
+          "end": 87.84,
+          "probability": 0.9165042042732239
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,748 @@
+{
+  "text": " picked up by ringing Dead stars, still glowing, growing apart Fast glistening, we are withering out Starbeam, a flickering light, memory, amazing part I can't figure you out, you're messing it up Starbeam, a flickering light, memory, amazing part I can't figure you out, you're messing it up You're messing it up Starbeam, a flickering light, I can't figure you out You're messing it up You're messing it up Thanks for watching!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 29.98,
+      "text": " picked up by ringing",
+      "tokens": [
+        50364,
+        6183,
+        493,
+        538,
+        18423,
+        51854
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.426063299179077,
+      "compression_ratio": 0.7692307692307693,
+      "no_speech_prob": 0.25979164242744446,
+      "words": [
+        {
+          "word": " picked",
+          "start": 0.0,
+          "end": 0.0,
+          "probability": 8.564279596612323e-06
+        },
+        {
+          "word": " up",
+          "start": 0.0,
+          "end": 28.62,
+          "probability": 0.7024632096290588
+        },
+        {
+          "word": " by",
+          "start": 28.62,
+          "end": 29.98,
+          "probability": 0.16617491841316223
+        },
+        {
+          "word": " ringing",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.0008814571192488074
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2998,
+      "start": 33.52,
+      "end": 50.34,
+      "text": " Dead stars, still glowing, growing apart",
+      "tokens": [
+        50364,
+        12550,
+        6105,
+        11,
+        920,
+        27064,
+        11,
+        4194,
+        4936,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4752108653386434,
+      "compression_ratio": 0.9302325581395349,
+      "no_speech_prob": 0.22109158337116241,
+      "words": [
+        {
+          "word": " Dead",
+          "start": 33.52,
+          "end": 34.92,
+          "probability": 0.6943277716636658
+        },
+        {
+          "word": " stars,",
+          "start": 34.92,
+          "end": 36.32,
+          "probability": 0.9288654327392578
+        },
+        {
+          "word": " still",
+          "start": 37.52,
+          "end": 38.98,
+          "probability": 0.8819646239280701
+        },
+        {
+          "word": " glowing,",
+          "start": 38.98,
+          "end": 40.96,
+          "probability": 0.9577421545982361
+        },
+        {
+          "word": " growing",
+          "start": 43.7,
+          "end": 45.34,
+          "probability": 0.9460691809654236
+        },
+        {
+          "word": " apart",
+          "start": 45.34,
+          "end": 50.34,
+          "probability": 0.9366321563720703
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 5034,
+      "start": 53.260000000000005,
+      "end": 60.34,
+      "text": " Fast glistening, we are withering out",
+      "tokens": [
+        50414,
+        15968,
+        1563,
+        468,
+        4559,
+        11,
+        321,
+        366,
+        365,
+        1794,
+        484,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30565316336495535,
+      "compression_ratio": 0.8409090909090909,
+      "no_speech_prob": 0.014404903165996075,
+      "words": [
+        {
+          "word": " Fast",
+          "start": 53.260000000000005,
+          "end": 54.660000000000004,
+          "probability": 0.40587303042411804
+        },
+        {
+          "word": " glistening,",
+          "start": 54.660000000000004,
+          "end": 56.06,
+          "probability": 0.8045042554537455
+        },
+        {
+          "word": " we",
+          "start": 57.0,
+          "end": 57.46,
+          "probability": 0.9663165807723999
+        },
+        {
+          "word": " are",
+          "start": 57.46,
+          "end": 57.94,
+          "probability": 0.854395866394043
+        },
+        {
+          "word": " withering",
+          "start": 57.94,
+          "end": 59.02,
+          "probability": 0.8823100626468658
+        },
+        {
+          "word": " out",
+          "start": 59.02,
+          "end": 60.34,
+          "probability": 0.8485883474349976
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 6034,
+      "start": 70.88,
+      "end": 80.78,
+      "text": " Starbeam, a flickering light, memory, amazing part",
+      "tokens": [
+        50364,
+        5705,
+        650,
+        335,
+        11,
+        257,
+        22774,
+        1794,
+        1442,
+        11,
+        4675,
+        11,
+        2243,
+        644,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4543810171239516,
+      "compression_ratio": 0.9259259259259259,
+      "no_speech_prob": 0.017589842900633812,
+      "words": [
+        {
+          "word": " Starbeam,",
+          "start": 70.88,
+          "end": 72.28,
+          "probability": 0.6083848973115286
+        },
+        {
+          "word": " a",
+          "start": 72.74,
+          "end": 72.88,
+          "probability": 0.28777167201042175
+        },
+        {
+          "word": " flickering",
+          "start": 72.88,
+          "end": 73.96,
+          "probability": 0.9958131313323975
+        },
+        {
+          "word": " light,",
+          "start": 73.96,
+          "end": 75.0,
+          "probability": 0.9497589468955994
+        },
+        {
+          "word": " memory,",
+          "start": 75.52,
+          "end": 77.18,
+          "probability": 0.6838263869285583
+        },
+        {
+          "word": " amazing",
+          "start": 78.6,
+          "end": 79.12,
+          "probability": 0.34430810809135437
+        },
+        {
+          "word": " part",
+          "start": 79.12,
+          "end": 80.78,
+          "probability": 0.3538080155849457
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 8078,
+      "start": 80.78,
+      "end": 90.78,
+      "text": " I can't figure you out, you're messing it up",
+      "tokens": [
+        50364,
+        286,
+        393,
+        380,
+        2573,
+        291,
+        484,
+        11,
+        291,
+        434,
+        23258,
+        309,
+        493,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09679199034167875,
+      "compression_ratio": 1.1046511627906976,
+      "no_speech_prob": 0.195832759141922,
+      "words": [
+        {
+          "word": " I",
+          "start": 80.78,
+          "end": 82.68,
+          "probability": 0.20011426508426666
+        },
+        {
+          "word": " can't",
+          "start": 82.68,
+          "end": 83.64,
+          "probability": 0.9266631007194519
+        },
+        {
+          "word": " figure",
+          "start": 83.64,
+          "end": 84.18,
+          "probability": 0.9949230551719666
+        },
+        {
+          "word": " you",
+          "start": 84.18,
+          "end": 85.18,
+          "probability": 0.9921912550926208
+        },
+        {
+          "word": " out,",
+          "start": 85.18,
+          "end": 86.54,
+          "probability": 0.9949473142623901
+        },
+        {
+          "word": " you're",
+          "start": 87.38,
+          "end": 87.84,
+          "probability": 0.8997986316680908
+        },
+        {
+          "word": " messing",
+          "start": 87.84,
+          "end": 88.42,
+          "probability": 0.9904057383537292
+        },
+        {
+          "word": " it",
+          "start": 88.42,
+          "end": 89.24,
+          "probability": 0.9891234040260315
+        },
+        {
+          "word": " up",
+          "start": 89.24,
+          "end": 90.78,
+          "probability": 0.9984279870986938
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 8078,
+      "start": 93.75999999999999,
+      "end": 103.44,
+      "text": " Starbeam, a flickering light, memory, amazing part",
+      "tokens": [
+        50914,
+        5705,
+        650,
+        335,
+        11,
+        257,
+        22774,
+        1794,
+        1442,
+        11,
+        4675,
+        11,
+        2243,
+        644,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09679199034167875,
+      "compression_ratio": 1.1046511627906976,
+      "no_speech_prob": 0.195832759141922,
+      "words": [
+        {
+          "word": " Starbeam,",
+          "start": 93.75999999999999,
+          "end": 95.16,
+          "probability": 0.4695713097850482
+        },
+        {
+          "word": " a",
+          "start": 95.58,
+          "end": 95.84,
+          "probability": 0.18181125819683075
+        },
+        {
+          "word": " flickering",
+          "start": 95.84,
+          "end": 97.02,
+          "probability": 0.8174676299095154
+        },
+        {
+          "word": " light,",
+          "start": 97.02,
+          "end": 97.9,
+          "probability": 0.9304958581924438
+        },
+        {
+          "word": " memory,",
+          "start": 98.52,
+          "end": 99.78,
+          "probability": 0.8742693066596985
+        },
+        {
+          "word": " amazing",
+          "start": 101.1,
+          "end": 101.86,
+          "probability": 0.12507249414920807
+        },
+        {
+          "word": " part",
+          "start": 101.86,
+          "end": 103.44,
+          "probability": 0.0022488280665129423
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 10344,
+      "start": 103.44,
+      "end": 112.78,
+      "text": " I can't figure you out, you're messing it up",
+      "tokens": [
+        50364,
+        286,
+        393,
+        380,
+        2573,
+        291,
+        484,
+        11,
+        291,
+        434,
+        23258,
+        309,
+        493,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11965472047979181,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.25862839818000793,
+      "words": [
+        {
+          "word": " I",
+          "start": 103.44,
+          "end": 105.42,
+          "probability": 0.5163912773132324
+        },
+        {
+          "word": " can't",
+          "start": 105.42,
+          "end": 106.42,
+          "probability": 0.942258894443512
+        },
+        {
+          "word": " figure",
+          "start": 106.42,
+          "end": 106.9,
+          "probability": 0.9718046188354492
+        },
+        {
+          "word": " you",
+          "start": 106.9,
+          "end": 107.66,
+          "probability": 0.8767213821411133
+        },
+        {
+          "word": " out,",
+          "start": 107.66,
+          "end": 108.62,
+          "probability": 0.9985007047653198
+        },
+        {
+          "word": " you're",
+          "start": 108.62,
+          "end": 110.04,
+          "probability": 0.9106073975563049
+        },
+        {
+          "word": " messing",
+          "start": 110.04,
+          "end": 110.54,
+          "probability": 0.9951744675636292
+        },
+        {
+          "word": " it",
+          "start": 110.54,
+          "end": 111.42,
+          "probability": 0.987008273601532
+        },
+        {
+          "word": " up",
+          "start": 111.42,
+          "end": 112.78,
+          "probability": 0.9986794590950012
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 10344,
+      "start": 113.44,
+      "end": 117.74,
+      "text": " You're messing it up",
+      "tokens": [
+        50864,
+        509,
+        434,
+        23258,
+        309,
+        493,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11965472047979181,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.25862839818000793,
+      "words": [
+        {
+          "word": " You're",
+          "start": 113.44,
+          "end": 114.68,
+          "probability": 0.6791820079088211
+        },
+        {
+          "word": " messing",
+          "start": 114.68,
+          "end": 115.38,
+          "probability": 0.9915607571601868
+        },
+        {
+          "word": " it",
+          "start": 115.38,
+          "end": 116.22,
+          "probability": 0.9986704587936401
+        },
+        {
+          "word": " up",
+          "start": 116.22,
+          "end": 117.74,
+          "probability": 0.9994993209838867
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 13344,
+      "start": 140.66,
+      "end": 149.14,
+      "text": " Starbeam, a flickering light, I can't figure you out",
+      "tokens": [
+        50364,
+        5705,
+        650,
+        335,
+        11,
+        257,
+        22774,
+        1794,
+        1442,
+        11,
+        286,
+        393,
+        380,
+        2573,
+        291,
+        484,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1470932960510254,
+      "compression_ratio": 1.1898734177215189,
+      "no_speech_prob": 0.07849612087011337,
+      "words": [
+        {
+          "word": " Starbeam,",
+          "start": 140.66,
+          "end": 142.06,
+          "probability": 0.31809894542675465
+        },
+        {
+          "word": " a",
+          "start": 142.36,
+          "end": 142.64,
+          "probability": 0.009709433652460575
+        },
+        {
+          "word": " flickering",
+          "start": 142.64,
+          "end": 143.72,
+          "probability": 0.4974874488543719
+        },
+        {
+          "word": " light,",
+          "start": 143.72,
+          "end": 144.88,
+          "probability": 0.6494985818862915
+        },
+        {
+          "word": " I",
+          "start": 145.28,
+          "end": 145.86,
+          "probability": 0.49334585666656494
+        },
+        {
+          "word": " can't",
+          "start": 145.86,
+          "end": 147.12,
+          "probability": 0.8307782709598541
+        },
+        {
+          "word": " figure",
+          "start": 147.12,
+          "end": 147.64,
+          "probability": 0.16658370196819305
+        },
+        {
+          "word": " you",
+          "start": 147.64,
+          "end": 148.44,
+          "probability": 0.8982630372047424
+        },
+        {
+          "word": " out",
+          "start": 148.44,
+          "end": 149.14,
+          "probability": 0.9936983585357666
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 13344,
+      "start": 149.14,
+      "end": 152.76,
+      "text": " You're messing it up",
+      "tokens": [
+        51164,
+        509,
+        434,
+        23258,
+        309,
+        493,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1470932960510254,
+      "compression_ratio": 1.1898734177215189,
+      "no_speech_prob": 0.07849612087011337,
+      "words": [
+        {
+          "word": " You're",
+          "start": 149.14,
+          "end": 150.44,
+          "probability": 0.3199787586927414
+        },
+        {
+          "word": " messing",
+          "start": 150.44,
+          "end": 151.0,
+          "probability": 0.9636297225952148
+        },
+        {
+          "word": " it",
+          "start": 151.0,
+          "end": 151.6,
+          "probability": 0.9445880651473999
+        },
+        {
+          "word": " up",
+          "start": 151.6,
+          "end": 152.76,
+          "probability": 0.9933696985244751
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 13344,
+      "start": 153.44,
+      "end": 156.0,
+      "text": " You're messing it up",
+      "tokens": [
+        51364,
+        509,
+        434,
+        23258,
+        309,
+        493,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1470932960510254,
+      "compression_ratio": 1.1898734177215189,
+      "no_speech_prob": 0.07849612087011337,
+      "words": [
+        {
+          "word": " You're",
+          "start": 153.28,
+          "end": 153.98,
+          "probability": 0.7217208445072174
+        },
+        {
+          "word": " messing",
+          "start": 153.98,
+          "end": 154.42,
+          "probability": 0.9966409206390381
+        },
+        {
+          "word": " it",
+          "start": 154.42,
+          "end": 155.2,
+          "probability": 0.9960198998451233
+        },
+        {
+          "word": " up",
+          "start": 155.2,
+          "end": 156.0,
+          "probability": 0.999264657497406
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 16344,
+      "start": 163.44,
+      "end": 163.54,
+      "text": " Thanks for watching!",
+      "tokens": [
+        50364,
+        2561,
+        337,
+        1976,
+        0,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6741903850010463,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.9592723250389099,
+      "words": [
+        {
+          "word": " Thanks",
+          "start": 163.44,
+          "end": 163.44,
+          "probability": 0.011919685639441013
+        },
+        {
+          "word": " for",
+          "start": 163.44,
+          "end": 163.44,
+          "probability": 0.5840052366256714
+        },
+        {
+          "word": " watching!",
+          "start": 163.44,
+          "end": 163.54,
+          "probability": 0.8579071164131165
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

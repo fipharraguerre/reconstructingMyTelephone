@@ -1,0 +1,1091 @@
+{
+  "text": " Those who love us never leave us alone or have grief. You are old, and stand tall. It wasn't your fault. Remember that. Those who love us never leave us alone or have grief. So what if they do? They'll get over it. Kind of bring like an adult thing. Yeah. They won't remember what happened. Exactly. So tell them. You're not going for her. You're going for you. You need to move on. Oh yeah, so you're fine. Oh yeah, distract them. With the one with the beads. They won't remember what happened. Those who love us never leave us alone or have grief. This one actually looks better. It's hypnotizing. Thank you for watching.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 7.74,
+      "end": 11.84,
+      "text": " Those who love us never leave us alone or have grief.",
+      "tokens": [
+        50364,
+        3950,
+        567,
+        959,
+        505,
+        1128,
+        1856,
+        505,
+        3312,
+        420,
+        362,
+        18998,
+        13,
+        51564
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.6235024333000183,
+      "compression_ratio": 0.9814814814814815,
+      "no_speech_prob": 0.5941686034202576,
+      "words": [
+        {
+          "word": " Those",
+          "start": 7.74,
+          "end": 8.38,
+          "probability": 0.020152276381850243
+        },
+        {
+          "word": " who",
+          "start": 8.38,
+          "end": 8.68,
+          "probability": 0.9750413298606873
+        },
+        {
+          "word": " love",
+          "start": 8.68,
+          "end": 8.88,
+          "probability": 0.9300773739814758
+        },
+        {
+          "word": " us",
+          "start": 8.88,
+          "end": 9.24,
+          "probability": 0.9960924983024597
+        },
+        {
+          "word": " never",
+          "start": 9.24,
+          "end": 9.56,
+          "probability": 0.6996221542358398
+        },
+        {
+          "word": " leave",
+          "start": 9.56,
+          "end": 9.88,
+          "probability": 0.9630868434906006
+        },
+        {
+          "word": " us",
+          "start": 9.88,
+          "end": 10.14,
+          "probability": 0.9923675656318665
+        },
+        {
+          "word": " alone",
+          "start": 10.14,
+          "end": 10.46,
+          "probability": 0.9426318407058716
+        },
+        {
+          "word": " or",
+          "start": 10.46,
+          "end": 10.82,
+          "probability": 0.5925593376159668
+        },
+        {
+          "word": " have",
+          "start": 10.82,
+          "end": 11.06,
+          "probability": 0.2659938335418701
+        },
+        {
+          "word": " grief.",
+          "start": 11.06,
+          "end": 11.84,
+          "probability": 0.9436340928077698
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 1184,
+      "start": 24.08,
+      "end": 31.22,
+      "text": " You are old, and stand tall. It wasn't your fault. Remember that.",
+      "tokens": [
+        50364,
+        509,
+        366,
+        1331,
+        11,
+        293,
+        1463,
+        6764,
+        13,
+        467,
+        2067,
+        380,
+        428,
+        7441,
+        13,
+        5459,
+        300,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4357364291236514,
+      "compression_ratio": 0.9285714285714286,
+      "no_speech_prob": 0.25370004773139954,
+      "words": [
+        {
+          "word": " You",
+          "start": 24.08,
+          "end": 24.82,
+          "probability": 0.0793454721570015
+        },
+        {
+          "word": " are",
+          "start": 24.82,
+          "end": 25.34,
+          "probability": 0.3747656047344208
+        },
+        {
+          "word": " old,",
+          "start": 25.34,
+          "end": 25.54,
+          "probability": 0.23213143646717072
+        },
+        {
+          "word": " and",
+          "start": 26.74,
+          "end": 27.04,
+          "probability": 0.9005311727523804
+        },
+        {
+          "word": " stand",
+          "start": 27.04,
+          "end": 27.3,
+          "probability": 0.7474051713943481
+        },
+        {
+          "word": " tall.",
+          "start": 27.3,
+          "end": 27.74,
+          "probability": 0.9991881251335144
+        },
+        {
+          "word": " It",
+          "start": 28.12,
+          "end": 28.38,
+          "probability": 0.9776797890663147
+        },
+        {
+          "word": " wasn't",
+          "start": 28.38,
+          "end": 28.74,
+          "probability": 0.9635623395442963
+        },
+        {
+          "word": " your",
+          "start": 28.74,
+          "end": 29.08,
+          "probability": 0.9955105781555176
+        },
+        {
+          "word": " fault.",
+          "start": 29.08,
+          "end": 29.5,
+          "probability": 0.9990878105163574
+        },
+        {
+          "word": " Remember",
+          "start": 29.84,
+          "end": 30.1,
+          "probability": 0.9652003049850464
+        },
+        {
+          "word": " that.",
+          "start": 30.1,
+          "end": 31.22,
+          "probability": 0.9984952211380005
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3122,
+      "start": 31.22,
+      "end": 35.72,
+      "text": " Those who love us never leave us alone or have grief.",
+      "tokens": [
+        50364,
+        3950,
+        567,
+        959,
+        505,
+        1128,
+        1856,
+        505,
+        3312,
+        420,
+        362,
+        18998,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3233921702315168,
+      "compression_ratio": 1.2162162162162162,
+      "no_speech_prob": 0.574683666229248,
+      "words": [
+        {
+          "word": " Those",
+          "start": 31.22,
+          "end": 32.62,
+          "probability": 0.33568865060806274
+        },
+        {
+          "word": " who",
+          "start": 32.62,
+          "end": 32.9,
+          "probability": 0.9906469583511353
+        },
+        {
+          "word": " love",
+          "start": 32.9,
+          "end": 33.12,
+          "probability": 0.9620197415351868
+        },
+        {
+          "word": " us",
+          "start": 33.12,
+          "end": 33.48,
+          "probability": 0.9948397278785706
+        },
+        {
+          "word": " never",
+          "start": 33.48,
+          "end": 33.82,
+          "probability": 0.7552698254585266
+        },
+        {
+          "word": " leave",
+          "start": 33.82,
+          "end": 34.14,
+          "probability": 0.9794183969497681
+        },
+        {
+          "word": " us",
+          "start": 34.14,
+          "end": 34.4,
+          "probability": 0.9935450553894043
+        },
+        {
+          "word": " alone",
+          "start": 34.4,
+          "end": 34.74,
+          "probability": 0.9515224695205688
+        },
+        {
+          "word": " or",
+          "start": 34.74,
+          "end": 35.06,
+          "probability": 0.5813380479812622
+        },
+        {
+          "word": " have",
+          "start": 35.06,
+          "end": 35.3,
+          "probability": 0.01915382407605648
+        },
+        {
+          "word": " grief.",
+          "start": 35.3,
+          "end": 35.72,
+          "probability": 0.8491907119750977
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3122,
+      "start": 36.36,
+      "end": 39.22,
+      "text": " So what if they do? They'll get over it.",
+      "tokens": [
+        50564,
+        407,
+        437,
+        498,
+        436,
+        360,
+        30,
+        814,
+        603,
+        483,
+        670,
+        309,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3233921702315168,
+      "compression_ratio": 1.2162162162162162,
+      "no_speech_prob": 0.574683666229248,
+      "words": [
+        {
+          "word": " So",
+          "start": 36.36,
+          "end": 36.62,
+          "probability": 0.9265660047531128
+        },
+        {
+          "word": " what",
+          "start": 36.62,
+          "end": 36.9,
+          "probability": 0.8602657318115234
+        },
+        {
+          "word": " if",
+          "start": 36.9,
+          "end": 37.1,
+          "probability": 0.7979373931884766
+        },
+        {
+          "word": " they",
+          "start": 37.1,
+          "end": 37.36,
+          "probability": 0.9851797819137573
+        },
+        {
+          "word": " do?",
+          "start": 37.36,
+          "end": 37.68,
+          "probability": 0.946333646774292
+        },
+        {
+          "word": " They'll",
+          "start": 38.04,
+          "end": 38.4,
+          "probability": 0.9570212960243225
+        },
+        {
+          "word": " get",
+          "start": 38.4,
+          "end": 38.74,
+          "probability": 0.9965417981147766
+        },
+        {
+          "word": " over",
+          "start": 38.74,
+          "end": 39.04,
+          "probability": 0.9589575529098511
+        },
+        {
+          "word": " it.",
+          "start": 39.04,
+          "end": 39.4,
+          "probability": 0.9972183704376221
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3122,
+      "start": 47.8,
+      "end": 53.6,
+      "text": " Kind of bring like an adult thing. Yeah.",
+      "tokens": [
+        51164,
+        9242,
+        295,
+        1565,
+        411,
+        364,
+        5075,
+        551,
+        13,
+        865,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3233921702315168,
+      "compression_ratio": 1.2162162162162162,
+      "no_speech_prob": 0.574683666229248,
+      "words": [
+        {
+          "word": " Kind",
+          "start": 47.8,
+          "end": 48.46,
+          "probability": 0.361998587846756
+        },
+        {
+          "word": " of",
+          "start": 48.46,
+          "end": 48.82,
+          "probability": 0.9939550757408142
+        },
+        {
+          "word": " bring",
+          "start": 48.82,
+          "end": 49.28,
+          "probability": 0.4093692898750305
+        },
+        {
+          "word": " like",
+          "start": 49.28,
+          "end": 49.8,
+          "probability": 0.38340696692466736
+        },
+        {
+          "word": " an",
+          "start": 49.8,
+          "end": 50.84,
+          "probability": 0.5623074173927307
+        },
+        {
+          "word": " adult",
+          "start": 50.84,
+          "end": 51.3,
+          "probability": 0.31837037205696106
+        },
+        {
+          "word": " thing.",
+          "start": 51.3,
+          "end": 51.78,
+          "probability": 0.3972114324569702
+        },
+        {
+          "word": " Yeah.",
+          "start": 53.12,
+          "end": 53.6,
+          "probability": 0.7997586131095886
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 6122,
+      "start": 62.08,
+      "end": 67.94,
+      "text": " They won't remember what happened. Exactly.",
+      "tokens": [
+        50414,
+        814,
+        1582,
+        380,
+        1604,
+        437,
+        2011,
+        13,
+        7587,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17996942295747645,
+      "compression_ratio": 1.1931818181818181,
+      "no_speech_prob": 0.033580850809812546,
+      "words": [
+        {
+          "word": " They",
+          "start": 62.08,
+          "end": 63.12,
+          "probability": 0.7601670622825623
+        },
+        {
+          "word": " won't",
+          "start": 63.12,
+          "end": 63.44,
+          "probability": 0.9654301106929779
+        },
+        {
+          "word": " remember",
+          "start": 63.44,
+          "end": 63.96,
+          "probability": 0.9826073050498962
+        },
+        {
+          "word": " what",
+          "start": 63.96,
+          "end": 64.38,
+          "probability": 0.9941076040267944
+        },
+        {
+          "word": " happened.",
+          "start": 64.38,
+          "end": 65.3,
+          "probability": 0.980102002620697
+        },
+        {
+          "word": " Exactly.",
+          "start": 67.22,
+          "end": 67.94,
+          "probability": 0.9707973003387451
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 6122,
+      "start": 72.9,
+      "end": 74.56,
+      "text": " So tell them.",
+      "tokens": [
+        50914,
+        407,
+        980,
+        552,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17996942295747645,
+      "compression_ratio": 1.1931818181818181,
+      "no_speech_prob": 0.033580850809812546,
+      "words": [
+        {
+          "word": " So",
+          "start": 72.9,
+          "end": 73.48,
+          "probability": 0.9872879981994629
+        },
+        {
+          "word": " tell",
+          "start": 73.48,
+          "end": 73.86,
+          "probability": 0.8982865214347839
+        },
+        {
+          "word": " them.",
+          "start": 73.86,
+          "end": 74.56,
+          "probability": 0.9994402527809143
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6122,
+      "start": 79.86,
+      "end": 83.22,
+      "text": " You're not going for her. You're going for you.",
+      "tokens": [
+        51314,
+        509,
+        434,
+        406,
+        516,
+        337,
+        720,
+        13,
+        509,
+        434,
+        516,
+        337,
+        291,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17996942295747645,
+      "compression_ratio": 1.1931818181818181,
+      "no_speech_prob": 0.033580850809812546,
+      "words": [
+        {
+          "word": " You're",
+          "start": 79.86,
+          "end": 80.64,
+          "probability": 0.9613628387451172
+        },
+        {
+          "word": " not",
+          "start": 80.64,
+          "end": 80.94,
+          "probability": 0.9970721006393433
+        },
+        {
+          "word": " going",
+          "start": 80.94,
+          "end": 81.22,
+          "probability": 0.9990648627281189
+        },
+        {
+          "word": " for",
+          "start": 81.22,
+          "end": 81.54,
+          "probability": 0.996522068977356
+        },
+        {
+          "word": " her.",
+          "start": 81.54,
+          "end": 81.88,
+          "probability": 0.994103729724884
+        },
+        {
+          "word": " You're",
+          "start": 82.04,
+          "end": 82.26,
+          "probability": 0.9824299216270447
+        },
+        {
+          "word": " going",
+          "start": 82.26,
+          "end": 82.5,
+          "probability": 0.9992944002151489
+        },
+        {
+          "word": " for",
+          "start": 82.5,
+          "end": 82.84,
+          "probability": 0.9992713332176208
+        },
+        {
+          "word": " you.",
+          "start": 82.84,
+          "end": 83.36,
+          "probability": 0.9762976169586182
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 8336,
+      "start": 88.38,
+      "end": 95.14,
+      "text": " You need to move on. Oh yeah, so you're fine.",
+      "tokens": [
+        50364,
+        509,
+        643,
+        281,
+        1286,
+        322,
+        13,
+        876,
+        1338,
+        11,
+        370,
+        291,
+        434,
+        2489,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28852957487106323,
+      "compression_ratio": 1.1666666666666667,
+      "no_speech_prob": 0.017497556284070015,
+      "words": [
+        {
+          "word": " You",
+          "start": 88.38,
+          "end": 89.1,
+          "probability": 0.780229389667511
+        },
+        {
+          "word": " need",
+          "start": 89.1,
+          "end": 89.4,
+          "probability": 0.992457389831543
+        },
+        {
+          "word": " to",
+          "start": 89.4,
+          "end": 89.72,
+          "probability": 0.9985135197639465
+        },
+        {
+          "word": " move",
+          "start": 89.72,
+          "end": 90.02,
+          "probability": 0.9968159794807434
+        },
+        {
+          "word": " on.",
+          "start": 90.02,
+          "end": 91.12,
+          "probability": 0.9962427616119385
+        },
+        {
+          "word": " Oh",
+          "start": 92.88,
+          "end": 93.12,
+          "probability": 0.9624191522598267
+        },
+        {
+          "word": " yeah,",
+          "start": 93.12,
+          "end": 93.54,
+          "probability": 0.8015084862709045
+        },
+        {
+          "word": " so",
+          "start": 93.98,
+          "end": 94.16,
+          "probability": 0.7087437510490417
+        },
+        {
+          "word": " you're",
+          "start": 94.16,
+          "end": 94.52,
+          "probability": 0.9813818633556366
+        },
+        {
+          "word": " fine.",
+          "start": 94.52,
+          "end": 95.14,
+          "probability": 0.9973441958427429
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 8336,
+      "start": 99.86,
+      "end": 104.12,
+      "text": " Oh yeah, distract them. With the one with the beads.",
+      "tokens": [
+        51164,
+        876,
+        1338,
+        11,
+        9945,
+        552,
+        13,
+        2022,
+        264,
+        472,
+        365,
+        264,
+        20369,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28852957487106323,
+      "compression_ratio": 1.1666666666666667,
+      "no_speech_prob": 0.017497556284070015,
+      "words": [
+        {
+          "word": " Oh",
+          "start": 99.86,
+          "end": 100.38,
+          "probability": 0.9704144597053528
+        },
+        {
+          "word": " yeah,",
+          "start": 100.38,
+          "end": 100.74,
+          "probability": 0.98589688539505
+        },
+        {
+          "word": " distract",
+          "start": 100.98,
+          "end": 101.36,
+          "probability": 0.5162480473518372
+        },
+        {
+          "word": " them.",
+          "start": 101.36,
+          "end": 101.8,
+          "probability": 0.053208597004413605
+        },
+        {
+          "word": " With",
+          "start": 102.94,
+          "end": 103.06,
+          "probability": 0.7374271154403687
+        },
+        {
+          "word": " the",
+          "start": 103.06,
+          "end": 103.22,
+          "probability": 0.6966472864151001
+        },
+        {
+          "word": " one",
+          "start": 103.22,
+          "end": 103.34,
+          "probability": 0.9722579717636108
+        },
+        {
+          "word": " with",
+          "start": 103.34,
+          "end": 103.6,
+          "probability": 0.9897947907447815
+        },
+        {
+          "word": " the",
+          "start": 103.6,
+          "end": 103.78,
+          "probability": 0.9951236844062805
+        },
+        {
+          "word": " beads.",
+          "start": 103.78,
+          "end": 104.12,
+          "probability": 0.9835989475250244
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 11336,
+      "start": 113.7,
+      "end": 116.36,
+      "text": " They won't remember what happened.",
+      "tokens": [
+        50364,
+        814,
+        1582,
+        380,
+        1604,
+        437,
+        2011,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13928226470947266,
+      "compression_ratio": 1.1,
+      "no_speech_prob": 0.06871156394481659,
+      "words": [
+        {
+          "word": " They",
+          "start": 113.7,
+          "end": 114.4,
+          "probability": 0.49847331643104553
+        },
+        {
+          "word": " won't",
+          "start": 114.4,
+          "end": 114.76,
+          "probability": 0.9685376584529877
+        },
+        {
+          "word": " remember",
+          "start": 114.76,
+          "end": 115.14,
+          "probability": 0.9907984733581543
+        },
+        {
+          "word": " what",
+          "start": 115.14,
+          "end": 115.52,
+          "probability": 0.9959114789962769
+        },
+        {
+          "word": " happened.",
+          "start": 115.52,
+          "end": 116.36,
+          "probability": 0.988733172416687
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 11336,
+      "start": 129.44,
+      "end": 133.14,
+      "text": " Those who love us never leave us alone or have grief.",
+      "tokens": [
+        51114,
+        3950,
+        567,
+        959,
+        505,
+        1128,
+        1856,
+        505,
+        3312,
+        420,
+        362,
+        18998,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13928226470947266,
+      "compression_ratio": 1.1,
+      "no_speech_prob": 0.06871156394481659,
+      "words": [
+        {
+          "word": " Those",
+          "start": 129.44,
+          "end": 129.72,
+          "probability": 0.6463140845298767
+        },
+        {
+          "word": " who",
+          "start": 129.72,
+          "end": 129.98,
+          "probability": 0.9766631722450256
+        },
+        {
+          "word": " love",
+          "start": 129.98,
+          "end": 130.14,
+          "probability": 0.8374558687210083
+        },
+        {
+          "word": " us",
+          "start": 130.14,
+          "end": 130.46,
+          "probability": 0.9983221888542175
+        },
+        {
+          "word": " never",
+          "start": 130.46,
+          "end": 130.84,
+          "probability": 0.851309061050415
+        },
+        {
+          "word": " leave",
+          "start": 130.84,
+          "end": 131.12,
+          "probability": 0.9835749864578247
+        },
+        {
+          "word": " us",
+          "start": 131.12,
+          "end": 131.38,
+          "probability": 0.9908711314201355
+        },
+        {
+          "word": " alone",
+          "start": 131.38,
+          "end": 131.72,
+          "probability": 0.4804677665233612
+        },
+        {
+          "word": " or",
+          "start": 131.72,
+          "end": 132.0,
+          "probability": 0.35040080547332764
+        },
+        {
+          "word": " have",
+          "start": 132.0,
+          "end": 132.34,
+          "probability": 0.008510147221386433
+        },
+        {
+          "word": " grief.",
+          "start": 132.34,
+          "end": 133.14,
+          "probability": 0.9444969296455383
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 13314,
+      "start": 140.22,
+      "end": 148.26,
+      "text": " This one actually looks better. It's hypnotizing.",
+      "tokens": [
+        50364,
+        639,
+        472,
+        767,
+        1542,
+        1101,
+        13,
+        467,
+        311,
+        42944,
+        3319,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26649398463112967,
+      "compression_ratio": 0.8596491228070176,
+      "no_speech_prob": 0.14284954965114594,
+      "words": [
+        {
+          "word": " This",
+          "start": 140.22,
+          "end": 141.62,
+          "probability": 0.26991650462150574
+        },
+        {
+          "word": " one",
+          "start": 141.62,
+          "end": 142.04,
+          "probability": 0.8734320402145386
+        },
+        {
+          "word": " actually",
+          "start": 142.04,
+          "end": 142.36,
+          "probability": 0.9452507495880127
+        },
+        {
+          "word": " looks",
+          "start": 142.36,
+          "end": 142.78,
+          "probability": 0.9925482869148254
+        },
+        {
+          "word": " better.",
+          "start": 142.78,
+          "end": 143.84,
+          "probability": 0.9975482821464539
+        },
+        {
+          "word": " It's",
+          "start": 146.34,
+          "end": 147.1,
+          "probability": 0.9325844049453735
+        },
+        {
+          "word": " hypnotizing.",
+          "start": 147.1,
+          "end": 148.26,
+          "probability": 0.7988891303539276
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 16314,
+      "start": 168.2,
+      "end": 172.92,
+      "text": " Thank you for watching.",
+      "tokens": [
+        50364,
+        1044,
+        291,
+        337,
+        1976,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9241670370101929,
+      "compression_ratio": 0.7419354838709677,
+      "no_speech_prob": 0.9448123574256897,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 168.2,
+          "end": 169.6,
+          "probability": 0.009476621635258198
+        },
+        {
+          "word": " you",
+          "start": 169.6,
+          "end": 171.0,
+          "probability": 0.938306450843811
+        },
+        {
+          "word": " for",
+          "start": 171.0,
+          "end": 172.9,
+          "probability": 0.41065025329589844
+        },
+        {
+          "word": " watching.",
+          "start": 172.9,
+          "end": 172.92,
+          "probability": 0.875516414642334
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
