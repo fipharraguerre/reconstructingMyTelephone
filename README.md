@@ -1,0 +1,1 @@
+Find the full blog entry at https://iph.ar/de-engineering/semantic-analysis-applied-to-sent-from-my-telephone-by-voice
